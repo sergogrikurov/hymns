@@ -516,7 +516,7 @@ const pages = [
 `,
   },
   {
-    title: (title = "Ты — всё превосходящий"),
+    title: (title = "Ты—всё превосходящий"),
     num: (num = 10),
     page: `
 <h2 class="hNum">${num}</h2>
@@ -590,385 +590,370 @@ const pages = [
 `,
   },
   {
-    title: (title = "მამავ, ვით მარადმწვანე, ხარ"),
-    num: (num = 12),
+    title: (title = "Отец, неувядаем Ты"),
+    num: (num = 11),
     page: `
 <h2 class="hNum">${num}</h2>
-<h3>მამის თაყვანისცემა</h3>
-<h4>მისი სიახლე</h4>
-<span>(ინგ. 16)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>მუდმივად ახალი!</li>
-<li>მარადიულად ცოცხალი,</li>
-<li>და ქორფა ნამივით!</li>
-<li class="chorus chorus-top">მამა, შენა ხარ უცვლელი</li>
-<li class="chorus">და უბერებელი!</li>
-<li class="chorus">უშრეტი წლებით გვაუწყებ,</li>
-<li class="chorus chorus-bottom">შენს სიახლეს, მუდმივს!</li>
+<li>и неизменно нов.</li>
+<li>живущий вечно ты господь,</li>
+<li>свеж, как росы покров.</li>
+<li class="chorus chorus-top">ты неизменен, Отец наш,</li>
+<li class="chorus">и не стареешь Ты.</li>
+<li class="chorus">в веках Ты раскрываешь нам</li>
+<li class="chorus chorus-bottom">всю свежесть новизны.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>შენა ხარ ღმერთი, "ახალი",</li >
-<li>დაუძველებელი!</li>
-<li>და წლების მიუხედავად,</li>
-<li>ქორფა ხარ და ნორჩი!</li>
-<li class="chorus chorus-top">მამა, შენა ხარ უცვლელი</li>
-<li class="chorus">და უბერებელი!</li>
-<li class="chorus">უშრეტი წლებით გვაუწყებ,</li>
-<li class="chorus chorus-bottom">შენს სიახლეს, მუდმივს!</li>
+<li>о, Ты есть Бог, и «новый»—Ты;</li >
+<li>где нет Тебя, там тлен;</li>
+<li>с Тобой же всё всегда свежо</li>
+<li>и через много лет.</li>
+<li class="chorus chorus-top">ты неизменен, Отец наш,</li>
+<li class="chorus">и не стареешь Ты.</li>
+<li class="chorus">в веках Ты раскрываешь нам</li>
+<li class="chorus chorus-bottom">всю свежесть новизны.</li>
 </ul >
 </section >
 <section>
 <span class="number">3.</span>
 <ul>
-<li>შენს მოცემულ კურთხევებში</li>
-<li>შენს სიახლეს ვხედავთ,</li>
-<li>შენი გზებივით ახალი</li>
-<li>არის შენი აღთქმა!</li>
-<li class="chorus chorus-top">მამა, შენა ხარ უცვლელი</li>
-<li class="chorus">და უბერებელი!</li>
-<li class="chorus">უშრეტი წლებით გვაუწყებ,</li>
-<li class="chorus chorus-bottom">შენს სიახლეს, მუდმივს!</li>
+<li>в благословениях Твоих</li>
+<li>всегда есть новизна;</li>
+<li>пути Твои всегда новы,</li>
+<li>завет Твой нов всегда.</li>
+<li class="chorus chorus-top">ты неизменен, Отец наш,</li>
+<li class="chorus">и не стареешь Ты.</li>
+<li class="chorus">в веках Ты раскрываешь нам</li>
+<li class="chorus chorus-bottom">всю свежесть новизны.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ახალ ქმნილებად გვაქციე,</li>
-<li>ახალ სულით, გულით;</li>
-<li>დღითი დღე ვტოვებთ სიძველეს,</li>
-<li>და მუდამ ვახლდებით.</li>
-<li class="chorus chorus-top">მამა, შენა ხარ უცვლელი</li>
-<li class="chorus">და უბერებელი!</li>
-<li class="chorus">უშრეტი წლებით გვაუწყებ,</li>
-<li class="chorus chorus-bottom">შენს სიახლეს, მუდმივს!</li>
+<li>твореньем новым стали мы,</li>
+<li>дух, сердце новы в нас.</li>
+<li>нас обновляя, жизнь Свою</li>
+<li>даёшь нам каждый час.</li>
+<li class="chorus chorus-top">ты неизменен, Отец наш,</li>
+<li class="chorus">и не стареешь Ты.</li>
+<li class="chorus">в веках Ты раскрываешь нам</li>
+<li class="chorus chorus-bottom">всю свежесть новизны.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ახალ ცასა და მიწაზე</li>
-<li>ახალ ქალაქს ვხედავთ;</li>
-<li>ყოველ თვე ახალ ნაყოფით</li>
-<li>ხალხი იკურნება.</li>
-<li class="chorus chorus-top">მამა, შენა ხარ უცვლელი</li>
-<li class="chorus">და უბერებელი!</li>
-<li class="chorus">უშრეტი წლებით გვაუწყებ,</li>
-<li class="chorus chorus-bottom">შენს სიახლეს, მუდმივს!</li>
+<li>и в новых небе и земле</li>
+<li>твой новый будет град,</li>
+<li>и каждый месяц—новый плод,</li>
+<li>ведь всё там новизна.</li>
+<li class="chorus chorus-top">ты неизменен, Отец наш,</li>
+<li class="chorus">и не стареешь Ты.</li>
+<li class="chorus">в веках Ты раскрываешь нам</li>
+<li class="chorus chorus-bottom">всю свежесть новизны.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>ო მამავ, მარად ახალო,</li>
-<li>შენშია სიახლე;</li>
-<li>ახალ სიმღერით მარადის,</li>
-<li>ერთად განგადიდებთ.</li>
-<li class="chorus chorus-top">მამა, შენა ხარ უცვლელი</li>
-<li class="chorus">და უბერებელი!</li>
-<li class="chorus">უშრეტი წლებით გვაუწყებ,</li>
-<li class="chorus chorus-bottom">შენს სიახლეს, მუდმივს!</li>
+<li>ты вечно новый, о Отец,</li>
+<li>в Тебе так ново всё!</li>
+<li>и в песне новой, вечной мы</li>
+<li>хвалу Тебе несём.</li>
+<li class="chorus chorus-top">ты неизменен, Отец наш,</li>
+<li class="chorus">и не стареешь Ты.</li>
+<li class="chorus">в веках Ты раскрываешь нам</li>
+<li class="chorus chorus-bottom">всю свежесть новизны.</li>
 </ul>
 </section>
 </main >
 	`,
   },
   {
-    title: (title = "მამა ღმერთო, როცა ქმნილებას ვუცქერ,"),
-    num: (num = 13),
+    title: (title = "Мой Бог Отец, когда я созерцаю"),
+    num: (num = 12),
     page: `
 <h2 class="hNum">${num}</h2>
-<h3>მამის თაყვანისცემა</h3>
-<h4>მისი სიდიადე</h4>
-<span>(ინგ. 17)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ვხედავ ცის და მიწის საოცრებებს.</li>
-<li>ყველაფერში, დიდსა თუ პატარაში,</li>
-<li>შენს ძალას ვხედავ, დიდებულს, უთქმელს.</li>
-<li class="chorus chorus-top">მთელი არსებით გიმღერით ქებას,</li>
-<li class="chorus">საოცარო! დიდებულო!</li>
-<li class="chorus">მარადიულად გიმღერებ ქებას,</li>
-<li class="chorus chorus-bottom">საოცარო! დიდებულო!</li>
+<li>все чудеса в творении Твоём,</li>
+<li>что на земле и в небе возвещают</li>
+<li>всю мощь Твою и в малом, и в большом,—</li>
+<li class="chorus chorus-top">всем существом тогда пою Тебе:</li>
+<li class="chorus">как чудно всё! как Ты велик!</li>
+<li class="chorus">и буду я всю вечность это петь:</li>
+<li class="chorus chorus-bottom">как чудно всё! как Ты велик!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>როდესაც ვტკბები გადარჩენის მადლით,</li>
-<li>და ვფიქრობ შენს წარმოგზავნილ ძეზე,</li>
-<li>ვინც სიკვდილით ჩვენ გვშვა ახალ ქმნილებად,</li>
-<li>ვისშიც სრულად ვხედავთ შენს სიცოცხლეს.</li>
-<li class="chorus chorus-top">მთელი არსებით გიმღერით ქებას,</li>
-<li class="chorus">საოცარო! დიდებულო!</li>
-<li class="chorus">მარადიულად გიმღერებ ქებას,</li>
-<li class="chorus chorus-bottom">საოცარო! დიდებულო!</li>
+<li>когда Твоим спасеньем наслаждаюсь</li>
+<li>и помню, что Тобой был послан Сын,</li>
+<li>кто умер, чтоб в Твоём творенье новом</li>
+<li>мы в полноте Твою являли жизнь,—</li>
+<li class="chorus chorus-top">всем существом тогда пою Тебе:</li>
+<li class="chorus">как чудно всё! как Ты велик!</li>
+<li class="chorus">и буду я всю вечность это петь:</li>
+<li class="chorus chorus-bottom">как чудно всё! как Ты велик!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ეკლესიის კურთხეულ ერთობაში,</li>
-<li>ყველა ვიზიარებთ შენს სიცოცხლეს.</li>
-<li>ვშენდებით შენს დიდებულ საცხოვრებლად,</li>
-<li>რომ შენი გამოვხატოთ სისავსე!</li>
-<li class="chorus chorus-top">მთელი არსებით გიმღერით ქებას,</li>
-<li class="chorus">საოცარო! დიდებულო!</li>
-<li class="chorus">მარადიულად გიმღერებ ქებას,</li>
-<li class="chorus chorus-bottom">საოცარო! დიდებულო!</li>
+<li>когда я в церкви, в сладостном общенье,</li>
+<li>в десятках тысяч вижу жизнь Твою,</li>
+<li>где все, в Твоё жилище созидаясь,</li>
+<li>так полноту Твою являют всю,—</li>
+<li class="chorus chorus-top">всем существом тогда пою Тебе:</li>
+<li class="chorus">как чудно всё! как Ты велик!</li>
+<li class="chorus">и буду я всю вечность это петь:</li>
+<li class="chorus chorus-bottom">как чудно всё! как Ты велик!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ველოდები მომავალ საუკუნეს,</li>
-<li>ახალ იერუსალიმში ყოფნას.</li>
-<li>ახალ ზეცასა და ახალ მიწაზე,</li>
-<li>გამოხატული სრულიად შენ ხარ.</li>
-<li class="chorus chorus-top">მთელი არსებით გიმღერით ქებას,</li>
-<li class="chorus">საოცარო! დიდებულო!</li>
-<li class="chorus">მარადიულად გიმღერებ ქებას,</li>
-<li class="chorus chorus-bottom">საოცარო! დიდებულო!</li>
+<li>когда жду век грядущий и надеюсь</li>
+<li>в Иерусалиме Новом обитать,</li>
+<li>где в новизне земля и небо будут</li>
+<li>тебя в Твоей бескрайности являть,—</li>
+<li class="chorus chorus-top">всем существом тогда пою Тебе:</li>
+<li class="chorus">как чудно всё! как Ты велик!</li>
+<li class="chorus">и буду я всю вечность это петь:</li>
+<li class="chorus chorus-bottom">как чудно всё! как Ты велик!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ერთგულო და საიმედო,"),
-    num: (num = 14),
+    title: (title = "Как верен и надёжен Ты"),
+    num: (num = 13),
     page: `
 <h2 class="hNum">${num}</h2>
-<h3>მამის თაყვანისცემა</h3>
-<h4>მისი ერთგულება</h4>
-<span>(ინგ. 18)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ჩემო ღმერთო მამა!</li>
-<li>შენს ერთგულებას სამყარო,</li>
-<li>აღიარებს ერთხმად!</li>
-<li class="chorus chorus-top">თაყვანს გცემ ერთგულებისთვის,</li>
-<li class="chorus">რომელიც მტკიცეა;</li>
-<li class="chorus">ის შენ ცაში დააფუძნე,</li>
-<li class="chorus chorus-bottom">და დგას ჩვენს გარანტად!</li>
+<li>отец мой и мой Бог!</li>
+<li>вселенная и всё, что в ней,—</li>
+<li>той верности залог.</li>
+<li class="chorus chorus-top">за верность, что Тобою</li>
+<li class="chorus">в небесах утверждена,</li>
+<li class="chorus">тебе мы поклоняемся.</li>
+<li class="chorus chorus-bottom">вовек для нас она.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>შენთან არ არის ცვლილების</li>
-<li>მცირედი აჩრდილიც!</li>
-<li>შენ ხარ ის, ვინც იყო, არის,</li>
-<li>შენ მარად იქნები!</li>
-<li class="chorus chorus-top">თაყვანს გცემ ერთგულებისთვის,</li>
-<li class="chorus">რომელიც მტკიცეა;</li>
-<li class="chorus">ის შენ ცაში დააფუძნე,</li>
-<li class="chorus chorus-bottom">და დგას ჩვენს გარანტად!</li>
+<li>ни тени перемен в Тебе,</li>
+<li>ни изменений нет;</li>
+<li>каким Ты от начала был,</li>
+<li>таким и будешь ввек.</li>
+<li class="chorus chorus-top">за верность, что Тобою</li>
+<li class="chorus">в небесах утверждена,</li>
+<li class="chorus">тебе мы поклоняемся.</li>
+<li class="chorus chorus-bottom">вовек для нас она.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>შენი სიტყვები შენსავით</li>
-<li>ჭეშმარიტებაა!</li>
-<li>ცა და მიწა გარდახდება,</li>
-<li>შენი სიტყვა - არა!</li>
-<li class="chorus chorus-top">თაყვანს გცემ ერთგულებისთვის,</li>
-<li class="chorus">რომელიც მტკიცეა;</li>
-<li class="chorus">ის შენ ცაში დააფუძნე,</li>
-<li class="chorus chorus-bottom">და დგას ჩვენს გარანტად!</li>
+<li>как Ты, слова Твои верны,</li>
+<li>нельзя их упразднить.</li>
+<li>исчезнут небо и земля,</li>
+<li>но слову—вечно быть.</li>
+<li class="chorus chorus-top">за верность, что Тобою</li>
+<li class="chorus">в небесах утверждена,</li>
+<li class="chorus">тебе мы поклоняемся.</li>
+<li class="chorus chorus-bottom">вовек для нас она.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>შენ უანგაროდ მოგვიხმე</li>
-<li>და დაგვასაჩუქრე.</li>
-<li>მადლი და წყალობა მარად</li>
-<li>შენს სახელში გვაქვს ჩვენ!</li>
-<li class="chorus chorus-top">თაყვანს გცემ ერთგულებისთვის,</li>
-<li class="chorus">რომელიც მტკიცეა;</li>
-<li class="chorus">ის შენ ცაში დააფუძნე,</li>
-<li class="chorus chorus-bottom">და დგას ჩვენს გარანტად!</li>
+<li>ты не раскаешься в дарах,</li>
+<li>в призвании Своём.</li>
+<li>навеки милость, благодать</li>
+<li>нам в имени Твоём.</li>
+<li class="chorus chorus-top">за верность, что Тобою</li>
+<li class="chorus">в небесах утверждена,</li>
+<li class="chorus">тебе мы поклоняемся.</li>
+<li class="chorus chorus-bottom">вовек для нас она.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>შენი სიტყვა ერთგულებით</li>
-<li>თავდებია ჩემი;</li>
-<li>მის მიერ მაქვს დარწმუნება</li>
-<li>შენში გადარჩენის.</li>
-<li class="chorus chorus-top">თაყვანს გცემ ერთგულებისთვის,</li>
-<li class="chorus">რომელიც მტკიცეა;</li>
-<li class="chorus">ის შენ ცაში დააფუძნე,</li>
-<li class="chorus chorus-bottom">და დგას ჩვენს გარანტად!</li>
+<li>нам слово с верностью Твоей</li>
+<li>залог во всём дают</li>
+<li>и с истинным спасением</li>
+<li>уверенность несут.</li>
+<li class="chorus chorus-top">за верность, что Тобою</li>
+<li class="chorus">в небесах утверждена,</li>
+<li class="chorus">тебе мы поклоняемся.</li>
+<li class="chorus chorus-bottom">вовек для нас она.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>მაშინაც კი, თუ ორგგულობ,</li>
-<li>ერთგული რჩები შენ;</li>
-<li>არ ღალატობ საკუთარ თავს,</li>
-<li>შენს სიტყვას ასრულებ!</li>
-<li class="chorus chorus-top">თაყვანს გცემ ერთგულებისთვის,</li>
-<li class="chorus">რომელიც მტკიცეა;</li>
-<li class="chorus">ის შენ ცაში დააფუძნე,</li>
-<li class="chorus chorus-bottom">და დგას ჩვენს გარანტად!</li>
+<li>ты верен, даже если мы</li>
+<li>слабы и неверны;</li>
+<li>не отречёшься от Себя,</li>
+<li>исполнишь слово Ты.</li>
+<li class="chorus chorus-top">за верность, что Тобою</li>
+<li class="chorus">в небесах утверждена,</li>
+<li class="chorus">тебе мы поклоняемся.</li>
+<li class="chorus chorus-bottom">вовек для нас она.</li>
 </ul>
 </section>
 <section>
 <span class="number">7.</span>
 <ul>
-<li>შენს მოხმობასა და აღთქმას</li>
-<li>სრულქმნი ერთგულებით;</li>
-<li>ვღებულობ შენს ერთგულებას,</li>
-<li>ვიკვებები შენით.</li>
-<li class="chorus chorus-top">თაყვანს გცემ ერთგულებისთვის,</li>
-<li class="chorus">რომელიც მტკიცეა;</li>
-<li class="chorus">ის შენ ცაში დააფუძნე,</li>
-<li class="chorus chorus-bottom">და დგას ჩვენს გარანტად!</li>
+<li>и Твой призыв, и Твой обет</li>
+<li>ты верен исполнять;</li>
+<li>живу Твоею верностью,</li>
+<li>чтоб всё Твоё принять.</li>
+<li class="chorus chorus-top">за верность, что Тобою</li>
+<li class="chorus">в небесах утверждена,</li>
+<li class="chorus">тебе мы поклоняемся.</li>
+<li class="chorus chorus-bottom">вовек для нас она.</li>
 </ul>
 </section>
 <section>
 <span class="number">8.</span>
 <ul>
-<li>ტახტის ირგვლივ ცისარტყელა</li>
-<li>ერთგულებას მოწმობს;</li>
-<li>ეს თვისება წმიდა ქალაქს</li>
-<li>თან სდევს საუკუნოდ!</li>
-<li class="chorus chorus-top">თაყვანს გცემ ერთგულებისთვის,</li>
-<li class="chorus">რომელიც მტკიცეა;</li>
-<li class="chorus">ის შენ ცაში დააფუძნე,</li>
-<li class="chorus chorus-bottom">და დგას ჩვენს გარანტად!</li>
+<li>вокруг престола радуга—</li>
+<li>знак верности Твоей,</li>
+<li>и в городе Твоём святом</li>
+<li>пребыть вовеки ей.</li>
+<li class="chorus chorus-top">за верность, что Тобою</li>
+<li class="chorus">в небесах утверждена,</li>
+<li class="chorus">тебе мы поклоняемся.</li>
+<li class="chorus chorus-bottom">вовек для нас она.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "დიდად ერთგულო, ჩემო ღმერთო მამა,"),
+    title: (title = "Верность Твоя велика, Бог Отец мой!"),
+    num: (num = 14),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>не изменяешься Ты никогда;</li>
+<li>не иссякают Твои состраданья;</li>
+<li>был Ты и будешь всё тем же всегда.</li>
+<li class="chorus chorus-top">верность великая! Верность великая!</li>
+<li class="chorus">новые милости вижу с утра.</li>
+<li class="chorus">дарит рука Твоя всё, что мне нужно.</li>
+<li class="chorus chorus-bottom">верность Твоя, о Господь, велика!</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>солнце, луна на путях своих в небе,</li>
+<li>лето и осень, зима и весна—</li>
+<li>так подтверждаются всею природой</li>
+<li>милость с любовью и верность Твоя.</li>
+<li class="chorus chorus-top">верность великая! Верность великая!</li>
+<li class="chorus">новые милости вижу с утра.</li>
+<li class="chorus">дарит рука Твоя всё, что мне нужно.</li>
+<li class="chorus chorus-bottom">верность Твоя, о Господь, велика!</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>мир нерушимый, грехов отпущенье,</li>
+<li>в помощь, в поддержку—улыбка Твоя,</li>
+<li>сила сейчас и надежда на завтра—</li>
+<li>благословеньям Твоим нет числа!</li>
+<li class="chorus chorus-top">верность великая! Верность великая!</li>
+<li class="chorus">новые милости вижу с утра.</li>
+<li class="chorus">дарит рука Твоя всё, что мне нужно.</li>
+<li class="chorus chorus-bottom">верность Твоя, о Господь, велика!</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "Ради праведности, Отче"),
     num: (num = 15),
     page: `
 <h2 class="hNum">${num}</h2>
-<h3>მამის თაყვანისცემა</h3>
-<h4>მისი ერთგულება</h4>
-<span>(ინგ. 19)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>არასოდეს არ შეიცვლები შენ;</li>
-<li>შენი თანაგრძნობები მუდამ თან მსდევს,</li>
-<li>მარადიულად იგივე ხარ შენ.</li>
-<li class="chorus chorus-top">ო რა ერთგული ხარ! ო რა ერთგული ხარ!</li>
-<li class="chorus">ყოველ დილით შენს წყალობებს ვხედავ.</li>
-<li class="chorus">ის, რაც მჭირდება, შენმა ხელმა მომცა;</li>
-<li class="chorus chorus-bottom">დიადია შენი ერთგულება!</li>
+<li>мы хотим Тебя почтить;</li>
+<li>во Христе нас оправдал Ты,</li>
+<li>кто нас может уязвить?</li>
+<li>праведность Твоя—опора,</li>
+<li>прочно мы стоим на ней;</li>
+<li>изменить ничто не может</li>
+<li>праведной руки твоей.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>წელიწადის ოთხი დრო, მზე და მთვარე,</li>
-<li>ვარსკვლავები როგორც ცის მხედრობა,</li>
-<li>მთელი ბუნება მრავალმხრივი გზებით,</li>
-<li>ამტკიცებს შენს დიად ერთგულებას.</li>
-<li class="chorus chorus-top">ო რა ერთგული ხარ! ო რა ერთგული ხარ!</li>
-<li class="chorus">ყოველ დილით შენს წყალობებს ვხედავ.</li>
-<li class="chorus">ის, რაც მჭირდება, შენმა ხელმა მომცა;</li>
-<li class="chorus chorus-bottom">დიადია შენი ერთგულება!</li>
+<li>отче, Ты грехи все наши</li>
+<li>на Иисуса возложил;</li>
+<li>смертью праведною Сына</li>
+<li>твой закон исполнен был.</li>
+<li>от Него приняв ту жертву,</li>
+<li>был Ты удовлетворён.</li>
+<li>неужели снова будешь</li>
+<li>требовать от нас её?</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ცოდვის პატიებას, ურყევ მშვიდობას,</li>
-<li>შენს ძვირფას ღიმილს და შემწეობას;</li>
-<li>სიცოცხლის ძალას და მომავლის იმედს -</li>
-<li>ვღებულობ სხვა უამრავ კურთხევას!</li>
-<li class="chorus chorus-top">ო რა ერთგული ხარ! ო რა ერთგული ხარ!</li>
-<li class="chorus">ყოველ დილით შენს წყალობებს ვხედავ.</li>
-<li class="chorus">ის, რაც მჭირდება, შენმა ხელმა მომცა;</li>
-<li class="chorus chorus-bottom">დიადია შენი ერთგულება!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ჩვენო მამა ღმერთო, გაქებთ"),
-    num: (num = 16),
-    page: `
-<h2 class="hNum">${num}</h2>
-<h3>მამის თაყვანისცემა</h3>
-<h4>მისი სამართლიანობა</h4>
-<span>(ინგ. 20)</span>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>სამართლიანობისთვის;</li>
-<li>ქრისტეში ჩვენ გაგვამართლე,</li>
-<li>ვინ დათრგუნავს ჩვენს სინდისს?</li>
-<li>სამართლიანო, ერთგულო,</li>
-<li>ვდგავართ შენს სიმართლეზე;</li>
-<li>უსამართლობა ვერასდროს</li>
-<li>ცვლის შენს სამართლიან ხელს.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>მამავ ყველა ჩვენი ცოდვა</li>
-<li>შენ დადე იესოზე;</li>
-<li>წმიდა რჯულის მოთხოვნები</li>
-<li>აღასრულა შენმა ძემ.</li>
-<li>მისით როგორც მსხვერპლით სრულად</li>
-<li>ხომ დაკმაყოფილდი შენ;</li>
-<li>როგორღა მოგვთხოვ ხელახლა</li>
-<li>შემოგწიროთ მსხვერპლი შენ?</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ღმერთო მამავ, იესო ჩვენს</li>
-<li>ჩანაცვლებად მიიღე;</li>
-<li>მართალს უმართლოთა გამო</li>
-<li>შენ ხომ მსჯავრი დაადე.</li>
-<li>შენი დამტკიცების ნიშნად</li>
-<li>შენს მარჯვნივ ის დაისვი;</li>
-<li>სრულიად აკმაყოფილებს</li>
-<li>შენს მაღალ მოთხოვნებს ის.</li>
+<li>иисуса как замену</li>
+<li>осудил Ты вместо нас;</li>
+<li>умер Правый за неправых,</li>
+<li>суд Твой в силе и сейчас.</li>
+<li>от Тебя сидит Он справа,</li>
+<li>подтверждая правый суд,</li>
+<li>удовлетворяет полно</li>
+<li>праведность Твою Иисус.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>იესოს სისხლით, მამა, ვფლობთ</li>
-<li>სამართლიანობას შენს;</li>
-<li>შენი სიმართლით დაცულებს</li>
-<li>ვერაფერი შეგვარყევს.</li>
-<li>გაგვხადე ჩვენ შენს სიმართლედ,</li>
-<li>მსჯავრს ვერავინ ვერ დაგვდებს;</li>
-<li>ახალ იერუსალიმში</li>
-<li>სულ ამას დავამოწმებთ.</li>
+<li>праведность Твою имеем</li>
+<li>через кровь Иисуса мы;</li>
+<li>нас никто не поколеблет,</li>
+<li>ею мы защищены.</li>
+<li>ты нас праведностью сделал,</li>
+<li>больше нет для нас суда.</li>
+<li>в Новом Иерусалиме</li>
+<li>явим это навсегда.</li>
 </ul>
 </section>
 </main>
