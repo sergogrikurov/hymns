@@ -1,232 +1,217 @@
 const pages = [
-	{
-		title: title = 'ქება მარადჟამს ღმერთ მამას',
-		num: num = 1,
-		page: `
+  {
+    title: (title = "Бог Отец вовеки славен"),
+    num: (num = 1),
+    page: `
 		<h2 class="hNum">${num}</h2>
-		<h3>სამების კურთხევა</h3>
-<h4>მისი გეგმა</h4>
-<span>(ინგ. 1)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>და მის ძეს ქრისტეს,</li>
-<li>მარად დიდება წმიდა სულს</li>
-<li>სამს როგორც ერთს!</li>
+<li>И Христос как сын.</li>
+<li>Славен Дух Святой вовеки.</li>
+<li>Бог триедин.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>როდესაც ქმნილებას ვუმზერთ,</li>
-<li>ჩინებულს, დიადს,</li>
-<li>ჩვენი გულები გიძღვნიან,</li>
-<li>შენ დიდებას!</li>
+<li>Видим мы простор творенья,</li>
+<li>План искусный твой—</li>
+<li>Сердце хочет преклониться</li>
+<li>Перед тобой.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>მაგრამ, ღმერთო, შენ გწადია</li>
-<li>ძეები გყავდეს,</li>
-<li>ვისაც უყვარხარ შენს ძეში</li>
-<li>და შენ გაქებს.</li>
+<li>Ты стремишься к обретенью</li>
+<li>Любящих сынов,</li>
+<li>Что Тебя прославят в Сыне</li>
+<li>Через любовь.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>საიდუმლო შენი გულის</li>
-<li>ჩვენ გაგვიხსენი,</li>
-<li>რომ მოგეგო ჩვენი გული</li>
-<li>სიყვარულით!</li>
+<li>Тайну Ты хотел поведать,</li>
+<li>О любви сказать</li>
+<li>И любовь навеки нашу</li>
+<li>Завоевать.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ქრისტეს გამოსყიდვით სძლიე</li>
-<li>ბოროტის ძალებს!</li>
-<li>ახალ ქმნილებაში ჩვენ დღეს</li>
-<li>თაყვანს გცემთ შენ!</li>
+<li>Во христе, чрез искупленье,</li>
+<li>Силы зла поправ,</li>
+<li>Ты обрёл в творенье новом</li>
+<li>Поклонников!</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>ქება მარადჟამს ღმერთ მამას</li>
-<li>და მის ძეს ქრისტეს,</li>
-<li>მარად დიდება სულს</li>
-<li>სამს როგორც ერთს!</li>
+<li>бог Отец вовеки славен</li>
+<li>и Христос как Сын.</li>
+<li>славен Дух Святой вовеки.</li>
+<li>бог триедин.</li>
 </ul>
 </section>
 </main>
-		`
-	},
-	{
-		title: title = 'ღმერთო მამა, თაყვანს გცემთ შენ!',
-		num: num = 2,
-		page: `
+		`,
+  },
+  {
+    title: (title = "Бог Отец, Твои мы дети"),
+    num: (num = 2),
+    page: `
 	<h2  class="hNum">${num}</h2>
-	<h3>სამების კურთხევა</h3>
-	<h4>მისი მამობა</h4>
-	<span>(ინგ. 5)</span>
 	<main class="full-hymn">
 	<section>
 <span class="number">1.</span>
 	<ul>
 	<li>${title}</li>
-	<li>გაკურთხებთ შენი შვილნი!</li>
-	<li>შენ წინაშე უბიწონი</li>
-	<li>ვართ ქრისტეში რჩეულნი.</li>
-	<li>თაყვანს გცემთ შენ! თაყვანს გცემთ შენ!</li>
-	<li>აბბა, მამა, გადიდებთ!</li>
-	<li>თაყვანს გცემთ შენ! თაყვანს გცემთ შენ!</li>
-	<li>აბბა, მამა, გადიდებთ!</li>
+	<li>поклоняемся Тебе!</li>
+	<li>«святы мы и непорочны»,</li>
+	<li>избраны тобой в Христе.</li>
+	<li>поклоняемся Тебе мы,</li>
+	<li>авва! хвалим мы Тебя!</li>
+	<li>поклоняемся Тебе мы,</li>
+	<li>авва! хвалим мы Тебя!</li>
 	</ul>
 	</section>
 	<section>
 <span class="number">2.</span>
 	<ul>
-	<li>მარადიულო ძევ, კრავო,</li>
-	<li>თაყვანს გცემთ მოწიწებით!</li>
-	<li>ღმერთის კრავო, შენითა ვართ</li>
-	<li>ღმერთთან დაბრუნებულნი!</li>
-	<li>გეთაყვანებით, ღმერთის ძევ,</li>
-	<li>რომელიც მოკვდი ჩვენთვის!</li>
-	<li>გეთაყვანებით, ღმერთის ძევ,</li>
-	<li>რომელიც მოკვდი ჩვენთვის!</li>
+	<li>вечный Сын и Агнец Божий,</li>
+	<li>мы склонились пред Тобой,</li>
+	<li>благодарны мы, что к Богу</li>
+	<li>возвратил народ ты свой!</li>
+	<li>поклоняемся Тебе мы,</li>
+	<li>божий Сын, принявший смерть!</li>
+	<li>поклоняемся Тебе мы,</li>
+	<li>божий Сын, принявший смерть!</li>
 	</ul>
 	</section>
 	<section>
 <span class="number">3.</span>
 <ul>
-	<li>მამავ, ძევ, და, წმიდა სულო,</li>
-	<li>გადიდებთ სამს როგორც ერთს!</li>
-	<li>აღგივლენთ დიდებას გულში,</li>
-	<li>იმისთვის, რასაც გვაძლევ!</li>
-	<li>თაყვანს გცემთ შენ! თაყვანს გცემთ შენ!</li>
-	<li>გაკურთხებთ მარადის შენ!</li>
-	<li>თაყვანს გცემთ შენ! თაყვანს გცემთ შენ!</li>
-	<li>გაკურთხებთ მარადის შენ!</li>
+	<li>бог Отец, Сын и Святой Дух—</li>
+	<li>три в одном— Тебе поём!</li>
+	<li>за богатство, что Ты дал нам,</li>
+	<li>громко славу воздаём.</li>
+	<li>поклоняемся Тебе мы,</li>
+	<li>будь вовек благословен!</li>
+	<li>поклоняемся Тебе мы,</li>
+	<li>будь вовек благословен!</li>
 	</ul>
 	</section>
 	</main>
-	`
-	},
-	{
-		title: title = 'წმიდავ, წმიდავ, წმიდავ! ო, ღმერთო ძლიერო!',
-		num: num = 3,
-		page: `
+	`,
+  },
+  {
+    title: (title = "Святый, Святый, Святый, Бог наш Всемогущий!"),
+    num: (num = 3),
+    page: `
 <h2 class="hNum">${num}</h2>
-<h3>სამების კურთხევა</h3>
-<h4>მისი თაყვანისცემა</h4>
-<span>(ინგ. 6)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>სიმღერას აღგივლენთ ყველა შენ საუკუნოდ!</li>
-<li>წმიდავ, წმიდავ, წმიდავ, ო, მოწყალე ღმერთო!</li>
-<li>თაყვანს გცემთ, სამებავ კურთხეულო!</li>
+<li>вечно будет возноситься наша песнь Тебе;</li>
+<li>Святый, Святый, Святый, Милостивый, Сильный!</li>
+<li>бог триединый, будь благословен!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>წმიდავ, წმიდავ, წმიდავ! ო, შენ გცემენ თაყვანს,</li>
-<li>უხუცესების მთელი გუნდი მინის ზღვასთან!</li>
-<li>სერაფიმნიც, ქერუბიმნიც გცემენ თაყვანს,</li>
-<li>ვინც იყავ, ხარ და იქნები მარად!</li>
+<li>Святый, Святый, Святый! чтут Тебя святые,</li>
+<li>бросят пред Тобой старейшины небес венцы;</li>
+<li>херувим и серафим пред Тобой склонились:</li>
+<li>ты был и есть, и вечно будешь Ты.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>წმიდავ, წმიდავ, წმიდავ! თუმცა ცოდვილ კაცს არ</li>
-<li>შეუძლია მთელი შენი დიდების ხილვა!</li>
-<li>შენსავით უნაკლო სიყვარულში, წმიდავ,</li>
-<li>ძალში, სიწმინდეში არვინაა.</li>
+<li>Святый, Святый, Святый! хоть и скрыт Ты тьмою</li>
+<li>и не может грешник видеть славы всей Твоей,</li>
+<li>только Ты есть Святый, нет Тебе подобных</li>
+<li>в силе Твоей, любви и чистоте.</li>
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდება, დიდება მამას!',
-		num: num = 4,
-		page: `
+`,
+  },
+  {
+    title: (title = "Славу воздаём Отцу мы!"),
+    num: (num = 4),
+    page: `
 <h2 class="hNum">${num}</h2>
-<h3>სამების კურთხევა</h3>
-<h4>მისი ქება</h4>
-<span>(ინგ. 7)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>დიდება, დიდება ძეს!</li>
-<li>ო, დიდება დიდება სულს!</li>
-<li>დიდება სამს როგორც ერთს!</li>
-<li class="chorus chorus-top">განვადიდოთ! განვადიდოთ!</li>
-<li class="chorus">ვადიდებთ სამს როგორც ერთს!</li>
-<li class="chorus">ღმერთს დიდება! ღმერთს დიდება!</li>
-<li class="chorus chorus-bottom">ვადიდებთ მშვენიერ შემოქმედს!</li>
+<li>славу Сыну воздаём!</li>
+<li>славу воздаём мы Духу!</li>
+<li>славим мы троих в одном!</li>
+<li class="chorus chorus-top">о, восхвалим! О, восхвалим!</li>
+<li class="chorus">славен Бог наш— Три в Одном!</li>
+<li class="chorus">богу слава! Богу слава!</li>
+<li class="chorus chorus-bottom">чудно всё, что нам соделал Он!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ქება მამას - ჩაიფიქრა!</li>
-<li>ქება ძეს - შემსრულებელს!</li>
-<li>ქება სულს - მან მოგვაწოდა!</li>
-<li>ქება სამს - ერთად მოქმედს!</li>
-<li class="chorus chorus-top">განვადიდოთ! განვადიდოთ!</li>
-<li class="chorus">ვადიდებთ სამს როგორც ერთს!</li>
-<li class="chorus">ღმერთს დიდება! ღმერთს დიდება!</li>
-<li class="chorus chorus-bottom">ვადიდებთ მშვენიერ შემოქმედს!</li>
+<li>о, хвала! Отец замыслил!</li>
+<li>о, хвала! Сын всё свершил!</li>
+<li>о, хвала! Дух применяет!</li>
+<li>три в работе как один!</li>
+<li class="chorus chorus-top">о, восхвалим! О, восхвалим!</li>
+<li class="chorus">славен Бог наш— Три в Одном!</li>
+<li class="chorus">богу слава! Богу слава!</li>
+<li class="chorus chorus-bottom">чудно всё, что нам соделал Он!</li>
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყველაფრის წყაროს, ღმერთს, ქება!',
-		num: num = 5,
-		page: `
+`,
+  },
+  {
+    title: (title = "Славь Бога — Он дарует всё"),
+    num: (num = 5),
+    page: `
 <h2 class="hNum">${num}</h2>
-<h3>სამების კურთხევა</h3>
-<h4>მისი ქება</h4>
-<span>(ინგ. 8)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>აქეთ ის ყველა ქმნილებამ!</li>
-<li>აქოს ის ზეცის მხედრობამ;</li>
-<li>მამას, ძესა და სულს ქება!</li>
+<li>вся тварь земная, славь Его;</li>
+<li>воспойте, небеса, хвалу;</li>
+<li>славься, Отец, и Сын, и Дух!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ღმერთ მამას, წყაროს, დიდება!</li>
-<li>ღმერთ ძეს, კალაპოტს, დიდება</li>
-<li>ღმერთ სულს, დინებას, დიდება!</li>
-<li>ღმერთს, ჩვენს ნამდვილ ხვედრს, დიდება!</li>
+<li>отца прославьте— он исток;</li>
+<li>прославьте Сына— русло он;</li>
+<li>прославьте Духа— он поток;</li>
+<li>здесь, на земле, удел наш— Бог!</li>
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო ღმერთო, მამავ მარადო,',
-		num: num = 6,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო ღმერთო, მამავ მარადო,"),
+    num: (num = 6),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>როგორც მარადიულის</h4>
@@ -287,12 +272,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მამავ, ჭეშმარიტო სულო,',
-		num: num = 7,
-		page: `
+`,
+  },
+  {
+    title: (title = "მამავ, ჭეშმარიტო სულო,"),
+    num: (num = 7),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>როგორც სულის</h4>
@@ -371,12 +356,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიცოცხლის წყარო ხარ, ღმერთო,',
-		num: num = 8,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიცოცხლის წყარო ხარ, ღმერთო,"),
+    num: (num = 8),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>როგორც სიცოცხლის სათავის</h4>
@@ -446,12 +431,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ხარ სიყვარული,',
-		num: num = 9,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ხარ სიყვარული,"),
+    num: (num = 9),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>როგორც სიყვარულის და სინათლის</h4>
@@ -549,12 +534,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უკვდავო, ბრძენო, უხილავო ღმერთო,',
-		num: num = 10,
-		page: `
+`,
+  },
+  {
+    title: (title = "უკვდავო, ბრძენო, უხილავო ღმერთო,"),
+    num: (num = 10),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი უკვდავება</h4>
@@ -606,12 +591,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთო, შენა ხარ წმიდა,',
-		num: num = 11,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთო, შენა ხარ წმიდა,"),
+    num: (num = 11),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი აღმატებულობა</h4>
@@ -683,12 +668,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მამავ, ვით მარადმწვანე, ხარ',
-		num: num = 12,
-		page: `
+`,
+  },
+  {
+    title: (title = "მამავ, ვით მარადმწვანე, ხარ"),
+    num: (num = 12),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი სიახლე</h4>
@@ -773,12 +758,12 @@ const pages = [
 </ul>
 </section>
 </main >
-	`
-	},
-	{
-		title: title = 'მამა ღმერთო, როცა ქმნილებას ვუცქერ,',
-		num: num = 13,
-		page: `
+	`,
+  },
+  {
+    title: (title = "მამა ღმერთო, როცა ქმნილებას ვუცქერ,"),
+    num: (num = 13),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი სიდიადე</h4>
@@ -837,12 +822,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ერთგულო და საიმედო,',
-		num: num = 14,
-		page: `
+`,
+  },
+  {
+    title: (title = "ერთგულო და საიმედო,"),
+    num: (num = 14),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი ერთგულება</h4>
@@ -953,12 +938,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდად ერთგულო, ჩემო ღმერთო მამა,',
-		num: num = 15,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდად ერთგულო, ჩემო ღმერთო მამა,"),
+    num: (num = 15),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი ერთგულება</h4>
@@ -1004,12 +989,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენო მამა ღმერთო, გაქებთ',
-		num: num = 16,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენო მამა ღმერთო, გაქებთ"),
+    num: (num = 16),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი სამართლიანობა</h4>
@@ -1068,12 +1053,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გაქებთ სიმართლისთვის, მამა;',
-		num: num = 17,
-		page: `
+`,
+  },
+  {
+    title: (title = "გაქებთ სიმართლისთვის, მამა;"),
+    num: (num = 17),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი სამართლიანობა</h4>
@@ -1146,12 +1131,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო წმიდა მამა, თაყვანს გცემთ,',
-		num: num = 18,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო წმიდა მამა, თაყვანს გცემთ,"),
+    num: (num = 18),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი სიწმიდე</h4>
@@ -1212,12 +1197,12 @@ const pages = [
 </ul >
 </section >
 </main >
-	`
-	},
-	{
-		title: title = 'მამა ღმერთო, შენს სიბრძნეში,',
-		num: num = 19,
-		page: `
+	`,
+  },
+  {
+    title: (title = "მამა ღმერთო, შენს სიბრძნეში,"),
+    num: (num = 19),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი სიბრძნე</h4>
@@ -1302,12 +1287,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო ღმერთო, შენი სიბრძნე და',
-		num: num = 20,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო ღმერთო, შენი სიბრძნე და"),
+    num: (num = 20),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი სიბრძნე</h4>
@@ -1368,12 +1353,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მამავ, შენით ვართ შეწყალებულნი',
-		num: num = 21,
-		page: `
+`,
+  },
+  {
+    title: (title = "მამავ, შენით ვართ შეწყალებულნი"),
+    num: (num = 21),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი წყალობა</h4>
@@ -1413,12 +1398,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთო, გაქებთ დიდებული,',
-		num: num = 22,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთო, გაქებთ დიდებული,"),
+    num: (num = 22),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი წყალობა</h4>
@@ -1491,12 +1476,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ერთხმად ვიმღეროთ, რომ ღმერთი',
-		num: num = 23,
-		page: `
+`,
+  },
+  {
+    title: (title = "ერთხმად ვიმღეროთ, რომ ღმერთი"),
+    num: (num = 23),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი სიყვარული</h4>
@@ -1542,12 +1527,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის უსაზღვრო სიყვარული',
-		num: num = 24,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის უსაზღვრო სიყვარული"),
+    num: (num = 24),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი სიყვარული</h4>
@@ -1605,12 +1590,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'კურთხეულო ღმერთო,',
-		num: num = 25,
-		page: `
+`,
+  },
+  {
+    title: (title = "კურთხეულო ღმერთო,"),
+    num: (num = 25),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი სიყვარული</h4>
@@ -1665,12 +1650,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რა სიყვარული გვიბოძე,',
-		num: num = 26,
-		page: `
+`,
+  },
+  {
+    title: (title = "რა სიყვარული გვიბოძე,"),
+    num: (num = 26),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი სიყვარული</h4>
@@ -1749,12 +1734,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მუხლს ვიდრეკთ, თაყვანს გცემთ, მამა,',
-		num: num = 27,
-		page: `
+`,
+  },
+  {
+    title: (title = "მუხლს ვიდრეკთ, თაყვანს გცემთ, მამა,"),
+    num: (num = 27),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი განზრახვა</h4>
@@ -1842,12 +1827,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მამავ, შენ ამოგვირჩიე',
-		num: num = 28,
-		page: `
+`,
+  },
+  {
+    title: (title = "მამავ, შენ ამოგვირჩიე"),
+    num: (num = 28),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი ამორჩევა</h4>
@@ -1902,12 +1887,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მამავ, შენმა სიყვარულმა,',
-		num: num = 29,
-		page: `
+`,
+  },
+  {
+    title: (title = "მამავ, შენმა სიყვარულმა,"),
+    num: (num = 29),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი ამორჩევა</h4>
@@ -1950,12 +1935,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდებულო მამავ, ჩვენ',
-		num: num = 30,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდებულო მამავ, ჩვენ"),
+    num: (num = 30),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი წინასწარგანსაზღვრა</h4>
@@ -2014,12 +1999,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენს ღმერთს დიდება, დიადი საქმე ქმნა;',
-		num: num = 31,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენს ღმერთს დიდება, დიადი საქმე ქმნა;"),
+    num: (num = 31),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი გამოსყიდვა</h4>
@@ -2071,12 +2056,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გადიდებთ, ღმერთო,',
-		num: num = 32,
-		page: `
+`,
+  },
+  {
+    title: (title = "გადიდებთ, ღმერთო,"),
+    num: (num = 32),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი გამოსყიდვა</h4>
@@ -2135,12 +2120,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'არ დავიღლებით ამ საუკუნო სიმღერით:',
-		num: num = 33,
-		page: `
+`,
+  },
+  {
+    title: (title = "არ დავიღლებით ამ საუკუნო სიმღერით:"),
+    num: (num = 33),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი გამოსყიდვა</h4>
@@ -2199,12 +2184,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთო, შენ მოგვიწვიე,',
-		num: num = 34,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთო, შენ მოგვიწვიე,"),
+    num: (num = 34),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი გამოსყიდვა</h4>
@@ -2263,12 +2248,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აბბა მამაო, მოვდივართ',
-		num: num = 35,
-		page: `
+`,
+  },
+  {
+    title: (title = "აბბა მამაო, მოვდივართ"),
+    num: (num = 35),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი გამოსყიდვა</h4>
@@ -2327,12 +2312,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აბბა მამავ! შენ წინაშე',
-		num: num = 36,
-		page: `
+`,
+  },
+  {
+    title: (title = "აბბა მამავ! შენ წინაშე"),
+    num: (num = 36),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი გამოსყიდვა</h4>
@@ -2391,12 +2376,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მამავ, ვაკურთხებთ შენს სახელს',
-		num: num = 37,
-		page: `
+`,
+  },
+  {
+    title: (title = "მამავ, ვაკურთხებთ შენს სახელს"),
+    num: (num = 37),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი მადლი ძეობაში</h4>
@@ -2457,12 +2442,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გაკურთხებთ, ღმერთო მამა,',
-		num: num = 38,
-		page: `
+`,
+  },
+  {
+    title: (title = "გაკურთხებთ, ღმერთო მამა,"),
+    num: (num = 38),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი მადლი ძეობაში</h4>
@@ -2508,12 +2493,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მამავ, შენი ძე უძღვება ქებას,',
-		num: num = 39,
-		page: `
+`,
+  },
+  {
+    title: (title = "მამავ, შენი ძე უძღვება ქებას,"),
+    num: (num = 39),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი ქება მრავალი ძისგან</h4>
@@ -2556,12 +2541,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენო ღმერთო და მამავ, გიმღერით',
-		num: num = 40,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენო ღმერთო და მამავ, გიმღერით"),
+    num: (num = 40),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი ქება მრავალი ძისგან</h4>
@@ -2601,12 +2586,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო მამავ, სიხარულით გიმღერით,',
-		num: num = 41,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო მამავ, სიხარულით გიმღერით,"),
+    num: (num = 41),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი ქება მრავალი ძისგან</h4>
@@ -2646,12 +2631,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მამა ღმერთო, შენს სახელს ვადიდებთ',
-		num: num = 42,
-		page: `
+`,
+  },
+  {
+    title: (title = "მამა ღმერთო, შენს სახელს ვადიდებთ"),
+    num: (num = 42),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი ქება მრავალი ძისგან</h4>
@@ -2694,12 +2679,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთო მამავ, ჩვენ ქებას შენ გიძღვნით',
-		num: num = 43,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთო მამავ, ჩვენ ქებას შენ გიძღვნით"),
+    num: (num = 43),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი ქება მრავალი ძისგან</h4>
@@ -2742,12 +2727,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მამავ, სიცოცხლის სათავე ხარ.',
-		num: num = 44,
-		page: `
+`,
+  },
+  {
+    title: (title = "მამავ, სიცოცხლის სათავე ხარ."),
+    num: (num = 44),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>მამის თაყვანისცემა</h3>
 <h4>მისი სახელი, მისი სიტყვა, მისი დიდება</h4>
@@ -2793,12 +2778,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძვირფასო უფალო, შენ ხარ',
-		num: num = 45,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძვირფასო უფალო, შენ ხარ"),
+    num: (num = 45),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი ღვთაებრიობა</h4>
@@ -2868,12 +2853,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენში ვხედავთ მამა ღმერთის',
-		num: num = 46,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენში ვხედავთ მამა ღმერთის"),
+    num: (num = 46),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი ღვთაებრიობა</h4>
@@ -2925,12 +2910,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, შენ ხარ ცოცხალი სიტყვა,',
-		num: num = 47,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, შენ ხარ ცოცხალი სიტყვა,"),
+    num: (num = 47),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისიღვთიურობა</h4>
@@ -3028,12 +3013,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, შენ ხარ კაცის ძე,',
-		num: num = 48,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, შენ ხარ კაცის ძე,"),
+    num: (num = 48),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი ადამიანობა</h4>
@@ -3103,12 +3088,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენო უფალო იესო,',
-		num: num = 49,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენო უფალო იესო,"),
+    num: (num = 49),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 62)</span>
 <main class="full-hymn">
@@ -3181,12 +3166,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ეს სახელი გვიყვარს,',
-		num: num = 50,
-		page: `
+`,
+  },
+  {
+    title: (title = "ეს სახელი გვიყვარს,"),
+    num: (num = 50),
+    page: `
 	<h2 class="hNum">${num}</h2>
 		<span class="top-30">(ინგ. 65)</span>
 	<main class="full-hymn">
@@ -3243,12 +3228,12 @@ const pages = [
 	</ul>
 	</section>
 	</main>
-	`
-	},
-	{
-		title: title = 'იესოს ტკბილი სახელი',
-		num: num = 51,
-		page: `
+	`,
+  },
+  {
+    title: (title = "იესოს ტკბილი სახელი"),
+    num: (num = 51),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 66)</span>
 <main class="full-hymn">
@@ -3307,12 +3292,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ტკბილია მისი სახელი,',
-		num: num = 52,
-		page: `
+`,
+  },
+  {
+    title: (title = "ტკბილია მისი სახელი,"),
+    num: (num = 52),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 67)</span>
 <main class="full-hymn">
@@ -3369,12 +3354,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, გქვია იესო, -',
-		num: num = 53,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, გქვია იესო, -"),
+    num: (num = 53),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 68)</span>
 <main class="full-hymn">
@@ -3431,12 +3416,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძლიერ მიყვარს ამ სახელის,',
-		num: num = 54,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძლიერ მიყვარს ამ სახელის,"),
+    num: (num = 54),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი სახელი</h4>
@@ -3495,12 +3480,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო, შენს ტკბილ სახელში',
-		num: num = 55,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო, შენს ტკბილ სახელში"),
+    num: (num = 55),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 71)</span>
 <main class="full-hymn">
@@ -3550,12 +3535,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო უმაღლესია,',
-		num: num = 56,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო უმაღლესია,"),
+    num: (num = 56),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 72)</span>
 <main class="full-hymn">
@@ -3614,12 +3599,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესოს დიად სახელში,',
-		num: num = 57,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესოს დიად სახელში,"),
+    num: (num = 57),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span  class="top-30">(ინგ. 73)</span>
 <main class="full-hymn">
@@ -3660,12 +3645,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ამაღლდეს უფლის სახელი,',
-		num: num = 58,
-		page: `
+`,
+  },
+  {
+    title: (title = "ამაღლდეს უფლის სახელი,"),
+    num: (num = 58),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 77)</span>
 <main class="full-hymn">
@@ -3715,12 +3700,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = '"მე ვარ" შენი სახელია,',
-		num: num = 59,
-		page: `
+`,
+  },
+  {
+    title: (title = '"მე ვარ" შენი სახელია,'),
+    num: (num = 59),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 78)</span>
 <main class="full-hymn">
@@ -3851,12 +3836,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდება მას, ვინც დღეს მეფობს',
-		num: num = 60,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდება მას, ვინც დღეს მეფობს"),
+    num: (num = 60),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 79)</span>
 <main class="full-hymn">
@@ -3921,12 +3906,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, რა ახლოს ხარ მათთან, ვინც მოგიხმობს,',
-		num: num = 61,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, რა ახლოს ხარ მათთან, ვინც მოგიხმობს,"),
+    num: (num = 61),
+    page: `
 	<h2 class="hNum">${num}</h2>
 	<span class="top-30">(ინგ. 1083)</span>
 	<main class="full-hymn">
@@ -4016,12 +4001,12 @@ const pages = [
 	</ul>
 	</section>
 	</main>
-	`
-	},
-	{
-		title: title = 'სახელი, როგორც მირონი,',
-		num: num = 62,
-		page: `
+	`,
+  },
+  {
+    title: (title = "სახელი, როგორც მირონი,"),
+    num: (num = 62),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1084)</span>
 <main class="full-hymn">
@@ -4107,12 +4092,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვმღერით უფლის სახელს,',
-		num: num = 63,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვმღერით უფლის სახელს,"),
+    num: (num = 63),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1085)</span>
 <main class="full-hymn">
@@ -4142,12 +4127,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როგორ გვიყვარს იესოს',
-		num: num = 64,
-		page: `
+`,
+  },
+  {
+    title: (title = "როგორ გვიყვარს იესოს"),
+    num: (num = 64),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1086)</span>
 <main class="full-hymn">
@@ -4174,12 +4159,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უსასრულო წარსულიდან,',
-		num: num = 65,
-		page: `
+`,
+  },
+  {
+    title: (title = "უსასრულო წარსულიდან,"),
+    num: (num = 65),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 81)</span>
 <main class="full-hymn">
@@ -4238,12 +4223,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მარად ცოცხალი,',
-		num: num = 66,
-		page: `
+`,
+  },
+  {
+    title: (title = "მარად ცოცხალი,"),
+    num: (num = 66),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 82)</span>
 <main class="full-hymn">
@@ -4308,12 +4293,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ანგელოზნი მღერიან,',
-		num: num = 67,
-		page: `
+`,
+  },
+  {
+    title: (title = "ანგელოზნი მღერიან,"),
+    num: (num = 67),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 84)</span>
 <main class="full-hymn">
@@ -4370,12 +4355,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'თუმც დიდებული ღმერთი ხარ,',
-		num: num = 68,
-		page: `
+`,
+  },
+  {
+    title: (title = "თუმც დიდებული ღმერთი ხარ,"),
+    num: (num = 68),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 86)</span>
 <main class="full-hymn">
@@ -4452,12 +4437,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მიწაზე შენს გავლილ ბილიკს,',
-		num: num = 69,
-		page: `
+`,
+  },
+  {
+    title: (title = "მიწაზე შენს გავლილ ბილიკს,"),
+    num: (num = 69),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 87)</span>
 <main class="full-hymn">
@@ -4516,12 +4501,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, გიმღერით შენ!',
-		num: num = 70,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, გიმღერით შენ!"),
+    num: (num = 70),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 90)</span>
 <main class="full-hymn">
@@ -4589,12 +4574,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ვაფასებთ ძლიერ,',
-		num: num = 71,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ვაფასებთ ძლიერ,"),
+    num: (num = 71),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 93)</span>
 <main class="full-hymn">
@@ -4651,12 +4636,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე, შენ თავი დახარე!',
-		num: num = 72,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე, შენ თავი დახარე!"),
+    num: (num = 72),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 94)</span>
 <main class="full-hymn">
@@ -4727,12 +4712,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენო თავო, ნაგვემო,',
-		num: num = 73,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენო თავო, ნაგვემო,"),
+    num: (num = 73),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 95)</span>
 <main class="full-hymn">
@@ -4776,12 +4761,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მხსნელის სიყვარული',
-		num: num = 74,
-		page: `
+`,
+  },
+  {
+    title: (title = "მხსნელის სიყვარული"),
+    num: (num = 74),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი ტანჯვა</h4>
@@ -4854,12 +4839,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შემოქმედი, როგორც კაცი,',
-		num: num = 75,
-		page: `
+`,
+  },
+  {
+    title: (title = "შემოქმედი, როგორც კაცი,"),
+    num: (num = 75),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 100)</span>
 <main class="full-hymn">
@@ -4918,12 +4903,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როცა საოცარ ჯვარს ვუცქერთ,',
-		num: num = 76,
-		page: `
+`,
+  },
+  {
+    title: (title = "როცა საოცარ ჯვარს ვუცქერთ,"),
+    num: (num = 76),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 101)</span>
 <main class="full-hymn">
@@ -4973,12 +4958,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უსასრულო ღმერთი გახდა,',
-		num: num = 77,
-		page: `
+`,
+  },
+  {
+    title: (title = "უსასრულო ღმერთი გახდა,"),
+    num: (num = 77),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1088)</span>
 <main class="full-hymn">
@@ -5035,12 +5020,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მოკვდი ცოდვილების გამო,',
-		num: num = 78,
-		page: `
+`,
+  },
+  {
+    title: (title = "მოკვდი ცოდვილების გამო,"),
+    num: (num = 78),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1089)</span>
 <main class="full-hymn">
@@ -5093,12 +5078,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ნუთუ ჩემმა მხსნელმა სისხლი,',
-		num: num = 79,
-		page: `
+`,
+  },
+  {
+    title: (title = "ნუთუ ჩემმა მხსნელმა სისხლი,"),
+    num: (num = 79),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 104)</span>
 <main class="full-hymn">
@@ -5148,12 +5133,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'თავის თავს ვერ შველის,',
-		num: num = 80,
-		page: `
+`,
+  },
+  {
+    title: (title = "თავის თავს ვერ შველის,"),
+    num: (num = 80),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 105)</span>
 <main class="full-hymn">
@@ -5202,12 +5187,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = '"მწუხარების ძედ" იქცა',
-		num: num = 81,
-		page: `
+`,
+  },
+  {
+    title: (title = '"მწუხარების ძედ" იქცა'),
+    num: (num = 81),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 108)</span>
 <main class="full-hymn">
@@ -5257,12 +5242,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ფარდა გაიხა! ტახტის წინ',
-		num: num = 82,
-		page: `
+`,
+  },
+  {
+    title: (title = "ფარდა გაიხა! ტახტის წინ"),
+    num: (num = 82),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 109)</span>
 <main class="full-hymn">
@@ -5303,12 +5288,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვხარობთ იმით, რომ ქრისტემ შეგვიყვარა,',
-		num: num = 83,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვხარობთ იმით, რომ ქრისტემ შეგვიყვარა,"),
+    num: (num = 83),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი გამოსყიდვა</h4>
@@ -5360,12 +5345,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მშვენიერი გამოსყიდვა,',
-		num: num = 84,
-		page: `
+`,
+  },
+  {
+    title: (title = "მშვენიერი გამოსყიდვა,"),
+    num: (num = 84),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 116)</span>
 <main class="full-hymn">
@@ -5435,12 +5420,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძვირფასია უფლის სისხლი,',
-		num: num = 85,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძვირფასია უფლის სისხლი,"),
+    num: (num = 85),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1090)</span>
 <main class="full-hymn">
@@ -5508,12 +5493,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გადიდებთ უფალო, შენმა მოსვლამ',
-		num: num = 86,
-		page: `
+`,
+  },
+  {
+    title: (title = "გადიდებთ უფალო, შენმა მოსვლამ"),
+    num: (num = 86),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1091)</span>
 <main class="full-hymn">
@@ -5562,12 +5547,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენი უფალი აღდგა,',
-		num: num = 87,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენი უფალი აღდგა,"),
+    num: (num = 87),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 117)</span>
 <main class="full-hymn">
@@ -5624,12 +5609,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ალილუია, ქრისტე აღდგა!',
-		num: num = 88,
-		page: `
+`,
+  },
+  {
+    title: (title = "ალილუია, ქრისტე აღდგა!"),
+    num: (num = 88),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 119)</span>
 <main class="full-hymn">
@@ -5667,12 +5652,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალი აღდგა; სისხლით გვიყიდა,',
-		num: num = 89,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალი აღდგა; სისხლით გვიყიდა,"),
+    num: (num = 89),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 120)</span>
 <main class="full-hymn">
@@ -5713,12 +5698,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიკვდილში უფალო,',
-		num: num = 90,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიკვდილში უფალო,"),
+    num: (num = 90),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 122)</span>
 <main class="full-hymn">
@@ -5775,12 +5760,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ის სამარხში ჩაწვა,',
-		num: num = 91,
-		page: `
+`,
+  },
+  {
+    title: (title = "ის სამარხში ჩაწვა,"),
+    num: (num = 91),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 123)</span>
 <main class="full-hymn">
@@ -5831,12 +5816,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდება ქრისტე იესოს!',
-		num: num = 92,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდება ქრისტე იესოს!"),
+    num: (num = 92),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 124)</span>
 <main class="full-hymn">
@@ -5885,12 +5870,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ალილუია! უგალობეთ',
-		num: num = 93,
-		page: `
+`,
+  },
+  {
+    title: (title = "ალილუია! უგალობეთ"),
+    num: (num = 93),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 125)</span>
 <main class="full-hymn">
@@ -5947,12 +5932,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ისმინეთ! ათი ათასი,',
-		num: num = 94,
-		page: `
+`,
+  },
+  {
+    title: (title = "ისმინეთ! ათი ათასი,"),
+    num: (num = 94),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი ამაღლება</h4>
@@ -6022,12 +6007,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ამაღლებაში მხსნელი გამეფდა',
-		num: num = 95,
-		page: `
+`,
+  },
+  {
+    title: (title = "ამაღლებაში მხსნელი გამეფდა"),
+    num: (num = 95),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 128)</span>
 <main class="full-hymn">
@@ -6084,12 +6069,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძალ მიცემულ კრავს დიდების',
-		num: num = 96,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძალ მიცემულ კრავს დიდების"),
+    num: (num = 96),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 129)</span>
 <main class="full-hymn">
@@ -6139,12 +6124,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შეხედე იესოს ტახტზე,',
-		num: num = 97,
-		page: `
+`,
+  },
+  {
+    title: (title = "შეხედე იესოს ტახტზე,"),
+    num: (num = 97),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 132)</span>
 <main class="full-hymn">
@@ -6212,12 +6197,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალი განდიდდება,',
-		num: num = 98,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალი განდიდდება,"),
+    num: (num = 98),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1095)</span>
 <main class="full-hymn">
@@ -6274,12 +6259,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აცხადებს ადგილობრივი',
-		num: num = 99,
-		page: `
+`,
+  },
+  {
+    title: (title = "აცხადებს ადგილობრივი"),
+    num: (num = 99),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1096)</span>
 <main class="full-hymn">
@@ -6336,12 +6321,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენი სახელი, უფალო,',
-		num: num = 100,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენი სახელი, უფალო,"),
+    num: (num = 100),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1097)</span>
 <main class="full-hymn">
@@ -6411,12 +6396,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენი გულიდან მოსჩქეფს,',
-		num: num = 101,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენი გულიდან მოსჩქეფს,"),
+    num: (num = 101),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>დიდება უფალს</h3>
 <h4>მისი გამარჯვება და ამაღლება</h4>
@@ -6488,12 +6473,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დედოფალი დგას შენთან',
-		num: num = 102,
-		page: `
+`,
+  },
+  {
+    title: (title = "დედოფალი დგას შენთან"),
+    num: (num = 102),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის განდიდება</h3>
 <h4>მისი გამარჯვება და ამაღლება</h4>
@@ -6565,12 +6550,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აღდგეს ღმერთი, გაიფანტონ',
-		num: num = 103,
-		page: `
+`,
+  },
+  {
+    title: (title = "აღდგეს ღმერთი, გაიფანტონ"),
+    num: (num = 103),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1100)</span>
 <main class="full-hymn">
@@ -6692,12 +6677,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდების გვირგვინი გადევს,',
-		num: num = 104,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდების გვირგვინი გადევს,"),
+    num: (num = 104),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 133)</span>
 <main class="full-hymn">
@@ -6756,12 +6741,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვუმზერთ უფალს დიდებაში',
-		num: num = 105,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვუმზერთ უფალს დიდებაში"),
+    num: (num = 105),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის განდიდება</h3>
 <h4>მისი დიდება</h4>
@@ -6822,12 +6807,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აქოს იესოს სახელი',
-		num: num = 106,
-		page: `
+`,
+  },
+  {
+    title: (title = "აქოს იესოს სახელი"),
+    num: (num = 106),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის განდიდება</h3>
 <h4>მისი დიდება</h4>
@@ -6904,12 +6889,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აქოს იესოს სახელი',
-		num: num = 107,
-		page: `
+`,
+  },
+  {
+    title: (title = "აქოს იესოს სახელი"),
+    num: (num = 107),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის განდიდება</h3>
 <h4>მისი დიდება</h4>
@@ -6976,12 +6961,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო, ეკლის გვირგვინი',
-		num: num = 108,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო, ეკლის გვირგვინი"),
+    num: (num = 108),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის განდიდება</h3>
 <h4>მისი დიდება</h4>
@@ -7033,12 +7018,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'კრავს ღვთის ტახტზე ყველამ',
-		num: num = 109,
-		page: `
+`,
+  },
+  {
+    title: (title = "კრავს ღვთის ტახტზე ყველამ"),
+    num: (num = 109),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის განდიდება</h3>
 <h4>მისი დიდება</h4>
@@ -7110,12 +7095,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე, ცოცხალი უფალი,',
-		num: num = 110,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე, ცოცხალი უფალი,"),
+    num: (num = 110),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი დიდება</h4>
@@ -7166,12 +7151,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ღვთის ცხებულო,',
-		num: num = 111,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ღვთის ცხებულო,"),
+    num: (num = 111),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი მეფობა</h4>
@@ -7230,12 +7215,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, მეფეთ მეფევ,',
-		num: num = 112,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, მეფეთ მეფევ,"),
+    num: (num = 112),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი მეფობა</h4>
@@ -7286,12 +7271,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვუმღერით მას, ვინც მოდის სამეფოდ,',
-		num: num = 113,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვუმღერით მას, ვინც მოდის სამეფოდ,"),
+    num: (num = 113),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი მეფობა</h4>
@@ -7363,12 +7348,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, რა ღრმაა, რა უძირო',
-		num: num = 114,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, რა ღრმაა, რა უძირო"),
+    num: (num = 114),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 152)</span>
 <main class="full-hymn">
@@ -7425,12 +7410,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მხსნელო, შენი სიყვარული,',
-		num: num = 115,
-		page: `
+`,
+  },
+  {
+    title: (title = "მხსნელო, შენი სიყვარული,"),
+    num: (num = 115),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 153)</span>
 <main class="full-hymn">
@@ -7498,12 +7483,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო, მხსნელო, აღემატება,',
-		num: num = 116,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო, მხსნელო, აღემატება,"),
+    num: (num = 116),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 154)</span>
 <main class="full-hymn">
@@ -7578,12 +7563,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, გზააბნეულნი',
-		num: num = 117,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, გზააბნეულნი"),
+    num: (num = 117),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 158)</span>
 <main class="full-hymn">
@@ -7665,12 +7650,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემო მეფევ, გვირგინს გადგამ;',
-		num: num = 118,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემო მეფევ, გვირგინს გადგამ;"),
+    num: (num = 118),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 160)</span>
 <main class="full-hymn">
@@ -7740,12 +7725,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ხალხი იესოს თანდასწრებაშია,',
-		num: num = 119,
-		page: `
+`,
+  },
+  {
+    title: (title = "ხალხი იესოს თანდასწრებაშია,"),
+    num: (num = 119),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 162)</span>
 <main class="full-hymn">
@@ -7805,12 +7790,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ათასმა ბაგემ უმღეროს',
-		num: num = 120,
-		page: `
+`,
+  },
+  {
+    title: (title = "ათასმა ბაგემ უმღეროს"),
+    num: (num = 120),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 163)</span>
 <main class="full-hymn">
@@ -7869,12 +7854,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემს იესოს ვუმღერი,',
-		num: num = 121,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემს იესოს ვუმღერი,"),
+    num: (num = 121),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 165)</span>
 <main class="full-hymn">
@@ -7918,12 +7903,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთისთვის ხარ ძვირფასი',
-		num: num = 122,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთისთვის ხარ ძვირფასი"),
+    num: (num = 122),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 169)</span>
 <main class="full-hymn">
@@ -8032,12 +8017,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ძვირფასო ნეფევ!',
-		num: num = 123,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ძვირფასო ნეფევ!"),
+    num: (num = 123),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი სილამაზე</h4>
@@ -8107,12 +8092,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, უფალო, შენზე ფიქრით',
-		num: num = 124,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, უფალო, შენზე ფიქრით"),
+    num: (num = 124),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი სილამაზე</h4>
@@ -8171,12 +8156,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვერ ვძღები შენი შესუნთქვით,',
-		num: num = 125,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვერ ვძღები შენი შესუნთქვით,"),
+    num: (num = 125),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 172)</span>
 <main class="full-hymn">
@@ -8236,12 +8221,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძვირფასო იესო!',
-		num: num = 126,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძვირფასო იესო!"),
+    num: (num = 126),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი სილამაზე</h4>
@@ -8292,12 +8277,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდებული სიტკბოებით,',
-		num: num = 127,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდებული სიტკბოებით,"),
+    num: (num = 127),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 177)</span>
 <main class="full-hymn">
@@ -8347,12 +8332,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გული ქრისტეთი სავსეა,',
-		num: num = 128,
-		page: `
+`,
+  },
+  {
+    title: (title = "გული ქრისტეთი სავსეა,"),
+    num: (num = 128),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 178)</span>
 <main class="full-hymn">
@@ -8379,12 +8364,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდება და ქება,',
-		num: num = 129,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდება და ქება,"),
+    num: (num = 129),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 179)</span>
 <main class="full-hymn">
@@ -8437,12 +8422,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო იესო, ჩვენ შენ გიგალობთ,',
-		num: num = 130,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო იესო, ჩვენ შენ გიგალობთ,"),
+    num: (num = 130),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 180)</span>
 <main class="full-hymn">
@@ -8499,12 +8484,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ეკლესია კრავს ადიდებს:',
-		num: num = 131,
-		page: `
+`,
+  },
+  {
+    title: (title = "ეკლესია კრავს ადიდებს:"),
+    num: (num = 131),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი ღირსება</h4>
@@ -8563,12 +8548,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო, შენ იმსახურებ',
-		num: num = 132,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო, შენ იმსახურებ"),
+    num: (num = 132),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>ქება უფალს</h3>
 <h4>მისი ღირსება</h4>
@@ -8602,12 +8587,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვიგალობოთ სიხარულით,',
-		num: num = 133,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვიგალობოთ სიხარულით,"),
+    num: (num = 133),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>უფლის ქება</h3>
 <h4>მისი ღირსება</h4>
@@ -8659,12 +8644,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენო ნეტარო უფალო,',
-		num: num = 134,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენო ნეტარო უფალო,"),
+    num: (num = 134),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 185)</span>
 <main class="full-hymn">
@@ -8721,12 +8706,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენი სიყვარული ავლენს,',
-		num: num = 135,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენი სიყვარული ავლენს,"),
+    num: (num = 135),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>ეს ჰიმნი იმღერება ხუთი სხვადასხვა გზით:</h3>
 <ul class="method">
@@ -8973,12 +8958,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, შენ ხარ ღმერთის ძე,',
-		num: num = 136,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, შენ ხარ ღმერთის ძე,"),
+    num: (num = 136),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 188)</span>
 <main class="full-hymn">
@@ -9181,12 +9166,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენ ძე ხარ საყვარელი,',
-		num: num = 137,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენ ძე ხარ საყვარელი,"),
+    num: (num = 137),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 189)</span>
 <main class="full-hymn">
@@ -9269,12 +9254,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, შენს სახეს ვუმზერთ,',
-		num: num = 138,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, შენს სახეს ვუმზერთ,"),
+    num: (num = 138),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 190)</span>
 <main class="full-hymn">
@@ -9357,12 +9342,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, მტერი შემუსრე,',
-		num: num = 139,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, მტერი შემუსრე,"),
+    num: (num = 139),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 191)</span>
 <main class="full-hymn">
@@ -9419,12 +9404,12 @@ const pages = [
 </ul>
 </section>
 </main >
-	`
-	},
-	{
-		title: title = 'ო ქრისტე, მოვდივართ,',
-		num: num = 140,
-		page: `
+	`,
+  },
+  {
+    title: (title = "ო ქრისტე, მოვდივართ,"),
+    num: (num = 140),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 192)</span>
 <main class="full-hymn">
@@ -9484,12 +9469,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყოვლისმომცველო უფალო,',
-		num: num = 141,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყოვლისმომცველო უფალო,"),
+    num: (num = 141),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 193)</span>
 <main class="full-hymn">
@@ -9598,12 +9583,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის მოწმობა ხარ, უფალო,',
-		num: num = 142,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის მოწმობა ხარ, უფალო,"),
+    num: (num = 142),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 194)</span>
 <main class="full-hymn">
@@ -9686,12 +9671,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, შენ ხარ ღმერთის',
-		num: num = 143,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, შენ ხარ ღმერთის"),
+    num: (num = 143),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 195)</span>
 <main class="full-hymn">
@@ -9761,12 +9746,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძველი წინასახეები,',
-		num: num = 144,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძველი წინასახეები,"),
+    num: (num = 144),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 196)</span>
 <main class="full-hymn">
@@ -9836,12 +9821,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყოვლისმომცველო უფალო,',
-		num: num = 145,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყოვლისმომცველო უფალო,"),
+    num: (num = 145),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 197)</span>
 <main class="full-hymn">
@@ -9909,12 +9894,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, სიცოცხლის ხე ხარ,',
-		num: num = 146,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, სიცოცხლის ხე ხარ,"),
+    num: (num = 146),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 198)</span>
 <main class="full-hymn">
@@ -10000,12 +9985,12 @@ const pages = [
 </ul >
 </section >
 </main >
-	`
-	},
-	{
-		title: title = 'მარადიული კლდე შენ ხარ,',
-		num: num = 147,
-		page: `
+	`,
+  },
+  {
+    title: (title = "მარადიული კლდე შენ ხარ,"),
+    num: (num = 147),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 199)</span>
 <main class="full-hymn">
@@ -10078,12 +10063,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სამართლიანობის მზე ხარ,',
-		num: num = 148,
-		page: `
+`,
+  },
+  {
+    title: (title = "სამართლიანობის მზე ხარ,"),
+    num: (num = 148),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 200)</span>
 <main class="full-hymn">
@@ -10151,12 +10136,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, პარაკლეტი ხარ,',
-		num: num = 149,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, პარაკლეტი ხარ,"),
+    num: (num = 149),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 201)</span>
 <main class="full-hymn">
@@ -10224,12 +10209,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, შენ ხარ ალფა,',
-		num: num = 150,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, შენ ხარ ალფა,"),
+    num: (num = 150),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 202)</span>
 <main class="full-hymn">
@@ -10299,12 +10284,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვინ არს ის? ის მამაა.',
-		num: num = 151,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვინ არს ის? ის მამაა."),
+    num: (num = 151),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1103)</span>
 <main class="full-hymn">
@@ -10381,12 +10366,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მამის წიაღში უწინათ,',
-		num: num = 152,
-		page: `
+`,
+  },
+  {
+    title: (title = "მამის წიაღში უწინათ,"),
+    num: (num = 152),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 203)</span>
 <main class="full-hymn">
@@ -10443,12 +10428,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენს სახელში ვართ, უფალო,',
-		num: num = 153,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენს სახელში ვართ, უფალო,"),
+    num: (num = 153),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 204)</span>
 <main class="full-hymn">
@@ -10507,12 +10492,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენო მშვიდობის მსხვერპლო,',
-		num: num = 154,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენო მშვიდობის მსხვერპლო,"),
+    num: (num = 154),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1104)</span>
 <main class="full-hymn">
@@ -10619,12 +10604,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე - სიცოცხლის წყარო,',
-		num: num = 155,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე - სიცოცხლის წყარო,"),
+    num: (num = 155),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 206)</span>
 <main class="full-hymn">
@@ -10668,12 +10653,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, როცა ვიხსენებთ',
-		num: num = 156,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, როცა ვიხსენებთ"),
+    num: (num = 156),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 207)</span>
 <main class="full-hymn">
@@ -10723,12 +10708,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო, ჩემო ძვირფასო,',
-		num: num = 157,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო, ჩემო ძვირფასო,"),
+    num: (num = 157),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 208)</span>
 <main class="full-hymn">
@@ -10811,12 +10796,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო, შენზე ფიქრები,',
-		num: num = 158,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო, შენზე ფიქრები,"),
+    num: (num = 158),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 209)</span>
 <main class="full-hymn">
@@ -10884,12 +10869,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იმ ღამით, ჩვენო მხსნელო,',
-		num: num = 159,
-		page: `
+`,
+  },
+  {
+    title: (title = "იმ ღამით, ჩვენო მხსნელო,"),
+    num: (num = 159),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 213)</span>
 <main class="full-hymn">
@@ -10959,12 +10944,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენი მადლის სიტყვისამებრ',
-		num: num = 160,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენი მადლის სიტყვისამებრ"),
+    num: (num = 160),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 214)</span>
 <main class="full-hymn">
@@ -11023,12 +11008,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო იესო, ვიცით,',
-		num: num = 161,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო იესო, ვიცით,"),
+    num: (num = 161),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 215)</span>
 <main class="full-hymn">
@@ -11085,12 +11070,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ვუცქერთ შენს სუფრას,',
-		num: num = 162,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ვუცქერთ შენს სუფრას,"),
+    num: (num = 162),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 220)</span>
 <main class="full-hymn">
@@ -11158,12 +11143,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, გმადლობთ სუფრისთვის,',
-		num: num = 163,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, გმადლობთ სუფრისთვის,"),
+    num: (num = 163),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 221)</span>
 <main class="full-hymn">
@@ -11236,12 +11221,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, გმადლობთ პურისთვის,',
-		num: num = 164,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, გმადლობთ პურისთვის,"),
+    num: (num = 164),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 222)</span>
 <main class="full-hymn">
@@ -11300,12 +11285,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიყვარულის ტრაპეზზე,',
-		num: num = 165,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიყვარულის ტრაპეზზე,"),
+    num: (num = 165),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 223)</span>
 <main class="full-hymn">
@@ -11362,12 +11347,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როცა ვღებულობთ ამ თასს,',
-		num: num = 166,
-		page: `
+`,
+  },
+  {
+    title: (title = "როცა ვღებულობთ ამ თასს,"),
+    num: (num = 166),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 224)</span>
 <main class="full-hymn">
@@ -11463,12 +11448,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'პურისთვის და ღვინისთვის',
-		num: num = 167,
-		page: `
+`,
+  },
+  {
+    title: (title = "პურისთვის და ღვინისთვის"),
+    num: (num = 167),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 226)</span>
 <main class="full-hymn">
@@ -11545,12 +11530,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, პურით და თასით,',
-		num: num = 168,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, პურით და თასით,"),
+    num: (num = 168),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 227)</span>
 <main class="full-hymn">
@@ -11623,12 +11608,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, ტკბილი ნადიმი!',
-		num: num = 169,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, ტკბილი ნადიმი!"),
+    num: (num = 169),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 228)</span>
 <main class="full-hymn">
@@ -11687,12 +11672,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'საოცრებაა, უფალო,',
-		num: num = 170,
-		page: `
+`,
+  },
+  {
+    title: (title = "საოცრებაა, უფალო,"),
+    num: (num = 170),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 233)</span>
 <main class="full-hymn">
@@ -11751,12 +11736,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სუფრაა ჩვენ წინ გაშლილი,',
-		num: num = 171,
-		page: `
+`,
+  },
+  {
+    title: (title = "სუფრაა ჩვენ წინ გაშლილი,"),
+    num: (num = 171),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1105)</span>
 <main class="full-hymn">
@@ -11787,12 +11772,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შევიკრიბეთ, რომ ვჭამოთ უფლის ვახშამი,',
-		num: num = 172,
-		page: `
+`,
+  },
+  {
+    title: (title = "შევიკრიბეთ, რომ ვჭამოთ უფლის ვახშამი,"),
+    num: (num = 172),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1106)</span>
 <main class="full-hymn">
@@ -11833,12 +11818,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შეკრებილნი, უფალო! ერთ სხეულად,',
-		num: num = 173,
-		page: `
+`,
+  },
+  {
+    title: (title = "შეკრებილნი, უფალო! ერთ სხეულად,"),
+    num: (num = 173),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1107)</span>
 <main class="full-hymn">
@@ -11908,12 +11893,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შეჭამეთ პური, უფლის ხალხო,',
-		num: num = 174,
-		page: `
+`,
+  },
+  {
+    title: (title = "შეჭამეთ პური, უფლის ხალხო,"),
+    num: (num = 174),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1108)</span>
 <main class="full-hymn">
@@ -11979,12 +11964,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შესვით უფლის სისხლი',
-		num: num = 175,
-		page: `
+`,
+  },
+  {
+    title: (title = "შესვით უფლის სისხლი"),
+    num: (num = 175),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1109)</span>
 <main class="full-hymn">
@@ -12049,12 +12034,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო იესო, როცა შენს სუფრასთან ვართ,',
-		num: num = 176,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო იესო, როცა შენს სუფრასთან ვართ,"),
+    num: (num = 176),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1110)</span>
 <main class="full-hymn">
@@ -12111,12 +12096,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რა დიდებული გაქვს ტრაპეზი!',
-		num: num = 177,
-		page: `
+`,
+  },
+  {
+    title: (title = "რა დიდებული გაქვს ტრაპეზი!"),
+    num: (num = 177),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1112)</span>
 <main class="full-hymn">
@@ -12199,12 +12184,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აქეთ! აქეთ! - იესო გამომსყიდველი!',
-		num: num = 178,
-		page: `
+`,
+  },
+  {
+    title: (title = "აქეთ! აქეთ! - იესო გამომსყიდველი!"),
+    num: (num = 178),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 235)</span>
 <main class="full-hymn">
@@ -12248,12 +12233,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთის კრავს პატივი, ძალა,',
-		num: num = 179,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთის კრავს პატივი, ძალა,"),
+    num: (num = 179),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 240)</span>
 <main class="full-hymn">
@@ -12267,12 +12252,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'კურთხევა, პატივი და დიდება,',
-		num: num = 180,
-		page: `
+`,
+  },
+  {
+    title: (title = "კურთხევა, პატივი და დიდება,"),
+    num: (num = 180),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 241)</span>
 <main class="full-hymn">
@@ -12302,12 +12287,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დღეს ღმერთის სული ჩვენთან',
-		num: num = 181,
-		page: `
+`,
+  },
+  {
+    title: (title = "დღეს ღმერთის სული ჩვენთან"),
+    num: (num = 181),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 242)</span>
 <main class="full-hymn">
@@ -12366,12 +12351,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის სულია ქრისტეს სული',
-		num: num = 182,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის სულია ქრისტეს სული"),
+    num: (num = 182),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 243)</span>
 <main class="full-hymn">
@@ -12439,12 +12424,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'წმიდა სული არის სული',
-		num: num = 183,
-		page: `
+`,
+  },
+  {
+    title: (title = "წმიდა სული არის სული"),
+    num: (num = 183),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 244)</span>
 <main class="full-hymn">
@@ -12521,12 +12506,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სამერთიანი ღმერთი მკვიდრობს ჩვენში,',
-		num: num = 184,
-		page: `
+`,
+  },
+  {
+    title: (title = "სამერთიანი ღმერთი მკვიდრობს ჩვენში,"),
+    num: (num = 184),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1113)</span>
 <main class="full-hymn">
@@ -12596,12 +12581,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მური, დარიჩინი',
-		num: num = 185,
-		page: `
+`,
+  },
+  {
+    title: (title = "მური, დარიჩინი"),
+    num: (num = 185),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1116)</span>
 <main class="full-hymn">
@@ -12666,12 +12651,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გადიდებთ ღმერთო,',
-		num: num = 186,
-		page: `
+`,
+  },
+  {
+    title: (title = "გადიდებთ ღმერთო,"),
+    num: (num = 186),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1117)</span>
 <main class="full-hymn">
@@ -12728,12 +12713,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენი ღვთის "შვიდი სული"',
-		num: num = 187,
-		page: `
+`,
+  },
+  {
+    title: (title = 'ჩვენი ღვთის "შვიდი სული"'),
+    num: (num = 187),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1122)</span>
 <main class="full-hymn">
@@ -12828,12 +12813,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სადაც კაცთ იპოვი, ო ახარე ყველგან,',
-		num: num = 188,
-		page: `
+`,
+  },
+  {
+    title: (title = "სადაც კაცთ იპოვი, ო ახარე ყველგან,"),
+    num: (num = 188),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 245)</span>
 <main class="full-hymn">
@@ -12902,12 +12887,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'კადეშის კლდესთან დგას',
-		num: num = 189,
-		page: `
+`,
+  },
+  {
+    title: (title = "კადეშის კლდესთან დგას"),
+    num: (num = 189),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 248)</span>
 <main class="full-hymn">
@@ -12981,12 +12966,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, იდინე თიხის ჭურჭლიდან,',
-		num: num = 190,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, იდინე თიხის ჭურჭლიდან,"),
+    num: (num = 190),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 249)</span>
 <main class="full-hymn">
@@ -13045,12 +13030,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'წყლის ჭავ, ამოხეთქე;',
-		num: num = 191,
-		page: `
+`,
+  },
+  {
+    title: (title = "წყლის ჭავ, ამოხეთქე;"),
+    num: (num = 191),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 250)</span>
 <main class="full-hymn">
@@ -13118,12 +13103,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ტახტიდან მდინარეები',
-		num: num = 192,
-		page: `
+`,
+  },
+  {
+    title: (title = "ტახტიდან მდინარეები"),
+    num: (num = 192),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 251)</span>
 <main class="full-hymn">
@@ -13193,12 +13178,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენ მოვედით, მოვედით ღმერთის სახლში,',
-		num: num = 193,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენ მოვედით, მოვედით ღმერთის სახლში,"),
+    num: (num = 193),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1115)</span>
 <main class="full-hymn">
@@ -13248,12 +13233,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შთამბერე სული, უფალო,',
-		num: num = 194,
-		page: `
+`,
+  },
+  {
+    title: (title = "შთამბერე სული, უფალო,"),
+    num: (num = 194),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 255)</span>
 <main class="full-hymn">
@@ -13349,12 +13334,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, შენ გელოდებით, უფალო, შთაგვბერე;',
-		num: num = 195,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, შენ გელოდებით, უფალო, შთაგვბერე;"),
+    num: (num = 195),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 256)</span>
 <main class="full-hymn">
@@ -13401,12 +13386,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ღვთიურმა ქარმა',
-		num: num = 196,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ღვთიურმა ქარმა"),
+    num: (num = 196),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 257)</span>
 <main class="full-hymn">
@@ -13450,12 +13435,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ვით სულს გელით',
-		num: num = 197,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ვით სულს გელით"),
+    num: (num = 197),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>სულის სისავსე</h3>
 <h4>როგორც ცეცხლი</h4>
@@ -13522,12 +13507,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო, ჩაღვარე ჩემში',
-		num: num = 198,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო, ჩაღვარე ჩემში"),
+    num: (num = 198),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>სულის სისავსე</h3>
 <h4>როგროც ცეცხლი</h4>
@@ -13584,12 +13569,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სადაც სისხლის პკურებაა,',
-		num: num = 199,
-		page: `
+`,
+  },
+  {
+    title: (title = "სადაც სისხლის პკურებაა,"),
+    num: (num = 199),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>სულის სისავსე</h3>
 <h4>როგორც ცხებულების</h4>
@@ -13659,12 +13644,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის ცხებულება ჩემშია, რომ',
-		num: num = 200,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის ცხებულება ჩემშია, რომ"),
+    num: (num = 200),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>სულის სისავსე</h3>
 <h4>ცხებულება</h4>
@@ -13727,12 +13712,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის სიტყვაში დავინახე,',
-		num: num = 201,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის სიტყვაში დავინახე,"),
+    num: (num = 201),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1119)</span>
 <main class="full-hymn">
@@ -13827,12 +13812,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'წმიდა სული ბეჭედია,',
-		num: num = 202,
-		page: `
+`,
+  },
+  {
+    title: (title = "წმიდა სული ბეჭედია,"),
+    num: (num = 202),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1120)</span>
 <main class="full-hymn">
@@ -13891,12 +13876,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქება ღმერთს, თავის ცხებულთან,',
-		num: num = 203,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქება ღმერთს, თავის ცხებულთან,"),
+    num: (num = 203),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1121)</span>
 <main class="full-hymn">
@@ -13973,12 +13958,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენი მადლიანი სულით,',
-		num: num = 204,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენი მადლიანი სულით,"),
+    num: (num = 204),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 267)</span>
 <main class="full-hymn">
@@ -14035,12 +14020,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენ გაქებ, ძვირფასო მხსნელო,',
-		num: num = 205,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენ გაქებ, ძვირფასო მხსნელო,"),
+    num: (num = 205),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 205)</span>
 <main class="full-hymn">
@@ -14110,12 +14095,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, უფალო, ამავსე',
-		num: num = 206,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, უფალო, ამავსე"),
+    num: (num = 206),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 269)</span>
 <main class="full-hymn">
@@ -14164,12 +14149,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რა ძვირფასია, რომ ჩემში',
-		num: num = 207,
-		page: `
+`,
+  },
+  {
+    title: (title = "რა ძვირფასია, რომ ჩემში"),
+    num: (num = 207),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1360)</span>
 <main class="full-hymn">
@@ -14226,12 +14211,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის ნამდვილი ძეები ვართ,',
-		num: num = 208,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის ნამდვილი ძეები ვართ,"),
+    num: (num = 208),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 271)</span>
 <main class="full-hymn">
@@ -14301,12 +14286,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე იშვა სულისაგან,',
-		num: num = 209,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე იშვა სულისაგან,"),
+    num: (num = 209),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 272)</span>
 <main class="full-hymn">
@@ -14376,12 +14361,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, შენი სამეფოსათვის',
-		num: num = 210,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, შენი სამეფოსათვის"),
+    num: (num = 210),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 273)</span>
 <main class="full-hymn">
@@ -14425,12 +14410,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენ გვჭირდები ვით ძალა, რადგან',
-		num: num = 211,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენ გვჭირდები ვით ძალა, რადგან"),
+    num: (num = 211),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 274)</span>
 <main class="full-hymn">
@@ -14487,12 +14472,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რა სასიხარულო ცნობაა, რომ',
-		num: num = 212,
-		page: `
+`,
+  },
+  {
+    title: (title = "რა სასიხარულო ცნობაა, რომ"),
+    num: (num = 212),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 276)</span>
 <main class="full-hymn">
@@ -14549,12 +14534,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, ქრისტე მხსნელი ამაღლდა,',
-		num: num = 213,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, ქრისტე მხსნელი ამაღლდა,"),
+    num: (num = 213),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 277)</span>
 <main class="full-hymn">
@@ -14625,12 +14610,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიცოცხლის სულია ჩვენს არსებაში,',
-		num: num = 214,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიცოცხლის სულია ჩვენს არსებაში,"),
+    num: (num = 214),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 278)</span>
 <main class="full-hymn">
@@ -14698,12 +14683,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გოლგოთის გავლის გარეშე,',
-		num: num = 215,
-		page: `
+`,
+  },
+  {
+    title: (title = "გოლგოთის გავლის გარეშე,"),
+    num: (num = 215),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 279)</span>
 <main class="full-hymn">
@@ -14810,12 +14795,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გამწმინდოს ცოდვებისგან,',
-		num: num = 216,
-		page: `
+`,
+  },
+  {
+    title: (title = "გამწმინდოს ცოდვებისგან,"),
+    num: (num = 216),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 280)</span>
 <main class="full-hymn">
@@ -14888,12 +14873,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სულისგან, სულით შობილი',
-		num: num = 217,
-		page: `
+`,
+  },
+  {
+    title: (title = "სულისგან, სულით შობილი"),
+    num: (num = 217),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1123)</span>
 <main class="full-hymn">
@@ -14950,12 +14935,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მარადიულ სიყვარულს',
-		num: num = 218,
-		page: `
+`,
+  },
+  {
+    title: (title = "მარადიულ სიყვარულს"),
+    num: (num = 218),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 284)</span>
 <main class="full-hymn">
@@ -15012,12 +14997,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემ გვერდით იხარეთ!',
-		num: num = 219,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემ გვერდით იხარეთ!"),
+    num: (num = 219),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 285)</span>
 <main class="full-hymn">
@@ -15076,12 +15061,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესომ სიყვარულით',
-		num: num = 220,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესომ სიყვარულით"),
+    num: (num = 220),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 286)</span>
 <main class="full-hymn">
@@ -15122,12 +15107,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მე ვიპოვე მეგობარი!',
-		num: num = 221,
-		page: `
+`,
+  },
+  {
+    title: (title = "მე ვიპოვე მეგობარი!"),
+    num: (num = 221),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 288)</span>
 <main class="full-hymn">
@@ -15171,12 +15156,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის ქრისტე - ჩემი სიმართლე,',
-		num: num = 222,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის ქრისტე - ჩემი სიმართლე,"),
+    num: (num = 222),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 295)</span>
 <main class="full-hymn">
@@ -15235,12 +15220,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ნუთუ მხსნელმა თვისი სისხლი',
-		num: num = 223,
-		page: `
+`,
+  },
+  {
+    title: (title = "ნუთუ მხსნელმა თვისი სისხლი"),
+    num: (num = 223),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 296)</span>
 <main class="full-hymn">
@@ -15310,12 +15295,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იმედია და სიმართლე',
-		num: num = 224,
-		page: `
+`,
+  },
+  {
+    title: (title = "იმედია და სიმართლე"),
+    num: (num = 224),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 298)</span>
 <main class="full-hymn">
@@ -15368,12 +15353,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სრულყოფილი მშვიდობა მაქვს',
-		num: num = 225,
-		page: `
+`,
+  },
+  {
+    title: (title = "სრულყოფილი მშვიდობა მაქვს"),
+    num: (num = 225),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 299)</span>
 <main class="full-hymn">
@@ -15423,12 +15408,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემო მშვინვავ, აღდექ!',
-		num: num = 226,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემო მშვინვავ, აღდექ!"),
+    num: (num = 226),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 300)</span>
 <main class="full-hymn">
@@ -15488,12 +15473,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ბნელ დილეგში ოდეს ვისხედით;',
-		num: num = 227,
-		page: `
+`,
+  },
+  {
+    title: (title = "ბნელ დილეგში ოდეს ვისხედით;"),
+    num: (num = 227),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1131)</span>
 <main class="full-hymn">
@@ -15543,12 +15528,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთმა მომიტევა ჩემი',
-		num: num = 228,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთმა მომიტევა ჩემი"),
+    num: (num = 228),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1355)</span>
 <main class="full-hymn">
@@ -15579,12 +15564,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'კრავის სისხლმა გამომისყიდა',
-		num: num = 229,
-		page: `
+`,
+  },
+  {
+    title: (title = "კრავის სისხლმა გამომისყიდა"),
+    num: (num = 229),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 301)</span>
 <main class="full-hymn">
@@ -15641,12 +15626,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მიყვარს ეს სიმღერა, რადგან',
-		num: num = 230,
-		page: `
+`,
+  },
+  {
+    title: (title = "მიყვარს ეს სიმღერა, რადგან"),
+    num: (num = 230),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 302)</span>
 <main class="full-hymn">
@@ -15721,12 +15706,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გამომისყიდა არა ოქრომ ან ვერცხლმა;',
-		num: num = 231,
-		page: `
+`,
+  },
+  {
+    title: (title = "გამომისყიდა არა ოქრომ ან ვერცხლმა;"),
+    num: (num = 231),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 303)</span>
 <main class="full-hymn">
@@ -15783,12 +15768,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჯვარზე, სადაც მხსნელი ეწამა,',
-		num: num = 232,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჯვარზე, სადაც მხსნელი ეწამა,"),
+    num: (num = 232),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1125)</span>
 <main class="full-hymn">
@@ -15845,12 +15830,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო მოვდივართ შენთან',
-		num: num = 233,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო მოვდივართ შენთან"),
+    num: (num = 233),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1126)</span>
 <main class="full-hymn">
@@ -15907,12 +15892,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მტკიცედ მწამს: იესო ჩემია;',
-		num: num = 234,
-		page: `
+`,
+  },
+  {
+    title: (title = "მტკიცედ მწამს: იესო ჩემია;"),
+    num: (num = 234),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 308)</span>
 <main class="full-hymn">
@@ -15956,12 +15941,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'საოცრად შეიცვალა ჩემი ცხოვრება,',
-		num: num = 235,
-		page: `
+`,
+  },
+  {
+    title: (title = "საოცრად შეიცვალა ჩემი ცხოვრება,"),
+    num: (num = 235),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 309)</span>
 <main class="full-hymn">
@@ -16031,12 +16016,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიხარულმა აავსო გული ჩემი,',
-		num: num = 236,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიხარულმა აავსო გული ჩემი,"),
+    num: (num = 236),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1357)</span>
 <main class="full-hymn">
@@ -16061,12 +16046,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ოდეს მედო ცოდვის ბორკილები,',
-		num: num = 237,
-		page: `
+`,
+  },
+  {
+    title: (title = "ოდეს მედო ცოდვის ბორკილები,"),
+    num: (num = 237),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 310)</span>
 <main class="full-hymn">
@@ -16123,12 +16108,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ის, რაც მაქვს, - არ მაქვს ჩემი მიღწევით;',
-		num: num = 238,
-		page: `
+`,
+  },
+  {
+    title: (title = "ის, რაც მაქვს, - არ მაქვს ჩემი მიღწევით;"),
+    num: (num = 238),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 311)</span>
 <main class="full-hymn">
@@ -16185,12 +16170,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მადლის ეს ტკბილი ხმა.',
-		num: num = 239,
-		page: `
+`,
+  },
+  {
+    title: (title = "მადლის ეს ტკბილი ხმა."),
+    num: (num = 239),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 312)</span>
 <main class="full-hymn">
@@ -16273,12 +16258,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მადლით ვიყავი დახსნილი,',
-		num: num = 240,
-		page: `
+`,
+  },
+  {
+    title: (title = "მადლით ვიყავი დახსნილი,"),
+    num: (num = 240),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 313)</span>
 <main class="full-hymn">
@@ -16319,12 +16304,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მხსნელო, შენ ხარ ჩემი,',
-		num: num = 241,
-		page: `
+`,
+  },
+  {
+    title: (title = "მხსნელო, შენ ხარ ჩემი,"),
+    num: (num = 241),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 317)</span>
 <main class="full-hymn">
@@ -16381,12 +16366,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყველა კურთხევის სათავევ,',
-		num: num = 242,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყველა კურთხევის სათავევ,"),
+    num: (num = 242),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 319)</span>
 <main class="full-hymn">
@@ -16430,12 +16415,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სრულყოფილი გადარჩენა!',
-		num: num = 243,
-		page: `
+`,
+  },
+  {
+    title: (title = "სრულყოფილი გადარჩენა!"),
+    num: (num = 243),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 321)</span>
 <main class="full-hymn">
@@ -16500,12 +16485,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ცოდვის ძალას თრგუნავს,',
-		num: num = 244,
-		page: `
+`,
+  },
+  {
+    title: (title = "ცოდვის ძალას თრგუნავს,"),
+    num: (num = 244),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30"></span>
 <main class="full-hymn">
@@ -16549,12 +16534,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მრავალი წელი ამაოდ ვეძებდი',
-		num: num = 245,
-		page: `
+`,
+  },
+  {
+    title: (title = "მრავალი წელი ამაოდ ვეძებდი"),
+    num: (num = 245),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 322)</span>
 <main class="full-hymn">
@@ -16611,12 +16596,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მე მომესმა იესოს ხმა:',
-		num: num = 246,
-		page: `
+`,
+  },
+  {
+    title: (title = "მე მომესმა იესოს ხმა:"),
+    num: (num = 246),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 323)</span>
 <main class="full-hymn">
@@ -16660,12 +16645,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემი გულიდან მოსჩქეფს ქება',
-		num: num = 247,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემი გულიდან მოსჩქეფს ქება"),
+    num: (num = 247),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30"></span>
 <main class="full-hymn">
@@ -16735,12 +16720,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ცივი წყლის წყაროდან შესმა',
-		num: num = 248,
-		page: `
+`,
+  },
+  {
+    title: (title = "ცივი წყლის წყაროდან შესმა"),
+    num: (num = 248),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 325)</span>
 <main class="full-hymn">
@@ -16797,12 +16782,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის ტახტთან მყოფი მღვდელმთავრის',
-		num: num = 249,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის ტახტთან მყოფი მღვდელმთავრის"),
+    num: (num = 249),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 327)</span>
 <main class="full-hymn">
@@ -16861,12 +16846,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'არ ვიცი, რატომ გამიხსნა',
-		num: num = 250,
-		page: `
+`,
+  },
+  {
+    title: (title = "არ ვიცი, რატომ გამიხსნა"),
+    num: (num = 250),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 333)</span>
 <main class="full-hymn">
@@ -16936,12 +16921,12 @@ const pages = [
 </ul>
 </section>
 </main >
-	`
-	},
-	{
-		title: title = 'უფლის წმიდებო, თქვენს რწმენას მტკიცე აქვს',
-		num: num = 251,
-		page: `
+	`,
+  },
+  {
+    title: (title = "უფლის წმიდებო, თქვენს რწმენას მტკიცე აქვს"),
+    num: (num = 251),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 339)</span>
 <main class="full-hymn">
@@ -17000,12 +16985,12 @@ const pages = [
 </ul>
 </section>
 </main >
-	`
-	},
-	{
-		title: title = 'ღმერთმა სოფლისგან მიხსნა;',
-		num: num = 252,
-		page: `
+	`,
+  },
+  {
+    title: (title = "ღმერთმა სოფლისგან მიხსნა;"),
+    num: (num = 252),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1127)</span>
 <main class="full-hymn">
@@ -17101,12 +17086,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქება ქრისტეს! ის ჩვენშია',
-		num: num = 253,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქება ქრისტეს! ის ჩვენშია"),
+    num: (num = 253),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1130)</span>
 <main class="full-hymn">
@@ -17195,12 +17180,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტეში ვცხოვრობ, ვხარობ',
-		num: num = 254,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტეში ვცხოვრობ, ვხარობ"),
+    num: (num = 254),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1350)</span>
 <main class="full-hymn">
@@ -17216,12 +17201,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როს შენი მშვიდობა მოსჩქეფს მდინარედ,',
-		num: num = 255,
-		page: `
+`,
+  },
+  {
+    title: (title = "როს შენი მშვიდობა მოსჩქეფს მდინარედ,"),
+    num: (num = 255),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 341)</span>
 <main class="full-hymn">
@@ -17270,12 +17255,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტემ ცოდვისგან დამიხსნა,',
-		num: num = 256,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტემ ცოდვისგან დამიხსნა,"),
+    num: (num = 256),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 348)</span>
 <main class="full-hymn">
@@ -17319,12 +17304,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვით დაღლილ ირემს სწყურია',
-		num: num = 257,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვით დაღლილ ირემს სწყურია"),
+    num: (num = 257),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 349)</span>
 <main class="full-hymn">
@@ -17374,12 +17359,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთია თავად ჩემი მიზანი,',
-		num: num = 258,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთია თავად ჩემი მიზანი,"),
+    num: (num = 258),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 350)</span>
 <main class="full-hymn">
@@ -17420,12 +17405,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უდაბნოში ღმერთისთვის,',
-		num: num = 259,
-		page: `
+`,
+  },
+  {
+    title: (title = "უდაბნოში ღმერთისთვის,"),
+    num: (num = 259),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 352)</span>
 <main class="full-hymn">
@@ -17466,12 +17451,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, მშვინვის მაგნიტო!',
-		num: num = 260,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, მშვინვის მაგნიტო!"),
+    num: (num = 260),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 356)</span>
 <main class="full-hymn">
@@ -17521,12 +17506,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, უფალო, წმიდა ცეცხლით',
-		num: num = 261,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, უფალო, წმიდა ცეცხლით"),
+    num: (num = 261),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 357)</span>
 <main class="full-hymn">
@@ -17575,12 +17560,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უმაღლესო სიყვარულო,',
-		num: num = 262,
-		page: `
+`,
+  },
+  {
+    title: (title = "უმაღლესო სიყვარულო,"),
+    num: (num = 262),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 358)</span>
 <main class="full-hymn">
@@ -17637,12 +17622,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შუქთა შუქო, მოდი,',
-		num: num = 263,
-		page: `
+`,
+  },
+  {
+    title: (title = "შუქთა შუქო, მოდი,"),
+    num: (num = 263),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 359)</span>
 <main class="full-hymn">
@@ -17725,12 +17710,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ის მოკვდა, რომ მე მეცოცხლა,',
-		num: num = 264,
-		page: `
+`,
+  },
+  {
+    title: (title = "ის მოკვდა, რომ მე მეცოცხლა,"),
+    num: (num = 264),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 362)</span>
 <main class="full-hymn">
@@ -17787,12 +17772,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემში ხარ, იესო,',
-		num: num = 265,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემში ხარ, იესო,"),
+    num: (num = 265),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 365)</span>
 <main class="full-hymn">
@@ -17857,11 +17842,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	}, {
-		title: title = 'აღმატებულო იესო,',
-		num: num = 266,
-		page: `
+`,
+  },
+  {
+    title: (title = "აღმატებულო იესო,"),
+    num: (num = 266),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 367)</span>
 <main class="full-hymn">
@@ -17911,11 +17897,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	}, {
-		title: title = 'მხოლოდ მეტ სიყვარულს',
-		num: num = 267,
-		page: `
+`,
+  },
+  {
+    title: (title = "მხოლოდ მეტ სიყვარულს"),
+    num: (num = 267),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 368)</span>
 <main class="full-hymn">
@@ -17972,12 +17959,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დამკვიდრდი ჩემთან, სწრაფად ბნელდება;',
-		num: num = 268,
-		page: `
+`,
+  },
+  {
+    title: (title = "დამკვიდრდი ჩემთან, სწრაფად ბნელდება;"),
+    num: (num = 268),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 370)</span>
 <main class="full-hymn">
@@ -18027,12 +18014,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მოწყალე უფალო,',
-		num: num = 269,
-		page: `
+`,
+  },
+  {
+    title: (title = "მოწყალე უფალო,"),
+    num: (num = 269),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 371)</span>
 <main class="full-hymn">
@@ -18102,12 +18089,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'არაფერი იდგეს ჩვენ შორის,',
-		num: num = 270,
-		page: `
+`,
+  },
+  {
+    title: (title = "არაფერი იდგეს ჩვენ შორის,"),
+    num: (num = 270),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 272)</span>
 <main class="full-hymn">
@@ -18182,12 +18169,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როცა გზას გავდივარ',
-		num: num = 271,
-		page: `
+`,
+  },
+  {
+    title: (title = "როცა გზას გავდივარ"),
+    num: (num = 271),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 377)</span>
 <main class="full-hymn">
@@ -18231,12 +18218,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მხსნელო, ამიყვანე მთაზე,',
-		num: num = 272,
-		page: `
+`,
+  },
+  {
+    title: (title = "მხსნელო, ამიყვანე მთაზე,"),
+    num: (num = 272),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 378)</span>
 <main class="full-hymn">
@@ -18280,12 +18267,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, პური მოცემული,',
-		num: num = 273,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, პური მოცემული,"),
+    num: (num = 273),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 380)</span>
 <main class="full-hymn">
@@ -18329,12 +18316,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მომეცი სრული ხედვა მხსნელო,',
-		num: num = 274,
-		page: `
+`,
+  },
+  {
+    title: (title = "მომეცი სრული ხედვა მხსნელო,"),
+    num: (num = 274),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 381)</span>
 <main class="full-hymn">
@@ -18378,12 +18365,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მსურს ვიცოდე იესოზე:',
-		num: num = 275,
-		page: `
+`,
+  },
+  {
+    title: (title = "მსურს ვიცოდე იესოზე:"),
+    num: (num = 275),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 382)</span>
 <main class="full-hymn">
@@ -18440,12 +18427,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იმორჩილებ ჩემს ჯიუტ ნებას,',
-		num: num = 276,
-		page: `
+`,
+  },
+  {
+    title: (title = "იმორჩილებ ჩემს ჯიუტ ნებას,"),
+    num: (num = 276),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 383)</span>
 <main class="full-hymn">
@@ -18502,12 +18489,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენი ვარ ღმერთო, მოვისმინე ხმა,',
-		num: num = 277,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენი ვარ ღმერთო, მოვისმინე ხმა,"),
+    num: (num = 277),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 387)</span>
 <main class="full-hymn">
@@ -18564,12 +18551,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთო შენი თანდასწრება მწყურია,',
-		num: num = 278,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთო შენი თანდასწრება მწყურია,"),
+    num: (num = 278),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 389)</span>
 <main class="full-hymn">
@@ -18626,12 +18613,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მხსნელო, ამას ვლოცულობ,',
-		num: num = 279,
-		page: `
+`,
+  },
+  {
+    title: (title = "მხსნელო, ამას ვლოცულობ,"),
+    num: (num = 279),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 390)</span>
 <main class="full-hymn">
@@ -18675,12 +18662,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მას, ვისაც აქვს, შენ მიეცი',
-		num: num = 280,
-		page: `
+`,
+  },
+  {
+    title: (title = "მას, ვისაც აქვს, შენ მიეცი"),
+    num: (num = 280),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span>(ინგ. 394)</span>
 <main class="full-hymn">
@@ -18740,12 +18727,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე გაიზარდე ჩემში',
-		num: num = 281,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე გაიზარდე ჩემში"),
+    num: (num = 281),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 395)</span>
 <main class="full-hymn">
@@ -18815,12 +18802,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვისწრაფი აღმავალ გზაზე',
-		num: num = 282,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვისწრაფი აღმავალ გზაზე"),
+    num: (num = 282),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 396)</span>
 <main class="full-hymn">
@@ -18877,12 +18864,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მეტ სიწმიდეს შეგთხოვ,',
-		num: num = 283,
-		page: `
+`,
+  },
+  {
+    title: (title = "მეტ სიწმიდეს შეგთხოვ,"),
+    num: (num = 283),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 397)</span>
 <main class="full-hymn">
@@ -18938,12 +18925,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, შენი მსგავსი გამომსყიდველო',
-		num: num = 284,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, შენი მსგავსი გამომსყიდველო"),
+    num: (num = 284),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 395)</span>
 <main class="full-hymn">
@@ -19013,12 +19000,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მსურს რომ შევიცვალო',
-		num: num = 285,
-		page: `
+`,
+  },
+  {
+    title: (title = "მსურს რომ შევიცვალო"),
+    num: (num = 285),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 399)</span>
 <main class="full-hymn">
@@ -19086,12 +19073,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იცხოვრე ჩემგან უფალო,',
-		num: num = 286,
-		page: `
+`,
+  },
+  {
+    title: (title = "იცხოვრე ჩემგან უფალო,"),
+    num: (num = 286),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 403)</span>
 <main class="full-hymn">
@@ -19148,12 +19135,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდების მამაო, ახლა მომეცი',
-		num: num = 287,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდების მამაო, ახლა მომეცი"),
+    num: (num = 287),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1133)</span>
 <main class="full-hymn">
@@ -19203,12 +19190,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მიწის მშვენება ვიხილე',
-		num: num = 288,
-		page: `
+`,
+  },
+  {
+    title: (title = "მიწის მშვენება ვიხილე"),
+    num: (num = 288),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 405)</span>
 <main class="full-hymn">
@@ -19278,12 +19265,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მასწავლე შენი გზა,',
-		num: num = 289,
-		page: `
+`,
+  },
+  {
+    title: (title = "მასწავლე შენი გზა,"),
+    num: (num = 289),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 406)</span>
 <main class="full-hymn">
@@ -19326,12 +19313,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, უმწიკლო ვიყო მწყურია,',
-		num: num = 290,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, უმწიკლო ვიყო მწყურია,"),
+    num: (num = 290),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 408)</span>
 <main class="full-hymn">
@@ -19391,12 +19378,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მაჩვენე შენი თავი,',
-		num: num = 291,
-		page: `
+`,
+  },
+  {
+    title: (title = "მაჩვენე შენი თავი,"),
+    num: (num = 291),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 412)</span>
 <main class="full-hymn">
@@ -19492,12 +19479,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შემომხედე იესო,',
-		num: num = 292,
-		page: `
+`,
+  },
+  {
+    title: (title = "შემომხედე იესო,"),
+    num: (num = 292),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 413)</span>
 <main class="full-hymn">
@@ -19556,12 +19543,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მტრის ფარული ძალა ჩვენთვის',
-		num: num = 293,
-		page: `
+`,
+  },
+  {
+    title: (title = "მტრის ფარული ძალა ჩვენთვის"),
+    num: (num = 293),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 415)</span>
 <main class="full-hymn">
@@ -19632,12 +19619,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'არ მომცე ნება რომ გთხოვო',
-		num: num = 294,
-		page: `
+`,
+  },
+  {
+    title: (title = "არ მომცე ნება რომ გთხოვო"),
+    num: (num = 294),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 418)</span>
 <main class="full-hymn">
@@ -19675,12 +19662,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩაუწვდომელია სიღრმე',
-		num: num = 295,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩაუწვდომელია სიღრმე"),
+    num: (num = 295),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 423)</span>
 <main class="full-hymn">
@@ -19762,12 +19749,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, მომხსენი რიდე',
-		num: num = 296,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, მომხსენი რიდე"),
+    num: (num = 296),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 426)</span>
 <main class="full-hymn">
@@ -19876,12 +19863,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როცა ბუნებრივ კაცში ვარ,',
-		num: num = 297,
-		page: `
+`,
+  },
+  {
+    title: (title = "როცა ბუნებრივ კაცში ვარ,"),
+    num: (num = 297),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 430)</span>
 <main class="full-hymn">
@@ -19967,12 +19954,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო გვასწავლე,',
-		num: num = 298,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო გვასწავლე,"),
+    num: (num = 298),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1132)</span>
 <main class="full-hymn">
@@ -20058,12 +20045,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გააძლიერე ჩემი სული,',
-		num: num = 299,
-		page: `
+`,
+  },
+  {
+    title: (title = "გააძლიერე ჩემი სული,"),
+    num: (num = 299),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1134)</span>
 <main class="full-hymn">
@@ -20120,12 +20107,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, გაგვწმინდე,',
-		num: num = 300,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, გაგვწმინდე,"),
+    num: (num = 300),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1135)</span>
 <main class="full-hymn">
@@ -20216,12 +20203,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გვაკურთხე გამოცხადებით,',
-		num: num = 301,
-		page: `
+`,
+  },
+  {
+    title: (title = "გვაკურთხე გამოცხადებით,"),
+    num: (num = 301),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1136)</span>
 <main class="full-hymn">
@@ -20291,12 +20278,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მის სახეს ანგელოზნი ხედავენ თუმც',
-		num: num = 302,
-		page: `
+`,
+  },
+  {
+    title: (title = "მის სახეს ანგელოზნი ხედავენ თუმც"),
+    num: (num = 302),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1137)</span>
 <main class="full-hymn">
@@ -20366,12 +20353,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენი დიადი სიყვარული, მე',
-		num: num = 303,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენი დიადი სიყვარული, მე"),
+    num: (num = 303),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 431)</span>
 <main class="full-hymn">
@@ -20412,12 +20399,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიყვარულო, დაღლილ მშვინვას',
-		num: num = 304,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიყვარულო, დაღლილ მშვინვას"),
+    num: (num = 304),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 432)</span>
 <main class="full-hymn">
@@ -20462,12 +20449,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ენით აღუწერელი სიყვარული',
-		num: num = 305,
-		page: `
+`,
+  },
+  {
+    title: (title = "ენით აღუწერელი სიყვარული"),
+    num: (num = 305),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 433)</span>
 <main class="full-hymn">
@@ -20508,12 +20495,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მწარე სირცხვილით, წუხილით',
-		num: num = 306,
-		page: `
+`,
+  },
+  {
+    title: (title = "მწარე სირცხვილით, წუხილით"),
+    num: (num = 306),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 435)</span>
 <main class="full-hymn">
@@ -20562,12 +20549,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიცოცხლე მიბოძე',
-		num: num = 307,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიცოცხლე მიბოძე"),
+    num: (num = 307),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 436)</span>
 <main class="full-hymn">
@@ -20638,12 +20625,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მასზე გსმენია? გინახავს?',
-		num: num = 308,
-		page: `
+`,
+  },
+  {
+    title: (title = "მასზე გსმენია? გინახავს?"),
+    num: (num = 308),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 437)</span>
 <main class="full-hymn">
@@ -20739,12 +20726,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ზურგი ვაქციე ყოველგვარ',
-		num: num = 309,
-		page: `
+`,
+  },
+  {
+    title: (title = "ზურგი ვაქციე ყოველგვარ"),
+    num: (num = 309),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 438)</span>
 <main class="full-hymn">
@@ -20817,12 +20804,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სრულად ვარ მიძღვნილი',
-		num: num = 310,
-		page: `
+`,
+  },
+  {
+    title: (title = "სრულად ვარ მიძღვნილი"),
+    num: (num = 310),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 439)</span>
 <main class="full-hymn">
@@ -20946,12 +20933,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესოს ვუძღვნი ყველაფერს,',
-		num: num = 311,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესოს ვუძღვნი ყველაფერს,"),
+    num: (num = 311),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 441)</span>
 <main class="full-hymn">
@@ -21021,12 +21008,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყველაფერი იესოსთვის!',
-		num: num = 312,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყველაფერი იესოსთვის!"),
+    num: (num = 312),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 444)</span>
 <main class="full-hymn">
@@ -21096,12 +21083,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გიძღვნი ჩემს სიცოცხლეს შენ,',
-		num: num = 313,
-		page: `
+`,
+  },
+  {
+    title: (title = "გიძღვნი ჩემს სიცოცხლეს შენ,"),
+    num: (num = 313),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 445)</span>
 <main class="full-hymn">
@@ -21166,12 +21153,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რა მოგცე შენ, ბატონო?',
-		num: num = 314,
-		page: `
+`,
+  },
+  {
+    title: (title = "რა მოგცე შენ, ბატონო?"),
+    num: (num = 314),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 446)</span>
 <main class="full-hymn">
@@ -21227,12 +21214,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გიძღვნი ჩემს სიცოცხლეს შენ,',
-		num: num = 315,
-		page: `
+`,
+  },
+  {
+    title: (title = "გიძღვნი ჩემს სიცოცხლეს შენ,"),
+    num: (num = 315),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1359)</span>
 <main class="full-hymn">
@@ -21315,12 +21302,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენ როგორც გსურდეს',
-		num: num = 316,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენ როგორც გსურდეს"),
+    num: (num = 316),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 449)</span>
 <main class="full-hymn">
@@ -21377,12 +21364,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'არ მსურს მოვტყუვდე ან ვცდუნდე',
-		num: num = 317,
-		page: `
+`,
+  },
+  {
+    title: (title = "არ მსურს მოვტყუვდე ან ვცდუნდე"),
+    num: (num = 317),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 452)</span>
 <main class="full-hymn">
@@ -21438,12 +21425,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვცხოვრობ იესოსთვის იმ სიცოცხლით,',
-		num: num = 318,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვცხოვრობ იესოსთვის იმ სიცოცხლით,"),
+    num: (num = 318),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 456)</span>
 <main class="full-hymn">
@@ -21516,12 +21503,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო, ავიღე ჯვარი,',
-		num: num = 319,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო, ავიღე ჯვარი,"),
+    num: (num = 319),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 460)</span>
 <main class="full-hymn">
@@ -21578,12 +21565,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვინც მიყვარს, ვისაც ვმსახურობ',
-		num: num = 320,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვინც მიყვარს, ვისაც ვმსახურობ"),
+    num: (num = 320),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 462)</span>
 <main class="full-hymn">
@@ -21633,12 +21620,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მიყვარს ჩემი ბატონი,',
-		num: num = 321,
-		page: `
+`,
+  },
+  {
+    title: (title = "მიყვარს ჩემი ბატონი,"),
+    num: (num = 321),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 463)</span>
 <main class="full-hymn">
@@ -21682,12 +21669,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვინ დგას უფლის მხარეს?',
-		num: num = 322,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვინ დგას უფლის მხარეს?"),
+    num: (num = 322),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 469)</span>
 <main class="full-hymn">
@@ -21777,12 +21764,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როგორ ვიყო შენ გარეშე',
-		num: num = 323,
-		page: `
+`,
+  },
+  {
+    title: (title = "როგორ ვიყო შენ გარეშე"),
+    num: (num = 323),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 471)</span>
 <main class="full-hymn">
@@ -21831,12 +21818,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მხსნელის სამეფოში ბევრს სურს',
-		num: num = 324,
-		page: `
+`,
+  },
+  {
+    title: (title = "მხსნელის სამეფოში ბევრს სურს"),
+    num: (num = 324),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 472)</span>
 <main class="full-hymn">
@@ -21893,12 +21880,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდი თავისუფლებაა',
-		num: num = 325,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდი თავისუფლებაა"),
+    num: (num = 325),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 473)</span>
 <main class="full-hymn">
@@ -21942,12 +21929,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ჩვენი მიძღვნა ხარ,',
-		num: num = 326,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ჩვენი მიძღვნა ხარ,"),
+    num: (num = 326),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1138)</span>
 <main class="full-hymn">
@@ -22004,12 +21991,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენთან ერთი ვარ, უფალო,',
-		num: num = 327,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენთან ერთი ვარ, უფალო,"),
+    num: (num = 327),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 474)</span>
 <main class="full-hymn">
@@ -22092,12 +22079,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძევ მარადიულო, რწმენით,',
-		num: num = 328,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძევ მარადიულო, რწმენით,"),
+    num: (num = 328),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 475)</span>
 <main class="full-hymn">
@@ -22154,12 +22141,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'თუნდაც იშვას ქრისტე,',
-		num: num = 329,
-		page: `
+`,
+  },
+  {
+    title: (title = "თუნდაც იშვას ქრისტე,"),
+    num: (num = 329),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 477)</span>
 <main class="full-hymn">
@@ -22215,12 +22202,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესომ მე გადმომცა',
-		num: num = 330,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესომ მე გადმომცა"),
+    num: (num = 330),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 479)</span>
 <main class="full-hymn">
@@ -22282,12 +22269,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'წუთისოფლისთვის, ცოდვისთვის',
-		num: num = 331,
-		page: `
+`,
+  },
+  {
+    title: (title = "წუთისოფლისთვის, ცოდვისთვის"),
+    num: (num = 331),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 481)</span>
 <main class="full-hymn">
@@ -22343,12 +22330,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მე ჯვარცმული ვარ ქრისტესთან',
-		num: num = 332,
-		page: `
+`,
+  },
+  {
+    title: (title = "მე ჯვარცმული ვარ ქრისტესთან"),
+    num: (num = 332),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 482)</span>
 <main class="full-hymn">
@@ -22431,12 +22418,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტესთან მოვკვდი და აღვდექი,',
-		num: num = 333,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტესთან მოვკვდი და აღვდექი,"),
+    num: (num = 333),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 483)</span>
 <main class="full-hymn">
@@ -22491,12 +22478,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როცა ქრისტე ჯვარზე მოკვდა,',
-		num: num = 334,
-		page: `
+`,
+  },
+  {
+    title: (title = "როცა ქრისტე ჯვარზე მოკვდა,"),
+    num: (num = 334),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 484)</span>
 <main class="full-hymn">
@@ -22561,12 +22548,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მეც ვიზიარებ იესოს სიკვდილს;',
-		num: num = 335,
-		page: `
+`,
+  },
+  {
+    title: (title = "მეც ვიზიარებ იესოს სიკვდილს;"),
+    num: (num = 335),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 486)</span>
 <main class="full-hymn">
@@ -22636,12 +22623,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტესთან ჯვარს ვეცვი - დიადი ფაქტი;',
-		num: num = 336,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტესთან ჯვარს ვეცვი - დიადი ფაქტი;"),
+    num: (num = 336),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 487)</span>
 <main class="full-hymn">
@@ -22658,12 +22645,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'საიდუმლო გახსნილი მაქვს,',
-		num: num = 337,
-		page: `
+`,
+  },
+  {
+    title: (title = "საიდუმლო გახსნილი მაქვს,"),
+    num: (num = 337),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 488)</span>
 <main class="full-hymn">
@@ -22740,12 +22727,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, როცა იყავი',
-		num: num = 338,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, როცა იყავი"),
+    num: (num = 338),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 489)</span>
 <main class="full-hymn">
@@ -22831,12 +22818,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, უცნობი მამა',
-		num: num = 339,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, უცნობი მამა"),
+    num: (num = 339),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 490)</span>
 <main class="full-hymn">
@@ -22904,12 +22891,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, შენ იცოდი, რომ',
-		num: num = 340,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, შენ იცოდი, რომ"),
+    num: (num = 340),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 491)</span>
 <main class="full-hymn">
@@ -22977,12 +22964,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, მშვიდობა ჰპოვე',
-		num: num = 341,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, მშვიდობა ჰპოვე"),
+    num: (num = 341),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 492)</span>
 <main class="full-hymn">
@@ -23050,12 +23037,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვუმღეროთ უფალს დიდება სულში,',
-		num: num = 342,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვუმღეროთ უფალს დიდება სულში,"),
+    num: (num = 342),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1141)</span>
 <main class="full-hymn">
@@ -23096,12 +23083,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ხარ სული ახლა,',
-		num: num = 343,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ხარ სული ახლა,"),
+    num: (num = 343),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 493)</span>
 <main class="full-hymn">
@@ -23151,12 +23138,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესოა რეალობა,',
-		num: num = 344,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესოა რეალობა,"),
+    num: (num = 344),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1141)</span>
 <main class="full-hymn">
@@ -23226,12 +23213,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე - ღმერთის ჭეშმარიტი',
-		num: num = 345,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე - ღმერთის ჭეშმარიტი"),
+    num: (num = 345),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 494)</span>
 <main class="full-hymn">
@@ -23281,12 +23268,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის ცენტრალურობა და',
-		num: num = 346,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის ცენტრალურობა და"),
+    num: (num = 346),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 495)</span>
 <main class="full-hymn">
@@ -23372,12 +23359,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყველაფრის სინამდვილეა ქრისტე:',
-		num: num = 347,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყველაფრის სინამდვილეა ქრისტე:"),
+    num: (num = 347),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 496)</span>
 <main class="full-hymn">
@@ -23436,12 +23423,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მადლის უმაღლესი განსაზღვრება',
-		num: num = 348,
-		page: `
+`,
+  },
+  {
+    title: (title = "მადლის უმაღლესი განსაზღვრება"),
+    num: (num = 348),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 497)</span>
 <main class="full-hymn">
@@ -23491,12 +23478,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემს საოცარ ამბავს გეტყვით:',
-		num: num = 349,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემს საოცარ ამბავს გეტყვით:"),
+    num: (num = 349),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 498)</span>
 <main class="full-hymn">
@@ -23566,12 +23553,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო სიცოცხლე და მშვიდობა!',
-		num: num = 350,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო სიცოცხლე და მშვიდობა!"),
+    num: (num = 350),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 499)</span>
 <main class="full-hymn">
@@ -23628,12 +23615,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, ძალა და ძლიერება!',
-		num: num = 351,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, ძალა და ძლიერება!"),
+    num: (num = 351),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 500)</span>
 <main class="full-hymn">
@@ -23677,12 +23664,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდებულო მხსნელო ქრისტე,',
-		num: num = 352,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდებულო მხსნელო ქრისტე,"),
+    num: (num = 352),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 501)</span>
 <main class="full-hymn">
@@ -23778,12 +23765,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ცოდვაში მკვდარი და',
-		num: num = 353,
-		page: `
+`,
+  },
+  {
+    title: (title = "ცოდვაში მკვდარი და"),
+    num: (num = 353),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 502)</span>
 <main class="full-hymn">
@@ -23821,12 +23808,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვემსახურები ჩემს მხსნელს,',
-		num: num = 354,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვემსახურები ჩემს მხსნელს,"),
+    num: (num = 354),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 503)</span>
 <main class="full-hymn">
@@ -23882,12 +23869,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'კაცია დიდებაში',
-		num: num = 355,
-		page: `
+`,
+  },
+  {
+    title: (title = "კაცია დიდებაში"),
+    num: (num = 355),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 505)</span>
 <main class="full-hymn">
@@ -23952,12 +23939,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შორს ღმერთისგან, ცოდვით მკვდარი,',
-		num: num = 356,
-		page: `
+`,
+  },
+  {
+    title: (title = "შორს ღმერთისგან, ცოდვით მკვდარი,"),
+    num: (num = 356),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 507)</span>
 <main class="full-hymn">
@@ -24014,12 +24001,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო ტყვევ! განთავისუფლდი!',
-		num: num = 357,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო ტყვევ! განთავისუფლდი!"),
+    num: (num = 357),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 508)</span>
 <main class="full-hymn">
@@ -24076,12 +24063,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდება! ქრისტე სიცოცხლეა!',
-		num: num = 358,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდება! ქრისტე სიცოცხლეა!"),
+    num: (num = 358),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1356)</span>
 <main class="full-hymn">
@@ -24105,12 +24092,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიცოცხლის ხე და მდინარე,',
-		num: num = 359,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიცოცხლის ხე და მდინარე,"),
+    num: (num = 359),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 509)</span>
 <main class="full-hymn">
@@ -24180,12 +24167,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიცოცხლის ხის ტკბილ ნაყოფში,',
-		num: num = 360,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიცოცხლის ხის ტკბილ ნაყოფში,"),
+    num: (num = 360),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1143)</span>
 <main class="full-hymn">
@@ -24226,12 +24213,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძველად ღმერთის სიტყვამ ნათლად გვითხრა',
-		num: num = 361,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძველად ღმერთის სიტყვამ ნათლად გვითხრა"),
+    num: (num = 361),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1144)</span>
 <main class="full-hymn">
@@ -24327,12 +24314,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, ღმერთმა უსასყიდლოდ ძე',
-		num: num = 362,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, ღმერთმა უსასყიდლოდ ძე"),
+    num: (num = 362),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1145)</span>
 <main class="full-hymn">
@@ -24389,12 +24376,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო ყოველდღე ვჭამოთ,',
-		num: num = 363,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო ყოველდღე ვჭამოთ,"),
+    num: (num = 363),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1146)</span>
 <main class="full-hymn">
@@ -24438,12 +24425,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალი გვიხმობს: "ჭამეთ, სვით"!',
-		num: num = 364,
-		page: `
+`,
+  },
+  {
+    title: (title = 'უფალი გვიხმობს: "ჭამეთ, სვით"!'),
+    num: (num = 364),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1148)</span>
 <main class="full-hymn">
@@ -24472,12 +24459,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე - მადლის, სინამდვილის',
-		num: num = 365,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე - მადლის, სინამდვილის"),
+    num: (num = 365),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1149)</span>
 <main class="full-hymn">
@@ -24526,12 +24513,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, გვკვებავს ცოცხალი პური,',
-		num: num = 366,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, გვკვებავს ცოცხალი პური,"),
+    num: (num = 366),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1150)</span>
 <main class="full-hymn">
@@ -24601,12 +24588,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შესვი! ტახტიდან მოედინება მდინარე;',
-		num: num = 367,
-		page: `
+`,
+  },
+  {
+    title: (title = "შესვი! ტახტიდან მოედინება მდინარე;"),
+    num: (num = 367),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1151)</span>
 <main class="full-hymn">
@@ -24663,12 +24650,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემი გული ტკბობით მღერის,',
-		num: num = 368,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემი გული ტკბობით მღერის,"),
+    num: (num = 368),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 510)</span>
 <main class="full-hymn">
@@ -24808,12 +24795,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვაუწყებთ იესოს მხოლოდ,',
-		num: num = 369,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვაუწყებთ იესოს მხოლოდ,"),
+    num: (num = 369),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 511)</span>
 <main class="full-hymn">
@@ -24896,12 +24883,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იყო კურთხევა, დღეს',
-		num: num = 370,
-		page: `
+`,
+  },
+  {
+    title: (title = "იყო კურთხევა, დღეს"),
+    num: (num = 370),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 513)</span>
 <main class="full-hymn">
@@ -24991,12 +24978,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყველაფერი იცვლება,',
-		num: num = 371,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყველაფერი იცვლება,"),
+    num: (num = 371),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 514)</span>
 <main class="full-hymn">
@@ -25081,12 +25068,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, იესო, საოცარი მხსნელი,',
-		num: num = 372,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, იესო, საოცარი მხსნელი,"),
+    num: (num = 372),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 517)</span>
 <main class="full-hymn">
@@ -25156,12 +25143,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ვინ მყავს ზეცაში',
-		num: num = 373,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ვინ მყავს ზეცაში"),
+    num: (num = 373),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 518)</span>
 <main class="full-hymn">
@@ -25231,12 +25218,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, მადლიერი ვარ,',
-		num: num = 374,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, მადლიერი ვარ,"),
+    num: (num = 374),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 521)</span>
 <main class="full-hymn">
@@ -25307,12 +25294,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტევ, ჩემმა მშვინვამ შენში',
-		num: num = 375,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტევ, ჩემმა მშვინვამ შენში"),
+    num: (num = 375),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 522)</span>
 <main class="full-hymn">
@@ -25372,12 +25359,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიცოცხლის წყაროსთან მოვედი;',
-		num: num = 376,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიცოცხლის წყაროსთან მოვედი;"),
+    num: (num = 376),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 523)</span>
 <main class="full-hymn">
@@ -25450,12 +25437,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რა მოსაწყენია ის დრო,',
-		num: num = 377,
-		page: `
+`,
+  },
+  {
+    title: (title = "რა მოსაწყენია ის დრო,"),
+    num: (num = 377),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 529)</span>
 <main class="full-hymn">
@@ -25512,12 +25499,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო ყველაფერია,',
-		num: num = 378,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო ყველაფერია,"),
+    num: (num = 378),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 530)</span>
 <main class="full-hymn">
@@ -25574,12 +25561,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მიწიური ჭკნება;',
-		num: num = 379,
-		page: `
+`,
+  },
+  {
+    title: (title = "მიწიური ჭკნება;"),
+    num: (num = 379),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 531)</span>
 <main class="full-hymn">
@@ -25636,12 +25623,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიმშვიდის ფარულო წყარო,',
-		num: num = 380,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიმშვიდის ფარულო წყარო,"),
+    num: (num = 380),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 532)</span>
 <main class="full-hymn">
@@ -25679,12 +25666,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მე მწამს იესოს სახელში',
-		num: num = 381,
-		page: `
+`,
+  },
+  {
+    title: (title = "მე მწამს იესოს სახელში"),
+    num: (num = 381),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 535)</span>
 <main class="full-hymn">
@@ -25744,12 +25731,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე ობიექტურად ზეცაშია,',
-		num: num = 382,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე ობიექტურად ზეცაშია,"),
+    num: (num = 382),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 536)</span>
 <main class="full-hymn">
@@ -25817,12 +25804,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემთვის სუბიექტურია,',
-		num: num = 383,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემთვის სუბიექტურია,"),
+    num: (num = 383),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 537)</span>
 <main class="full-hymn">
@@ -25905,12 +25892,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის განზრახვაა,სურვილი',
-		num: num = 384,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის განზრახვაა,სურვილი"),
+    num: (num = 384),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 538)</span>
 <main class="full-hymn">
@@ -25993,12 +25980,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ხარ სიცოცხლე და',
-		num: num = 385,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ხარ სიცოცხლე და"),
+    num: (num = 385),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 539)</span>
 <main class="full-hymn">
@@ -26068,12 +26055,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რა თავისუფლება მომცა',
-		num: num = 386,
-		page: `
+`,
+  },
+  {
+    title: (title = "რა თავისუფლება მომცა"),
+    num: (num = 386),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 540)</span>
 <main class="full-hymn">
@@ -26156,12 +26143,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყოვლისმომცველი მიწაა,',
-		num: num = 387,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყოვლისმომცველი მიწაა,"),
+    num: (num = 387),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1164)</span>
 <main class="full-hymn">
@@ -26244,12 +26231,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მიწაზე ვართ, მიწაზე ვართ,',
-		num: num = 388,
-		page: `
+`,
+  },
+  {
+    title: (title = "მიწაზე ვართ, მიწაზე ვართ,"),
+    num: (num = 388),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1165)</span>
 <main class="full-hymn">
@@ -26280,12 +26267,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'კეთილ მიწაზე ვშრომობთ, ვრგავთ და ვრწყავთ,',
-		num: num = 389,
-		page: `
+`,
+  },
+  {
+    title: (title = "კეთილ მიწაზე ვშრომობთ, ვრგავთ და ვრწყავთ,"),
+    num: (num = 389),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1168)</span>
 <main class="full-hymn">
@@ -26375,12 +26362,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალი ჩემი მწყემსია,',
-		num: num = 390,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალი ჩემი მწყემსია,"),
+    num: (num = 390),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1170)</span>
 <main class="full-hymn">
@@ -26480,12 +26467,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვიცით, ქრისტე რეალობაა,',
-		num: num = 391,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვიცით, ქრისტე რეალობაა,"),
+    num: (num = 391),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1178)</span>
 <main class="full-hymn">
@@ -26538,12 +26525,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემი ძველი კაცი მასთან ერთად',
-		num: num = 392,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემი ძველი კაცი მასთან ერთად"),
+    num: (num = 392),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1179)</span>
 <main class="full-hymn">
@@ -26598,12 +26585,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძველი პიროვნება ჯვარზეა,',
-		num: num = 393,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძველი პიროვნება ჯვარზეა,"),
+    num: (num = 393),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1180)</span>
 <main class="full-hymn">
@@ -26656,12 +26643,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გიცნობდეთ შენ, პიროვნებას',
-		num: num = 394,
-		page: `
+`,
+  },
+  {
+    title: (title = "გიცნობდეთ შენ, პიროვნებას"),
+    num: (num = 394),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1181)</span>
 <main class="full-hymn">
@@ -26734,12 +26721,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აღმატებულია',
-		num: num = 395,
-		page: `
+`,
+  },
+  {
+    title: (title = "აღმატებულია"),
+    num: (num = 395),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1187)</span>
 <main class="full-hymn">
@@ -26821,12 +26808,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტეს სიცოცხლეა',
-		num: num = 396,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტეს სიცოცხლეა"),
+    num: (num = 396),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 541)</span>
 <main class="full-hymn">
@@ -26896,12 +26883,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, სიმდიდრე ჩემი მხსნელის',
-		num: num = 397,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, სიმდიდრე ჩემი მხსნელის"),
+    num: (num = 397),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 542)</span>
 <main class="full-hymn">
@@ -26984,12 +26971,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო მიყვარხარ, ვიცი ჩემი ხარ,',
-		num: num = 398,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო მიყვარხარ, ვიცი ჩემი ხარ,"),
+    num: (num = 398),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 544)</span>
 <main class="full-hymn">
@@ -27030,12 +27017,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მიყვარს უფალი, თუმც ჩემით არა',
-		num: num = 399,
-		page: `
+`,
+  },
+  {
+    title: (title = "მიყვარს უფალი, თუმც ჩემით არა"),
+    num: (num = 399),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 546)</span>
 <main class="full-hymn">
@@ -27062,12 +27049,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესოს გარდა თუ გვიყვარს',
-		num: num = 400,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესოს გარდა თუ გვიყვარს"),
+    num: (num = 400),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 547)</span>
 <main class="full-hymn">
@@ -27117,12 +27104,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, საყვარელო',
-		num: num = 401,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, საყვარელო"),
+    num: (num = 401),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1154)</span>
 <main class="full-hymn">
@@ -27183,12 +27170,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მთელი ჩემი სიყვარული',
-		num: num = 402,
-		page: `
+`,
+  },
+  {
+    title: (title = "მთელი ჩემი სიყვარული"),
+    num: (num = 402),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1158)</span>
 <main class="full-hymn">
@@ -27270,12 +27257,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენი სილამაზით დაპყრობილი,',
-		num: num = 403,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენი სილამაზით დაპყრობილი,"),
+    num: (num = 403),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1159)</span>
 <main class="full-hymn">
@@ -27332,12 +27319,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთმა თიხის ჭურჭლად მქმნა,',
-		num: num = 404,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთმა თიხის ჭურჭლად მქმნა,"),
+    num: (num = 404),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 548)</span>
 <main class="full-hymn">
@@ -27396,12 +27383,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შედი ფარდის მიღმა, ბანაკს გარეთ',
-		num: num = 405,
-		page: `
+`,
+  },
+  {
+    title: (title = "შედი ფარდის მიღმა, ბანაკს გარეთ"),
+    num: (num = 405),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 549)</span>
 <main class="full-hymn">
@@ -27478,12 +27465,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვირწმუნე სინამდვილე,',
-		num: num = 406,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვირწმუნე სინამდვილე,"),
+    num: (num = 406),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 551)</span>
 <main class="full-hymn">
@@ -27564,12 +27551,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გასაოცარ დიდებაში ქრისტემ',
-		num: num = 407,
-		page: `
+`,
+  },
+  {
+    title: (title = "გასაოცარ დიდებაში ქრისტემ"),
+    num: (num = 407),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 552)</span>
 <main class="full-hymn">
@@ -27626,12 +27613,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მის ფარულ თანდასწრებაში',
-		num: num = 408,
-		page: `
+`,
+  },
+  {
+    title: (title = "მის ფარულ თანდასწრებაში"),
+    num: (num = 408),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 553)</span>
 <main class="full-hymn">
@@ -27688,12 +27675,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მის ცინცხალ თანდასწრებაში',
-		num: num = 409,
-		page: `
+`,
+  },
+  {
+    title: (title = "მის ცინცხალ თანდასწრებაში"),
+    num: (num = 409),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 554)</span>
 <main class="full-hymn">
@@ -27737,12 +27724,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ცხებულებაა შენი სახელი,',
-		num: num = 410,
-		page: `
+`,
+  },
+  {
+    title: (title = "ცხებულებაა შენი სახელი,"),
+    num: (num = 410),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 556)</span>
 <main class="full-hymn">
@@ -27819,12 +27806,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო,რწმენით გეხები მხსნელო,',
-		num: num = 411,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო,რწმენით გეხები მხსნელო,"),
+    num: (num = 411),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 559)</span>
 <main class="full-hymn">
@@ -27881,12 +27868,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დარჩი ქრისტეში - კურთხევა ჰპოვე',
-		num: num = 412,
-		page: `
+`,
+  },
+  {
+    title: (title = "დარჩი ქრისტეში - კურთხევა ჰპოვე"),
+    num: (num = 412),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1352)</span>
 <main class="full-hymn">
@@ -27954,12 +27941,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იცხოვრე ნათელში,',
-		num: num = 413,
-		page: `
+`,
+  },
+  {
+    title: (title = "იცხოვრე ნათელში,"),
+    num: (num = 413),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1353)</span>
 <main class="full-hymn">
@@ -27975,12 +27962,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, შენ თქვი, ხარ ვაზი',
-		num: num = 414,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, შენ თქვი, ხარ ვაზი"),
+    num: (num = 414),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 561)</span>
 <main class="full-hymn">
@@ -28075,12 +28062,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვრჩები შენში, შენს ღრმა სიყვარულში',
-		num: num = 415,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვრჩები შენში, შენს ღრმა სიყვარულში"),
+    num: (num = 415),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 563)</span>
 <main class="full-hymn">
@@ -28121,12 +28108,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, მე ჩავწვდი საიდუმლოს,',
-		num: num = 416,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, მე ჩავწვდი საიდუმლოს,"),
+    num: (num = 416),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>ქრისტეს განცდა</h3>
 <h4>მასში დამკვიდრება</h4>
@@ -28209,12 +28196,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ცხოვრების გასაღებს ჩავწვდით,',
-		num: num = 417,
-		page: `
+`,
+  },
+  {
+    title: (title = "ცხოვრების გასაღებს ჩავწვდით,"),
+    num: (num = 417),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1162)</span>
 <main class="full-hymn">
@@ -28279,12 +28266,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვღებულობ რწმენით შენს დაპირებებს,',
-		num: num = 418,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვღებულობ რწმენით შენს დაპირებებს,"),
+    num: (num = 418),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 575)</span>
 <main class="full-hymn">
@@ -28343,12 +28330,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მაქვს სუსტი ნება და ძალა,',
-		num: num = 419,
-		page: `
+`,
+  },
+  {
+    title: (title = "მაქვს სუსტი ნება და ძალა,"),
+    num: (num = 419),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 578)</span>
 <main class="full-hymn">
@@ -28389,12 +28376,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიტყვის სინათლეში',
-		num: num = 420,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიტყვის სინათლეში"),
+    num: (num = 420),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 582)</span>
 <main class="full-hymn">
@@ -28474,12 +28461,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ბანაკს გარეთ გავიდეთ',
-		num: num = 421,
-		page: `
+`,
+  },
+  {
+    title: (title = "ბანაკს გარეთ გავიდეთ"),
+    num: (num = 421),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 583)</span>
 <main class="full-hymn">
@@ -28547,12 +28534,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთს ცაში აქვს საგანძური,',
-		num: num = 422,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთს ცაში აქვს საგანძური,"),
+    num: (num = 422),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 589)</span>
 <main class="full-hymn">
@@ -28609,12 +28596,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შეხედე! თიხის ჭურჭლები',
-		num: num = 423,
-		page: `
+`,
+  },
+  {
+    title: (title = "შეხედე! თიხის ჭურჭლები"),
+    num: (num = 423),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 590)</span>
 <main class="full-hymn">
@@ -28664,12 +28651,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე ჩანდეს, მას ცნობდნენ და უსმენდნენ,',
-		num: num = 424,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე ჩანდეს, მას ცნობდნენ და უსმენდნენ,"),
+    num: (num = 424),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 591)</span>
 <main class="full-hymn">
@@ -28739,12 +28726,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესოსთან გული ყოველდღე უფრო ახლოს გვაქვს,',
-		num: num = 425,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესოსთან გული ყოველდღე უფრო ახლოს გვაქვს,"),
+    num: (num = 425),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>ქრისტეს განცდა</h3>
 <h4>მისით ტკბობა</h4>
@@ -28795,12 +28782,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვიპოვეთ ქრისტე და ჩვენთვის ის',
-		num: num = 426,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვიპოვეთ ქრისტე და ჩვენთვის ის"),
+    num: (num = 426),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1153)</span>
 <main class="full-hymn">
@@ -28870,12 +28857,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მე მაქვს ცოდვა და სიკვდილი ადამში,',
-		num: num = 427,
-		page: `
+`,
+  },
+  {
+    title: (title = "მე მაქვს ცოდვა და სიკვდილი ადამში,"),
+    num: (num = 427),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 593)</span>
 <main class="full-hymn">
@@ -28943,12 +28930,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე მშვიდობაა,',
-		num: num = 428,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე მშვიდობაა,"),
+    num: (num = 428),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 594)</span>
 <main class="full-hymn">
@@ -29018,12 +29005,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყოველთვის უფრო მეტია,',
-		num: num = 429,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყოველთვის უფრო მეტია,"),
+    num: (num = 429),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 595)</span>
 <main class="full-hymn">
@@ -29069,12 +29056,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძველ აღთქმაში ოქროთი',
-		num: num = 430,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძველ აღთქმაში ოქროთი"),
+    num: (num = 430),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1171)</span>
 <main class="full-hymn">
@@ -29133,11 +29120,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	}, {
-		title: title = 'ნათელი ხედვა მოგვეცი',
-		num: num = 431,
-		page: `
+`,
+  },
+  {
+    title: (title = "ნათელი ხედვა მოგვეცი"),
+    num: (num = 431),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1173)</span>
 <main class="full-hymn">
@@ -29181,12 +29169,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როგორი გამარჯვებაა!',
-		num: num = 432,
-		page: `
+`,
+  },
+  {
+    title: (title = "როგორი გამარჯვებაა!"),
+    num: (num = 432),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1174)</span>
 <main class="full-hymn">
@@ -29246,12 +29234,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'განუზომელია ღმერთის ძალა',
-		num: num = 433,
-		page: `
+`,
+  },
+  {
+    title: (title = "განუზომელია ღმერთის ძალა"),
+    num: (num = 433),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1175)</span>
 <main class="full-hymn">
@@ -29308,12 +29296,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'განუზომელი ძალა აჩვენა,',
-		num: num = 434,
-		page: `
+`,
+  },
+  {
+    title: (title = "განუზომელი ძალა აჩვენა,"),
+    num: (num = 434),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1176)</span>
 <main class="full-hymn">
@@ -29370,12 +29358,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ბრმა ვიყავ, მადლს ვერ ვხედავდი,',
-		num: num = 435,
-		page: `
+`,
+  },
+  {
+    title: (title = "ბრმა ვიყავ, მადლს ვერ ვხედავდი,"),
+    num: (num = 435),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 599)</span>
 <main class="full-hymn">
@@ -29425,12 +29413,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემი ღმერთი, ჩემი წილი,',
-		num: num = 436,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემი ღმერთი, ჩემი წილი,"),
+    num: (num = 436),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 600)</span>
 <main class="full-hymn">
@@ -29495,12 +29483,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'წმიდაა! მარადიული',
-		num: num = 437,
-		page: `
+`,
+  },
+  {
+    title: (title = "წმიდაა! მარადიული"),
+    num: (num = 437),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 602)</span>
 <main class="full-hymn">
@@ -29582,12 +29570,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიცოცხლის სათავე - სამერთიანი,',
-		num: num = 438,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიცოცხლის სათავე - სამერთიანი,"),
+    num: (num = 438),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1191)</span>
 <main class="full-hymn">
@@ -29631,12 +29619,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიცოცხლე - მამა ღმერთი ქრისტეში,',
-		num: num = 439,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიცოცხლე - მამა ღმერთი ქრისტეში,"),
+    num: (num = 439),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1193)</span>
 <main class="full-hymn">
@@ -29704,12 +29692,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიცოცხლე ღმერთია, საიდუმლო,',
-		num: num = 440,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიცოცხლე ღმერთია, საიდუმლო,"),
+    num: (num = 440),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1195)</span>
 <main class="full-hymn">
@@ -29822,12 +29810,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ის ცოცხალია-თქვი ალილუია!',
-		num: num = 441,
-		page: `
+`,
+  },
+  {
+    title: (title = "ის ცოცხალია-თქვი ალილუია!"),
+    num: (num = 441),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1196)</span>
 <main class="full-hymn">
@@ -29862,12 +29850,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთი სინათლეა, მასში არ არს სიბნელე,',
-		num: num = 442,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთი სინათლეა, მასში არ არს სიბნელე,"),
+    num: (num = 442),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1197)</span>
 <main class="full-hymn">
@@ -29894,12 +29882,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იდუმალია: მამა, ძე და სული,',
-		num: num = 443,
-		page: `
+`,
+  },
+  {
+    title: (title = "იდუმალია: მამა, ძე და სული,"),
+    num: (num = 443),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 608)</span>
 <main class="full-hymn">
@@ -29969,12 +29957,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'საიდუმლოსთვის გადიდებ,',
-		num: num = 444,
-		page: `
+`,
+  },
+  {
+    title: (title = "საიდუმლოსთვის გადიდებ,"),
+    num: (num = 444),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 609)</span>
 <main class="full-hymn">
@@ -30078,12 +30066,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სული ღვთის გადაცემაა,',
-		num: num = 445,
-		page: `
+`,
+  },
+  {
+    title: (title = "სული ღვთის გადაცემაა,"),
+    num: (num = 445),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 610)</span>
 <main class="full-hymn">
@@ -30142,12 +30130,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის სუბსტანცია სულია,',
-		num: num = 446,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის სუბსტანცია სულია,"),
+    num: (num = 446),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>ღმერთის განცდა</h3>
 <h4>სულის ვარჯიშის მეშვეობით</h4>
@@ -30226,12 +30214,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთს სურს, თავისი არსებით',
-		num: num = 447,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთს სურს, თავისი არსებით"),
+    num: (num = 447),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 612)</span>
 <main class="full-hymn">
@@ -30314,12 +30302,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთი - ძლიერი მდინარე,',
-		num: num = 448,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთი - ძლიერი მდინარე,"),
+    num: (num = 448),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1198)</span>
 <main class="full-hymn">
@@ -30380,12 +30368,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის გეგმა კაცობრიობასთანაა სამყაროში,',
-		num: num = 449,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის გეგმა კაცობრიობასთანაა სამყაროში,"),
+    num: (num = 449),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1199)</span>
 <main class="full-hymn">
@@ -30468,12 +30456,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩრდილოეთიდან უბერავს გრიგალი;',
-		num: num = 450,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩრდილოეთიდან უბერავს გრიგალი;"),
+    num: (num = 450),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1200)</span>
 <main class="full-hymn">
@@ -30543,12 +30531,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის სახლიდან ჩრდილოეთით',
-		num: num = 451,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის სახლიდან ჩრდილოეთით"),
+    num: (num = 451),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1201)</span>
 <main class="full-hymn">
@@ -30631,12 +30619,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'თუ ჩვენ ავიღებთ ჯვარს, მხოლოდ ტანჯვა გველის?',
-		num: num = 452,
-		page: `
+`,
+  },
+  {
+    title: (title = "თუ ჩვენ ავიღებთ ჯვარს, მხოლოდ ტანჯვა გველის?"),
+    num: (num = 452),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 622)</span>
 <main class="full-hymn">
@@ -30668,12 +30656,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ზეთისხილი ზეთად ხდება,',
-		num: num = 453,
-		page: `
+`,
+  },
+  {
+    title: (title = "ზეთისხილი ზეთად ხდება,"),
+    num: (num = 453),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 626)</span>
 <main class="full-hymn">
@@ -30763,12 +30751,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გზას გავდივართ ბეთლეემზე,',
-		num: num = 454,
-		page: `
+`,
+  },
+  {
+    title: (title = "გზას გავდივართ ბეთლეემზე,"),
+    num: (num = 454),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 628)</span>
 <main class="full-hymn">
@@ -30877,12 +30865,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჯვრის გზა სავსეა მსხვერპლით, რადგან',
-		num: num = 455,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჯვრის გზა სავსეა მსხვერპლით, რადგან"),
+    num: (num = 455),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 630)</span>
 <main class="full-hymn">
@@ -30939,12 +30927,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'თუ მსურს შევიცნო აღდგომა,',
-		num: num = 456,
-		page: `
+`,
+  },
+  {
+    title: (title = "თუ მსურს შევიცნო აღდგომა,"),
+    num: (num = 456),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 631)</span>
 <main class="full-hymn">
@@ -30988,12 +30976,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მოდით შევხედოთ, ვისწავლოთ',
-		num: num = 457,
-		page: `
+`,
+  },
+  {
+    title: (title = "მოდით შევხედოთ, ვისწავლოთ"),
+    num: (num = 457),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 635)</span>
 <main class="full-hymn">
@@ -31206,12 +31194,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძალუძს დამარხულ მარცვალს',
-		num: num = 458,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძალუძს დამარხულ მარცვალს"),
+    num: (num = 458),
+    page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn top-30">
 <section>
@@ -31251,12 +31239,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = '"მსხვრეულ" მშვინვას იესოს',
-		num: num = 459,
-		page: `
+`,
+  },
+  {
+    title: (title = '"მსხვრეულ" მშვინვას იესოს'),
+    num: (num = 459),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 637)</span>
 <main class="full-hymn">
@@ -31305,12 +31293,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიკვდილი ვერ აკავებს აღდგომას,',
-		num: num = 460,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიკვდილი ვერ აკავებს აღდგომას,"),
+    num: (num = 460),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 639)</span>
 <main class="full-hymn">
@@ -31369,12 +31357,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიკვდილიდან სიცოცხლე? - უფალო, ეს',
-		num: num = 461,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიკვდილიდან სიცოცხლე? - უფალო, ეს"),
+    num: (num = 461),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 640)</span>
 <main class="full-hymn">
@@ -31415,12 +31403,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = '"ფარდის მიღმა" ცხოვრების ნეტარებით,',
-		num: num = 462,
-		page: `
+`,
+  },
+  {
+    title: (title = '"ფარდის მიღმა" ცხოვრების ნეტარებით,'),
+    num: (num = 462),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 642)</span>
 <main class="full-hymn">
@@ -31461,12 +31449,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გამოყავი დრო, რომ',
-		num: num = 463,
-		page: `
+`,
+  },
+  {
+    title: (title = "გამოყავი დრო, რომ"),
+    num: (num = 463),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 643)</span>
 <main class="full-hymn">
@@ -31523,12 +31511,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მშვინვავ, ბევრმა შფოთვამ დაგღალა?',
-		num: num = 464,
-		page: `
+`,
+  },
+  {
+    title: (title = "მშვინვავ, ბევრმა შფოთვამ დაგღალა?"),
+    num: (num = 464),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 645)</span>
 <main class="full-hymn">
@@ -31572,12 +31560,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იქნები მორჩილი',
-		num: num = 465,
-		page: `
+`,
+  },
+  {
+    title: (title = "იქნები მორჩილი"),
+    num: (num = 465),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 657)</span>
 <main class="full-hymn">
@@ -31634,12 +31622,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იხარეთ უფალში! მან შეგვიწყალა,',
-		num: num = 466,
-		page: `
+`,
+  },
+  {
+    title: (title = "იხარეთ უფალში! მან შეგვიწყალა,"),
+    num: (num = 466),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 659)</span>
 <main class="full-hymn">
@@ -31696,12 +31684,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = '"მიზნისკენ ისწრაფე!"',
-		num: num = 467,
-		page: `
+`,
+  },
+  {
+    title: (title = '"მიზნისკენ ისწრაფე!"'),
+    num: (num = 467),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 662)</span>
 <main class="full-hymn">
@@ -31742,12 +31730,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = '"წინ!" - შევძახით ერთხმად',
-		num: num = 468,
-		page: `
+`,
+  },
+  {
+    title: (title = '"წინ!" - შევძახით ერთხმად'),
+    num: (num = 468),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 663)</span>
 <main class="full-hymn">
@@ -31786,12 +31774,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მიზნისკენ წადი, მისდიე',
-		num: num = 469,
-		page: `
+`,
+  },
+  {
+    title: (title = "მიზნისკენ წადი, მისდიე"),
+    num: (num = 469),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1205)</span>
 <main class="full-hymn">
@@ -31848,12 +31836,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ფხიზლად - ღამე მთავრდება!',
-		num: num = 470,
-		page: `
+`,
+  },
+  {
+    title: (title = "ფხიზლად - ღამე მთავრდება!"),
+    num: (num = 470),
+    page: `
 	<h2 class="hNum">${num}</h2>
 	<span class="top-30">(ინგ. 666)</span>
 	<main class="full-hymn">
@@ -31897,12 +31885,12 @@ const pages = [
 	</ul>
 	</section>
 	</main>
-	`
-	},
-	{
-		title: title = 'ჩვენ წინ სარბიელია - ალილუია,',
-		num: num = 471,
-		page: `
+	`,
+  },
+  {
+    title: (title = "ჩვენ წინ სარბიელია - ალილუია,"),
+    num: (num = 471),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1206)</span>
 <main class="full-hymn">
@@ -31972,12 +31960,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'წლობით ვიტანჯებოდი ჯვართან,',
-		num: num = 472,
-		page: `
+`,
+  },
+  {
+    title: (title = "წლობით ვიტანჯებოდი ჯვართან,"),
+    num: (num = 472),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1208)</span>
 <main class="full-hymn">
@@ -32034,12 +32022,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მე შენი სახელის სიღრმეებში,',
-		num: num = 473,
-		page: `
+`,
+  },
+  {
+    title: (title = "მე შენი სახელის სიღრმეებში,"),
+    num: (num = 473),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 671)</span>
 <main class="full-hymn">
@@ -32071,12 +32059,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მე დავინახე ელვა,',
-		num: num = 474,
-		page: `
+`,
+  },
+  {
+    title: (title = "მე დავინახე ელვა,"),
+    num: (num = 474),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 688)</span>
 <main class="full-hymn">
@@ -32165,12 +32153,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ხიზანო სიცოცხლის გზაზე',
-		num: num = 475,
-		page: `
+`,
+  },
+  {
+    title: (title = "ხიზანო სიცოცხლის გზაზე"),
+    num: (num = 475),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 697)</span>
 <main class="full-hymn">
@@ -32245,12 +32233,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემს განსაცდელებში მუდამ,',
-		num: num = 476,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემს განსაცდელებში მუდამ,"),
+    num: (num = 476),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 698)</span>
 <main class="full-hymn">
@@ -32294,12 +32282,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემი მხსნელი წინ მიმიძღვის;',
-		num: num = 477,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემი მხსნელი წინ მიმიძღვის;"),
+    num: (num = 477),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 701)</span>
 <main class="full-hymn">
@@ -32349,12 +32337,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გზას მიჰყვები დიდებისკენ,',
-		num: num = 478,
-		page: `
+`,
+  },
+  {
+    title: (title = "გზას მიჰყვები დიდებისკენ,"),
+    num: (num = 478),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 703)</span>
 <main class="full-hymn">
@@ -32411,12 +32399,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქორფა, როგორც დილის ცვარი,',
-		num: num = 479,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქორფა, როგორც დილის ცვარი,"),
+    num: (num = 479),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 708)</span>
 <main class="full-hymn">
@@ -32472,12 +32460,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'თუმცა დაბნელდეს დღენი,',
-		num: num = 480,
-		page: `
+`,
+  },
+  {
+    title: (title = "თუმცა დაბნელდეს დღენი,"),
+    num: (num = 480),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 710)</span>
 <main class="full-hymn">
@@ -32508,12 +32496,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'არ ვიცი, რა მომელის,',
-		num: num = 481,
-		page: `
+`,
+  },
+  {
+    title: (title = "არ ვიცი, რა მომელის,"),
+    num: (num = 481),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 711)</span>
 <main class="full-hymn">
@@ -32586,12 +32574,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, ვიხაროთ უფალში საუკუნოდ,',
-		num: num = 482,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, ვიხაროთ უფალში საუკუნოდ,"),
+    num: (num = 482),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 717)</span>
 <main class="full-hymn">
@@ -32635,12 +32623,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მხოლოდ სიხარულს, მშვიდობას, მზეს,',
-		num: num = 483,
-		page: `
+`,
+  },
+  {
+    title: (title = "მხოლოდ სიხარულს, მშვიდობას, მზეს,"),
+    num: (num = 483),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 720)</span>
 <main class="full-hymn">
@@ -32684,12 +32672,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვუმღერ საოცარ დაპირებას,',
-		num: num = 484,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვუმღერ საოცარ დაპირებას,"),
+    num: (num = 484),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 721)</span>
 <main class="full-hymn">
@@ -32779,12 +32767,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მადლი წონით მაინც ჭარბობს ჯვარს,',
-		num: num = 485,
-		page: `
+`,
+  },
+  {
+    title: (title = "მადლი წონით მაინც ჭარბობს ჯვარს,"),
+    num: (num = 485),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 722)</span>
 <main class="full-hymn">
@@ -32845,12 +32833,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალი მეტ მადლს და ძალას გვაძლევს როცა,',
-		num: num = 486,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალი მეტ მადლს და ძალას გვაძლევს როცა,"),
+    num: (num = 486),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 723)</span>
 <main class="full-hymn">
@@ -32882,12 +32870,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'წვიმს, პატარა ყვავილო?',
-		num: num = 487,
-		page: `
+`,
+  },
+  {
+    title: (title = "წვიმს, პატარა ყვავილო?"),
+    num: (num = 487),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 729)</span>
 <main class="full-hymn">
@@ -32914,12 +32902,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'წნეხის ქვეშ ვარ უმაღლეს დონეზე;',
-		num: num = 488,
-		page: `
+`,
+  },
+  {
+    title: (title = "წნეხის ქვეშ ვარ უმაღლეს დონეზე;"),
+    num: (num = 488),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 730)</span>
 <main class="full-hymn">
@@ -32957,12 +32945,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სრულად გამოსყიდული ვიქნები,',
-		num: num = 489,
-		page: `
+`,
+  },
+  {
+    title: (title = "სრულად გამოსყიდული ვიქნები,"),
+    num: (num = 489),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1210)</span>
 <main class="full-hymn">
@@ -33032,12 +33020,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ედემის ბაღში, ორი ხის',
-		num: num = 490,
-		page: `
+`,
+  },
+  {
+    title: (title = "ედემის ბაღში, ორი ხის"),
+    num: (num = 490),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 733)</span>
 <main class="full-hymn">
@@ -33123,12 +33111,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის კანონი წმიდა, კარგი',
-		num: num = 491,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის კანონი წმიდა, კარგი"),
+    num: (num = 491),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 734)</span>
 <main class="full-hymn">
@@ -33223,12 +33211,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'წერილის რჯული ღმერთს გვიხსნის',
-		num: num = 492,
-		page: `
+`,
+  },
+  {
+    title: (title = "წერილის რჯული ღმერთს გვიხსნის"),
+    num: (num = 492),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 735)</span>
 <main class="full-hymn">
@@ -33305,12 +33293,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უწინ ქვაზე იყო ღმერთის',
-		num: num = 493,
-		page: `
+`,
+  },
+  {
+    title: (title = "უწინ ქვაზე იყო ღმერთის"),
+    num: (num = 493),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 736)</span>
 <main class="full-hymn">
@@ -33387,12 +33375,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მარად სიცოცხლეს აქვს',
-		num: num = 494,
-		page: `
+`,
+  },
+  {
+    title: (title = "მარად სიცოცხლეს აქვს"),
+    num: (num = 494),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 737)</span>
 <main class="full-hymn">
@@ -33460,12 +33448,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყოველგვარ სიცოცხლეს თან სდევს,',
-		num: num = 495,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყოველგვარ სიცოცხლეს თან სდევს,"),
+    num: (num = 495),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 738)</span>
 <main class="full-hymn">
@@ -33533,12 +33521,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფლისგან ხელახლაშობილებს აქვთ',
-		num: num = 496,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფლისგან ხელახლაშობილებს აქვთ"),
+    num: (num = 496),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 739)</span>
 <main class="full-hymn">
@@ -33615,12 +33603,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'განკაცების პრინციპი არის',
-		num: num = 497,
-		page: `
+`,
+  },
+  {
+    title: (title = "განკაცების პრინციპი არის"),
+    num: (num = 497),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 740)</span>
 <main class="full-hymn">
@@ -33679,12 +33667,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთმა ძეებად განგვსაზღვრა,',
-		num: num = 498,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთმა ძეებად განგვსაზღვრა,"),
+    num: (num = 498),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 741)</span>
 <main class="full-hymn">
@@ -33741,12 +33729,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ადამიანი შედგება',
-		num: num = 499,
-		page: `
+`,
+  },
+  {
+    title: (title = "ადამიანი შედგება"),
+    num: (num = 499),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 742)</span>
 <main class="full-hymn">
@@ -33832,12 +33820,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთმა ჩვენ შეგვქმნა ჭურჭლებად',
-		num: num = 500,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთმა ჩვენ შეგვქმნა ჭურჭლებად"),
+    num: (num = 500),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 743)</span>
 <main class="full-hymn">
@@ -33905,12 +33893,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სათანადო გული გვმართებს',
-		num: num = 501,
-		page: `
+`,
+  },
+  {
+    title: (title = "სათანადო გული გვმართებს"),
+    num: (num = 501),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 744)</span>
 <main class="full-hymn">
@@ -33969,12 +33957,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სული ხარ უფალო, ახლა,',
-		num: num = 502,
-		page: `
+`,
+  },
+  {
+    title: (title = "სული ხარ უფალო, ახლა,"),
+    num: (num = 502),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 745)</span>
 <main class="full-hymn">
@@ -34051,12 +34039,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, სულისგან სამშვინვლის',
-		num: num = 503,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, სულისგან სამშვინვლის"),
+    num: (num = 503),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 746)</span>
 <main class="full-hymn">
@@ -34124,12 +34112,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთის ტაძრის ყოვლად წმინდა',
-		num: num = 504,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთის ტაძრის ყოვლად წმინდა"),
+    num: (num = 504),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 747)</span>
 <main class="full-hymn">
@@ -34197,12 +34185,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჯვრით ამოიცანით სული,',
-		num: num = 505,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჯვრით ამოიცანით სული,"),
+    num: (num = 505),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 748)</span>
 <main class="full-hymn">
@@ -34270,12 +34258,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სამერთიანი ღვთის სული',
-		num: num = 506,
-		page: `
+`,
+  },
+  {
+    title: (title = "სამერთიანი ღვთის სული"),
+    num: (num = 506),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 749)</span>
 <main class="full-hymn">
@@ -34352,12 +34340,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთის განზრახვაა, რომ ჩვენ',
-		num: num = 507,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთის განზრახვაა, რომ ჩვენ"),
+    num: (num = 507),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 750)</span>
 <main class="full-hymn">
@@ -34427,12 +34415,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'არ ვიბრძვი, არამედ',
-		num: num = 508,
-		page: `
+`,
+  },
+  {
+    title: (title = "არ ვიბრძვი, არამედ"),
+    num: (num = 508),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 751)</span>
 <main class="full-hymn">
@@ -34489,12 +34477,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, ამოთხარე, ამოთხარე,',
-		num: num = 509,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, ამოთხარე, ამოთხარე,"),
+    num: (num = 509),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1214)</span>
 <main class="full-hymn">
@@ -34577,12 +34565,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შიგნით სიცოცხლე გვაქვს, მისით ვცოცხლობთ მუდამ,',
-		num: num = 510,
-		page: `
+`,
+  },
+  {
+    title: (title = "შიგნით სიცოცხლე გვაქვს, მისით ვცოცხლობთ მუდამ,"),
+    num: (num = 510),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1216)</span>
 <main class="full-hymn">
@@ -34632,12 +34620,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენ წინაშე ჩუმად ვარ, უფალო,',
-		num: num = 511,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენ წინაშე ჩუმად ვარ, უფალო,"),
+    num: (num = 511),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 764)</span>
 <main class="full-hymn">
@@ -34705,12 +34693,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აჰა, მხსნელი გეძახის,',
-		num: num = 512,
-		page: `
+`,
+  },
+  {
+    title: (title = "აჰა, მხსნელი გეძახის,"),
+    num: (num = 512),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 765)</span>
 <main class="full-hymn">
@@ -34769,12 +34757,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, უფალო, მასწავლე ლოცვა;',
-		num: num = 513,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, უფალო, მასწავლე ლოცვა;"),
+    num: (num = 513),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 766)</span>
 <main class="full-hymn">
@@ -34831,12 +34819,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გვასწავლე როგორ ვილოცოთ',
-		num: num = 514,
-		page: `
+`,
+  },
+  {
+    title: (title = "გვასწავლე როგორ ვილოცოთ"),
+    num: (num = 514),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 767)</span>
 <main class="full-hymn">
@@ -34877,12 +34865,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მსურს, რომ შევიდე ყოვლად',
-		num: num = 515,
-		page: `
+`,
+  },
+  {
+    title: (title = "მსურს, რომ შევიდე ყოვლად"),
+    num: (num = 515),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 769)</span>
 <main class="full-hymn">
@@ -34986,12 +34974,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყოვლად წმიდაში ღვთის ტახტს შეეხე',
-		num: num = 516,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყოვლად წმიდაში ღვთის ტახტს შეეხე"),
+    num: (num = 516),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 770)</span>
 <main class="full-hymn">
@@ -35035,12 +35023,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ფარდა გაიხა, გაიხსნა',
-		num: num = 517,
-		page: `
+`,
+  },
+  {
+    title: (title = "ფარდა გაიხა, გაიხსნა"),
+    num: (num = 517),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 771)</span>
 <main class="full-hymn">
@@ -35108,12 +35096,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვლოცულობთ ერთ მშვინვაში,',
-		num: num = 518,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვლოცულობთ ერთ მშვინვაში,"),
+    num: (num = 518),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 772)</span>
 <main class="full-hymn">
@@ -35209,12 +35197,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გაბედულად მივეახლოთ,',
-		num: num = 519,
-		page: `
+`,
+  },
+  {
+    title: (title = "გაბედულად მივეახლოთ,"),
+    num: (num = 519),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1217)</span>
 <main class="full-hymn">
@@ -35284,12 +35272,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესოს ძლიერ სახელში,',
-		num: num = 520,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესოს ძლიერ სახელში,"),
+    num: (num = 520),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 775)</span>
 <main class="full-hymn">
@@ -35333,12 +35321,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = '"რწმენით სთხოვე" შენ იესოს',
-		num: num = 521,
-		page: `
+`,
+  },
+  {
+    title: (title = '"რწმენით სთხოვე" შენ იესოს'),
+    num: (num = 521),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 776)</span>
 <main class="full-hymn">
@@ -35379,12 +35367,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რწმენით იგალობე,',
-		num: num = 522,
-		page: `
+`,
+  },
+  {
+    title: (title = "რწმენით იგალობე,"),
+    num: (num = 522),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 778)</span>
 <main class="full-hymn">
@@ -35425,12 +35413,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ილოცეთ ერთობით სულში,',
-		num: num = 523,
-		page: `
+`,
+  },
+  {
+    title: (title = "ილოცეთ ერთობით სულში,"),
+    num: (num = 523),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>ლოცვა</h3>
 <h4>ერთ მშვინვაში</h4>
@@ -35515,12 +35503,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყოველთვის ვილოცოთ სულში,',
-		num: num = 524,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყოველთვის ვილოცოთ სულში,"),
+    num: (num = 524),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 780)</span>
 <main class="full-hymn">
@@ -35603,12 +35591,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვავარჯიშოთ სული,',
-		num: num = 525,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვავარჯიშოთ სული,"),
+    num: (num = 525),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 781)</span>
 <main class="full-hymn">
@@ -35691,12 +35679,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, რა საიდუმლოა,',
-		num: num = 525,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, რა საიდუმლოა,"),
+    num: (num = 525),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 782)</span>
 <main class="full-hymn">
@@ -35764,12 +35752,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, ღმერთის ტახტს, მადლის ტახტს,',
-		num: num = 527,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, ღმერთის ტახტს, მადლის ტახტს,"),
+    num: (num = 527),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 783)</span>
 <main class="full-hymn">
@@ -35828,12 +35816,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალთან იურთიერთე',
-		num: num = 528,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალთან იურთიერთე"),
+    num: (num = 528),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 784)</span>
 <main class="full-hymn">
@@ -35916,12 +35904,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვლოცულობთ, გამოვლინდეს',
-		num: num = 529,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვლოცულობთ, გამოვლინდეს"),
+    num: (num = 529),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 785)</span>
 <main class="full-hymn">
@@ -35971,12 +35959,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ლოცვით იშრომე მასთან,',
-		num: num = 530,
-		page: `
+`,
+  },
+  {
+    title: (title = "ლოცვით იშრომე მასთან,"),
+    num: (num = 530),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 786)</span>
 <main class="full-hymn">
@@ -36026,12 +36014,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სისხამ დილით, ადგომისას,',
-		num: num = 531,
-		page: `
+`,
+  },
+  {
+    title: (title = "სისხამ დილით, ადგომისას,"),
+    num: (num = 531),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 788)</span>
 <main class="full-hymn">
@@ -36088,12 +36076,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მეგობარი იესოში',
-		num: num = 532,
-		page: `
+`,
+  },
+  {
+    title: (title = "მეგობარი იესოში"),
+    num: (num = 532),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 789)</span>
 <main class="full-hymn">
@@ -36137,12 +36125,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'საკმეველი ენთოს',
-		num: num = 533,
-		page: `
+`,
+  },
+  {
+    title: (title = "საკმეველი ენთოს"),
+    num: (num = 533),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 790)</span>
 <main class="full-hymn">
@@ -36199,12 +36187,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მღვდელი ღმერთისთვის მსხვერპლს სწირავს,',
-		num: num = 534,
-		page: `
+`,
+  },
+  {
+    title: (title = "მღვდელი ღმერთისთვის მსხვერპლს სწირავს,"),
+    num: (num = 534),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 791)</span>
 <main class="full-hymn">
@@ -36300,12 +36288,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გელოდები, ნება მომეცი',
-		num: num = 535,
-		page: `
+`,
+  },
+  {
+    title: (title = "გელოდები, ნება მომეცი"),
+    num: (num = 535),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 792)</span>
 <main class="full-hymn">
@@ -36360,12 +36348,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მშვინვავ, ჩუმად! უფალს დაელოდე!',
-		num: num = 536,
-		page: `
+`,
+  },
+  {
+    title: (title = "მშვინვავ, ჩუმად! უფალს დაელოდე!"),
+    num: (num = 536),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 793)</span>
 <main class="full-hymn">
@@ -36433,12 +36421,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შრომა გააცოცხლე',
-		num: num = 537,
-		page: `
+`,
+  },
+  {
+    title: (title = "შრომა გააცოცხლე"),
+    num: (num = 537),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 797)</span>
 <main class="full-hymn">
@@ -36521,12 +36509,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მთელი წერილი ღმერთის სუნთქვაა,',
-		num: num = 538,
-		page: `
+`,
+  },
+  {
+    title: (title = "მთელი წერილი ღმერთის სუნთქვაა,"),
+    num: (num = 538),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 799)</span>
 <main class="full-hymn">
@@ -36585,12 +36573,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთი თავის საუბრით გამოვლინდა:',
-		num: num = 539,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთი თავის საუბრით გამოვლინდა:"),
+    num: (num = 539),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 800)</span>
 <main class="full-hymn">
@@ -36649,12 +36637,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, ღვთის ცოცხალო სიტყვა, სახებავ,',
-		num: num = 540,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, ღვთის ცოცხალო სიტყვა, სახებავ,"),
+    num: (num = 540),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 801)</span>
 <main class="full-hymn">
@@ -36713,12 +36701,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სული, სიტყვა ხარ უფალო;',
-		num: num = 541,
-		page: `
+`,
+  },
+  {
+    title: (title = "სული, სიტყვა ხარ უფალო;"),
+    num: (num = 541),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 802)</span>
 <main class="full-hymn">
@@ -36795,12 +36783,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენი სიტყვა საუნჯეა,',
-		num: num = 542,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენი სიტყვა საუნჯეა,"),
+    num: (num = 542),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 804)</span>
 <main class="full-hymn">
@@ -36857,12 +36845,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გატეხე სიცოცხლის',
-		num: num = 543,
-		page: `
+`,
+  },
+  {
+    title: (title = "გატეხე სიცოცხლის"),
+    num: (num = 543),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 806)</span>
 <main class="full-hymn">
@@ -36919,12 +36907,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ხედვა მიეცი ჩემს თვალებს,',
-		num: num = 544,
-		page: `
+`,
+  },
+  {
+    title: (title = "ხედვა მიეცი ჩემს თვალებს,"),
+    num: (num = 544),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 807)</span>
 <main class="full-hymn">
@@ -36981,12 +36969,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შეწევნისათვის შენთან მოვდივარ,',
-		num: num = 545,
-		page: `
+`,
+  },
+  {
+    title: (title = "შეწევნისათვის შენთან მოვდივარ,"),
+    num: (num = 545),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 811)</span>
 <main class="full-hymn">
@@ -37095,12 +37083,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მოვდივარ, უფალო,',
-		num: num = 546,
-		page: `
+`,
+  },
+  {
+    title: (title = "მოვდივარ, უფალო,"),
+    num: (num = 546),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 812)</span>
 <main class="full-hymn">
@@ -37150,12 +37138,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მადლის ტახტის წინაშე ვარ,',
-		num: num = 547,
-		page: `
+`,
+  },
+  {
+    title: (title = "მადლის ტახტის წინაშე ვარ,"),
+    num: (num = 547),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 813)</span>
 <main class="full-hymn">
@@ -37259,12 +37247,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'პურით კი არ ცოცხლობს კაცი,',
-		num: num = 548,
-		page: `
+`,
+  },
+  {
+    title: (title = "პურით კი არ ცოცხლობს კაცი,"),
+    num: (num = 548),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 814)</span>
 <main class="full-hymn">
@@ -37350,12 +37338,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე სიტყვა და სულია,',
-		num: num = 549,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე სიტყვა და სულია,"),
+    num: (num = 549),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 815)</span>
 <main class="full-hymn">
@@ -37423,12 +37411,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის სიტყვას სიცოცხლედ ვიღებთ',
-		num: num = 550,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის სიტყვას სიცოცხლედ ვიღებთ"),
+    num: (num = 550),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 816)</span>
 <main class="full-hymn">
@@ -37498,12 +37486,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთის სიტყვა არ შევზღუდოთ',
-		num: num = 551,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთის სიტყვა არ შევზღუდოთ"),
+    num: (num = 551),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 817)</span>
 <main class="full-hymn">
@@ -37573,12 +37561,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'თუ წუთისოფლიდან თავდახსნა გსურს,',
-		num: num = 552,
-		page: `
+`,
+  },
+  {
+    title: (title = "თუ წუთისოფლიდან თავდახსნა გსურს,"),
+    num: (num = 552),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1218)</span>
 <main class="full-hymn">
@@ -37635,12 +37623,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რა საოცარი ცვლილება მოხდა ჩემში',
-		num: num = 553,
-		page: `
+`,
+  },
+  {
+    title: (title = "რა საოცარი ცვლილება მოხდა ჩემში"),
+    num: (num = 553),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1219)</span>
 <main class="full-hymn">
@@ -37723,12 +37711,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტეა ღვთის საიდუმლო',
-		num: num = 554,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტეა ღვთის საიდუმლო"),
+    num: (num = 554),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 818)</span>
 <main class="full-hymn">
@@ -37796,12 +37784,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როგორც სხეულის სისავსე',
-		num: num = 555,
-		page: `
+`,
+  },
+  {
+    title: (title = "როგორც სხეულის სისავსე"),
+    num: (num = 555),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 819)</span>
 <main class="full-hymn">
@@ -37887,12 +37875,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დავტკბებით ქრისტეს სიმდიდრით,',
-		num: num = 556,
-		page: `
+`,
+  },
+  {
+    title: (title = "დავტკბებით ქრისტეს სიმდიდრით,"),
+    num: (num = 556),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 820)</span>
 <main class="full-hymn">
@@ -37942,12 +37930,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ეკლესია არს ჭურჭელი,',
-		num: num = 557,
-		page: `
+`,
+  },
+  {
+    title: (title = "ეკლესია არს ჭურჭელი,"),
+    num: (num = 557),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 821)</span>
 <main class="full-hymn">
@@ -38024,12 +38012,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ეკლესიაში ანათებს',
-		num: num = 558,
-		page: `
+`,
+  },
+  {
+    title: (title = "ეკლესიაში ანათებს"),
+    num: (num = 558),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 822)</span>
 <main class="full-hymn">
@@ -38124,12 +38112,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სამყაროს შექმნამდე, ღმერთმა',
-		num: num = 559,
-		page: `
+`,
+  },
+  {
+    title: (title = "სამყაროს შექმნამდე, ღმერთმა"),
+    num: (num = 559),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 823)</span>
 <main class="full-hymn">
@@ -38251,12 +38239,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ეკლესია - სხეული,',
-		num: num = 560,
-		page: `
+`,
+  },
+  {
+    title: (title = "ეკლესია - სხეული,"),
+    num: (num = 560),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 824)</span>
 <main class="full-hymn">
@@ -38352,12 +38340,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ეკლესიის თესლი თვით ქრისტეა,',
-		num: num = 561,
-		page: `
+`,
+  },
+  {
+    title: (title = "ეკლესიის თესლი თვით ქრისტეა,"),
+    num: (num = 561),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 829)</span>
 <main class="full-hymn">
@@ -38443,12 +38431,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შვიდ ადგილობრივ სასანთლეს,',
-		num: num = 562,
-		page: `
+`,
+  },
+  {
+    title: (title = "შვიდ ადგილობრივ სასანთლეს,"),
+    num: (num = 562),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1274)</span>
 <main class="full-hymn">
@@ -38606,12 +38594,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ეკლესიაა წმიდანთა',
-		num: num = 563,
-		page: `
+`,
+  },
+  {
+    title: (title = "ეკლესიაა წმიდანთა"),
+    num: (num = 563),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 831)</span>
 <main class="full-hymn">
@@ -38681,12 +38669,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთის ძე ქრისტე, მისი გამოსყიდვა,',
-		num: num = 564,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთის ძე ქრისტე, მისი გამოსყიდვა,"),
+    num: (num = 564),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 832)</span>
 <main class="full-hymn">
@@ -38736,12 +38724,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ქვაკუთხედი ხარ,',
-		num: num = 565,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ქვაკუთხედი ხარ,"),
+    num: (num = 565),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 834)</span>
 <main class="full-hymn">
@@ -38863,12 +38851,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გაქებთ, უფალო გეგმისთვის',
-		num: num = 566,
-		page: `
+`,
+  },
+  {
+    title: (title = "გაქებთ, უფალო გეგმისთვის"),
+    num: (num = 566),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 837)</span>
 <main class="full-hymn">
@@ -38945,12 +38933,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენს გეგმას ვაფასებ ძლიერ',
-		num: num = 567,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენს გეგმას ვაფასებ ძლიერ"),
+    num: (num = 567),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 838)</span>
 <main class="full-hymn">
@@ -39045,12 +39033,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ხარ ოსტატი',
-		num: num = 568,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ხარ ოსტატი"),
+    num: (num = 568),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 839)</span>
 <main class="full-hymn">
@@ -39120,12 +39108,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ადამის ბუნებისგან და',
-		num: num = 569,
-		page: `
+`,
+  },
+  {
+    title: (title = "ადამის ბუნებისგან და"),
+    num: (num = 569),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 840)</span>
 <main class="full-hymn">
@@ -39195,12 +39183,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, ჩემი სიცოცხლე',
-		num: num = 570,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, ჩემი სიცოცხლე"),
+    num: (num = 570),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 841)</span>
 <main class="full-hymn">
@@ -39283,12 +39271,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, სუნთქვა შთამბერე,',
-		num: num = 571,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, სუნთქვა შთამბერე,"),
+    num: (num = 571),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 842)</span>
 <main class="full-hymn">
@@ -39338,12 +39326,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, შთამბერე სიცოცხლის სუთქვა,',
-		num: num = 572,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, შთამბერე სიცოცხლის სუთქვა,"),
+    num: (num = 572),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 843)</span>
 <main class="full-hymn">
@@ -39393,12 +39381,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ილაპარაკე, შთაგვბერე;',
-		num: num = 573,
-		page: `
+`,
+  },
+  {
+    title: (title = "ილაპარაკე, შთაგვბერე;"),
+    num: (num = 573),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 844)</span>
 <main class="full-hymn">
@@ -39466,12 +39454,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გაათავისუფლე ჩემი სული,',
-		num: num = 574,
-		page: `
+`,
+  },
+  {
+    title: (title = "გაათავისუფლე ჩემი სული,"),
+    num: (num = 574),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 845)</span>
 <main class="full-hymn">
@@ -39530,12 +39518,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემს სიღრმიდან სულმა, რომ იდინოს!',
-		num: num = 575,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემს სიღრმიდან სულმა, რომ იდინოს!"),
+    num: (num = 575),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 846)</span>
 <main class="full-hymn">
@@ -39612,12 +39600,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ურთიერთობა შერწყმულ სულში,',
-		num: num = 576,
-		page: `
+`,
+  },
+  {
+    title: (title = "ურთიერთობა შერწყმულ სულში,"),
+    num: (num = 576),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 847)</span>
 <main class="full-hymn">
@@ -39676,12 +39664,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'კურთხევაა, რა პატივი',
-		num: num = 577,
-		page: `
+`,
+  },
+  {
+    title: (title = "კურთხევაა, რა პატივი"),
+    num: (num = 577),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 848)</span>
 <main class="full-hymn">
@@ -39777,12 +39765,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის წმიდა მღვდლებს, ცოცხალ ქვებს,',
-		num: num = 578,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის წმიდა მღვდლებს, ცოცხალ ქვებს,"),
+    num: (num = 578),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 849)</span>
 <main class="full-hymn">
@@ -39891,12 +39879,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენს სასურველ სამკვიდრებელს',
-		num: num = 579,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენს სასურველ სამკვიდრებელს"),
+    num: (num = 579),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 851)</span>
 <main class="full-hymn">
@@ -39982,12 +39970,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, შენი სამკვიდრებელი',
-		num: num = 580,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, შენი სამკვიდრებელი"),
+    num: (num = 580),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 852)</span>
 <main class="full-hymn">
@@ -40046,12 +40034,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, უფლის სამეფო,',
-		num: num = 581,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, უფლის სამეფო,"),
+    num: (num = 581),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 853)</span>
 <main class="full-hymn">
@@ -40101,12 +40089,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ურთიერთ წევრნი ვართ',
-		num: num = 582,
-		page: `
+`,
+  },
+  {
+    title: (title = "ურთიერთ წევრნი ვართ"),
+    num: (num = 582),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 854)</span>
 <main class="full-hymn">
@@ -40174,12 +40162,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აარონის თავიდან მის',
-		num: num = 583,
-		page: `
+`,
+  },
+  {
+    title: (title = "აარონის თავიდან მის"),
+    num: (num = 583),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 855)</span>
 <main class="full-hymn">
@@ -40197,12 +40185,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქება ჩვენს გამომსყიდველს, ვინც',
-		num: num = 584,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქება ჩვენს გამომსყიდველს, ვინც"),
+    num: (num = 584),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 858)</span>
 <main class="full-hymn">
@@ -40257,12 +40245,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტეს სიყვარულით',
-		num: num = 585,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტეს სიყვარულით"),
+    num: (num = 585),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 860)</span>
 <main class="full-hymn">
@@ -40312,12 +40300,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ადგილობრივ ნიადაგზე',
-		num: num = 586,
-		page: `
+`,
+  },
+  {
+    title: (title = "ადგილობრივ ნიადაგზე"),
+    num: (num = 586),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1257)</span>
 <main class="full-hymn">
@@ -40413,12 +40401,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ადგილობრივ ეკლესიებს,',
-		num: num = 587,
-		page: `
+`,
+  },
+  {
+    title: (title = "ადგილობრივ ეკლესიებს,"),
+    num: (num = 587),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1258)</span>
 <main class="full-hymn">
@@ -40462,12 +40450,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესოს მოწმობა',
-		num: num = 588,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესოს მოწმობა"),
+    num: (num = 588),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1259)</span>
 <main class="full-hymn">
@@ -40557,12 +40545,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის რჩეულ ნიადაგზე',
-		num: num = 589,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის რჩეულ ნიადაგზე"),
+    num: (num = 589),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1260)</span>
 <main class="full-hymn">
@@ -40579,12 +40567,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ეკლესიაა ქრისტეს',
-		num: num = 590,
-		page: `
+`,
+  },
+  {
+    title: (title = "ეკლესიაა ქრისტეს"),
+    num: (num = 590),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1265)</span>
 <main class="full-hymn">
@@ -40661,12 +40649,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენს გონებას სულისაკენ',
-		num: num = 591,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენს გონებას სულისაკენ"),
+    num: (num = 591),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1266)</span>
 <main class="full-hymn">
@@ -40713,12 +40701,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რიდე მომხსენი უფალო',
-		num: num = 592,
-		page: `
+`,
+  },
+  {
+    title: (title = "რიდე მომხსენი უფალო"),
+    num: (num = 592),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1220)</span>
 <main class="full-hymn">
@@ -40786,12 +40774,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესომ, მწყემსმა კეთილმა',
-		num: num = 593,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესომ, მწყემსმა კეთილმა"),
+    num: (num = 593),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1221)</span>
 <main class="full-hymn">
@@ -40861,12 +40849,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'წადით და გარს შემოუარეთ,',
-		num: num = 594,
-		page: `
+`,
+  },
+  {
+    title: (title = "წადით და გარს შემოუარეთ,"),
+    num: (num = 594),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1223)</span>
 <main class="full-hymn">
@@ -40961,12 +40949,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მადლით ჩვენ ქრისტეს ვენდობით;',
-		num: num = 595,
-		page: `
+`,
+  },
+  {
+    title: (title = "მადლით ჩვენ ქრისტეს ვენდობით;"),
+    num: (num = 595),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1224)</span>
 <main class="full-hymn">
@@ -41036,12 +41024,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, როგორც სხეული,',
-		num: num = 596,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, როგორც სხეული,"),
+    num: (num = 596),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1225)</span>
 <main class="full-hymn">
@@ -41098,12 +41086,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო ქრისტეს ეკლესია დიდებულია და მასში,',
-		num: num = 597,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო ქრისტეს ეკლესია დიდებულია და მასში,"),
+    num: (num = 597),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1226)</span>
 <main class="full-hymn">
@@ -41160,12 +41148,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალი მოვიდა, მოკვდა,',
-		num: num = 598,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალი მოვიდა, მოკვდა,"),
+    num: (num = 598),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1227)</span>
 <main class="full-hymn">
@@ -41222,12 +41210,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტეს სიხარულია',
-		num: num = 599,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტეს სიხარულია"),
+    num: (num = 599),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1229)</span>
 <main class="full-hymn">
@@ -41297,12 +41285,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დახსნილთა ერთობა არის',
-		num: num = 600,
-		page: `
+`,
+  },
+  {
+    title: (title = "დახსნილთა ერთობა არის"),
+    num: (num = 600),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1230)</span>
 <main class="full-hymn">
@@ -41346,12 +41334,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთს გეგმა აქვს, კაცი შექმნა,',
-		num: num = 601,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთს გეგმა აქვს, კაცი შექმნა,"),
+    num: (num = 601),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1231)</span>
 <main class="full-hymn">
@@ -41404,12 +41392,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენ ვიყავით ცოდვაში მკვდრები,',
-		num: num = 602,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენ ვიყავით ცოდვაში მკვდრები,"),
+    num: (num = 602),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1232)</span>
 <main class="full-hymn">
@@ -41492,12 +41480,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძიება მორჩა,',
-		num: num = 603,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძიება მორჩა,"),
+    num: (num = 603),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1233)</span>
 <main class="full-hymn">
@@ -41534,12 +41522,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მომწყურდა ბაბილონში, ვერსად ვიპოვე',
-		num: num = 604,
-		page: `
+`,
+  },
+  {
+    title: (title = "მომწყურდა ბაბილონში, ვერსად ვიპოვე"),
+    num: (num = 604),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1234)</span>
 <main class="full-hymn">
@@ -41586,12 +41574,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ერთ დროს იყო უბედური',
-		num: num = 605,
-		page: `
+`,
+  },
+  {
+    title: (title = "ერთ დროს იყო უბედური"),
+    num: (num = 605),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1235)</span>
 <main class="full-hymn">
@@ -41700,12 +41688,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ეკლესიაში სიცოცხლის ხმა ჩვენს ყურებს ესმის,',
-		num: num = 606,
-		page: `
+`,
+  },
+  {
+    title: (title = "ეკლესიაში სიცოცხლის ხმა ჩვენს ყურებს ესმის,"),
+    num: (num = 606),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1236)</span>
 <main class="full-hymn">
@@ -41774,12 +41762,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ეკლესიური ცხოვრების მშვენიერ ბაღში ვცხოვრობთ.',
-		num: num = 607,
-		page: `
+`,
+  },
+  {
+    title: (title = "ეკლესიური ცხოვრების მშვენიერ ბაღში ვცხოვრობთ."),
+    num: (num = 607),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1237)</span>
 <main class="full-hymn">
@@ -41854,12 +41842,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'არც კი მიოცნებია',
-		num: num = 608,
-		page: `
+`,
+  },
+  {
+    title: (title = "არც კი მიოცნებია"),
+    num: (num = 608),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1238)</span>
 <main class="full-hymn">
@@ -41916,12 +41904,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღრმად, უფრო ღრმად, ო, იესოს ჯვარზე',
-		num: num = 609,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღრმად, უფრო ღრმად, ო, იესოს ჯვარზე"),
+    num: (num = 609),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1240)</span>
 <main class="full-hymn">
@@ -42030,12 +42018,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როცა ერათად დგანან ძმები,',
-		num: num = 610,
-		page: `
+`,
+  },
+  {
+    title: (title = "როცა ერათად დგანან ძმები,"),
+    num: (num = 610),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1245)</span>
 <main class="full-hymn">
@@ -42105,12 +42093,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'თავს გაძლევთ ეკლესიებს რომ გავყვეთ',
-		num: num = 611,
-		page: `
+`,
+  },
+  {
+    title: (title = "თავს გაძლევთ ეკლესიებს რომ გავყვეთ"),
+    num: (num = 611),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1246)</span>
 <main class="full-hymn">
@@ -42193,12 +42181,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დავითმა შეჰფიცა',
-		num: num = 612,
-		page: `
+`,
+  },
+  {
+    title: (title = "დავითმა შეჰფიცა"),
+    num: (num = 612),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1248)</span>
 <main class="full-hymn">
@@ -42255,12 +42243,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ბაბილონიდან დღეს ჩვენ',
-		num: num = 613,
-		page: `
+`,
+  },
+  {
+    title: (title = "ბაბილონიდან დღეს ჩვენ"),
+    num: (num = 613),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1251)</span>
 <main class="full-hymn">
@@ -42355,12 +42343,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქვემოთ ბაბილონში, ტყვეობაში,',
-		num: num = 614,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქვემოთ ბაბილონში, ტყვეობაში,"),
+    num: (num = 614),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1252)</span>
 <main class="full-hymn">
@@ -42420,12 +42408,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფლის ტაძრის აშენების ჟამია, ავდგეთ!',
-		num: num = 615,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფლის ტაძრის აშენების ჟამია, ავდგეთ!"),
+    num: (num = 615),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1254)</span>
 <main class="full-hymn">
@@ -42482,12 +42470,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვართ უფლის აღდგენისთვის, რომ',
-		num: num = 616,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვართ უფლის აღდგენისთვის, რომ"),
+    num: (num = 616),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1255)</span>
 <main class="full-hymn">
@@ -42530,12 +42518,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მდინარე ევფრატი გადავლახეთ და',
-		num: num = 617,
-		page: `
+`,
+  },
+  {
+    title: (title = "მდინარე ევფრატი გადავლახეთ და"),
+    num: (num = 617),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1271)</span>
 <main class="full-hymn">
@@ -42605,12 +42593,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტემ მოგვიხმო და კვლავ',
-		num: num = 618,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტემ მოგვიხმო და კვლავ"),
+    num: (num = 618),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1273)</span>
 <main class="full-hymn">
@@ -42691,12 +42679,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიყვარულის ეკლესია,',
-		num: num = 619,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიყვარულის ეკლესია,"),
+    num: (num = 619),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1275)</span>
 <main class="full-hymn">
@@ -42766,12 +42754,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესოს ეკლესიაში მიიღებ',
-		num: num = 620,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესოს ეკლესიაში მიიღებ"),
+    num: (num = 620),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1278)</span>
 <main class="full-hymn">
@@ -42812,12 +42800,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყოველდღე ჩვენს სვლაში და კრებებზე,',
-		num: num = 621,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყოველდღე ჩვენს სვლაში და კრებებზე,"),
+    num: (num = 621),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 863)</span>
 <main class="full-hymn">
@@ -42885,12 +42873,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როდესაც ვხვდებით ქრისტეში,',
-		num: num = 622,
-		page: `
+`,
+  },
+  {
+    title: (title = "როდესაც ვხვდებით ქრისტეში,"),
+    num: (num = 622),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 864)</span>
 <main class="full-hymn">
@@ -42999,12 +42987,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სულში, ჭეშმარიტებაში,',
-		num: num = 623,
-		page: `
+`,
+  },
+  {
+    title: (title = "სულში, ჭეშმარიტებაში,"),
+    num: (num = 623),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30"></span>
 <main class="full-hymn">
@@ -43081,12 +43069,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ავარჯიშეთ სული!',
-		num: num = 624,
-		page: `
+`,
+  },
+  {
+    title: (title = "ავარჯიშეთ სული!"),
+    num: (num = 624),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 866)</span>
 <main class="full-hymn">
@@ -43181,12 +43169,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სხეულის წევრები ვართ',
-		num: num = 625,
-		page: `
+`,
+  },
+  {
+    title: (title = "სხეულის წევრები ვართ"),
+    num: (num = 625),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 867)</span>
 <main class="full-hymn">
@@ -43243,12 +43231,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, ყველა კრების დასასრულს,',
-		num: num = 626,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, ყველა კრების დასასრულს,"),
+    num: (num = 626),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 868)</span>
 <main class="full-hymn">
@@ -43280,12 +43268,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'კრების დასასრულს ისევ გადიდებთ,',
-		num: num = 627,
-		page: `
+`,
+  },
+  {
+    title: (title = "კრების დასასრულს ისევ გადიდებთ,"),
+    num: (num = 627),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 869)</span>
 <main class="full-hymn">
@@ -43317,12 +43305,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აღდგომის ძალით გავხდით ჩვენ',
-		num: num = 628,
-		page: `
+`,
+  },
+  {
+    title: (title = "აღდგომის ძალით გავხდით ჩვენ"),
+    num: (num = 628),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1280)</span>
 <main class="full-hymn">
@@ -43429,12 +43417,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'წამოვდქეთ იესოსთვის,',
-		num: num = 629,
-		page: `
+`,
+  },
+  {
+    title: (title = "წამოვდქეთ იესოსთვის,"),
+    num: (num = 629),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 870)</span>
 <main class="full-hymn">
@@ -43507,12 +43495,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტეს ჯარისკაცნო,',
-		num: num = 630,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტეს ჯარისკაცნო,"),
+    num: (num = 630),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 871)</span>
 <main class="full-hymn">
@@ -43602,12 +43590,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შეტევაზე! დრო დადგა',
-		num: num = 631,
-		page: `
+`,
+  },
+  {
+    title: (title = "შეტევაზე! დრო დადგა"),
+    num: (num = 631),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 873)</span>
 <main class="full-hymn">
@@ -43690,12 +43678,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ცხარე ომში მტერს, რომ',
-		num: num = 632,
-		page: `
+`,
+  },
+  {
+    title: (title = "ცხარე ომში მტერს, რომ"),
+    num: (num = 632),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 876)</span>
 <main class="full-hymn">
@@ -43745,12 +43733,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვერ ვბედავ დამარცხებას,',
-		num: num = 633,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვერ ვბედავ დამარცხებას,"),
+    num: (num = 633),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 877)</span>
 <main class="full-hymn">
@@ -43823,12 +43811,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მტრისთვის ჩემი სიტყვა - "არა"',
-		num: num = 634,
-		page: `
+`,
+  },
+  {
+    title: (title = 'მტრისთვის ჩემი სიტყვა - "არა"'),
+    num: (num = 634),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 880)</span>
 <main class="full-hymn">
@@ -43872,12 +43860,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დაბანაკდით სხივის გასწვრივ',
-		num: num = 635,
-		page: `
+`,
+  },
+  {
+    title: (title = "დაბანაკდით სხივის გასწვრივ"),
+    num: (num = 635),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 882)</span>
 <main class="full-hymn">
@@ -43950,12 +43938,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იბრძოლე მუდამ სხეულში,',
-		num: num = 636,
-		page: `
+`,
+  },
+  {
+    title: (title = "იბრძოლე მუდამ სხეულში,"),
+    num: (num = 636),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 885)</span>
 <main class="full-hymn">
@@ -44051,12 +44039,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენი ღმერთი ძლიერია,',
-		num: num = 637,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენი ღმერთი ძლიერია,"),
+    num: (num = 637),
+    page: `
 	<h2 class="hNum">${num}</h2>
 	<span class="top-30">(ინგ. 886)</span>
 	<main class="full-hymn">
@@ -44117,12 +44105,12 @@ const pages = [
 	</ul>
 	</section>
 	</main>
-	`
-	},
-	{
-		title: title = 'იესოს სახელში ვდგავართ,',
-		num: num = 638,
-		page: `
+	`,
+  },
+  {
+    title: (title = "იესოს სახელში ვდგავართ,"),
+    num: (num = 638),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 887)</span>
 <main class="full-hymn">
@@ -44192,12 +44180,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჰე, წამოიმართეთ,',
-		num: num = 639,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჰე, წამოიმართეთ,"),
+    num: (num = 639),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 888)</span>
 <main class="full-hymn">
@@ -44267,12 +44255,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მძლეველ ქრისტეს სისხლის მიერ,',
-		num: num = 640,
-		page: `
+`,
+  },
+  {
+    title: (title = "მძლეველ ქრისტეს სისხლის მიერ,"),
+    num: (num = 640),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 889)</span>
 <main class="full-hymn">
@@ -44355,12 +44343,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე გამარჯვებულია,',
-		num: num = 641,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე გამარჯვებულია,"),
+    num: (num = 641),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 890)</span>
 <main class="full-hymn">
@@ -44430,12 +44418,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტემ მტერზე გამარჯვება მოიპოვა,',
-		num: num = 642,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტემ მტერზე გამარჯვება მოიპოვა,"),
+    num: (num = 642),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1289)</span>
 <main class="full-hymn">
@@ -44497,12 +44485,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძალაუფლება ცად, მიწად',
-		num: num = 643,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძალაუფლება ცად, მიწად"),
+    num: (num = 643),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 892)</span>
 <main class="full-hymn">
@@ -44543,12 +44531,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'კონფლიქტი მძვინვარებს,',
-		num: num = 644,
-		page: `
+`,
+  },
+  {
+    title: (title = "კონფლიქტი მძვინვარებს,"),
+    num: (num = 644),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 893)</span>
 <main class="full-hymn">
@@ -44631,12 +44619,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იქნები გამარჯვებული?',
-		num: num = 645,
-		page: `
+`,
+  },
+  {
+    title: (title = "იქნები გამარჯვებული?"),
+    num: (num = 645),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 894)</span>
 <main class="full-hymn">
@@ -44745,12 +44733,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იბრძოლეთ!',
-		num: num = 646,
-		page: `
+`,
+  },
+  {
+    title: (title = "იბრძოლეთ!"),
+    num: (num = 646),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1283)</span>
 <main class="full-hymn">
@@ -44769,12 +44757,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რწმენა, რომელიც მიეცათ',
-		num: num = 647,
-		page: `
+`,
+  },
+  {
+    title: (title = "რწმენა, რომელიც მიეცათ"),
+    num: (num = 647),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1285)</span>
 <main class="full-hymn">
@@ -44857,12 +44845,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დავეუფლოთ იმ მიწას რაც მოგვცა ღმერთმა!',
-		num: num = 648,
-		page: `
+`,
+  },
+  {
+    title: (title = "დავეუფლოთ იმ მიწას რაც მოგვცა ღმერთმა!"),
+    num: (num = 648),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>სულიერი ომი</h3>
 <h4>მიწის დაუფლება</h4>
@@ -44964,12 +44952,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენ გვყავს დიდებული მეფე',
-		num: num = 649,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენ გვყავს დიდებული მეფე"),
+    num: (num = 649),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 904)</span>
 <main class="full-hymn">
@@ -45039,12 +45027,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'არა ჩვენ არჩეულ გზას,',
-		num: num = 650,
-		page: `
+`,
+  },
+  {
+    title: (title = "არა ჩვენ არჩეულ გზას,"),
+    num: (num = 650),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 907)</span>
 <main class="full-hymn">
@@ -45094,12 +45082,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მხოლოდ სული, არა ასო',
-		num: num = 651,
-		page: `
+`,
+  },
+  {
+    title: (title = "მხოლოდ სული, არა ასო"),
+    num: (num = 651),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 908)</span>
 <main class="full-hymn">
@@ -45156,12 +45144,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, დინებაში ვიშრომოთ უფლისათვის',
-		num: num = 652,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, დინებაში ვიშრომოთ უფლისათვის"),
+    num: (num = 652),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 909)</span>
 <main class="full-hymn">
@@ -45205,12 +45193,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიცოცხლის გადმოღვრა ჩვენგან,',
-		num: num = 653,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიცოცხლის გადმოღვრა ჩვენგან,"),
+    num: (num = 653),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 910)</span>
 <main class="full-hymn">
@@ -45267,12 +45255,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'კურთხევაა მღვდლის ცხოვრება',
-		num: num = 654,
-		page: `
+`,
+  },
+  {
+    title: (title = "კურთხევაა მღვდლის ცხოვრება"),
+    num: (num = 654),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 911)</span>
 <main class="full-hymn">
@@ -45355,12 +45343,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ნამდვილიი მსახურებაა',
-		num: num = 655,
-		page: `
+`,
+  },
+  {
+    title: (title = "ნამდვილიი მსახურებაა"),
+    num: (num = 655),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 912)</span>
 <main class="full-hymn">
@@ -45430,12 +45418,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იმსახურე და იშრომე',
-		num: num = 656,
-		page: `
+`,
+  },
+  {
+    title: (title = "იმსახურე და იშრომე"),
+    num: (num = 656),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 913)</span>
 <main class="full-hymn">
@@ -45544,12 +45532,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ეკლესიისთვის ვმსახურობთ',
-		num: num = 657,
-		page: `
+`,
+  },
+  {
+    title: (title = "ეკლესიისთვის ვმსახურობთ"),
+    num: (num = 657),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 914)</span>
 <main class="full-hymn">
@@ -45658,12 +45646,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ცხოვრობს ბნელში მილიონობით მშვინვა,',
-		num: num = 658,
-		page: `
+`,
+  },
+  {
+    title: (title = "ცხოვრობს ბნელში მილიონობით მშვინვა,"),
+    num: (num = 658),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 917)</span>
 <main class="full-hymn">
@@ -45707,12 +45695,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'საყვირის ხმა ისმის',
-		num: num = 659,
-		page: `
+`,
+  },
+  {
+    title: (title = "საყვირის ხმა ისმის"),
+    num: (num = 659),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 920)</span>
 <main class="full-hymn">
@@ -45769,12 +45757,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იხსენ მომაკვდავი',
-		num: num = 660,
-		page: `
+`,
+  },
+  {
+    title: (title = "იხსენ მომაკვდავი"),
+    num: (num = 660),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 921)</span>
 <main class="full-hymn">
@@ -45839,12 +45827,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აღსდექ და ახარე!',
-		num: num = 661,
-		page: `
+`,
+  },
+  {
+    title: (title = "აღსდექ და ახარე!"),
+    num: (num = 661),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1358)</span>
 <main class="full-hymn">
@@ -45863,12 +45851,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დაკარგულ ქვეყნიერებას',
-		num: num = 662,
-		page: `
+`,
+  },
+  {
+    title: (title = "დაკარგულ ქვეყნიერებას"),
+    num: (num = 662),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 922)</span>
 <main class="full-hymn">
@@ -45925,12 +45913,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მოაგროვეთ სახლის მასალები,',
-		num: num = 663,
-		page: `
+`,
+  },
+  {
+    title: (title = "მოაგროვეთ სახლის მასალები,"),
+    num: (num = 663),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 923)</span>
 <main class="full-hymn">
@@ -45971,12 +45959,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სახარება დღეს ვრცელდება',
-		num: num = 664,
-		page: `
+`,
+  },
+  {
+    title: (title = "სახარება დღეს ვრცელდება"),
+    num: (num = 664),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 925)</span>
 <main class="full-hymn">
@@ -46033,12 +46021,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ხარ თუ არა კურთხევის არხი',
-		num: num = 665,
-		page: `
+`,
+  },
+  {
+    title: (title = "ხარ თუ არა კურთხევის არხი"),
+    num: (num = 665),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 928)</span>
 <main class="full-hymn">
@@ -46082,12 +46070,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძვირფას მხსნელთან შესახვედრად',
-		num: num = 666,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძვირფას მხსნელთან შესახვედრად"),
+    num: (num = 666),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 930)</span>
 <main class="full-hymn">
@@ -46144,12 +46132,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვერ გეტყვით, მან, ვისაც თაყვანს სცემს ზეცა,',
-		num: num = 667,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვერ გეტყვით, მან, ვისაც თაყვანს სცემს ზეცა,"),
+    num: (num = 667),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 934)</span>
 <main class="full-hymn">
@@ -46206,12 +46194,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, სამყაროს',
-		num: num = 668,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, სამყაროს"),
+    num: (num = 668),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1293)</span>
 <main class="full-hymn">
@@ -46276,12 +46264,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'განვაცხადოთ! სანამ უფლის სამეფო მოვა.',
-		num: num = 669,
-		page: `
+`,
+  },
+  {
+    title: (title = "განვაცხადოთ! სანამ უფლის სამეფო მოვა."),
+    num: (num = 669),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1294)</span>
 <main class="full-hymn">
@@ -46331,12 +46319,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ზიარება გვაქვს სახარებაში,',
-		num: num = 670,
-		page: `
+`,
+  },
+  {
+    title: (title = "ზიარება გვაქვს სახარებაში,"),
+    num: (num = 670),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1295)</span>
 <main class="full-hymn">
@@ -46393,12 +46381,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვთესავთ დილაობით, სიკეთის თესლს ვთესავთ,',
-		num: num = 671,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვთესავთ დილაობით, სიკეთის თესლს ვთესავთ,"),
+    num: (num = 671),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1349)</span>
 <main class="full-hymn">
@@ -46442,12 +46430,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რა წყალობაა, ვიხილე უფალი,',
-		num: num = 672,
-		page: `
+`,
+  },
+  {
+    title: (title = "რა წყალობაა, ვიხილე უფალი,"),
+    num: (num = 672),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1351)</span>
 <main class="full-hymn">
@@ -46479,12 +46467,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტესთან ერთად მოვკვდი',
-		num: num = 673,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტესთან ერთად მოვკვდი"),
+    num: (num = 673),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 936)</span>
 <main class="full-hymn">
@@ -46501,12 +46489,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, ერთობას შენს სიკვდილში',
-		num: num = 674,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, ერთობას შენს სიკვდილში"),
+    num: (num = 674),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 937)</span>
 <main class="full-hymn">
@@ -46556,12 +46544,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ძველ კაცს ჩამოშორებული,',
-		num: num = 675,
-		page: `
+`,
+  },
+  {
+    title: (title = "ძველ კაცს ჩამოშორებული,"),
+    num: (num = 675),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 938)</span>
 <main class="full-hymn">
@@ -46584,12 +46572,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთის სამეფო არის',
-		num: num = 676,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთის სამეფო არის"),
+    num: (num = 676),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 941)</span>
 <main class="full-hymn">
@@ -46672,12 +46660,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის სამეფო დღეს მიწაზე',
-		num: num = 677,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის სამეფო დღეს მიწაზე"),
+    num: (num = 677),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 942)</span>
 <main class="full-hymn">
@@ -46745,12 +46733,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენი სულის პლაცდარმიდან',
-		num: num = 678,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენი სულის პლაცდარმიდან"),
+    num: (num = 678),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1297)</span>
 <main class="full-hymn">
@@ -46771,12 +46759,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რჯულის კანოზე მკაცრია',
-		num: num = 679,
-		page: `
+`,
+  },
+  {
+    title: (title = "რჯულის კანოზე მკაცრია"),
+    num: (num = 679),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 943)</span>
 <main class="full-hymn">
@@ -46853,12 +46841,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთის სამეფოს არსია',
-		num: num = 680,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთის სამეფოს არსია"),
+    num: (num = 680),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 944)</span>
 <main class="full-hymn">
@@ -46935,12 +46923,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის ძე მოვიდა, რომ თესოს',
-		num: num = 681,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის ძე მოვიდა, რომ თესოს"),
+    num: (num = 681),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 945)</span>
 <main class="full-hymn">
@@ -47053,12 +47041,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რა ბრწყინვალე, დიდებული',
-		num: num = 682,
-		page: `
+`,
+  },
+  {
+    title: (title = "რა ბრწყინვალე, დიდებული"),
+    num: (num = 682),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 946)</span>
 <main class="full-hymn">
@@ -47128,12 +47116,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის სამეფო ნამდვილი ვარჯიშია',
-		num: num = 683,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის სამეფო ნამდვილი ვარჯიშია"),
+    num: (num = 683),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 947)</span>
 <main class="full-hymn">
@@ -47201,12 +47189,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ადამიანის შემოქმედს',
-		num: num = 684,
-		page: `
+`,
+  },
+  {
+    title: (title = "ადამიანის შემოქმედს"),
+    num: (num = 684),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1299)</span>
 <main class="full-hymn">
@@ -47276,12 +47264,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, იესო სამეფო მოვიდა',
-		num: num = 685,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, იესო სამეფო მოვიდა"),
+    num: (num = 685),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1301)</span>
 <main class="full-hymn">
@@ -47339,12 +47327,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დაფარული საიდუმლო გამეხსნა,',
-		num: num = 686,
-		page: `
+`,
+  },
+  {
+    title: (title = "დაფარული საიდუმლო გამეხსნა,"),
+    num: (num = 686),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 948)</span>
 <main class="full-hymn">
@@ -47388,12 +47376,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდების იმედია, ჩემია სიცოცხლე,',
-		num: num = 687,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდების იმედია, ჩემია სიცოცხლე,"),
+    num: (num = 687),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1301)</span>
 <main class="full-hymn">
@@ -47458,12 +47446,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გაზაფხულის ჟამი დგება',
-		num: num = 688,
-		page: `
+`,
+  },
+  {
+    title: (title = "გაზაფხულის ჟამი დგება"),
+    num: (num = 688),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 954)</span>
 <main class="full-hymn">
@@ -47532,12 +47520,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მალე მოვა უფალი, ახლოა დღე,',
-		num: num = 689,
-		page: `
+`,
+  },
+  {
+    title: (title = "მალე მოვა უფალი, ახლოა დღე,"),
+    num: (num = 689),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 956)</span>
 <main class="full-hymn">
@@ -47595,12 +47583,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ფხიზლად! განთიადის ჟამს',
-		num: num = 690,
-		page: `
+`,
+  },
+  {
+    title: (title = "ფხიზლად! განთიადის ჟამს"),
+    num: (num = 690),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 957)</span>
 <main class="full-hymn">
@@ -47631,12 +47619,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფლის ციდან დაშვების დროს ღმერთის საყვირის ხმაზე,',
-		num: num = 691,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფლის ციდან დაშვების დროს ღმერთის საყვირის ხმაზე,"),
+    num: (num = 691),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1354)</span>
 <main class="full-hymn">
@@ -47693,12 +47681,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ბეთანიაში, რაც დავშორდით, გულში',
-		num: num = 692,
-		page: `
+`,
+  },
+  {
+    title: (title = "ბეთანიაში, რაც დავშორდით, გულში"),
+    num: (num = 692),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 958)</span>
 <main class="full-hymn">
@@ -47794,12 +47782,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მას შემდეგ, რაც დატოვე ელეონი',
-		num: num = 693,
-		page: `
+`,
+  },
+  {
+    title: (title = "მას შემდეგ, რაც დატოვე ელეონი"),
+    num: (num = 693),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 959)</span>
 <main class="full-hymn">
@@ -47895,12 +47883,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მალე მოვა ჩემი მეფე',
-		num: num = 694,
-		page: `
+`,
+  },
+  {
+    title: (title = "მალე მოვა ჩემი მეფე"),
+    num: (num = 694),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 960)</span>
 <main class="full-hymn">
@@ -48009,12 +47997,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემო უფალო, როდის მოხვალ?',
-		num: num = 695,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემო უფალო, როდის მოხვალ?"),
+    num: (num = 695),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 962)</span>
 <main class="full-hymn">
@@ -48031,12 +48019,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'პირისპირ ქრისტესთან, მხსნელთან',
-		num: num = 696,
-		page: `
+`,
+  },
+  {
+    title: (title = "პირისპირ ქრისტესთან, მხსნელთან"),
+    num: (num = 696),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 963)</span>
 <main class="full-hymn">
@@ -48093,12 +48081,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როცა უფალი კვლავ მოვა,',
-		num: num = 697,
-		page: `
+`,
+  },
+  {
+    title: (title = "როცა უფალი კვლავ მოვა,"),
+    num: (num = 697),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 965)</span>
 <main class="full-hymn">
@@ -48175,12 +48163,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე მოვა დიდების იმედი,',
-		num: num = 698,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე მოვა დიდების იმედი,"),
+    num: (num = 698),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 966)</span>
 <main class="full-hymn">
@@ -48237,12 +48225,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენ მოდიხარ, ჩემო მხსნელო,',
-		num: num = 699,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენ მოდიხარ, ჩემო მხსნელო,"),
+    num: (num = 699),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 967)</span>
 <main class="full-hymn">
@@ -48303,12 +48291,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მოისმინეთ! რა ხმაა  ღვთაებრივი,',
-		num: num = 700,
-		page: `
+`,
+  },
+  {
+    title: (title = "მოისმინეთ! რა ხმაა  ღვთაებრივი,"),
+    num: (num = 700),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 969)</span>
 <main class="full-hymn">
@@ -48349,12 +48337,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდებულ გამოცხადებას',
-		num: num = 701,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდებულ გამოცხადებას"),
+    num: (num = 701),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 970)</span>
 <main class="full-hymn">
@@ -48422,12 +48410,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მადლი ნაბოძები ღვთისგან',
-		num: num = 702,
-		page: `
+`,
+  },
+  {
+    title: (title = "მადლი ნაბოძები ღვთისგან"),
+    num: (num = 702),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1321)</span>
 <main class="full-hymn">
@@ -48510,12 +48498,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყველა ნიშანი ამბობს -',
-		num: num = 703,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყველა ნიშანი ამბობს -"),
+    num: (num = 703),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1302)</span>
 <main class="full-hymn">
@@ -48610,12 +48598,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღვთის სამეფო ახლოვდება:',
-		num: num = 704,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღვთის სამეფო ახლოვდება:"),
+    num: (num = 704),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1303)</span>
 <main class="full-hymn">
@@ -48685,12 +48673,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე ნადიმზე მოდის,',
-		num: num = 705,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე ნადიმზე მოდის,"),
+    num: (num = 705),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1304)</span>
 <main class="full-hymn">
@@ -48815,12 +48803,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენი რწმენა ღვთის მიმართ უნდა გავრცელდეს,',
-		num: num = 706,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენი რწმენა ღვთის მიმართ უნდა გავრცელდეს,"),
+    num: (num = 706),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1305)</span>
 <main class="full-hymn">
@@ -48877,12 +48865,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დღე ახლოვდება -  იესო ბრუნდება;',
-		num: num = 707,
-		page: `
+`,
+  },
+  {
+    title: (title = "დღე ახლოვდება -  იესო ბრუნდება;"),
+    num: (num = 707),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1307)</span>
 <main class="full-hymn">
@@ -48939,12 +48927,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ზეთით გვაქვს ლამპრები სავსე - ვიწვით!',
-		num: num = 708,
-		page: `
+`,
+  },
+  {
+    title: (title = "ზეთით გვაქვს ლამპრები სავსე - ვიწვით!"),
+    num: (num = 708),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1308)</span>
 <main class="full-hymn">
@@ -48988,12 +48976,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფლის გულს პატარძალი სურს',
-		num: num = 709,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფლის გულს პატარძალი სურს"),
+    num: (num = 709),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1310)</span>
 <main class="full-hymn">
@@ -49052,12 +49040,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩვენი ძვირფასი ნეფე ბრუნდება, ემზადება',
-		num: num = 710,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩვენი ძვირფასი ნეფე ბრუნდება, ემზადება"),
+    num: (num = 710),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1311)</span>
 <main class="full-hymn">
@@ -49101,12 +49089,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, მოგელით,',
-		num: num = 711,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, მოგელით,"),
+    num: (num = 711),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1314)</span>
 <main class="full-hymn">
@@ -49155,12 +49143,12 @@ const pages = [
 	</ul>
 	</section>
 </main>
-`
-	},
-	{
-		title: title = 'იხარეთ! ჩვენი საქმრო მოდის,',
-		num: num = 712,
-		page: `
+`,
+  },
+  {
+    title: (title = "იხარეთ! ჩვენი საქმრო მოდის,"),
+    num: (num = 712),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1315)</span>
 <main class="full-hymn">
@@ -49233,12 +49221,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გაზაფხულის ერთ საღამოს,',
-		num: num = 713,
-		page: `
+`,
+  },
+  {
+    title: (title = "გაზაფხულის ერთ საღამოს,"),
+    num: (num = 713),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1318)</span>
 <main class="full-hymn">
@@ -49303,12 +49291,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რასაც, იკვლევდნენ, ეძებდნენ',
-		num: num = 714,
-		page: `
+`,
+  },
+  {
+    title: (title = "რასაც, იკვლევდნენ, ეძებდნენ"),
+    num: (num = 714),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1319)</span>
 <main class="full-hymn">
@@ -49365,12 +49353,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალი ეკლესიითვის',
-		num: num = 715,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალი ეკლესიითვის"),
+    num: (num = 715),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1320)</span>
 <main class="full-hymn">
@@ -49414,12 +49402,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთის განზრახვაა,',
-		num: num = 716,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთის განზრახვაა,"),
+    num: (num = 716),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 971)</span>
 <main class="full-hymn">
@@ -49502,12 +49490,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთის სამუდამო გეგმა,',
-		num: num = 717,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთის სამუდამო გეგმა,"),
+    num: (num = 717),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1325)</span>
 <main class="full-hymn">
@@ -49590,12 +49578,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთის ფიქრი ისაა,',
-		num: num = 718,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთის ფიქრი ისაა,"),
+    num: (num = 718),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 972)</span>
 <main class="full-hymn">
@@ -49681,12 +49669,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ის ეძებდა ქალაქს, იყო კარავში,',
-		num: num = 719,
-		page: `
+`,
+  },
+  {
+    title: (title = "ის ეძებდა ქალაქს, იყო კარავში,"),
+    num: (num = 719),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 974)</span>
 <main class="full-hymn">
@@ -49735,12 +49723,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როცა გავივლი სარბიელს',
-		num: num = 720,
-		page: `
+`,
+  },
+  {
+    title: (title = "როცა გავივლი სარბიელს"),
+    num: (num = 720),
+    page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn top-30">
 <section>
@@ -49812,12 +49800,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დასაწყისში იყო მხოლოდ ბაღი,',
-		num: num = 721,
-		page: `
+`,
+  },
+  {
+    title: (title = "დასაწყისში იყო მხოლოდ ბაღი,"),
+    num: (num = 721),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 975)</span>
 <main class="full-hymn">
@@ -49912,12 +49900,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალო, გამოსყიდულნი',
-		num: num = 722,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალო, გამოსყიდულნი"),
+    num: (num = 722),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 976)</span>
 <main class="full-hymn">
@@ -49990,12 +49978,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ახალ იერუსალიმს',
-		num: num = 723,
-		page: `
+`,
+  },
+  {
+    title: (title = "ახალ იერუსალიმს"),
+    num: (num = 723),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 978)</span>
 <main class="full-hymn">
@@ -50052,12 +50040,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რა დიდებულად კაშკაშებს,',
-		num: num = 724,
-		page: `
+`,
+  },
+  {
+    title: (title = "რა დიდებულად კაშკაშებს,"),
+    num: (num = 724),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 979)</span>
 <main class="full-hymn">
@@ -50206,12 +50194,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'წმიდანების წინასახეს',
-		num: num = 725,
-		page: `
+`,
+  },
+  {
+    title: (title = "წმიდანების წინასახეს"),
+    num: (num = 725),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 980)</span>
 <main class="full-hymn">
@@ -50297,12 +50285,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთმა მოუყაროს თავი',
-		num: num = 726,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთმა მოუყაროს თავი"),
+    num: (num = 726),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 981)</span>
 <main class="full-hymn">
@@ -50388,12 +50376,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ცოცხალი წყლის მდინარეა',
-		num: num = 727,
-		page: `
+`,
+  },
+  {
+    title: (title = "ცოცხალი წყლის მდინარეა"),
+    num: (num = 727),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 984)</span>
 <main class="full-hymn">
@@ -50450,12 +50438,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იმ დღეს შენ, ო უფალო,',
-		num: num = 728,
-		page: `
+`,
+  },
+  {
+    title: (title = "იმ დღეს შენ, ო უფალო,"),
+    num: (num = 728),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 985)</span>
 <main class="full-hymn">
@@ -50514,12 +50502,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'საოცარი საიდუმლო!',
-		num: num = 729,
-		page: `
+`,
+  },
+  {
+    title: (title = "საოცარი საიდუმლო!"),
+    num: (num = 729),
+    page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn top-30">
 <section>
@@ -50575,12 +50563,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთო, შენი გადარჩენა',
-		num: num = 730,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთო, შენი გადარჩენა"),
+    num: (num = 730),
+    page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn top-30">
 <section>
@@ -50629,12 +50617,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტემ ჩვენ გამოგვისყიდა',
-		num: num = 731,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტემ ჩვენ გამოგვისყიდა"),
+    num: (num = 731),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 986)</span>
 <main class="full-hymn">
@@ -50717,12 +50705,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ერთ დღეს, როცა ზეცამ ის განადიდა,',
-		num: num = 732,
-		page: `
+`,
+  },
+  {
+    title: (title = "ერთ დღეს, როცა ზეცამ ის განადიდა,"),
+    num: (num = 732),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 987)</span>
 <main class="full-hymn">
@@ -50792,12 +50780,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მოსიყვარულე და',
-		num: num = 733,
-		page: `
+`,
+  },
+  {
+    title: (title = "მოსიყვარულე და"),
+    num: (num = 733),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 988)</span>
 <main class="full-hymn">
@@ -50814,12 +50802,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიხარულის უწყება',
-		num: num = 734,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიხარულის უწყება"),
+    num: (num = 734),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 991)</span>
 <main class="full-hymn">
@@ -50876,12 +50864,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, დიდებული უწყება,',
-		num: num = 735,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, დიდებული უწყება,"),
+    num: (num = 735),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 993)</span>
 <main class="full-hymn">
@@ -50970,12 +50958,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემი სული ბნელს ჰყავდა შეპყრობილი!',
-		num: num = 736,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემი სული ბნელს ჰყავდა შეპყრობილი!"),
+    num: (num = 736),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 994)</span>
 <main class="full-hymn">
@@ -51019,12 +51007,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო, ღვთის ძევ, მხსნელო,',
-		num: num = 737,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო, ღვთის ძევ, მხსნელო,"),
+    num: (num = 737),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 996)</span>
 <main class="full-hymn">
@@ -51083,12 +51071,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მესმის, ამბობს მხსნელი,',
-		num: num = 738,
-		page: `
+`,
+  },
+  {
+    title: (title = "მესმის, ამბობს მხსნელი,"),
+    num: (num = 738),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 997)</span>
 <main class="full-hymn">
@@ -51145,12 +51133,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქრისტე ცოდვიელბთან ერთი',
-		num: num = 739,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქრისტე ცოდვიელბთან ერთი"),
+    num: (num = 739),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 998)</span>
 <main class="full-hymn">
@@ -51167,12 +51155,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ნუთუ ჩემთვის ჩემმა მხსნელმა',
-		num: num = 740,
-		page: `
+`,
+  },
+  {
+    title: (title = "ნუთუ ჩემთვის ჩემმა მხსნელმა"),
+    num: (num = 740),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 999)</span>
 <main class="full-hymn">
@@ -51242,12 +51230,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რაზე შევშინდე როდესაც',
-		num: num = 741,
-		page: `
+`,
+  },
+  {
+    title: (title = "რაზე შევშინდე როდესაც"),
+    num: (num = 741),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1003)</span>
 <main class="full-hymn">
@@ -51296,12 +51284,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესომ დაღვარა სისხლი',
-		num: num = 742,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესომ დაღვარა სისხლი"),
+    num: (num = 742),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1004)</span>
 <main class="full-hymn">
@@ -51397,12 +51385,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო წყარო, რომელშიც სისხლი',
-		num: num = 743,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო წყარო, რომელშიც სისხლი"),
+    num: (num = 743),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1006)</span>
 <main class="full-hymn">
@@ -51452,12 +51440,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გინახავს იესოს გამწმენდი ძალა?',
-		num: num = 744,
-		page: `
+`,
+  },
+  {
+    title: (title = "გინახავს იესოს გამწმენდი ძალა?"),
+    num: (num = 744),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1007)</span>
 <main class="full-hymn">
@@ -51514,12 +51502,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რა ჩამომრეცხავს ცოდვას?',
-		num: num = 745,
-		page: `
+`,
+  },
+  {
+    title: (title = "რა ჩამომრეცხავს ცოდვას?"),
+    num: (num = 745),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1008)</span>
 <main class="full-hymn">
@@ -51576,12 +51564,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენ შენი ცოდვის ტვირთს თავს დააღწევ?',
-		num: num = 746,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენ შენი ცოდვის ტვირთს თავს დააღწევ?"),
+    num: (num = 746),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1009)</span>
 <main class="full-hymn">
@@ -51638,12 +51626,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მე ვხედავ ტალღას გამწმენდელს!',
-		num: num = 747,
-		page: `
+`,
+  },
+  {
+    title: (title = "მე ვხედავ ტალღას გამწმენდელს!"),
+    num: (num = 747),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1010)</span>
 <main class="full-hymn">
@@ -51687,12 +51675,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ხეტიალისგან მოხეტიალეთ რა იცავს?',
-		num: num = 748,
-		page: `
+`,
+  },
+  {
+    title: (title = "ხეტიალისგან მოხეტიალეთ რა იცავს?"),
+    num: (num = 748),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1013)</span>
 <main class="full-hymn">
@@ -51749,12 +51737,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქება, ქება, რა სიცოცხლე,',
-		num: num = 749,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქება, ქება, რა სიცოცხლე,"),
+    num: (num = 749),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1015)</span>
 <main class="full-hymn">
@@ -51769,12 +51757,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთი იესოში განკაცდა გახდა ჩემი მსგავსი.',
-		num: num = 750,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთი იესოში განკაცდა გახდა ჩემი მსგავსი."),
+    num: (num = 750),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1017)</span>
 <main class="full-hymn">
@@ -51801,12 +51789,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მოძღვარი ღამით იესოს ესტუმრა,',
-		num: num = 751,
-		page: `
+`,
+  },
+  {
+    title: (title = "მოძღვარი ღამით იესოს ესტუმრა,"),
+    num: (num = 751),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1019)</span>
 <main class="full-hymn">
@@ -51850,12 +51838,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვინ დაგვიხსნის ცოდვისგან?',
-		num: num = 752,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვინ დაგვიხსნის ცოდვისგან?"),
+    num: (num = 752),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1020)</span>
 <main class="full-hymn">
@@ -51871,12 +51859,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ცოდვილნი ცოდვას მონობენ,',
-		num: num = 753,
-		page: `
+`,
+  },
+  {
+    title: (title = "ცოდვილნი ცოდვას მონობენ,"),
+    num: (num = 753),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1021)</span>
 <main class="full-hymn">
@@ -51893,12 +51881,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენ გჭირდება მხოლოდ ქრისტე მხსნელი',
-		num: num = 754,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენ გჭირდება მხოლოდ ქრისტე მხსნელი"),
+    num: (num = 754),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1024)</span>
 <main class="full-hymn">
@@ -51983,12 +51971,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დატოვე წუთისოფელი,',
-		num: num = 755,
-		page: `
+`,
+  },
+  {
+    title: (title = "დატოვე წუთისოფელი,"),
+    num: (num = 755),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1025)</span>
 <main class="full-hymn">
@@ -52045,12 +52033,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო ნაზად, ფაქიზად გვეძახის',
-		num: num = 756,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო ნაზად, ფაქიზად გვეძახის"),
+    num: (num = 756),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1027)</span>
 <main class="full-hymn">
@@ -52107,12 +52095,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო ნაზად გეძახის სახლში',
-		num: num = 757,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო ნაზად გეძახის სახლში"),
+    num: (num = 757),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1028)</span>
 <main class="full-hymn">
@@ -52161,12 +52149,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = '"მეწამული ცოდვები',
-		num: num = 758,
-		page: `
+`,
+  },
+  {
+    title: (title = '"მეწამული ცოდვები'),
+    num: (num = 758),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1037)</span>
 <main class="full-hymn">
@@ -52216,12 +52204,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'თუ დაგღალა შენი ცოდვის ტვირთმა,',
-		num: num = 759,
-		page: `
+`,
+  },
+  {
+    title: (title = "თუ დაგღალა შენი ცოდვის ტვირთმა,"),
+    num: (num = 759),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1038)</span>
 <main class="full-hymn">
@@ -52265,12 +52253,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ყური უგდე, აკაკუნებს',
-		num: num = 760,
-		page: `
+`,
+  },
+  {
+    title: (title = "ყური უგდე, აკაკუნებს"),
+    num: (num = 760),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1040)</span>
 <main class="full-hymn">
@@ -52309,12 +52297,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სიცოცხლე მოკლე არის,',
-		num: num = 761,
-		page: `
+`,
+  },
+  {
+    title: (title = "სიცოცხლე მოკლე არის,"),
+    num: (num = 761),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1043)</span>
 <main class="full-hymn">
@@ -52399,12 +52387,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენ მზად ხარ, ღმერთს რომ შეხვდე?',
-		num: num = 762,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენ მზად ხარ, ღმერთს რომ შეხვდე?"),
+    num: (num = 762),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1044)</span>
 <main class="full-hymn">
@@ -52419,12 +52407,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, ზურგს ნუ შეაქცევს სიტყვას,',
-		num: num = 763,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, ზურგს ნუ შეაქცევს სიტყვას,"),
+    num: (num = 763),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1045)</span>
 <main class="full-hymn">
@@ -52481,12 +52469,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როდესაც მარადისობა',
-		num: num = 764,
-		page: `
+`,
+  },
+  {
+    title: (title = "როდესაც მარადისობა"),
+    num: (num = 764),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1047)</span>
 <main class="full-hymn">
@@ -52535,12 +52523,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'შენ წინ თავს ვერ გავიმართლებ,',
-		num: num = 765,
-		page: `
+`,
+  },
+  {
+    title: (title = "შენ წინ თავს ვერ გავიმართლებ,"),
+    num: (num = 765),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>სახარება</h3>
 <h4>უფალთან მისვლა</h4>
@@ -52601,12 +52589,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მონობიდან და სიბნელიდან',
-		num: num = 766,
-		page: `
+`,
+  },
+  {
+    title: (title = "მონობიდან და სიბნელიდან"),
+    num: (num = 766),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1050)</span>
 <main class="full-hymn">
@@ -52663,12 +52651,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩამესმის ხმა შენი,',
-		num: num = 767,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩამესმის ხმა შენი,"),
+    num: (num = 767),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1051)</span>
 <main class="full-hymn">
@@ -52738,12 +52726,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ღმერთისგან შორს ვიყავი,',
-		num: num = 768,
-		page: `
+`,
+  },
+  {
+    title: (title = "ღმერთისგან შორს ვიყავი,"),
+    num: (num = 768),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1052)</span>
 <main class="full-hymn">
@@ -52826,12 +52814,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'გვერდს ნუ ამივლი, ო მხსნელო,',
-		num: num = 769,
-		page: `
+`,
+  },
+  {
+    title: (title = "გვერდს ნუ ამივლი, ო მხსნელო,"),
+    num: (num = 769),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1054)</span>
 <main class="full-hymn">
@@ -52888,12 +52876,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ვარ ცოდვილი და უმწეო,',
-		num: num = 770,
-		page: `
+`,
+  },
+  {
+    title: (title = "ვარ ცოდვილი და უმწეო,"),
+    num: (num = 770),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1055)</span>
 <main class="full-hymn">
@@ -52910,12 +52898,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო, ჩემო მხსნელო,',
-		num: num = 771,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო, ჩემო მხსნელო,"),
+    num: (num = 771),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1057)</span>
 <main class="full-hymn">
@@ -52972,12 +52960,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემთვის გაპობილო კლდევ,',
-		num: num = 772,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემთვის გაპობილო კლდევ,"),
+    num: (num = 772),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1058)</span>
 <main class="full-hymn">
@@ -53026,12 +53014,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იესო, გთხოვ მამყოფე',
-		num: num = 773,
-		page: `
+`,
+  },
+  {
+    title: (title = "იესო, გთხოვ მამყოფე"),
+    num: (num = 773),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1059)</span>
 <main class="full-hymn">
@@ -53088,12 +53076,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ჩემს გულში შემოდი, უფალო,',
-		num: num = 774,
-		page: `
+`,
+  },
+  {
+    title: (title = "ჩემს გულში შემოდი, უფალო,"),
+    num: (num = 774),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1061)</span>
 <main class="full-hymn">
@@ -53137,12 +53125,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ბრმა, სუსტი და ღარიბი',
-		num: num = 775,
-		page: `
+`,
+  },
+  {
+    title: (title = "ბრმა, სუსტი და ღარიბი"),
+    num: (num = 775),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1062)</span>
 <main class="full-hymn">
@@ -53199,12 +53187,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მსურს, ამბავი მოგიყვეთ,',
-		num: num = 776,
-		page: `
+`,
+  },
+  {
+    title: (title = "მსურს, ამბავი მოგიყვეთ,"),
+    num: (num = 776),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1064)</span>
 <main class="full-hymn">
@@ -53277,12 +53265,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიადია ხსნა მისი!',
-		num: num = 777,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიადია ხსნა მისი!"),
+    num: (num = 777),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1065)</span>
 <main class="full-hymn">
@@ -53339,12 +53327,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, ჩემი მხსნელი ჯვარზე მოვკდა,',
-		num: num = 778,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, ჩემი მხსნელი ჯვარზე მოვკდა,"),
+    num: (num = 778),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1066)</span>
 <main class="full-hymn">
@@ -53401,12 +53389,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მან ფაქიზად მომძებნა',
-		num: num = 779,
-		page: `
+`,
+  },
+  {
+    title: (title = "მან ფაქიზად მომძებნა"),
+    num: (num = 779),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1068)</span>
 <main class="full-hymn">
@@ -53486,12 +53474,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მშვიდობის ნაპირიდან,',
-		num: num = 780,
-		page: `
+`,
+  },
+  {
+    title: (title = "მშვიდობის ნაპირიდან,"),
+    num: (num = 780),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1070)</span>
 <main class="full-hymn">
@@ -53553,12 +53541,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მიიღებენ იესოს,',
-		num: num = 781,
-		page: `
+`,
+  },
+  {
+    title: (title = "მიიღებენ იესოს,"),
+    num: (num = 781),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1071)</span>
 <main class="full-hymn">
@@ -53615,12 +53603,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ისმინეთ! არს საიდუმლო',
-		num: num = 782,
-		page: `
+`,
+  },
+  {
+    title: (title = "ისმინეთ! არს საიდუმლო"),
+    num: (num = 782),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1073)</span>
 <main class="full-hymn">
@@ -53637,12 +53625,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო საიდუმლო! დღეს ჩემს მხსნელთან',
-		num: num = 783,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო საიდუმლო! დღეს ჩემს მხსნელთან"),
+    num: (num = 783),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1074)</span>
 <main class="full-hymn">
@@ -53659,12 +53647,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'სამყაროც რომ ვპოვო, თუ მხსნელს ვკარგავ,',
-		num: num = 784,
-		page: `
+`,
+  },
+  {
+    title: (title = "სამყაროც რომ ვპოვო, თუ მხსნელს ვკარგავ,"),
+    num: (num = 784),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1079)</span>
 <main class="full-hymn">
@@ -53721,12 +53709,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აქვს აზრი მიწაზე შრომას?',
-		num: num = 785,
-		page: `
+`,
+  },
+  {
+    title: (title = "აქვს აზრი მიწაზე შრომას?"),
+    num: (num = 785),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1080)</span>
 <main class="full-hymn">
@@ -53796,12 +53784,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ოდეს მწყურვალი, სიღრმიდან',
-		num: num = 786,
-		page: `
+`,
+  },
+  {
+    title: (title = "ოდეს მწყურვალი, სიღრმიდან"),
+    num: (num = 786),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1327)</span>
 <main class="full-hymn">
@@ -53858,12 +53846,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ქორწილი კაცის ტკბობის მწვერვალია',
-		num: num = 787,
-		page: `
+`,
+  },
+  {
+    title: (title = "ქორწილი კაცის ტკბობის მწვერვალია"),
+    num: (num = 787),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>სახარება</h3>
 <h4>ზოგადი</h4>
@@ -53948,12 +53936,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მზად არის სუფრა, ინადიმე!',
-		num: num = 788,
-		page: `
+`,
+  },
+  {
+    title: (title = "მზად არის სუფრა, ინადიმე!"),
+    num: (num = 788),
+    page: `
 <h2 class="hNum">${num}</h2>
 <h3>სახარება</h3>
 <h4>ზოგადი</h4>
@@ -54012,12 +54000,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იგემე უფლის სიკეთე;',
-		num: num = 789,
-		page: `
+`,
+  },
+  {
+    title: (title = "იგემე უფლის სიკეთე;"),
+    num: (num = 789),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1331)</span>
 <main class="full-hymn">
@@ -54058,12 +54046,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'იცი, რომ შენ რჩეულ იყავ',
-		num: num = 790,
-		page: `
+`,
+  },
+  {
+    title: (title = "იცი, რომ შენ რჩეულ იყავ"),
+    num: (num = 790),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1332)</span>
 <main class="full-hymn">
@@ -54133,12 +54121,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'ო, რა დღე დადგა!',
-		num: num = 791,
-		page: `
+`,
+  },
+  {
+    title: (title = "ო, რა დღე დადგა!"),
+    num: (num = 791),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1333)</span>
 <main class="full-hymn">
@@ -54179,12 +54167,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'დიდი არის უფალი, აქონ ის,',
-		num: num = 792,
-		page: `
+`,
+  },
+  {
+    title: (title = "დიდი არის უფალი, აქონ ის,"),
+    num: (num = 792),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1335)</span>
 <main class="full-hymn">
@@ -54201,12 +54189,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მე უფალს რა უნდა მივცე?',
-		num: num = 793,
-		page: `
+`,
+  },
+  {
+    title: (title = "მე უფალს რა უნდა მივცე?"),
+    num: (num = 793),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1336)</span>
 <main class="full-hymn">
@@ -54220,12 +54208,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფალმა სიონის ტყვეობა რომ შეწყვიტა,',
-		num: num = 794,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფალმა სიონის ტყვეობა რომ შეწყვიტა,"),
+    num: (num = 794),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1337)</span>
 <main class="full-hymn">
@@ -54289,12 +54277,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'აქ მე მარად ვისვენებ;',
-		num: num = 795,
-		page: `
+`,
+  },
+  {
+    title: (title = "აქ მე მარად ვისვენებ;"),
+    num: (num = 795),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1338)</span>
 <main class="full-hymn">
@@ -54311,12 +54299,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'რა კარგია და რა საამური',
-		num: num = 796,
-		page: `
+`,
+  },
+  {
+    title: (title = "რა კარგია და რა საამური"),
+    num: (num = 796),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1339)</span>
 <main class="full-hymn">
@@ -54354,12 +54342,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'და სიხარულით ამოხაპავთ,',
-		num: num = 797,
-		page: `
+`,
+  },
+  {
+    title: (title = "და სიხარულით ამოხაპავთ,"),
+    num: (num = 797),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1340)</span>
 <main class="full-hymn">
@@ -54387,12 +54375,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'უფლის გამოსყიდულნი დაბრუნდებიან,',
-		num: num = 798,
-		page: `
+`,
+  },
+  {
+    title: (title = "უფლის გამოსყიდულნი დაბრუნდებიან,"),
+    num: (num = 798),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1341)</span>
 <main class="full-hymn">
@@ -54412,12 +54400,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'მე ახალ მცნებას',
-		num: num = 799,
-		page: `
+`,
+  },
+  {
+    title: (title = "მე ახალ მცნებას"),
+    num: (num = 799),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1343)</span>
 <main class="full-hymn">
@@ -54439,12 +54427,12 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
-	{
-		title: title = 'როცა გული უფლისკენ ბრუნდება,',
-		num: num = 800,
-		page: `
+`,
+  },
+  {
+    title: (title = "როცა გული უფლისკენ ბრუნდება,"),
+    num: (num = 800),
+    page: `
 <h2 class="hNum">${num}</h2>
 <span class="top-30">(ინგ. 1345)</span>
 <main class="full-hymn">
@@ -54462,6 +54450,6 @@ const pages = [
 </ul>
 </section>
 </main>
-`
-	},
+`,
+  },
 ];
