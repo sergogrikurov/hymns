@@ -41,22 +41,22 @@ function songSrc() {
 
 //=======================================================//
 
-function songArr() {
-  const gStr = document.querySelector(".hNum").textContent;
-  let hNum = Number(gStr);
-  playTwo.classList.add("none");
-  const arr = [
-    6, 8, 18, 37, 58, 65, 75, 76, 120, 131, 148, 160, 162, 164, 213, 226, 251,
-    259, 292, 303, 319, 382, 404, 415, 419, 421, 435, 445, 458, 467, 527, 529,
-    530, 554, 629, 650,
-  ];
-  for (let i = 0; i < arr.length; i++) {
-    if (hNum === arr[i]) {
-      playTwo.classList.remove("none");
-      songTwo.src = `./audioTwo/${hNum}.ogg`;
-    }
-  }
-}
+// function songArr() {
+//   const gStr = document.querySelector(".hNum").textContent;
+//   let hNum = Number(gStr);
+//   playTwo.classList.add("none");
+//   const arr = [
+//     6, 8, 18, 37, 58, 65, 75, 76, 120, 131, 148, 160, 162, 164, 213, 226, 251,
+//     259, 292, 303, 319, 382, 404, 415, 419, 421, 435, 445, 458, 467, 527, 529,
+//     530, 554, 629, 650,
+//   ];
+//   for (let i = 0; i < arr.length; i++) {
+//     if (hNum === arr[i]) {
+//       playTwo.classList.remove("none");
+//       songTwo.src = `./audioTwo/${hNum}.ogg`;
+//     }
+//   }
+// }
 
 //=======================================================//
 
@@ -99,7 +99,7 @@ iBtn.addEventListener("click", () => {
     sum = data - 1;
     hCont.innerHTML = `${pages[sum].page}`;
     hNumber();
-    songArr();
+
     songSrc();
     let hnst = document.querySelector(".hymnNum span").textContent;
     let hNs = Number(hnst);
@@ -161,7 +161,7 @@ iBtn.addEventListener("click", () => {
       let n = Number(s);
       hCont.innerHTML = `${pages[n].page}`;
       hNumber();
-      songArr();
+
       songSrc();
       sum = n;
       let hnst = document.querySelector(".hymnNum span").textContent;
@@ -195,7 +195,6 @@ prev.onclick = function () {
   play.classList.remove("none");
   playStop.classList.remove("none");
   hNumber();
-  songArr();
   songSrc();
   sum--;
   let hnst = document.querySelector(".hymnNum span").textContent;
@@ -219,7 +218,6 @@ next.onclick = function () {
   play.classList.remove("none");
   playStop.classList.remove("none");
   hNumber();
-  songArr();
   songSrc();
   let hnst = document.querySelector(".hymnNum span").textContent;
   let hNs = Number(hnst);
@@ -282,7 +280,6 @@ function stopF() {
   pause.classList.add("none");
   play.classList.remove("none");
   playStop.classList.remove("none");
-  songArr();
   stopSound();
   stopSoundTwo();
 }
@@ -435,7 +432,7 @@ hBtn.onclick = function () {
         n = n - 1;
         hCont.innerHTML = `${pages[n].page}`;
         hNumber();
-        songArr();
+
         songSrc();
         sum = n;
         let hnst = document.querySelector(".hymnNum span").textContent;
