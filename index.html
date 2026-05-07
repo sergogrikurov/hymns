@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title></title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/icons.css">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="shortcut icon" href="#">
+	<meta charset="UTF-8">
+</head>
+
+<body>
+	<div class="wrapper">
+		<main class="main">
+			<h1 class="input-label">ჰიმნები 1 - 800</h1>
+			<input type="number" class="input inputNum" maxlength="3" placeholder="ჩაწერე ნომერი" tabindex="-1">
+			<input type="text" class="input inputText" placeholder="ჩაწერე სიტყვები" tabindex="-1">
+			<div class="inputText__modal height-none">შეიყვანეთ მინიმუმ რვა ასო ან შვიდი ასო და გამოტოვება</div>
+			<button class="i-btn">ძიება</button>
+			<button class="h-btn icon-history"></button>
+		</main>
+		<div class="hymn-wrapper none">
+			<header class="header">
+				<p class="hymnNum"><span></span></p>
+				<button class="search icon-search"></button>
+			</header>
+			<div class="hymn-container"></div>
+			<footer class="footer">
+				<div class="play-buttons">
+					<div class="play-stop">
+						<button class="play icon-play"></button>
+						<button class="pause icon-pause"></button>
+					</div>
+					<button class="stop icon-stop"></button>
+					<div class="play-stop-two">
+						<button class="play-two icon-play none"></button>
+						<button class="pause-two icon-pause"></button>
+					</div>
+					<button class="stop-two icon-stop"></button>
+				</div>
+				<div class="buttons">
+					<a href="#" class="prev btn icon-prev"></a>
+					<a href="#" class="next btn icon-next"></a>
+				</div>
+			</footer>
+		</div>
+		<div class="str-container none"></div>
+		<div class="hymn-history none">
+			<ul class="itemsList"></ul>
+		</div>
+	</div>
+
+	<script src="./js/list.js"></script>
+	<script src="./js/script.js"></script>
+</body>
+
+</html>

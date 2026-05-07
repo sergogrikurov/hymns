@@ -1,0 +1,302 @@
+@import "nullstyle";
+@import "fonts";
+@import "adaptive-value";
+
+.wrapper,
+.str-container {
+	min-height: 100%;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	font-family: $font;
+	max-width: $mobile;
+	margin: 0px auto;
+	background-color: $bg-color;
+}
+//=============================================================//
+.main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding: rem(30) rem(15) rem(100) rem(15);
+}
+.input-label {
+	@include adaptive-value("font-size", 30, 20, 1);
+	color: $green-color;
+	text-align: center;
+	text-shadow: 2px 2px 0px #c5d7c9;
+}
+.i-btn,
+.inputNum {
+	margin: rem(20) rem(0);
+}
+.input {
+	box-shadow: 3px 3px 3px 0px gray;
+	font-size: rem(45);
+	@include adaptive-value("width", 320, 280, 1);
+	border: 2px solid grey;
+	border-radius: rem(5);
+	padding: 0 rem(10);
+	position: relative;
+	&::placeholder {
+		position: absolute;
+		top: 9px;
+		left: 20px;
+		font-size: rem(30);
+		@include adaptive-value("font-size", 30, 28, 1);
+	}
+	&:focus {
+		border: 2px solid $green-color;
+		box-shadow: 3px 3px 3px 0px $green-color;
+		&::placeholder {
+			font-size: 0;
+		}
+	}
+}
+
+.inputText__modal {
+	margin-top: rem(3);
+	border: 2px solid red;
+	box-shadow: 3px 3px 3px 0px red;
+	border-radius: rem(5);
+	z-index: 2;
+	padding: rem(10) rem(10);
+	@include adaptive-value("width", 320, 280, 1);
+	background-color: #fff;
+	text-align: center;
+	color: red;
+	@include adaptive-value("font-size", 20, 18, 1);
+	line-height: rem(30);
+	transition: all 0.3s ease;
+}
+
+.h-btn,
+.i-btn {
+	@include adaptive-value("width", 320, 280, 1);
+	font-size: rem(40);
+	align-items: center;
+	appearance: none;
+	background-image: radial-gradient(100% 100% at 100% 0, #5aff83 0, $green-color 100%);
+	border: 0;
+	border-radius: rem(5);
+	box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px,
+		rgba(58, 65, 111, 0.5) 0 -3px 0 inset;
+	box-sizing: border-box;
+	color: #fff;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	line-height: 1;
+	list-style: none;
+	overflow: hidden;
+	position: relative;
+	text-align: left;
+	text-decoration: none;
+	transition: box-shadow 0.15s, transform 0.15s;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+	white-space: nowrap;
+	will-change: box-shadow, transform;
+	padding: rem(7) rem(0) rem(15) rem(0);
+	&:focus {
+		box-shadow: $green-color 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px,
+			rgba(45, 35, 66, 0.3) 0 7px 13px -3px, $green-color 0 -3px 0 inset;
+	}
+	&:hover {
+		box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, $green-color 0 -3px 0 inset;
+		transform: translateY(-2px);
+	}
+	&:active {
+		box-shadow: $green-color 0 3px 7px inset;
+		transform: translateY(2px);
+	}
+}
+
+.h-btn {
+	padding: rem(5);
+	border-radius: 50%;
+	width: rem(54);
+}
+//=============================================================//
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: $green-color;
+	position: fixed;
+	padding: rem(3) rem(20);
+	@include adaptive-value("width", 767.98, 320, 1);
+	z-index: 2;
+}
+.hymnNum,
+.search {
+	font-size: $icon-size;
+	color: white;
+	background-color: $green-color;
+}
+.hymnNum span {
+	color: gold;
+}
+.hNum {
+	display: none;
+}
+//=============================================================//
+.hymn-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	height: 100%;
+	margin-bottom: rem(100);
+	@include adaptive-value("font-size", 40, 18, 1);
+	padding: rem(40) rem(15) rem(0) rem(15);
+}
+//=============================================================//
+.footer {
+	position: fixed;
+	bottom: 0;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: $green-color;
+	padding: rem(3) rem(20);
+	@include adaptive-value("width", 767.98, 320, 1);
+	z-index: 2;
+}
+.play-buttons {
+	display: flex;
+	align-items: center;
+}
+.play-stop,
+.play-stop-two {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-right: rem(20);
+}
+
+.btn {
+	background-color: transparent;
+	color: white;
+	font-size: rem(25);
+	&:not(:last-child) {
+		margin-right: rem(20);
+	}
+}
+.icon-play,
+.icon-stop,
+.icon-pause,
+.icon-prev,
+.icon-next {
+	color: white;
+	font-size: $icon-size;
+	background-color: $green-color;
+}
+//=============================================================//
+.hide {
+	visibility: hidden;
+}
+.none {
+	display: none;
+}
+.height-none {
+	visibility: hidden;
+	height: 0;
+	font-size: 0;
+	padding: 0;
+	margin: 0;
+	transition: all 0.3s ease;
+}
+//=============================================================//
+h3 {
+	@include adaptive-value("line-height", 55, 25, 1);
+	text-align: center;
+	font-weight: 700;
+	@include adaptive-value("margin-top", 50, 25, 1);
+}
+h4 {
+	@include adaptive-value("line-height", 55, 25, 1);
+	text-align: center;
+	@include adaptive-value("margin-top", 15, 5, 1);
+	@include adaptive-value("margin-bottom", 15, 5, 1);
+	position: relative;
+}
+
+.full-hymn {
+	display: flex;
+	flex-direction: column;
+}
+section {
+	margin-top: rem(20);
+	display: flex;
+	span {
+		display: block;
+		@include adaptive-value("margin-right", 20, 6, 1);
+		@include adaptive-value("margin-top", 7, 2, 1);
+	}
+}
+
+li {
+	@include adaptive-value("line-height", 55, 24, 1);
+}
+//=============================================================//
+.str-container,
+.itemsList {
+	padding: rem(0) rem(5);
+}
+.str-li,
+.h-str-li {
+	margin: 0;
+	text-align: center;
+	font-weight: 700;
+	@include adaptive-value("font-size", 24, 18, 1);
+	padding: rem(12) rem(10);
+	border-radius: rem(3);
+	background-color: $green-color;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	&:first-child {
+		margin-top: rem(20);
+	}
+	&:not(:last-child) {
+		margin-bottom: rem(2);
+	}
+	span {
+		font-size: rem(24);
+		margin-left: rem(20);
+		color: gold;
+	}
+}
+.chorus {
+	color: blue;
+}
+.chorus-top {
+	@include adaptive-value("margin-top", 25, 15, 1);
+}
+.chorus-bottom {
+	@include adaptive-value("margin-bottom", 20, 0, 1);
+}
+
+.method {
+	margin: rem(20) rem(0);
+}
+.top-15 {
+	margin-top: rem(15);
+}
+.top-15-red {
+	margin-top: rem(15);
+	color: red;
+}
+.top-30 {
+	margin-top: rem(30);
+}
+//=============================================================//
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
