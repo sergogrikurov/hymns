@@ -6474,253 +6474,246 @@ const pages = [
 `,
   },
   {
-    title: (title = "ღმერთისთვის ხარ ძვირფასი"),
-    num: (num = 122),
+    title: (title = "Господь, Ты дорог Богу,"),
+    num: (num = 104),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 169)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>და მისი რჩეული;</li>
-<li>სიხარულით ცხებული,</li>
-<li>ხარ ძე საყვარელი.</li>
-<li class="chorus chorus-top">სიყვარულით ვაფასებთ,</li>
-<li class="chorus">შენს სრულყოფილებას,</li>
-<li class="chorus">სიტკბოს, მიმზიდველობას</li>
-<li class="chorus chorus-bottom">და შენს სურნელებას.</li>
+<li>ты избранный Его,</li>
+<li>помазан Ты елеем,</li>
+<li>услада для Него.</li>
+<li class="chorus chorus-top">о, как Ты нас чаруешь</li>
+<li class="chorus">своею красотой!</li>
+<li class="chorus">твой аромат и сладость</li>
+<li class="chorus chorus-bottom">пленяют нас собой.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>შენ უსაყვარლესი ხარ,</li>
-<li>უზომოდ გვიზიდავ;</li>
-<li>ბაგე მადლით გაქვს სავსე,</li>
-<li>ჩვენს გულებს უყვარხარ.</li>
-<li class="chorus chorus-top">სიყვარულით ვაფასებთ,</li>
-<li class="chorus">შენს სრულყოფილებას,</li>
-<li class="chorus">სიტკბოს, მიმზიდველობას</li>
-<li class="chorus chorus-bottom">და შენს სურნელებას.</li>
+<li>господь, Ты весь - любезность,</li>
+<li>и всех прекрасней Ты,</li>
+<li>обильной благодати</li>
+<li>уста Твои полны..</li>
+<li class="chorus chorus-top">о, как Ты нас чаруешь</li>
+<li class="chorus">своею красотой!</li>
+<li class="chorus">твой аромат и сладость</li>
+<li class="chorus chorus-bottom">пленяют нас собой.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>მოგვებმა გცეს პატივი,</li>
-<li>შემოგწირეს ძღვენი;</li>
-<li>მდიდარმა კი - სამარხი.</li>
-<li>სიკვდილშიც ხარ ტკბილი.</li>
-<li class="chorus chorus-top">სიყვარულით ვაფასებთ,</li>
-<li class="chorus">შენს სრულყოფილებას,</li>
-<li class="chorus">სიტკბოს, მიმზიდველობას</li>
-<li class="chorus chorus-bottom">და შენს სურნელებას.</li>
+<li>почтить Твоё рожденье</li>
+<li>с дарами шли волхвы;</li>
+<li>богатый дал гробницу -</li>
+<li>любим и в смерти Ты.</li>
+<li class="chorus chorus-top">о, как Ты нас чаруешь</li>
+<li class="chorus">своею красотой!</li>
+<li class="chorus">твой аромат и сладость</li>
+<li class="chorus chorus-bottom">пленяют нас собой.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ნელსაცხებლით ცხებული</li>
-<li>გაქვს თავი, უფალო;</li>
-<li>ფეხებიც გაქვს ცხებული,</li>
-<li>ყოველმხრივ ძვირფასო.</li>
-<li class="chorus chorus-top">სიყვარულით ვაფასებთ,</li>
-<li class="chorus">შენს სრულყოფილებას,</li>
-<li class="chorus">სიტკბოს, მიმზიდველობას</li>
-<li class="chorus chorus-bottom">და შენს სურნელებას.</li>
+<li>и голова, и ноги</li>
+<li>помазаны Твои;</li>
+<li>возлюбленный, Господь наш,</li>
+<li>во всём прекрасен ты.</li>
+<li class="chorus chorus-top">о, как Ты нас чаруешь</li>
+<li class="chorus">своею красотой!</li>
+<li class="chorus">твой аромат и сладость</li>
+<li class="chorus chorus-bottom">пленяют нас собой.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>შენი სიკვდილის სიტკბო,</li>
-<li>კაცის სულს ნუგეშცემს;</li>
-<li>აღდგომის სურნელება,</li>
-<li>ღმერთს აკმაყოფილებს.</li>
-<li class="chorus chorus-top">სიყვარულით ვაფასებთ,</li>
-<li class="chorus">შენს სრულყოფილებას,</li>
-<li class="chorus">სიტკბოს, მიმზიდველობას</li>
-<li class="chorus chorus-bottom">და შენს სურნელებას.</li>
+<li>о, сладость Твоей смерти</li>
+<li>наш утешает дух,</li>
+<li>а свежесть воскресенья</li>
+<li>желанна так Отцу.</li>
+<li class="chorus chorus-top">о, как Ты нас чаруешь</li>
+<li class="chorus">своею красотой!</li>
+<li class="chorus">твой аромат и сладость</li>
+<li class="chorus chorus-bottom">пленяют нас собой.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>შენ ინა ყვავილივით,</li>
-<li>ხარ ულამაზესი;</li>
-<li>ყვავილობ ვით ვაშლის ხე,</li>
-<li>მოგაქვს ნაყოფები.</li>
-<li class="chorus chorus-top">სიყვარულით ვაფასებთ,</li>
-<li class="chorus">შენს სრულყოფილებას,</li>
-<li class="chorus">სიტკბოს, მიმზიდველობას</li>
-<li class="chorus chorus-bottom">და შენს სურნელებას.</li>
+<li>чудесной красотою</li>
+<li>ты, как кипер, цветёшь;</li>
+<li>как яблоня, обильный</li>
+<li>и сладкий плод даёшь.</li>
+<li class="chorus chorus-top">о, как Ты нас чаруешь</li>
+<li class="chorus">своею красотой!</li>
+<li class="chorus">твой аромат и сладость</li>
+<li class="chorus chorus-bottom">пленяют нас собой.</li>
 </ul>
 </section>
 <section>
 <span class="number">7.</span>
 <ul>
-<li>ღვინოზე ტკბილი არის</li>
-<li>შენი სიყვარული;</li>
-<li>ვაგემოვნებთ, ვღებულობთ</li>
-<li>ნადიმს სიყვარულის.</li>
-<li class="chorus chorus-top">სიყვარულით ვაფასებთ,</li>
-<li class="chorus">შენს სრულყოფილებას,</li>
-<li class="chorus">სიტკბოს, მიმზიდველობას</li>
-<li class="chorus chorus-bottom">და შენს სურნელებას.</li>
+<li>твоё нам имя - миро,</li>
+<li>любовь Твоя - вино,</li>
+<li>тобой в блаженстве сладком</li>
+<li>нам пировать дано.</li>
+<li class="chorus chorus-top">о, как Ты нас чаруешь</li>
+<li class="chorus">своею красотой!</li>
+<li class="chorus">твой аромат и сладость</li>
+<li class="chorus chorus-bottom">пленяют нас собой.</li>
 </ul>
 </section>
 <section>
 <span class="number">8.</span>
 <ul>
-<li>შენს სილამაზეს ვეტრფი,</li>
-<li>ვტკბები შენზე ფიქრით,</li>
-<li>ვაგემოვნებ შენს სიტკბოს</li>
-<li>და ვისვენებ შენში.</li>
-<li class="chorus chorus-top">სიყვარულით ვაფასებთ,</li>
-<li class="chorus">შენს სრულყოფილებას,</li>
-<li class="chorus">სიტკბოს, მიმზიდველობას</li>
-<li class="chorus chorus-bottom">და შენს სურნელებას.</li>
+<li>красой Твоей любуясь,</li>
+<li>твою мы сладость пьём,</li>
+<li>в Твоих объятьях полный</li>
+<li>покой мы обретём.</li>
+<li class="chorus chorus-top">о, как Ты нас чаруешь</li>
+<li class="chorus">своею красотой!</li>
+<li class="chorus">твой аромат и сладость</li>
+<li class="chorus chorus-bottom">пленяют нас собой.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "უფალო, ძვირფასო ნეფევ!"),
-    num: (num = 123),
+    title: (title = "О Господь, Жених любимый,"),
+    num: (num = 105),
     page: `
 <h2 class="hNum">${num}</h2>
-<h3>უფლის ქება</h3>
-<h4>მისი სილამაზე</h4>
-<span>(ინგ. 170)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ღმერთმა დაგადგინა შენ.</li>
-<li>ხარ ლამაზი, მიმზიდველი,</li>
-<li>გულები დაგვიტყვევე.</li>
+<li>богом Ты назначен был,</li>
+<li>притягателен, прекрасен,</li>
+<li>наши Ты сердца пленил!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>შენით ვართ აღტაცებულნი,</li>
-<li>რთულია აღგწეროთ შენ;</li>
-<li>გამოუთქმელ სილამაზეს,</li>
-<li>სიყვარულს ღრმად ვაფასებთ.</li>
+<li>о Возлюбленный, кто может</li>
+<li>твою ценность описать?</li>
+<li>дорога Твоя любовь нам</li>
+<li>и чудесная краса.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ხარ ყველაზე მშვენიერი,</li>
-<li>ტკბილი ყველაზე მეტად,</li>
-<li>მოწყალე და თავმდაბალი,</li>
-<li>ვერავინ შეგედრება.</li>
+<li>ты прекраснее прекрасных,</li>
+<li>слаще сладости самой,</li>
+<li>так смирен и милосерден,</li>
+<li>не сравним никто с Тобой.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>სამოსი გაქვს სავსე მურით,</li>
-<li>ბაგე კი - უხვი მადლით;</li>
-<li>სურნელება შენი ტანჯვის</li>
-<li>მიგვიძღვის სიყვარულში.</li>
+<li>мирры аромат в одеждах,</li>
+<li>благодать в устах Твоих;</li>
+<li>аромат Твоих страданий</li>
+<li>нас влечёт к Тебе в любви.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>შენ სასიხარულო ზეთით,</li>
-<li>ღვთის მიერ ცხებული ხარ;</li>
-<li>საუკუნო ქება ისმის</li>
-<li>სპილოს ძვლის სასახლიდან.</li>
+<li>это маслом ликованья</li>
+<li>твой помазал Бог Тебя;</li>
+<li>из дворцов слоновой кости</li>
+<li>ввек звучит Тебе хвала.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>ღვთის მიერ კურთხეული ხარ,</li>
-<li>შენია გამარჯვება;</li>
-<li>ახლა ტახტზე დასმულს გხედავთ,</li>
-<li>გაქვს ძალა, ბრწყინვალება.</li>
+<li>богом ввек благословлён Ты,</li>
+<li>одержал победу Ты,</li>
+<li>ныне воцарён Ты в славе,</li>
+<li>силе и величии.</li>
 </ul>
 </section>
 <section>
 <span class="number">7.</span>
 <ul>
-<li>ყველა ერის სურვილი ხარ,</li>
-<li>ყველაზე უკეთესი,</li>
-<li>ერთადერთი შენ ხარ ღირსი,</li>
-<li>ო, ჩვენი სიყვარულის.</li>
+<li>ты - желание народов,</li>
+<li>лучше тысяч Ты других;</li>
+<li>вечно петь хвалу мы будем</li>
+<li>о достоинствах Твоих.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ო, უფალო, შენზე ფიქრით"),
-    num: (num = 124),
+    title: (title = "Господь, как сладостно сердцам"),
+    num: (num = 106),
     page: `
 <h2 class="hNum">${num}</h2>
-<h3>უფლის ქება</h3>
-<h4>მისი სილამაზე</h4>
-<span>(ინგ. 171)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>გულები გვიტკბება,</li>
-<li>გვსურს, შენს ტკბილ თანდასწრებაში,</li>
-<li>აგვიტაცო უმალ!</li>
-<li class="chorus chorus-top">უფალო, ინა ყვავილივით,</li>
-<li class="chorus">შენ ყვავილობ ვენახებში.</li>
-<li class="chorus">შენს სილამაზეს უბადლოს,</li>
-<li class="chorus chorus-bottom">ეტრფიან გულები!</li>
+<li>при мысли о Тебе!</li>
+<li>к Тебе восхищенными быть</li>
+<li>мы так стремимся все!</li>
+<li class="chorus chorus-top">прекрасен, как кисти кипера</li>
+<li class="chorus">среди виноградников, Ты;</li>
+<li class="chorus">пред красотой Твоей сердца</li>
+<li class="chorus chorus-bottom">склоняются в любви!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ამ მადლის განსადიდებლად</li>
-<li>მუსიკა არ კმარა,</li>
-<li>შენი სიყვარულით ტკბობით</li>
-<li>გული ვერ გაძღება.</li>
-<li class="chorus chorus-top">უფალო, ინა ყვავილივით,</li>
-<li class="chorus">შენ ყვავილობ ვენახებში.</li>
-<li class="chorus">შენს სილამაზეს უბადლოს,</li>
-<li class="chorus chorus-bottom">ეტრფიან გულები!</li>
+<li>нет песни, чтоб Твою сполна</li>
+<li>воспеть нам благодать;</li>
+<li>не может сердце до конца</li>
+<li>любовь Твою познать.</li>
+<li class="chorus chorus-top">прекрасен, как кисти кипера</li>
+<li class="chorus">среди виноградников, Ты;</li>
+<li class="chorus">пред красотой Твоей сердца</li>
+<li class="chorus chorus-bottom">склоняются в любви!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ის, რაც ჩვენს გულებს აამებს</li>
-<li>არა შენი მადლი,</li>
-<li>არა შენი სიყვარული,</li>
-<li>არამედ ხარ შენ თვით.</li>
-<li class="chorus chorus-top">უფალო, ინა ყვავილივით,</li>
-<li class="chorus">შენ ყვავილობ ვენახებში.</li>
-<li class="chorus">შენს სილამაზეს უბადლოს,</li>
-<li class="chorus chorus-bottom">ეტრფიან გულები!</li>
+<li>твои любовь и благодать</li>
+<li>так радуют сердца,</li>
+<li>но радость высшая для нас -</li>
+<li>в Тебе самом всегда.</li>
+<li class="chorus chorus-top">прекрасен, как кисти кипера</li>
+<li class="chorus">среди виноградников, Ты;</li>
+<li class="chorus">пред красотой Твоей сердца</li>
+<li class="chorus chorus-bottom">склоняются в любви!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>მომნუსხველო, უტკბილესო,</li>
-<li>შეუდარებელო;</li>
-<li>ცაშიც, მიწაზეც ჩვენს გულებს</li>
-<li>შენ იზიდავ მხოლოდ.</li>
-<li class="chorus chorus-top">უფალო, ინა ყვავილივით,</li>
-<li class="chorus">შენ ყვავილობ ვენახებში.</li>
-<li class="chorus">შენს სილამაზეს უბადლოს,</li>
-<li class="chorus chorus-bottom">ეტრფიან გულები!</li>
+<li>нет большей сладости, чем Ты,</li>
+<li>нет большей красоты;</li>
+<li>и удовлетворить сердца</li>
+<li>способен только ты.</li>
+<li class="chorus chorus-top">прекрасен, как кисти кипера</li>
+<li class="chorus">среди виноградников, Ты;</li>
+<li class="chorus">пред красотой Твоей сердца</li>
+<li class="chorus chorus-bottom">склоняются в любви!</li>
 </ul>
 </section>
 </main>
