@@ -423,6 +423,7 @@ h4 {
 .full-hymn {
   display: flex;
   flex-direction: column;
+  font-size: 24px;
 }
 
 section {
@@ -537,4 +538,6 @@ input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
+}
+ul {
 }
