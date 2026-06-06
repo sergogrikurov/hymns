@@ -8031,265 +8031,207 @@ const pages = [
 `,
   },
   {
-    title: (title = "ქრისტე - სიცოცხლის წყარო,"),
-    num: (num = 155),
+    title: (title = "Христос – источник жизни,"),
+    num: (num = 126),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 206)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ღრმა და ტკბილი ჭაა;</li>
-<li>ვიგემე მისი წყლები,</li>
-<li>დარდისგან დამიხსნა.</li>
-<li>მისი წყალობა ღრმაა</li>
-<li>ოკეანის მსგავსად;</li>
-<li>მადლი მისი უხვია,</li>
-<li>ღვთის სიბრძნის თანახმად.</li>
+<li>глубок и сладок Он;</li>
+<li>в Нём пью живую воду</li>
+<li>и от скорбей спасён.</li>
+<li>его безбрежна милость,</li>
+<li>как океан, полна,</li>
+<li>и благодать обильно</li>
+<li>им в мудрости дана.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ჩემს საყვარელს ვეკუთვნი,</li>
-<li>ის კი მე მეკუთვნის;</li>
-<li>ცოდვილი მიმიყვანა</li>
-<li>თავის ლხინის სახლში!</li>
-<li>მის ღირსებაზე ვდგავარ,</li>
-<li>სხვა არ მაქვს სადგომი;</li>
-<li>მის ხელში ვარ დაცული</li>
-<li>- მის თანდასწრებაში.</li>
+<li>принадлежим друг другу</li>
+<li>любимый мой и я;</li>
+<li>я грешник, но привёл Он</li>
+<li>в дом пиршества меня!</li>
+<li>христос - моя опора,</li>
+<li>не знаю я другой;</li>
+<li>в присутствии Его я</li>
+<li>храним Его рукой.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ვით კრავის პატარძალი,</li>
-<li>მინდა მას ვუმზერდე,</li>
-<li>არა ჩემს შესამოსელს,</li>
-<li>არამედ ჩემს მეფეს.</li>
-<li>ვუმზირო არა გვირგვინს,</li>
-<li>არამედ მის ხელებს,</li>
-<li>განგმირულს და ნალურსმევს</li>
-<li>- საუკუნო მეფეს!</li>
+<li>и как Его невеста,</li>
+<li>хочу я созерцать</li>
+<li>не свадебный наряд мой,</li>
+<li>а Жениха-Царя</li>
+<li>и не венец, Им данный,</li>
+<li>а ран следы на Нём;</li>
+<li>вся слава - это Агнец,</li>
+<li>оплот мой вечный Он.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "უფალო, როცა ვიხსენებთ"),
-    num: (num = 156),
+    title: (title = "Иисус, Господь мой дорогой!"),
+    num: (num = 127),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 207)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>შენს მადლს და სიყვარულს,</li>
-<li>შენი სილამაზის ნახვა</li>
-<li>ჩვენს სულს უზომოდ სურს.</li>
+<li>любви мне не сдержать:</li>
+<li>твоё святое имя мне</li>
+<li>так сладко повторять.</li>
+<li class="chorus chorus-top">господь Иисус, пребудь со мной;</li>
+<li class="chorus">во всякий час Ты мой покой;</li>
+<li class="chorus">улыбка светит мне Твоя;</li>
+<li class="chorus chorus-bottom">о, я люблю Тебя.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>თუმცა უდაბნოს გავდივართ,</li>
-<li>ურწყულ მიწას ვტკეპნით;</li>
-<li>ირგვვლივ მტერი არის უხვად,</li>
-<li>ეკალი და ბარდი.</li>
+<li>люблю Тебя и не могу</li>
+<li>сдержать порыв свой я,</li>
+<li>огнём в самой душе моей</li>
+<li>горит любовь Твоя.</li>
+<li class="chorus chorus-top">господь Иисус, пребудь со мной;</li>
+<li class="chorus">во всякий час Ты мой покой;</li>
+<li class="chorus">улыбка светит мне твоя;</li>
+<li class="chorus chorus-bottom">о, я люблю тебя.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>უფალო, შევიცნობთ შენი</li>
-<li>სიყვარულის სიღრმეს;</li>
-<li>გულს ვიჯერებთ შენი ქებით,</li>
-<li>და შენში ვისვენებთ.</li>
+<li>ведь для меня Ты - всё во всём,</li>
+<li>мне честь, богатство Ты,</li>
+<li>желанье сердца, тела мощь,</li>
+<li>спасение души.</li>
+<li class="chorus chorus-top">господь Иисус, пребудь со мной;</li>
+<li class="chorus">во всякий час Ты мой покой;</li>
+<li class="chorus">улыбка светит мне твоя;</li>
+<li class="chorus chorus-bottom">о, я люблю тебя.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>პურო, ფარო, კლდევ, სიცოცხლევ,</li>
-<li>მოსვენებავ, შუქო,</li>
-<li>შენზე ყოველი ფიქრი ჩვენ,</li>
-<li>გვაძლევს ახალ სიტკბოს.</li>
+<li>любовь, пылай в моей груди,</li>
+<li>пылай и день, и ночь,</li>
+<li>пока весь прах земной любви</li>
+<li>не будет выжжен прочь.</li>
+<li class="chorus chorus-top">господь Иисус, пребудь со мной;</li>
+<li class="chorus">во всякий час Ты мой покой;</li>
+<li class="chorus">улыбка светит мне твоя;</li>
+<li class="chorus chorus-bottom">о, я люблю тебя.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ნეტარო მხსნელო, ერთგული</li>
-<li>შეგვინახე სული;</li>
-<li>ვიდრე გნახავთ დიდებაში</li>
-<li>და გამარჯვებაში.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "იესო, ჩემო ძვირფასო,"),
-    num: (num = 157),
-    page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 208)</span>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ო, მაპატიე გთხოვ,</li>
-<li>თუ ყოველდღე შენს ტკბილ სახელს,</li>
-<li>ათასჯერ მოვუხმობ.</li>
-<li class="chorus chorus-top">ო, იესო, დარჩი ჩემთან,</li>
-<li class="chorus">შენ ხარ ჩემი მოსვენება;</li>
-<li class="chorus">შენი ღიმილი ჯილდოდ მაქვს,</li>
-<li class="chorus chorus-bottom">ო, მე შენ მიყვარხარ.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>მიყვარხარ ისე ძალიან,</li>
-<li>თავს ვეღარ ვიკავებ;</li>
-<li>ჩემს მშვინვაში სიყვარული</li>
-<li>შენდამი გიზგიზებს.</li>
-<li class="chorus chorus-top">ო, იესო, დარჩი ჩემთან,</li>
-<li class="chorus">შენ ხარ ჩემი მოსვენება;</li>
-<li class="chorus">შენი ღიმილი ჯილდოდ მაქვს,</li>
-<li class="chorus chorus-bottom">ო, მე შენ მიყვარხარ.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ჩემთვის შენ ხარ ყველაფერი,</li>
-<li>პატივიც, სიმდიდრეც;</li>
-<li>ჩემი სურვილი და ძალა,</li>
-<li>მშვინვის სიჯანსაღე.</li>
-<li class="chorus chorus-top">ო, იესო, დარჩი ჩემთან,</li>
-<li class="chorus">შენ ხარ ჩემი მოსვენება;</li>
-<li class="chorus">შენი ღიმილი ჯილდოდ მაქვს,</li>
-<li class="chorus chorus-bottom">ო, მე შენ მიყვარხარ.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ო, ენთოს ეს სიყვარული,</li>
-<li>დღედაღამ ჩემს გულში;</li>
-<li>და დაწვას ამ ქვეყნიური,</li>
-<li>ყველა სიყვარული.</li>
-<li class="chorus chorus-top">ო, იესო, დარჩი ჩემთან,</li>
-<li class="chorus">შენ ხარ ჩემი მოსვენება;</li>
-<li class="chorus">შენი ღიმილი ჯილდოდ მაქვს,</li>
-<li class="chorus chorus-bottom">ო, მე შენ მიყვარხარ.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>სინათლევ და სიხარულო,</li>
-<li>ცავ დედამიწაზე;</li>
-<li>ო იესო, ვინ ჩასწვდება,</li>
-<li>შენს სრულ სიძვირფასეს.</li>
-<li class="chorus chorus-top">ო, იესო, დარჩი ჩემთან,</li>
-<li class="chorus">შენ ხარ ჩემი მოსვენება;</li>
-<li class="chorus">შენი ღიმილი ჯილდოდ მაქვს,</li>
-<li class="chorus chorus-bottom">ო, მე შენ მიყვარხარ.</li>
+<li>ты радость в скорби, свет во тьме,</li>
+<li>жизнь неба на земле.</li>
+<li>иисус, любовь моя, кто б смог</li>
+<li>счесть всё, что есть в Тебе?</li>
+<li class="chorus chorus-top">господь Иисус, пребудь со мной;</li>
+<li class="chorus">во всякий час Ты мой покой;</li>
+<li class="chorus">улыбка светит мне твоя;</li>
+<li class="chorus chorus-bottom">о, я люблю тебя.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>ამ სიყვარულს ვინ გაზომავს?</li>
-<li>განა მას ბოლო აქვს?</li>
-<li>ჩვენი უფალი იესო,</li>
-<li>დღითი დღე ტკბილდება.</li>
-<li class="chorus chorus-top">ო, იესო, დარჩი ჩემთან,</li>
-<li class="chorus">შენ ხარ ჩემი მოსვენება;</li>
-<li class="chorus">შენი ღიმილი ჯილდოდ მაქვს,</li>
-<li class="chorus chorus-bottom">ო, მე შენ მიყვარხარ.</li>
+<li>предела нет такой любви,</li>
+<li>где кончится она?</li>
+<li>о, с каждым днём всё сладостней</li>
+<li>господь Иисус для нас.</li>
+<li class="chorus chorus-top">господь Иисус, пребудь со мной;</li>
+<li class="chorus">во всякий час Ты мой покой;</li>
+<li class="chorus">улыбка светит мне твоя;</li>
+<li class="chorus chorus-bottom">о, я люблю тебя.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "იესო, შენზე ფიქრები,"),
-    num: (num = 158),
+    title: (title = "Как сладка даже мысль одна,"),
+    num: (num = 128),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 209)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>გულს მივსებს სიტკბოთი;</li>
-<li>თუმც მსურს გიხილო პირისპირ,</li>
-<li>მოვისვენო შენში.</li>
+<li>иисус мой, о Тебе!</li>
+<li>но быть в присутствии Твоём</li>
+<li>ещё отрадней мне.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ვერც ფიქრები, ვერც სიმღერა,</li>
-<li>ვერც სხვა ვერაფერი</li>
-<li>შენს ტკბილ სახელს ვერ ედრება,</li>
-<li>მხსნელო მთელი ქვეყნის.</li>
+<li>не спеть, ни в сердце не найти,</li>
+<li>ни в памяти моей</li>
+<li>сладостней звука, чем «Иисус» -</li>
+<li>спаситель всех людей.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>დამსხვრეულ გულთა იმედი,</li>
-<li>მორჩილთ სიხარული,</li>
-<li>დაცემულთათვის კეთილი,</li>
-<li>- ხარ შენ მძებნელთათვის.</li>
+<li>надежда тех, кто сокрушён,</li>
+<li>и радость кротких Ты;</li>
+<li>о, как ты добр ко всем, кто пал,</li>
+<li>благ к ищущим Твоим!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>მან, ვინც შენ გიპოვა, უწყის</li>
-<li>შენი სიყვარული,</li>
-<li>რომელიც კალმის, ენისთვის</li>
-<li>არს აღუწერელი.</li>
+<li>тем, кто нашёл Тебя, Ты дал</li>
+<li>твою любовь познать.</li>
+<li>не описать её пером,</li>
+<li>в словах не передать.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>იესო! სინათლევ ყოვლის!</li>
-<li>ცეცხლო და სიცოცხლევ!</li>
-<li>სიხარულს აღემატები,</li>
-<li>ჭარბობ ჩვენს სურვილებს.</li>
+<li>о Иисус! Ты свет нам здесь;</li>
+<li>жизнь и огонь в Тебе!</li>
+<li>радости и желания</li>
+<li>ты превосходишь все.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>შენ გარდა არვინ გვყავს წყარო,</li>
-<li>მშვინვას წყურვილს უკლავ;</li>
-<li>მშრალია სხვა ყველა წყარო,</li>
-<li>უშრეტი შენა ხარ.</li>
+<li>жажду в душе Ты утолишь,</li>
+<li>родник живой воды!</li>
+<li>высохнут все источники,</li>
+<li>но не иссякнешь Ты.</li>
 </ul>
 </section>
 <section>
 <span class="number">7.</span>
 <ul>
-<li>იესო ჩვენთვის შენა ხარ,</li>
-<li>სიხარული, ჯილდო;</li>
-<li>ჩვენი დიდება ხარ ახლა</li>
-<li>და სამარადისოდ.</li>
+<li>будь нашей радостью, Иисус,</li>
+<li>наша награда - Ты;</li>
+<li>славой сегодня нашей будь</li>
+<li>и славой в вечности.</li>
 </ul>
 </section>
 </main>
