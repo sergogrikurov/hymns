@@ -3,20 +3,14 @@ const inputText = document.querySelector(".inputText");
 const iBtn = document.querySelector(".i-btn");
 const hCont = document.querySelector(".hymn-container");
 const hymnNum = document.querySelector(".hymnNum");
-const hymnNumSpan = document.querySelector(".hymnNum span");
 const prev = document.querySelector(".prev");
 const next = document.querySelector(".next");
-const footer = document.querySelector(".footer");
 const main = document.querySelector(".main");
 const playStop = document.querySelector(".play-stop");
 const play = document.querySelector(".play");
-const playTwo = document.querySelector(".play-two");
 const stopP = document.querySelector(".stop");
-const stopPTwo = document.querySelector(".stop-two");
 const pause = document.querySelector(".pause");
-const pauseTwo = document.querySelector(".pause-two");
 const search = document.querySelector(".search");
-const header = document.querySelector(".header");
 const hymnWrapper = document.querySelector(".hymn-wrapper");
 const strContainer = document.querySelector(".str-container");
 const hymnHistory = document.querySelector(".hymn-history");
@@ -31,32 +25,12 @@ inputText.addEventListener("click", () => (inputNum.value = ""));
 //=======================================================//
 
 let song = new Audio();
-let songTwo = new Audio();
 
 function songSrc() {
   const gStr = document.querySelector(".hNum").textContent;
   let hNum = Number(gStr);
   song.src = `./audio/${hNum}.ogg`;
 }
-
-//=======================================================//
-
-// function songArr() {
-//   const gStr = document.querySelector(".hNum").textContent;
-//   let hNum = Number(gStr);
-//   playTwo.classList.add("none");
-//   const arr = [
-//     6, 8, 18, 37, 58, 65, 75, 76, 120, 131, 148, 160, 162, 164, 213, 226, 251,
-//     259, 292, 303, 319, 382, 404, 415, 419, 421, 435, 445, 458, 467, 527, 529,
-//     530, 554, 629, 650,
-//   ];
-//   for (let i = 0; i < arr.length; i++) {
-//     if (hNum === arr[i]) {
-//       playTwo.classList.remove("none");
-//       songTwo.src = `./audioTwo/${hNum}.ogg`;
-//     }
-//   }
-// }
 
 //=======================================================//
 
@@ -92,8 +66,6 @@ iBtn.addEventListener("click", () => {
     next.classList.remove("hide");
     stopP.classList.add("none");
     pause.classList.add("none");
-    stopPTwo.classList.add("none");
-    pauseTwo.classList.add("none");
     play.classList.remove("none");
     playStop.classList.remove("none");
     sum = data - 1;
@@ -152,8 +124,6 @@ iBtn.addEventListener("click", () => {
       hymnWrapper.classList.remove("none");
       stopP.classList.add("none");
       pause.classList.add("none");
-      stopPTwo.classList.add("none");
-      pauseTwo.classList.add("none");
       play.classList.remove("none");
       playStop.classList.remove("none");
       strContainer.innerHTML = "";
@@ -185,13 +155,10 @@ iBtn.addEventListener("click", () => {
 //=======================================================//
 
 prev.onclick = function () {
-  stopSoundTwo();
   next.classList.remove("hide");
   hCont.innerHTML = `${pages[sum - 1].page}`;
   stopP.classList.add("none");
   pause.classList.add("none");
-  stopPTwo.classList.add("none");
-  pauseTwo.classList.add("none");
   play.classList.remove("none");
   playStop.classList.remove("none");
   hNumber();
@@ -207,14 +174,11 @@ prev.onclick = function () {
 //=======================================================//
 
 next.onclick = function () {
-  stopSoundTwo();
   prev.classList.remove("hide");
   sum++;
   hCont.innerHTML = `${pages[sum].page}`;
   stopP.classList.add("none");
   pause.classList.add("none");
-  stopPTwo.classList.add("none");
-  pauseTwo.classList.add("none");
   play.classList.remove("none");
   playStop.classList.remove("none");
   hNumber();
@@ -246,29 +210,8 @@ function pauseSound() {
 
 //=======================================================//
 
-stopPTwo.classList.add("none");
-pauseTwo.classList.add("none");
-
-function playSoundTwo() {
-  songTwo.play();
-}
-
-function stopSoundTwo() {
-  songTwo.pause();
-  songTwo.currentTime = 0;
-}
-
-function pauseSoundTwo() {
-  songTwo.pause();
-}
-
-//=======================================================//
-
 play.onclick = function () {
   this.classList.add("none");
-  playTwo.classList.add("none");
-  pauseTwo.classList.add("none");
-  stopPTwo.classList.add("none");
   stopP.classList.remove("none");
   pause.classList.remove("none");
   playSound();
@@ -281,7 +224,6 @@ function stopF() {
   play.classList.remove("none");
   playStop.classList.remove("none");
   stopSound();
-  stopSoundTwo();
 }
 
 pause.onclick = function () {
@@ -299,53 +241,12 @@ song.addEventListener("ended", () => {
 
 //=======================================================//
 
-playTwo.onclick = function () {
-  this.classList.add("none");
-  play.classList.add("none");
-  playStop.classList.add("none");
-  stopPTwo.classList.remove("none");
-  pauseTwo.classList.remove("none");
-  stopP.classList.add("none");
-  pause.classList.add("none");
-  playSoundTwo();
-};
-
-stopPTwo.onclick = stopFTwo;
-function stopFTwo() {
-  stopPTwo.classList.add("none");
-  pauseTwo.classList.add("none");
-  playTwo.classList.remove("none");
-  play.classList.remove("none");
-  playStop.classList.remove("none");
-  stopSoundTwo();
-  stopSound();
-}
-
-pauseTwo.onclick = function () {
-  pauseSoundTwo();
-  this.classList.add("none");
-  stopPTwo.classList.remove("none");
-  playTwo.classList.remove("none");
-};
-
-songTwo.addEventListener("ended", () => {
-  stopFTwo();
-  addItem();
-});
-
-//=======================================================//
-
 search.onclick = () => {
   hymnWrapper.classList.add("none");
   main.classList.remove("none");
   hymnHistory.classList.add("none");
   hBtn.classList.remove("active");
-  if (playSound) {
-    stopSound();
-  }
-  if (playSoundTwo) {
-    stopSoundTwo();
-  }
+  stopSound();
   inputNum.value = "";
   inputText.value = "";
 };
@@ -422,8 +323,6 @@ hBtn.onclick = function () {
         hymnWrapper.classList.remove("none");
         stopP.classList.add("none");
         pause.classList.add("none");
-        stopPTwo.classList.add("none");
-        pauseTwo.classList.add("none");
         play.classList.remove("none");
         playStop.classList.remove("none");
         strContainer.innerHTML = "";
@@ -453,3 +352,33 @@ hBtn.onclick = function () {
     });
   }
 };
+
+//======================================//
+let touchStartX = 0;
+let touchEndX = 0;
+
+hymnWrapper.addEventListener("touchstart", (e) => {
+  touchStartX = e.changedTouches[0].screenX;
+});
+
+hymnWrapper.addEventListener("touchend", (e) => {
+  touchEndX = e.changedTouches[0].screenX;
+  handleSwipe();
+});
+
+function handleSwipe() {
+  const swipeDistance = touchEndX - touchStartX;
+
+  // защита от случайных касаний
+  if (Math.abs(swipeDistance) < 50) return;
+
+  // свайп влево -> следующий гимн
+  if (swipeDistance < 0 && !next.classList.contains("hide")) {
+    next.click();
+  }
+
+  // свайп вправо -> предыдущий гимн
+  if (swipeDistance > 0 && !prev.classList.contains("hide")) {
+    prev.click();
+  }
+}
