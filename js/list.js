@@ -8665,447 +8665,363 @@ const pages = [
 `,
   },
   {
-    title: (title = "კადეშის კლდესთან დგას"),
-    num: (num = 189),
+    title: (title = "Теки, Господь, через меня, сосуд Свой,"),
+    num: (num = 136),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 248)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>დაღლილი ხალხი.</li>
-<li>უდაბნოში ისმის</li>
-<li>ბრძანება ღმერთის:</li>
-<li>კლდეს უთხარი,</li>
-<li>წამოვა წყლები,</li>
-<li>ნუღარ დაჰკრავ კლდეს,</li>
-<li>გახსნილია ის,</li>
-<li>უთხარი კლდეს,</li>
-<li>წამოვა წყლები.</li>
-<li class="chorus chorus-top">უთხარი კლდეს,</li>
-<li class="chorus">წამოვა წყლები,</li>
-<li class="chorus">ნუ ეჭვობ, უკვე</li>
-<li class="chorus">მოგვეცა სული;</li>
-<li class="chorus">მიიღე ის, რაც</li>
-<li class="chorus">მისგან გვებოძა,</li>
-<li class="chorus">სვი და აივსე</li>
-<li class="chorus chorus-bottom">ამ სულით სრულად.</li>
+<li>что был очищен, оживлён Тобой.</li>
+<li>ради Тебя я всё своё оставлю,</li>
+<li>чтобы Тебе послушным быть слугой.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>საუკუნეთა კლდევ,</li>
-<li>გახსნილო კვლავაც;</li>
-<li>შენი წმიდა სულით</li>
-<li>აგვავსე სრულად.</li>
-<li>შენ კვლავ ამბობ:</li>
-<li>იბრძვით რისთვისღა?</li>
-<li>მოუხმე სულს თუნდ</li>
-<li>ჩუმად, ხმადაბლა,</li>
-<li>უთხარი კლდეს,</li>
-<li>წყლები წამოვა.</li>
-<li class="chorus chorus-top">უთხარი კლდეს,</li>
-<li class="chorus">წამოვა წყლები,</li>
-<li class="chorus">ნუ ეჭვობ, უკვე</li>
-<li class="chorus">მოგვეცა სული;</li>
-<li class="chorus">მიიღე ის, რაც</li>
-<li class="chorus">მისგან გვებოძა,</li>
-<li class="chorus">სვი და აივსე</li>
-<li class="chorus chorus-bottom">ამ სულით სრულად.</li>
+<li>теки, Господь, через меня полнее,</li>
+<li>к людям любовь Твою мне дай узнать;</li>
+<li>о, сотвори во мне такую веру,</li>
+<li>чтоб её силой горы мне сдвигать.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>უბრალოდ რომ ვენდო,</li>
-<li>ვირწმუნო სრულად;</li>
-<li>ყველაფერი ვით ყრმამ</li>
-<li>მივიღო წრფელად.</li>
-<li>როგორც ჩვილი</li>
-<li>დედის გულმკერდზე,</li>
-<li>ღმერთო, შენს გულზე</li>
-<li>სული ისვენებს.</li>
-<li>მე მაკურთხებს</li>
-<li>შენი სიცოცხლე.</li>
-<li class="chorus chorus-top">უთხარი კლდეს,</li>
-<li class="chorus">წამოვა წყლები,</li>
-<li class="chorus">ნუ ეჭვობ, უკვე</li>
-<li class="chorus">მოგვეცა სული;</li>
-<li class="chorus">მიიღე ის, რაც</li>
-<li class="chorus">მისგან გვებოძა,</li>
-<li class="chorus">სვი და აივსე</li>
-<li class="chorus chorus-bottom">ამ სულით სრულად.</li>
+<li>теки, господь, чтоб тьма греха открылась</li>
+<li>тем, кто томится в узах Сатаны,</li>
+<li>и чтоб живым теченьем в покаянье</li>
+<li>были сердца Тобой исцелены.</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>теки, Господь, чтоб ожил изнемогший,</li>
+<li>чтоб тот, кто сломлен, гимн победный пел,</li>
+<li>чтобы хвала из уст, молчавших прежде,</li>
+<li>с песнью слилась спасённых на земле.</li>
+</ul>
+</section>
+<section>
+<span class="number">5.</span>
+<ul>
+<li>теки, Господь, чтоб Твой живой источник</li>
+<li>жажду людей в пустыне утолил,</li>
+<li>чтобы в местах бесплодных и унылых</li>
+<li>свежие розы красотой цвели.</li>
+</ul>
+</section>
+<section>
+<span class="number">6.</span>
+<ul>
+<li>теки, Господь, чтоб трепетно звучала</li>
+<li>в струнах души моей любовь Твоя,</li>
+<li>пусть, о Господь, Ты на земле и небе</li>
+<li>будешь один отрадой для меня.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "უფალო, იდინე თიხის ჭურჭლიდან,"),
-    num: (num = 190),
+    title: (title = "Хлынь водой, источник;"),
+    num: (num = 137),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 249)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>გაწმენდილ და გაცოცხლებულიდან;</li>
-<li>შენი მსახურებისთვის მივატოვე,</li>
-<li>ყველაფერი, დიდი თუ პატარა.</li>
+<li>о, копай, Господь мой,</li>
+<li>чтобы тёк свободно</li>
+<li>чрез меня поток Твой.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>უფალო, იდინე სრულ გადმოღვრამდე,</li>
-<li>შენი სიყვარულით მიყვარდეს სხვა.</li>
-<li>შექმენი ჩემში ისეთი რწმენა, რომ</li>
-<li>მისი ძალით შევძლო მთის გადადგმა.</li>
+<li>рассечён Христос был,</li>
+<li>и вода струится,</li>
+<li>но не может в сердце</li>
+<li>у меня пробиться.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>უფალო, იდინე, ამხილე ცოდვის</li>
-<li>და სატანის ტყვეობის ქვეშ მყოფნი.</li>
-<li>შენი გამწმენდი სათავიდან იყოს</li>
-<li>ხსნა დამსხვრეული გულებისათვის.</li>
+<li>чтоб всю грязь расчистить,</li>
+<li>буду я молиться.</li>
+<li>высвобожу Духа -</li>
+<li>пусть поток струится.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>უფალო, იდინე და გააცოცხლე</li>
-<li>მკვდრები, და ძლეულნი აამღერე;</li>
-<li>ვიდრე არ გაქებენ ბაგედახშულნი</li>
-<li>და აღტაცებით შენ გიმღერებენ.</li>
+<li>вновь Скалу-Христа мне</li>
+<li>рассекать не нужно.</li>
+<li>отдаю себя я,</li>
+<li>чтоб копал Ты глубже.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>უფალო, იდინე, ხარ წყლის სათავე,</li>
-<li>დაარწყულე უდაბნოში მყოფნი.</li>
-<li>უნაყოფო ადგილები გახადე</li>
-<li>ნაზი ვარდებით აყვავებული.</li>
+<li>мне одно лишь нужно -</li>
+<li>духом наполняться,</li>
+<li>чтоб поток из сердца</li>
+<li>начал изливаться.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>უფალო, იდინე, რომ გულის სიმნი</li>
-<li>ჟღერდეს მსგავსად შენი სიყვარულის.</li>
-<li>ჩემთვის, უფალო, ცაში და მიწაზე</li>
-<li>არავინ იყოს შენი სადარი.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "წყლის ჭავ, ამოხეთქე;"),
-    num: (num = 191),
-    page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 250)</span>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>უფალო, იდინე,</li>
-<li>ყველა დაბრკოლება</li>
-<li>ჩემგან ამოთხარე.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ქრისტე, კლდე, გაიპო;</li>
-<li>ჩქეფს ცოცხალი წყალი;</li>
-<li>მაგრამ მას არ ძალუძს</li>
-<li>დინება ჩემს გულში.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მე ამოვთხრი ლოცვით,</li>
-<li>ჩემგან ჭუჭყს ყოველგვარს;</li>
-<li>შენს სულს გზას მივცემ, რომ</li>
-<li>იდინოს ნაკადმა.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ქრისტე, კლდე, გაპობას</li>
-<li>აღარ საჭიროებს;</li>
-<li>მაგრამ ამოთხრისთვის,</li>
-<li>უფალო, თავს გაძლევ.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ის, რაც მე მჭირდება,</li>
-<li>სულით ავსებაა,</li>
-<li>რომ ჩემი გულიდან</li>
-<li>იდინოს ამ წყალმა.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>ყველა დაბრკოლება,</li>
-<li>ამოთხარე სრულად;</li>
-<li>ცოცხალი უწყებით</li>
-<li>იდინოს ნაკადმა.</li>
+<li>всё, что течь мешает,</li>
+<li>удали, копая,</li>
+<li>и тогда в потоке</li>
+<li>весть придёт живая.</li>
 </ul>
 </section>
 <section>
 <span class="number">7.</span>
 <ul>
-<li>წყლის ჭავ, ამოხეთქე;</li>
-<li>უფალო, იდინე,</li>
-<li>ყველა დაბრკოლება</li>
-<li>ჩემგან ამოთხარე.</li>
+<li>хлынь водой, источник;</li>
+<li>о, копай, Господь мой,</li>
+<li>чтобы тёк свободно</li>
+<li>чрез меня поток Твой.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ტახტიდან მდინარეები"),
-    num: (num = 192),
+    title: (title = "Реки с водою живою,"),
+    num: (num = 138),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 251)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>გამოდის ცოცხალი წყლის;</li>
-<li>მხოლოდ იესოსგან უხვად</li>
-<li>იღვრება კურთხევები.</li>
-<li class="chorus chorus-top">ამ წყლის მდინარეები,</li>
-<li class="chorus">უხვად გვაძლევს სიცოცხლეს;</li>
-<li class="chorus">იდინე, ჩემო მხსნელო,</li>
-<li class="chorus chorus-bottom">ჩემგან გადმოიღვარე.</li>
+<li>что от престола текут,</li>
+<li>благословения полны,</li>
+<li>лишь от Иисуса идут.</li>
+<li class="chorus chorus-top">реки с водою живою</li>
+<li class="chorus">жизнь изобильно дают.</li>
+<li class="chorus">пусть эти реки, Спаситель,</li>
+<li class="chorus chorus-bottom">через меня потекут.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ყველა მწყურვალი მოვიდეს</li>
-<li>უხვ მომარაგებასთან;</li>
-<li>წყალი, კრისტალივით სუფთა,</li>
-<li>მოდით, უსასყიდლოა.</li>
-<li class="chorus chorus-top">ამ წყლის მდინარეები,</li>
-<li class="chorus">უხვად გვაძლევს სიცოცხლეს;</li>
-<li class="chorus">იდინე, ჩემო მხსნელო,</li>
-<li class="chorus chorus-bottom">ჩემგან გადმოიღვარე.</li>
+<li>пусть тот, кто жаждет, приходит:</li>
+<li>вот изобильный запас;</li>
+<li>чистую воду без платы</li>
+<li>здесь покупайте сейчас.</li>
+<li class="chorus chorus-top">реки с водою живою</li>
+<li class="chorus">жизнь изобильно дают.</li>
+<li class="chorus">пусть эти реки, Спаситель,</li>
+<li class="chorus chorus-bottom">через меня потекут.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ო, ჩემო მხსნელო, გამწმინდე,</li>
-<li>შენი არხი გამხადე;</li>
-<li>დამცალე, შენით ამავსე,</li>
-<li>მორჩილება მასწავლე.</li>
-<li class="chorus chorus-top">ამ წყლის მდინარეები,</li>
-<li class="chorus">უხვად გვაძლევს სიცოცხლეს;</li>
-<li class="chorus">იდინე, ჩემო მხსნელო,</li>
-<li class="chorus chorus-bottom">ჩემგან გადმოიღვარე.</li>
+<li>чистым каналом, Спаситель,</li>
+<li>сделай меня для Себя,</li>
+<li>опустоши и наполни,</li>
+<li>в вере чтоб слушался я.</li>
+<li class="chorus chorus-top">реки с водою живою</li>
+<li class="chorus">жизнь изобильно дают.</li>
+<li class="chorus">пусть эти реки, Спаситель,</li>
+<li class="chorus chorus-bottom">через меня потекут.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ო, უფალო, ამის შემდეგ,</li>
-<li>ჩემგან გადმოიღვრები;</li>
-<li>ასე შენს დიად სისავსეს</li>
-<li>შეიმეცნებენ სხვებიც.</li>
-<li class="chorus chorus-top">ამ წყლის მდინარეები,</li>
-<li class="chorus">უხვად გვაძლევს სიცოცხლეს;</li>
-<li class="chorus">იდინე, ჩემო მხსნელო,</li>
-<li class="chorus chorus-bottom">ჩემგან გადმოიღვარე.</li>
+<li>только тогда будут реки</li>
+<li>через меня протекать,</li>
+<li>так только смогут другие</li>
+<li>всю полноту Твою знать.</li>
+<li class="chorus chorus-top">реки с водою живою</li>
+<li class="chorus">жизнь изобильно дают.</li>
+<li class="chorus">пусть эти реки, Спаситель,</li>
+<li class="chorus chorus-bottom">через меня потекут.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>იესო, გადმოგცემ ჩემს თავს,</li>
-<li>ვდებ ყველაფერს შენს ფერხთით;</li>
-<li>რომ ყოველი, რაც მაქვს, იყოს</li>
-<li>შენი მსახურებისთვის.</li>
-<li class="chorus chorus-top">ამ წყლის მდინარეები,</li>
-<li class="chorus">უხვად გვაძლევს სიცოცხლეს;</li>
-<li class="chorus">იდინე, ჩემო მხსნელო,</li>
-<li class="chorus chorus-bottom">ჩემგან გადმოიღვარე.</li>
+<li>всё, о Иисус, полагаю</li>
+<li>ныне к ногам Твоим я -</li>
+<li>лишь бы Тебе был пригодным</li>
+<li>я для служенья всегда!</li>
+<li class="chorus chorus-top">реки с водою живою</li>
+<li class="chorus">жизнь изобильно дают.</li>
+<li class="chorus">пусть эти реки, Спаситель,</li>
+<li class="chorus chorus-bottom">через меня потекут.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ჩვენ მოვედით, მოვედით ღმერთის სახლში,"),
-    num: (num = 193),
+    title: (title = "Мы пришли, мы пришли в дом, где Бог живёт,"),
+    num: (num = 139),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1115)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>საიდანაც მოედინება წყალი.</li>
-<li>მარჯვენა მხრიდან დღედაღამ მარად გვრწყავს</li>
-<li>და სიცოცხლის ნაყოფები იზრდება.</li>
+<li>в дом, где справа поток день и ночь течёт,</li>
+<li>постоянно течёт, орошая нас,</li>
+<li>пока Божья жизнь свои плоды не даст.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>სახლიდან ცოცხალი ნაკადი მოდის,</li>
-<li>მიწისაკენ უმაღლესი სიცოცხლით.</li>
-<li>გვსურს გააღრმავო დინება, უფალო,</li>
-<li>რომ გაგვზომო და სრულად დაგვეუფლო.</li>
+<li>к нам из дома поток тот живой течёт,</li>
+<li>высочайшую жизнь для земли несёт,</li>
+<li>но хотим тот поток больше углубить:</li>
+<li>нас, Господь, измерь, чтоб больше захватить.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>გაგვზომე, გაგვზომე ყოველდღიურად,</li>
-<li>გაგვზომე ყველაფერში უფრო მეტად.</li>
-<li>სანამ არ შევიცნობთ ძლიერ დინებას,</li>
-<li>სანამ ქრისტე არ დატბორავს მთელ მიწას!</li>
+<li>измеряй, измеряй Ты нас день за днём,</li>
+<li>измеряй больше нас, измеряй во всём,</li>
+<li>пока мощный поток, мчащийся вперёд,</li>
+<li>для Христа по всей земле не потечёт!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>წაგვიძეხი დინების მეშვეობით,</li>
-<li>სადაც უნდა წავიდეთ, წაგვიძეხი.</li>
-<li>გაზარდე დინება, არ შეაჩერო,</li>
-<li>ღმერთში მარად გავცუროთ და ჩავეფლოთ.</li>
+<li>о, веди, да, веди нас через поток,</li>
+<li>чтобы, где б мы ни шли, он свободно тёк,</li>
+<li>возрастая, пока в нём не поплывём,</li>
+<li>погрузившись в Бога, чтоб быть вечно в Нём.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>სადაც ეს მდინარე მიედინება,</li>
-<li>ყოველი არსება გამოცოცხლდება.</li>
-<li>ამ დინებამ სიცოცხლე მიიტანოს,</li>
-<li>უდაბნო ეკლესიებად გაფურჩქნოს!</li>
+<li>где течёт тот поток, там всё оживёт,</li>
+<li>в нём действительно жить всё везде начнёт.</li>
+<li>о, источник живой, изобильно хлынь -</li>
+<li>церкви расцветут среди земных пустынь!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "შთამბერე სული, უფალო,"),
-    num: (num = 194),
+    title: (title = "О Господь, Тебя как Духа"),
+    num: (num = 140),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 255)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>შეგისუნთქო, მასწავლე;</li>
-<li>შენს წიაღში გადმოვღვარო</li>
-<li>ცოდვის და "მეს" სიცოცხლე.</li>
-<li class="chorus chorus-top">ამოვისუნთქავ ჩემს ცოდვას,</li>
-<li class="chorus">ჩემს მწუხარებას;</li>
-<li class="chorus">ჩავისუნთქავ, ჩავისუნთქავ,</li>
-<li class="chorus chorus-bottom">სისავსეს შენსას.</li>
+<li>научи меня вдыхать,</li>
+<li>жизнь мою, где «я» и грех лишь,</li>
+<li>в Твоё лоно изливать.</li>
+<li class="chorus chorus-top">я весь грех свой выдыхаю</li>
+<li class="chorus">и печаль свою;</li>
+<li class="chorus">и вдыхаю, и вдыхаю</li>
+<li class="chorus chorus-bottom">полноту Твою.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ჩემს ძველ "მეს" ამოვისუნთქავ,</li>
-<li>რათა ავივსო შენით;</li>
-<li>ვტოვებ ჩემს ძალას, სისუსტეს</li>
-<li>ვისუნთქავ სიცოცხლეს ღვთის.</li>
-<li class="chorus chorus-top">ამოვისუნთქავ ჩემს ცოდვას,</li>
-<li class="chorus">ჩემს მწუხარებას;</li>
-<li class="chorus">ჩავისუნთქავ, ჩავისუნთქავ,</li>
-<li class="chorus chorus-bottom">სისავსეს შენსას.</li>
+<li>жизнь свою я выдыхаю,</li>
+<li>чтоб наполниться Твоей;</li>
+<li>сила вся моя и немощь</li>
+<li>пусть уступят место ей.</li>
+<li class="chorus chorus-top">я весь грех свой выдыхаю</li>
+<li class="chorus">и печаль свою;</li>
+<li class="chorus">и вдыхаю, и вдыхаю</li>
+<li class="chorus chorus-bottom">полноту Твою.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ამოვისუნთქავ ბუნებას,</li>
-<li>ცოდვილს, შენ რომ იტვირთე;</li>
-<li>გამწმენდ სისავსეს ვისუნთქავ,</li>
-<li>სიცოცხლეს შენში ვპოვებ.</li>
-<li class="chorus chorus-top">ამოვისუნთქავ ჩემს ცოდვას,</li>
-<li class="chorus">ჩემს მწუხარებას;</li>
-<li class="chorus">ჩავისუნთქავ, ჩავისუნთქავ,</li>
-<li class="chorus chorus-bottom">სისავსეს შენსას.</li>
+<li>всю греховность выдыхаю:</li>
+<li>взял её Ты на Себя;</li>
+<li>очищение вдыхаю,</li>
+<li>жизнь в Тебе лишь находя.</li>
+<li class="chorus chorus-top">я весь грех свой выдыхаю</li>
+<li class="chorus">и печаль свою;</li>
+<li class="chorus">и вдыхаю, и вдыхаю</li>
+<li class="chorus chorus-bottom">полноту Твою.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ამოვისუნთქავ ჩემ სევდას</li>
-<li>შენს კეთილ და ნაზ მკერდზე;</li>
-<li>ჩავისუნთქავ შენს სიხარულს,</li>
-<li>შენს მშვიდობას და ნუგეშს.</li>
-<li class="chorus chorus-top">ამოვისუნთქავ ჩემს ცოდვას,</li>
-<li class="chorus">ჩემს მწუხარებას;</li>
-<li class="chorus">ჩავისუნთქავ, ჩავისუნთქავ,</li>
-<li class="chorus chorus-bottom">სისავსეს შენსას.</li>
+<li>все печали выдыхаю</li>
+<li>я, припав к Твоей груди;</li>
+<li>утешение вдыхаю,</li>
+<li>радость, мир, покой Твои.</li>
+<li class="chorus chorus-top">я весь грех свой выдыхаю</li>
+<li class="chorus">и печаль свою;</li>
+<li class="chorus">и вдыхаю, и вдыхаю</li>
+<li class="chorus chorus-bottom">полноту Твою.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ამოვისუნთქავ ყველა სენს,</li>
-<li>ჯვარზე შენ რომ იტვირთე;</li>
-<li>ჩავისუნთქავ განკურნებას,</li>
-<li>ახალს, შენ დანაპირებს.</li>
-<li class="chorus chorus-top">ამოვისუნთქავ ჩემს ცოდვას,</li>
-<li class="chorus">ჩემს მწუხარებას;</li>
-<li class="chorus">ჩავისუნთქავ, ჩავისუნთქავ,</li>
-<li class="chorus chorus-bottom">სისავსეს შენსას.</li>
+<li>все болезни выдыхаю,</li>
+<li>ты понёс их за меня;</li>
+<li>исцеление вдыхаю</li>
+<li>с новизною из Тебя.</li>
+<li class="chorus chorus-top">я весь грех свой выдыхаю</li>
+<li class="chorus">и печаль свою;</li>
+<li class="chorus">и вдыхаю, и вдыхаю</li>
+<li class="chorus chorus-bottom">полноту Твою.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>ამოვისუნთქავ სურვილებს,</li>
-<li>გეტყვი მათ მომსმენ ყურში;</li>
-<li>შენს პასუხებს ჩავისუნთქავ,</li>
-<li>რომ აქარვებს ეჭვს და შიშს.</li>
-<li class="chorus chorus-top">ამოვისუნთქავ ჩემს ცოდვას,</li>
-<li class="chorus">ჩემს მწუხარებას;</li>
-<li class="chorus">ჩავისუნთქავ, ჩავისუნთქავ,</li>
-<li class="chorus chorus-bottom">სისავსეს შენსას.</li>
+<li>все желанья выдыхаю</li>
+<li>в ухо чуткое Твоё;</li>
+<li>от Тебя ответ вдыхаю -</li>
+<li>в нём спокойствие моё.</li>
+<li class="chorus chorus-top">я весь грех свой выдыхаю</li>
+<li class="chorus">и печаль свою;</li>
+<li class="chorus">и вдыхаю, и вдыхаю</li>
+<li class="chorus chorus-bottom">полноту Твою.</li>
 </ul>
 </section>
 <section>
 <span class="number">7.</span>
 <ul>
-<li>ყოველ წამს გსუნთქავ, უფალო,</li>
-<li>შენგან ვხაპავ სიცოცხლეს;</li>
-<li>მხოლოდ შენი სუნთქვით ვცოცხლობ,</li>
-<li>შენი სული შთამბერე!</li>
-<li class="chorus chorus-top">ამოვისუნთქავ ჩემს ცოდვას,</li>
-<li class="chorus">ჩემს მწუხარებას;</li>
-<li class="chorus">ჩავისუნთქავ, ჩავისუნთქავ,</li>
-<li class="chorus chorus-bottom">სისავსეს შენსას.</li>
+<li>каждый миг, Господь, дышу я,</li>
+<li>жизнь вбирая из Тебя;</li>
+<li>так дыша, живу Тобою,</li>
+<li>духа Ты вдыхай в меня.</li>
+<li class="chorus chorus-top">я весь грех свой выдыхаю</li>
+<li class="chorus">и печаль свою;</li>
+<li class="chorus">и вдыхаю, и вдыхаю</li>
+<li class="chorus chorus-bottom">полноту Твою.</li>
 </ul>
 </section>
 </main>
@@ -9887,7 +9803,7 @@ const pages = [
 <li>დაე, ჩემი სიცოცხლე</li>
 <li>შენთვის არხი გახადე;</li>
 <li>მომეც შენი სიმდიდრე,</li>
-<li>ჩემგან გადმოიღვარე.</li>
+<li>через меня потекут.</li>
 </ul>
 </section>
 <section>
@@ -9965,7 +9881,7 @@ const pages = [
 <li>შენ მწყურიხარ და გესწრაფვი</li>
 <li>ვით ირემი წყლისაკენ;</li>
 <li>მსურს შევსვა შენი სისავსე,</li>
-<li>ჩემგან გადმოიღვარე.</li>
+<li>через меня потекут.</li>
 <li class="chorus chorus-top">ამავსე, ამავსე!</li>
 <li class="chorus">შენი სულით ამავსე!</li>
 <li class="chorus">ყველაფერი მომაშორე!</li>
@@ -34866,7 +34782,7 @@ const pages = [
 <li>ცალკე მყოფი ნაწილი</li>
 <li>სრულად ვერ გამოგხატავს,</li>
 <li>სხეული ნაშენები,</li>
-<li>ავლენს სისავსეს შენსას.</li>
+<li>ავლენს полноту Твою.</li>
 </ul>
 </section>
 <section>
