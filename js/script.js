@@ -352,33 +352,3 @@ hBtn.onclick = function () {
     });
   }
 };
-
-//======================================//
-let touchStartX = 0;
-let touchEndX = 0;
-
-hymnWrapper.addEventListener("touchstart", (e) => {
-  touchStartX = e.changedTouches[0].screenX;
-});
-
-hymnWrapper.addEventListener("touchend", (e) => {
-  touchEndX = e.changedTouches[0].screenX;
-  handleSwipe();
-});
-
-function handleSwipe() {
-  const swipeDistance = touchEndX - touchStartX;
-
-  // защита от случайных касаний
-  if (Math.abs(swipeDistance) < 50) return;
-
-  // свайп влево -> следующий гимн
-  if (swipeDistance < 0 && !next.classList.contains("hide")) {
-    next.click();
-  }
-
-  // свайп вправо -> предыдущий гимн
-  if (swipeDistance > 0 && !prev.classList.contains("hide")) {
-    prev.click();
-  }
-}
