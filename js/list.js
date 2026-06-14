@@ -2065,7 +2065,7 @@ const pages = [
 <li>в череде времён, болезней,</li>
 <li>и печалей, и скорбей</li>
 <li>изменить ничто не может</li>
-<li>к нам, Щтец, любви Твоей.</li>
+<li>к нам, Отец, любви Твоей.</li>
 <li>скоро все, кого купил Ты,</li>
 <li>у престола воспоют</li>
 <li>и хвалу Тебе, Отец наш,</li>
@@ -10184,7 +10184,7 @@ const pages = [
 <ul>
 <li>искуплен и счастлив в Иисусе,</li>
 <li>и слов это выразить нет.</li>
-<li>я знаю: Иисус мой со мною,,</li>
+<li>я знаю: Иисус мой со мною,</li>
 <li>всегда Он мне дарит свой свет.</li>
 <li class="chorus chorus-top">искуплен я!</li>
 <li class="chorus">искуплен я кровью Его!</li>
@@ -10532,317 +10532,312 @@ const pages = [
 `,
   },
   {
-    title: (title = "საოცრად შეიცვალა ჩემი ცხოვრება,"),
-    num: (num = 235),
+    title: (title = "Как чудесно вся жизнь изменилась моя -"),
+    num: (num = 166),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 309)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>აწ იესო ჩემს გულშია!</li>
-<li>ჩემს მშვინვაში ვპოვე ნანატრი სინათლე,</li>
-<li>აწ იესო ჩემს გულშია!</li>
-<li class="chorus chorus-top">აწ იესო ჩემს გულშია!</li>
-<li class="chorus">აწ იესო ჩემს გულშია!</li>
-<li class="chorus">ჩემს მშვინვას სიხარულის ტალღები ტბორავს,</li>
-<li class="chorus chorus-bottom">აწ იესო ჩემს გულშია!</li>
+<li>иисус в моё сердце вошёл!</li>
+<li>я обрёл дивный свет, что искал много лет -</li>
+<li>иисус в моё сердце вошёл!</li>
+<li class="chorus chorus-top">иисус в моё сердце вошёл!</li>
+<li class="chorus">иисус в моё сердце вошёл!</li>
+<li class="chorus">радость, словно волна, заливает меня -</li>
+<li class="chorus chorus-bottom">иисус в моё сердце вошёл!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ხეტიალი და გზას აცდენა შევწყვიტე,</li>
-<li>აწ იესო ჩემს გულშია!</li>
-<li>ჩემი ყოველი ცოდვისგან განვიბანე,</li>
-<li>აწ იესო ჩემს გულშია!</li>
-<li class="chorus chorus-top">აწ იესო ჩემს გულშია!</li>
-<li class="chorus">აწ იესო ჩემს გულშია!</li>
-<li class="chorus">ჩემს მშვინვას სიხარულის ტალღები ტბორავს,</li>
-<li class="chorus chorus-bottom">აწ იესო ჩემს გულშია!</li>
+<li>прекратил я блуждать и сбиваться с пути -</li>
+<li>иисус в моё сердце вошёл!</li>
+<li>пусть я много грешил, ныне смыты грехи -</li>
+<li>иисус в моё сердце вошёл!</li>
+<li class="chorus chorus-top">иисус в моё сердце вошёл!</li>
+<li class="chorus">иисус в моё сердце вошёл!</li>
+<li class="chorus">радость, словно волна, заливает меня -</li>
+<li class="chorus chorus-bottom">иисус в моё сердце вошёл!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>სავსე ვარ მტკიცე და ურყევი იმედით,</li>
-<li>აწ იესო ჩემს გულშია!</li>
-<li>ეჭვის ბნელი ღრუბლები წინ აღარ მიდგას,</li>
-<li>აწ იესო ჩემს გულშია!</li>
-<li class="chorus chorus-top">აწ იესო ჩემს გულშია!</li>
-<li class="chorus">აწ იესო ჩემს გულშია!</li>
-<li class="chorus">ჩემს მშვინვას სიხარულის ტალღები ტბორავს,</li>
-<li class="chorus chorus-bottom">აწ იესო ჩემს გულშია!</li>
+<li>ныне твёрдой надеждою сердце полно -</li>
+<li>иисус в моё сердце вошёл!</li>
+<li>тьма сомнений исчезла с пути моего -</li>
+<li>иисус в моё сердце вошёл!</li>
+<li class="chorus chorus-top">иисус в моё сердце вошёл!</li>
+<li class="chorus">иисус в моё сердце вошёл!</li>
+<li class="chorus">радость, словно волна, заливает меня -</li>
+<li class="chorus chorus-bottom">иисус в моё сердце вошёл!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>სიკვდილის ხეობაშიც კი სინათლეა,</li>
-<li>აწ იესო ჩემს გულშია!</li>
-<li>წმიდა ქალაქის კარიბჭეებსაც ვხედავ,</li>
-<li>აწ იესო ჩემს გულშია!</li>
-<li class="chorus chorus-top">აწ იესო ჩემს გულშია!</li>
-<li class="chorus">აწ იესო ჩემს გულშია!</li>
-<li class="chorus">ჩემს მშვინვას სიხარულის ტალღები ტბორავს,</li>
-<li class="chorus chorus-bottom">აწ იესო ჩემს გულშია!</li>
+<li>ныне в смертной долине мне свет воссиял -</li>
+<li>иисус в моё сердце вошёл!</li>
+<li>и вдали Град Святой перед взором предстал -</li>
+<li>иисус в моё сердце вошёл!</li>
+<li class="chorus chorus-top">иисус в моё сердце вошёл!</li>
+<li class="chorus">иисус в моё сердце вошёл!</li>
+<li class="chorus">радость, словно волна, заливает меня -</li>
+<li class="chorus chorus-bottom">иисус в моё сердце вошёл!</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ვიცი, წავალ, დავმკვიდრდები იმ ქალაქში,</li>
-<li>აწ იესო ჩემს გულშია!</li>
-<li>წინ მივიწევ, ვარ უზომოდ ბედნიერი,</li>
-<li>აწ იესო ჩემს გულშია!</li>
-<li class="chorus chorus-top">აწ იესო ჩემს გულშია!</li>
-<li class="chorus">აწ იესო ჩემს გულშია!</li>
-<li class="chorus">ჩემს მშვინვას სიხარულის ტალღები ტბორავს,</li>
-<li class="chorus chorus-bottom">აწ იესო ჩემს გულშია!</li>
+<li>знаю: в Град тот приду, вечно жить буду в нём -</li>
+<li>иисус в моё сердце вошёл!</li>
+<li>полон радости, этим иду я путём -</li>
+<li>иисус в моё сердце вошёл!</li>
+<li class="chorus chorus-top">иисус в моё сердце вошёл!</li>
+<li class="chorus">иисус в моё сердце вошёл!</li>
+<li class="chorus">радость, словно волна, заливает меня -</li>
+<li class="chorus chorus-bottom">иисус в моё сердце вошёл!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "სიხარულმა აავსო გული ჩემი,"),
-    num: (num = 236),
+    title: (title = "О, радость наполнила сердце моё!"),
+    num: (num = 167),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1357)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ო, ხარობს გული!</li>
-<li>ღმერთმა ქვის გული ხორცით შემიცვალა;</li>
-<li>მისი სული მაახლებს და მაცოცხლებს.</li>
-<li>სიხარულმა აავსო გული ჩემი.</li>
+<li>ликует оно!</li>
+<li>бог сердце из камня во мне заменил,</li>
+<li>и Дух обновляющий жизнь в меня влил.</li>
+<li>о, радость наполнила сердце моё!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ო, მისი სული მავსებს მე ახლა კვლავ!</li>
-<li>ო, სული მავსებს!</li>
-<li>მაშორებს ცოდვას, სიკვდილს და სისუსტეს,</li>
-<li>რომ მქონდეს სიმართლი ნაყოფნი მისთვის.</li>
-<li>ო, მისი სული მავსებს მე ახლა კვლავ!</li>
+<li>о, Господа Дух наполняет меня!</li>
+<li>его Дух во мне!</li>
+<li>уносит Он грех, смерть и слабость мою,</li>
+<li>чтоб мог я плод праведности дать Ему.</li>
+<li>о, Господа Дух наполняет меня!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ოდეს მედო ცოდვის ბორკილები,"),
-    num: (num = 237),
+    title: (title = "Я был греха цепями опутан,"),
+    num: (num = 168),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 310)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ვით მონა ამაოდ ვიბრძოდი;</li>
-<li>იესომ მომცა თავისუფლება</li>
-<li>მან დამიმსხვრია ბორკილები.</li>
-<li class="chorus chorus-top">თავისუფლება! თავისუფლება!</li>
-<li class="chorus">ცოდვის ბორკილებში აღარ ვარ!</li>
-<li class="chorus">იესომ მომცა თავისუფლება,</li>
-<li class="chorus chorus-bottom">აწ და მარადის ის ჩემია.</li>
+<li>тщетно боролся, мучимый раб;</li>
+<li>но Иисус пришёл со свободой,</li>
+<li>цепи мои разбил пополам.</li>
+<li class="chorus chorus-top">освобожденье! Освобожденье!</li>
+<li class="chorus">цепи греха упали с меня!</li>
+<li class="chorus">о, Иисус - мой Освободитель!</li>
+<li class="chorus chorus-bottom">в дивной свободе радуюсь я!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>გავთავისუფლდი: გულისთქმებისგან,</li>
-<li>შურისგან, ზიზღისგან, ბრძოლისგან,</li>
-<li>ფუჭი პატივმოყვარეობისგან</li>
-<li>- ყველაფრისგან, რაც მე მთრგუნავდა.</li>
-<li class="chorus chorus-top">თავისუფლება! თავისუფლება!</li>
-<li class="chorus">ცოდვის ბორკილებში აღარ ვარ!</li>
-<li class="chorus">იესომ მომცა თავისუფლება,</li>
-<li class="chorus chorus-bottom">აწ და მარადის ის ჩემია.</li>
+<li>освобождён от плотских страстей я,</li>
+<li>зависти, злобы, тщетной борьбы,</li>
+<li>от суеты и от честолюбья -</li>
+<li>ото всего, что портило жизнь.</li>
+<li class="chorus chorus-top">освобожденье! Освобожденье!</li>
+<li class="chorus">цепи греха упали с меня!</li>
+<li class="chorus">о, Иисус - мой Освободитель!</li>
+<li class="chorus chorus-bottom">в дивной свободе радуюсь я!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>გავთავისუფლდი: სიამაყისგან,</li>
-<li>მამონისგან და სიბრიყვისგან,</li>
-<li>სიბრაზისგან და ხასიათისგან</li>
-<li>- დიდებული თავისუფლება.</li>
-<li class="chorus chorus-top">თავისუფლება! თავისუფლება!</li>
-<li class="chorus">ცოდვის ბორკილებში აღარ ვარ!</li>
-<li class="chorus">იესომ მომცა თავისუფლება,</li>
-<li class="chorus chorus-bottom">აწ და მარადის ის ჩემია.</li>
+<li>освобождён от грешных безумств я,</li>
+<li>гордость и злата блеск не слепят;</li>
+<li>освобождён от гневного нрава;</li>
+<li>о, я свободой славной богат.</li>
+<li class="chorus chorus-top">освобожденье! Освобожденье!</li>
+<li class="chorus">цепи греха упали с меня!</li>
+<li class="chorus">о, Иисус - мой Освободитель!</li>
+<li class="chorus chorus-bottom">в дивной свободе радуюсь я!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>გავთავისუფლდი: შიშის ტანჯვისგან,</li>
-<li>საზრუნავის ტკივილებისგან,</li>
-<li>ჩემს ნეტარ გამომსყიდველ ქრისტეში</li>
-<li>ბორკილები ჩემი დაიმსხვრა.</li>
-<li class="chorus chorus-top">თავისუფლება! თავისუფლება!</li>
-<li class="chorus">ცოდვის ბორკილებში აღარ ვარ!</li>
-<li class="chorus">იესომ მომცა თავისუფლება,</li>
-<li class="chorus chorus-bottom">აწ და მარადის ის ჩემია.</li>
+<li>освобождён от страха мучений</li>
+<li>и от заботы с болью её;</li>
+<li>мой Искупитель дал мне свободу -</li>
+<li>я во Христе отныне спасён.</li>
+<li class="chorus chorus-top">освобожденье! Освобожденье!</li>
+<li class="chorus">цепи греха упали с меня!</li>
+<li class="chorus">о, Иисус - мой Освободитель!</li>
+<li class="chorus chorus-bottom">в дивной свободе радуюсь я!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ის, რაც მაქვს, - არ მაქვს ჩემი მიღწევით;"),
-    num: (num = 238),
+    title: (title = "Сам ничего я себе не добыл,"),
+    num: (num = 169),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 311)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>რწმენის შემდეგ მადლით მაქვს ყოველი;</li>
-<li>არაფერი მაქვს სატრაბახო;</li>
-<li>ცოდვილი ვარ, მადლით დახსნილი!</li>
-<li class="chorus chorus-top">ცოდვილი დამიხსნა მადლმა!</li>
-<li class="chorus">ცოდვილი დამიხსნა მადლმა!</li>
-<li class="chorus">ვყვები ამ ამბავს, განვადიდებ ღმერთს,</li>
-<li class="chorus chorus-bottom">ცოდვილი ვარ, მადლით დახსნილი!</li>
+<li>чрез благодать верой всё получил;</li>
+<li>гордость отбросив, рад я сказать:</li>
+<li>я грешник, спасённый чрез благодать!</li>
+<li class="chorus chorus-top">грешник, спасённый чрез благодать!</li>
+<li class="chorus">грешник, спасённый чрез благодать!</li>
+<li class="chorus">что я добавлю? Лишь Бога прославлю!</li>
+<li class="chorus chorus-bottom">я грешник, спасённый чрез благодать!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ოდეს ცოდვა მართავდა ჩემს ბრიყვ გულს,</li>
-<li>ღმერთის ნაკვალევს ის მაშორებდა;</li>
-<li>ვხარობ - მიპოვა მე იესომ;</li>
-<li>ახლა მე ვარ მადლით დახსნილი!</li>
-<li class="chorus chorus-top">ცოდვილი დამიხსნა მადლმა!</li>
-<li class="chorus">ცოდვილი დამიხსნა მადლმა!</li>
-<li class="chorus">ვყვები ამ ამბავს, განვადიდებ ღმერთს,</li>
-<li class="chorus chorus-bottom">ცოდვილი ვარ, მადლით დახსნილი!</li>
+<li>о, был глупцом я, и грех правил мной,</li>
+<li>так что от Бога далёк был путь мой.</li>
+<li>найден Иисусом, рад восклицать:</li>
+<li>я грешник, спасённый чрез благодать!</li>
+<li class="chorus chorus-top">грешник, спасённый чрез благодать!</li>
+<li class="chorus">грешник, спасённый чрез благодать!</li>
+<li class="chorus">что я добавлю? Лишь Бога прославлю!</li>
+<li class="chorus chorus-bottom">я грешник, спасённый чрез благодать!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ფუჭად მოვთქვამდი, ვიყავ უღირსი;</li>
-<li>რომ არა წყალობა, მოვკვდებოდი;</li>
-<li>ცოდვილი ღმერთთან ვერ ვიდექი;</li>
-<li>მე ახლა ვარ მადლით დახსნილი!</li>
-<li class="chorus chorus-top">ცოდვილი დამიხსნა მადლმა!</li>
-<li class="chorus">ცოდვილი დამიხსნა მადლმა!</li>
-<li class="chorus">ვყვები ამ ამბავს, განვადიდებ ღმერთს,</li>
-<li class="chorus chorus-bottom">ცოდვილი ვარ, მადლით დახსნილი!</li>
+<li>плакал я тщетно, старался я зря,</li>
+<li>если б не милость, то умер бы я.</li>
+<li>грешным пред богом страшно предстать,</li>
+<li>но ныне спасён я чрез благодать!</li>
+<li class="chorus chorus-top">грешник, спасённый чрез благодать!</li>
+<li class="chorus">грешник, спасённый чрез благодать!</li>
+<li class="chorus">что я добавлю? Лишь Бога прославлю!</li>
+<li class="chorus chorus-bottom">я грешник, спасённый чрез благодать!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ჩემო მხსნელო, შენი სიყვარულით,</li>
-<li>მსურს კიდევ ერთხელ გავიმეორო.</li>
-<li>განვაცხადებ იმას, რაც ვიცი:</li>
-<li>ცოდვილი ვარ მადლით დახსნილი!</li>
-<li class="chorus chorus-top">ცოდვილი დამიხსნა მადლმა!</li>
-<li class="chorus">ცოდვილი დამიხსნა მადლმა!</li>
-<li class="chorus">ვყვები ამ ამბავს, განვადიდებ ღმერთს,</li>
-<li class="chorus chorus-bottom">ცოდვილი ვარ, მადლით დახსნილი!</li>
+<li>о мой Спаситель, с любовью к Тебе</li>
+<li>дай повторить то, что знаю теперь.</li>
+<li>снова хочу я это сказать:</li>
+<li>я грешник, спасённый чрез благодать!</li>
+<li class="chorus chorus-top">грешник, спасённый чрез благодать!</li>
+<li class="chorus">грешник, спасённый чрез благодать!</li>
+<li class="chorus">что я добавлю? Лишь Бога прославлю!</li>
+<li class="chorus chorus-bottom">я грешник, спасённый чрез благодать!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "მადლის ეს ტკბილი ხმა."),
-    num: (num = 239),
+    title: (title = "О, благодать! Она"),
+    num: (num = 170),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 312)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ყურს ელამუნება;</li>
-<li>ციდან გაისმის ექოს ხმა,</li>
-<li>ისმენს დედამიწაც.</li>
-<li class="chorus chorus-top">მადლი უშრეტი!</li>
-<li class="chorus">ყოვლადძლიერი!</li>
-<li class="chorus">ქრისტე თავის სიმდიდრით,</li>
-<li class="chorus chorus-bottom">იმყოფება ჩემში.</li>
+<li>созвучна всем сердцам;</li>
+<li>пусть отзовутся небеса,</li>
+<li>земля услышит вся.</li>
+<li class="chorus chorus-top">благодать всегда</li>
+<li class="chorus">вседостаточна -</li>
+<li class="chorus">необъятнейший Христос</li>
+<li class="chorus chorus-bottom">живёт внутри меня.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ო, სიცოცხლის წიგნში,</li>
-<li>მე მადლმა ჩამწერა;</li>
-<li>მან გადამცა კრავს, რომელმაც</li>
-<li>ჩემი ცოდვა ზიდა.</li>
-<li class="chorus chorus-top">მადლი უშრეტი!</li>
-<li class="chorus">ყოვლადძლიერი!</li>
-<li class="chorus">ქრისტე თავის სიმდიდრით,</li>
-<li class="chorus chorus-bottom">იმყოფება ჩემში.</li>
+<li>о! В книге жизни я</li>
+<li>по благодати той;</li>
+<li>я Агнцу отдан, кто унёс</li>
+<li>весь грех мой и всю боль.</li>
+<li class="chorus chorus-top">благодать всегда</li>
+<li class="chorus">вседостаточна -</li>
+<li class="chorus">необъятнейший Христос</li>
+<li class="chorus chorus-bottom">живёт внутри меня.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>მადლმა მასწავლა, რომ</li>
-<li>მევლო მორწმუნის გზით;</li>
-<li>ახალ შეწევნებს ვღებულობ</li>
-<li>ღმერთისკენ ამ გზაზე.</li>
-<li class="chorus chorus-top">მადლი უშრეტი!</li>
-<li class="chorus">ყოვლადძლიერი!</li>
-<li class="chorus">ქრისტე თავის სიმდიდრით,</li>
-<li class="chorus chorus-bottom">იმყოფება ჩემში.</li>
+<li>и странника путём</li>
+<li>ведёт она меня;</li>
+<li>всегда в ней силы нахожу,</li>
+<li>стремясь за Богом, я.</li>
+<li class="chorus chorus-top">благодать всегда</li>
+<li class="chorus">вседостаточна -</li>
+<li class="chorus">необъятнейший Христос</li>
+<li class="chorus chorus-bottom">живёт внутри меня.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ლოცვაც მან მასწავლა,</li>
-<li>თვალთგან ცრემლების ღვრაც;</li>
-<li>მადლმა დღემდე შემინახა,</li>
-<li>ვიცი, არ დამტოვებს.</li>
-<li class="chorus chorus-top">მადლი უშრეტი!</li>
-<li class="chorus">ყოვლადძლიერი!</li>
-<li class="chorus">ქრისტე თავის სიმდიდრით,</li>
-<li class="chorus chorus-bottom">იმყოფება ჩემში.</li>
+<li>к молитве и слезам</li>
+<li>меня она ведёт;</li>
+<li>до сей поры меня хранит,</li>
+<li>уйти мне не даёт.</li>
+<li class="chorus chorus-top">благодать всегда</li>
+<li class="chorus">вседостаточна -</li>
+<li class="chorus">необъятнейший Христос</li>
+<li class="chorus chorus-bottom">живёт внутри меня.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>მადლი საუკუნო</li>
-<li>გვირგვინს ადგამს შრომას,</li>
-<li>სიყვარულით დაასრულებს</li>
-<li>- მას ეკუთვნის ქება.</li>
-<li class="chorus chorus-top">მადლი უშრეტი!</li>
-<li class="chorus">ყოვლადძლიერი!</li>
-<li class="chorus">ქრისტე თავის სიმდიდრით,</li>
-<li class="chorus chorus-bottom">იმყოფება ჩემში.</li>
+<li>вовеки благодать</li>
+<li>венчает все труды,</li>
+<li>в любви всё завершит она,</li>
+<li>достойна всей хвалы.</li>
+<li class="chorus chorus-top">благодать всегда</li>
+<li class="chorus">вседостаточна -</li>
+<li class="chorus">необъятнейший Христос</li>
+<li class="chorus chorus-bottom">живёт внутри меня.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>მადლმა შთააგონოს</li>
-<li>ჩემს გულს ღმერთის ძალით;</li>
-<li>დაე მუდამ შენ გეძებო,</li>
-<li>შენკენ ვისწრაფვოდე.</li>
-<li class="chorus chorus-top">მადლი უშრეტი!</li>
-<li class="chorus">ყოვლადძლიერი!</li>
-<li class="chorus">ქრისტე თავის სიმდიდრით,</li>
-<li class="chorus chorus-bottom">იმყოფება ჩემში.</li>
+<li>пусть сердце укрепит</li>
+<li>мне эта благодать;</li>
+<li>да буду силой всей моей</li>
+<li>все дни тебя искать.</li>
+<li class="chorus chorus-top">благодать всегда</li>
+<li class="chorus">вседостаточна -</li>
+<li class="chorus">необъятнейший Христос</li>
+<li class="chorus chorus-bottom">живёт внутри меня.</li>
 </ul>
 </section>
 </main>
