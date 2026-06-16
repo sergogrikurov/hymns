@@ -2298,7 +2298,7 @@ const pages = [
 `,
   },
   {
-    title: (title = "Бог Отец, источник жизни — Ты."),
+    title: (title = "Бог Отец, источник жизни - Ты."),
     num: (num = 39),
     page: `
 <h2 class="hNum">${num}</h2>
@@ -11115,312 +11115,311 @@ const pages = [
 `,
   },
   {
-    title: (title = "მრავალი წელი ამაოდ ვეძებდი"),
-    num: (num = 245),
+    title: (title = "Тщетно много лет источник я искал,"),
+    num: (num = 176),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 322)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ამოუწურავ წყაროს;</li>
-<li>იმ ყველაფრით, რასაც მიწა მაძლევდა,</li>
-<li>ვერ ვკმაყოფილდებოდი.</li>
-<li class="chorus chorus-top">ვსვამ სათავისგან - ის უშრეტია,</li>
-<li class="chorus">ვსვამ - ის სათავე სიცოცხლეს მაძლევს.</li>
-<li class="chorus">ვპოვებ უხვ სიხარულს და სიამოვნებას,</li>
-<li class="chorus chorus-bottom">ვსვამ მე იმ სიცოცხლის სათავისგან.</li>
+<li>что не иссякал бы ввек;</li>
+<li>бесполезным было всё, что мир мне дал,</li>
+<li>не было в нём счастья мне.</li>
+<li class="chorus chorus-top">пью я из Источника - вечно он бьёт;</li>
+<li class="chorus">пью я - и Источник тот жизнь даёт.</li>
+<li class="chorus">радость с наслажденьем</li>
+<li class="chorus">каждое мгновенье</li>
+<li class="chorus chorus-bottom">тот Источник жизни мне даёт.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ცოდვის უდაბნოში აღარ ვბარბაცებ,</li>
-<li>ვნახე სიცოცხლის წყარო;</li>
-<li>ჩემი სიხარულის თასი აავსო</li>
-<li>უფალმა, ჩემმა მეფემ.</li>
-<li class="chorus chorus-top">ვსვამ სათავისგან - ის უშრეტია,</li>
-<li class="chorus">ვსვამ - ის სათავე სიცოცხლეს მაძლევს.</li>
-<li class="chorus">ვპოვებ უხვ სიხარულს და სიამოვნებას,</li>
-<li class="chorus chorus-bottom">ვსვამ მე იმ სიცოცხლის სათავისგან.</li>
+<li>больше не брожу в пустыне я греха -</li>
+<li>я нашёл Родник живой;</li>
+<li>чаша моя радости теперь полна,</li>
+<li>иисус Господь - Царь мой.</li>
+<li class="chorus chorus-top">пью я из Источника - вечно он бьёт;</li>
+<li class="chorus">пью я - и Источник тот жизнь даёт.</li>
+<li class="chorus">радость с наслажденьем</li>
+<li class="chorus">каждое мгновенье</li>
+<li class="chorus chorus-bottom">тот Источник жизни мне даёт.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>დღითი დღე ვკმაყოფილდები სიტკბოთი,</li>
-<li>აქ მაქვს წმიდა მშვიდობა;</li>
-<li>აქ მუდამ განვიცდი ნუგეშისცემას,</li>
-<li>ნეტარობს ჩემი გული.</li>
-<li class="chorus chorus-top">ვსვამ სათავისგან - ის უშრეტია,</li>
-<li class="chorus">ვსვამ - ის სათავე სიცოცხლეს მაძლევს.</li>
-<li class="chorus">ვპოვებ უხვ სიხარულს და სიამოვნებას,</li>
-<li class="chorus chorus-bottom">ვსვამ მე იმ სიცოცხლის სათავისგან.</li>
+<li>день за днём я сладостью насыщен здесь,</li>
+<li>здесь покой и мир святой;</li>
+<li>каждое мгновенье утешенье есть,</li>
+<li>здесь я счастлив всей душой.</li>
+<li class="chorus chorus-top">пью я из Источника - вечно он бьёт;</li>
+<li class="chorus">пью я - и Источник тот жизнь даёт.</li>
+<li class="chorus">радость с наслажденьем</li>
+<li class="chorus">каждое мгновенье</li>
+<li class="chorus chorus-bottom">тот Источник жизни мне даёт.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>აქ მაქვს ამოუწურავი შეწევნა,</li>
-<li>დროის კლაკნილ გრაგნილში;</li>
-<li>მუდამ ვისწრაფვი ამ მკურნალ წყაროსთან,</li>
-<li>რომ განვიბანო მშვინვა.</li>
-<li class="chorus chorus-top">ვსვამ სათავისგან - ის უშრეტია,</li>
-<li class="chorus">ვსვამ - ის სათავე სიცოცხლეს მაძლევს.</li>
-<li class="chorus">ვპოვებ უხვ სიხარულს და სიამოვნებას,</li>
-<li class="chorus chorus-bottom">ვსვამ მე იმ სიცოცხლის სათავისგან.</li>
+<li>здесь всегда запас бездонный нахожу</li>
+<li>в вечной череде времён;</li>
+<li>в тот Источник окунуться я спешу,</li>
+<li>душу исцеляет он.</li>
+<li class="chorus chorus-top">пью я из Источника - вечно он бьёт;</li>
+<li class="chorus">пью я - и Источник тот жизнь даёт.</li>
+<li class="chorus">радость с наслажденьем</li>
+<li class="chorus">каждое мгновенье</li>
+<li class="chorus chorus-bottom">тот Источник жизни мне даёт.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "მე მომესმა იესოს ხმა:"),
-    num: (num = 246),
+    title: (title = "Услышал я: Иисус сказал:"),
+    num: (num = 177),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 323)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>"მოდი, მოგასვენებ;</li>
-<li>მაშვრალო, მოდი, და თავი</li>
-<li>ჩემს მკერდზე მომადე".</li>
-<li>მივედი მე იესოსთან,</li>
-<li>მწუხარე, დაღლილი;</li>
-<li>მასში ვპოვე მოსვენება,</li>
-<li>მომცა სიხარული.</li>
+<li>«ко Мне скорей приди;</li>
+<li>найди покой, ты так устал,</li>
+<li>прильни к Моей груди».</li>
+<li>пришёл к Иисусу я как есть -</li>
+<li>больной, в тоске, без сил,</li>
+<li>нашёл я в Нём покой, и Он</li>
+<li>мне радость подарил.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>მე მომესმა იესოს ხმა:</li>
-<li>"უსასყიდლოდ გაძლევ</li>
-<li>სიცოცხლის წყალს, შენ, მწყურვალო,</li>
-<li>შესვი და იცოცხლებ".</li>
-<li>მივედი მასთან და შევსვი,</li>
-<li>იმ სიცოცხლის წყლიდან;</li>
-<li>დავრწყულდი და გამოვცოცხლდი,</li>
-<li>ახლა ვცხოვრობ მასში.</li>
+<li>услышал я: Иисус сказал:</li>
+<li>«о жаждущий, смотри:</li>
+<li>живую воду я даю,</li>
+<li>склонись, пей и живи».</li>
+<li>пришёл к Иисусу я и пил</li>
+<li>живую воду ту;</li>
+<li>исчезла жажда, ожил я</li>
+<li>и ныне в нём живу.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>მე მომესმა იესოს ხმა:</li>
-<li>"ქვეყნის ნათელი ვარ;</li>
-<li>მე მიყურე, დილით დატკბი,</li>
-<li>დღე გაგიბრწყინდება".</li>
-<li>იესოში მე ვპოვე მზე,</li>
-<li>როცა მას შევხედე;</li>
-<li>სიცოცხლის ნათელში ვდივარ,</li>
-<li>ცხოვრების ბოლომდე.</li>
+<li>услышал я: Иисус сказал:</li>
+<li>«я Свет для мира тьмы;</li>
+<li>взгляни в лицо Мне, и светлы</li>
+<li>все станут дни твои».</li>
+<li>взглянув, в Иисусе я нашёл</li>
+<li>и Солнце, и Звезду,</li>
+<li>и в этом Свете жизни я</li>
+<li>весь путь земной пройду.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ჩემი გულიდან მოსჩქეფს ქება"),
-    num: (num = 247),
+    title: (title = "Хвалою полно моё сердце,"),
+    num: (num = 178),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30"></span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>- ეს უფლის სიმღერაა;</li>
-<li>არ არსებობს ამ სიმღერის მჯობნი,</li>
-<li>ზეცის მაქვს სიხარული.</li>
-<li class="chorus chorus-top">ჩემს გულში ისმის მელოდია,</li>
-<li class="chorus">ჰანგი უტკბესი, ზეციური სიმღერა;</li>
-<li class="chorus">ჩემს გულში ისმის მელოდია</li>
-<li class="chorus chorus-bottom">- სიყვარულის მელოდია.</li>
+<li>эта песнь, Господь, Тебе.</li>
+<li>и нет той песни превосходнее,</li>
+<li>радость неба дарит мне.</li>
+<li class="chorus chorus-top">в сердце бьёт мелодия ключом,</li>
+<li class="chorus">о, бьёт с небес ключом и сладостно течёт.</li>
+<li class="chorus">в сердце бьёт мелодия ключом,</li>
+<li class="chorus chorus-bottom">мелодия любви во мне.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>სიყვარულით მიხსნა უფალმა,</li>
-<li>სიცოცხლე მომცა, ვხარობ;</li>
-<li>ო, მადლი! უფალი ცხოვრობს ჩემში,</li>
-<li>ტკბობით ვარ მე აღსავსე.</li>
-<li class="chorus chorus-top">ჩემს გულში ისმის მელოდია,</li>
-<li class="chorus">ჰანგი უტკბესი, ზეციური სიმღერა;</li>
-<li class="chorus">ჩემს გულში ისმის მელოდია</li>
-<li class="chorus chorus-bottom">- სიყვარულის მელოდია.</li>
+<li>любовью я спасён господней,</li>
+<li>новой жизнью одарён.</li>
+<li>о, благодать! Господь живёт во мне,</li>
+<li>наслаждением я полн.</li>
+<li class="chorus chorus-top">в сердце бьёт мелодия ключом,</li>
+<li class="chorus">о, бьёт с небес ключом и сладостно течёт.</li>
+<li class="chorus">в сердце бьёт мелодия ключом,</li>
+<li class="chorus chorus-bottom">мелодия любви во мне.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>სიცოცხლის შუქს მაძლევს უფალი,</li>
-<li>ნაბიჯ-ნაბიჯ მიმიძღვის;</li>
-<li>ო, მშვიდობა! ქრისტე ცხოვრობს ჩემში,</li>
-<li>ვმღერი ქების ფსალმუნებს.</li>
-<li class="chorus chorus-top">ჩემს გულში ისმის მელოდია,</li>
-<li class="chorus">ჰანგი უტკბესი, ზეციური სიმღერა;</li>
-<li class="chorus">ჩემს გულში ისმის მელოდია</li>
-<li class="chorus chorus-bottom">- სიყვარულის მელოდია.</li>
+<li>мне жизни свет Господь дарует,</li>
+<li>шаг за шагом Он ведёт.</li>
+<li>о, совершенный мир! Теперь во мне</li>
+<li>пребывает мой Христос.</li>
+<li class="chorus chorus-top">в сердце бьёт мелодия ключом,</li>
+<li class="chorus">о, бьёт с небес ключом и сладостно течёт.</li>
+<li class="chorus">в сердце бьёт мелодия ключом,</li>
+<li class="chorus chorus-bottom">мелодия любви во мне.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ზეატაცებას თან სდევს შვება</li>
-<li>- გამარჯვების სიმღერა;</li>
-<li>პატივია უფალთან მეფობა;</li>
-<li>ხარობენ ანგელოზნი.</li>
-<li class="chorus chorus-top">ჩემს გულში ისმის მელოდია,</li>
-<li class="chorus">ჰანგი უტკბესი, ზეციური სიმღერა;</li>
-<li class="chorus">ჩემს გულში ისმის მელოდია</li>
-<li class="chorus chorus-bottom">- სიყვარულის მელოდია.</li>
+<li>к престолу буду я восхищен</li>
+<li>и, свободный, буду петь.</li>
+<li>о, что за честь для победителя -</li>
+<li>миром с Господом владеть!</li>
+<li class="chorus chorus-top">в сердце бьёт мелодия ключом,</li>
+<li class="chorus">о, бьёт с небес ключом и сладостно течёт.</li>
+<li class="chorus">в сердце бьёт мелодия ключом,</li>
+<li class="chorus chorus-bottom">мелодия любви во мне.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>წმიდა ქალაქი კურთხევაა!</li>
-<li>იქ სიცოცხლის წყალია;</li>
-<li>სიცოცხლის ხის ნაყოფი ტკბილია,</li>
-<li>საუკუნოდ მდიდარი.</li>
-<li class="chorus chorus-top">ჩემს გულში ისმის მელოდია,</li>
-<li class="chorus">ჰანგი უტკბესი, ზეციური სიმღერა;</li>
-<li class="chorus">ჩემს გულში ისმის მელოდია</li>
-<li class="chorus chorus-bottom">- სიყვარულის მელოდია.</li>
+<li>благословеньем наивысшим</li>
+<li>будет божий град святой</li>
+<li>с водой живой и древом жизни</li>
+<li>там, где всё во всём - Христос.</li>
+<li class="chorus chorus-top">в сердце бьёт мелодия ключом,</li>
+<li class="chorus">о, бьёт с небес ключом и сладостно течёт.</li>
+<li class="chorus">в сердце бьёт мелодия ключом,</li>
+<li class="chorus chorus-bottom">мелодия любви во мне.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ცივი წყლის წყაროდან შესმა"),
-    num: (num = 248),
+    title: (title = "Я всю жизнь воды холодной"),
+    num: (num = 179),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 325)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>მთელი ცხოვრება მსურდა.</li>
-<li>წყურვილის მტანჯველი გრძნობა</li>
-<li>შიგნით რომ ჩამქრობოდა.</li>
-<li class="chorus chorus-top">аллилуйя! მე ვიპოვე,</li>
-<li class="chorus">ის ვინც ასე მწყუროდა!</li>
-<li class="chorus">მან მომიკლა მე წყურვილი,</li>
-<li class="chorus chorus-bottom">უფლის სიცოცხლემ მიხსნა.</li>
+<li>из ключа хотел испить,</li>
+<li>чтобы жажды непрестанной</li>
+<li>мог я пламя угасить.</li>
+<li class="chorus chorus-top">аллилуйя! Мною найден</li>
+<li class="chorus">тот, кого так жаждал я!</li>
+<li class="chorus">утолил Иисус мне жажду,</li>
+<li class="chorus chorus-bottom">жизнь Его спасла меня.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ვიკვებე რა ნარჩენებით,</li>
-<li>ძალა გამომელია;</li>
-<li>უკეთესის მოლოდინში</li>
-<li>გული კვლავ მშიერია.</li>
-<li class="chorus chorus-top">аллилуйя! მე ვიპოვე,</li>
-<li class="chorus">ის ვინც ასე მწყუროდა!</li>
-<li class="chorus">მან მომიკლა მე წყურვილი,</li>
-<li class="chorus chorus-bottom">უფლის სიცოცხლემ მიხსნა.</li>
+<li>шелухой вокруг питаясь,</li>
+<li>всю я силу потерял,</li>
+<li>вечно лучшего желая,</li>
+<li>непрестанно голодал.</li>
+<li class="chorus chorus-top">аллилуйя! Мною найден</li>
+<li class="chorus">тот, кого так жаждал я!</li>
+<li class="chorus">утолил Иисус мне жажду,</li>
+<li class="chorus chorus-bottom">жизнь Его спасла меня.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ღარიბს გამდიდრება მსურდა,</li>
-<li>სრული კმაყოფილება.</li>
-<li>მხოლოდ მტვერი შევაგროვე,</li>
-<li>სამშვინველს ეტირება.</li>
-<li class="chorus chorus-top">аллилуйя! მე ვიპოვე,</li>
-<li class="chorus">ის ვინც ასე მწყუროდა!</li>
-<li class="chorus">მან მომიკლა მე წყურვილი,</li>
-<li class="chorus chorus-bottom">უფლის სიცოცხლემ მიხსნა.</li>
+<li>беден был - искал богатства,</li>
+<li>насыщения искал,</li>
+<li>но в насмешку над душою</li>
+<li>я лишь прах вокруг собрал.</li>
+<li class="chorus chorus-top">аллилуйя! Мною найден</li>
+<li class="chorus">тот, кого так жаждал я!</li>
+<li class="chorus">утолил Иисус мне жажду,</li>
+<li class="chorus chorus-bottom">жизнь Его спасла меня.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>წყაროს წყალი მოჩუხჩუხე,</li>
-<li>პური - უხვი, ცოცხალი,</li>
-<li>აურაცხელი სიმდიდრე</li>
-<li>არის ჩემთვის უფალი.</li>
-<li class="chorus chorus-top">аллилуйя! მე ვიპოვე,</li>
-<li class="chorus">ის ვინც ასე მწყუროდა!</li>
-<li class="chorus">მან მომიკლა მე წყურვილი,</li>
-<li class="chorus chorus-bottom">უფლის სიცოცხლემ მიხსნა.</li>
+<li>ключ воды, текущей вечно,</li>
+<li>хлеб обильный - жизнь моя,</li>
+<li>несказанное богатство -</li>
+<li>искупитель для меня.</li>
+<li class="chorus chorus-top">аллилуйя! Мною найден</li>
+<li class="chorus">тот, кого так жаждал я!</li>
+<li class="chorus">утолил Иисус мне жажду,</li>
+<li class="chorus chorus-bottom">жизнь Его спасла меня.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ღვთის ტახტთან მყოფი მღვდელმთავრის"),
-    num: (num = 249),
+    title: (title = "Перед престолом Божьим есть"),
+    num: (num = 180),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 327)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>სახელი სიყვარულია.</li>
-<li>ის ძლიერი დამცველია,</li>
-<li>საუკუნოდ ცოცხალია.</li>
+<li>первосвященник для меня.</li>
+<li>он Тот, чьё имя есть Любовь,</li>
+<li>он жив, Защита Он моя.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ჩემი სახელი მის ხელზე</li>
-<li>და გულზე დაწერილია,</li>
-<li>მას ვერვინ ჩამომაშორებს,</li>
-<li>სანამ ის ღმერთის წინაა.</li>
+<li>моё Он имя написал</li>
+<li>на сердце и руках Своих,</li>
+<li>пока стоит пред Богом Он,</li>
+<li>никто уйти мне не велит.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>როცა მტერი მე თავს მესხმის,</li>
-<li>მსჯავრს მდებს, მადანაშაულებს,</li>
-<li>მაშინ ვუცქერ მაღლა მას, ვინც</li>
-<li>ცოდვისგან მათავისუფლებს.</li>
+<li>когда во тьму толкает враг,</li>
+<li>меня преследуя виной,</li>
+<li>то ввысь смотрю я на Того,</li>
+<li>кто на Себе понёс грех мой.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>უცოდველი მხსნელი მოკვდა,</li>
-<li>სამშვინველმა ჰპოვა შვება.</li>
-<li>ღმერთი არის კმაყოფილი,</li>
-<li>მე მაქვს სრული პატიება.</li>
+<li>безгрешный умер за меня -</li>
+<li>грехи не числятся за мной;</li>
+<li>доволен Бог, и Он меня</li>
+<li>прощает, глядя на Него.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>აჰა, უცქირეთ აღმდგარ კრავს,</li>
-<li>მასში მაქვს მე გამართლება.</li>
-<li>დიდების და მადლის მეფე,</li>
-<li>ის არის უცვლელი "მე ვარ".</li>
+<li>воскресший Агнец - вот Он там!</li>
+<li>он праведность моя во всём,</li>
+<li>неизменяемый Я Есть,</li>
+<li>царь славы, благодати Он.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>მან მიყიდა თავის სისხლით,</li>
-<li>ერთი ვარ მასთან, არ ვკვდები!</li>
-<li>ჩემი სიცოცხლე ქრისტესთან,</li>
-<li>დაფარულია მხსნელ-ღმერთში.</li>
+<li>я не умру - я с Ним одно,</li>
+<li>я кровью выкуплен Его,</li>
+<li>с Христом сокрыта жизнь моя,</li>
+<li>он мой Спаситель и мой Бог.</li>
 </ul>
 </section>
 </main>
