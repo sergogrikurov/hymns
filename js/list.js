@@ -11980,459 +11980,322 @@ const pages = [
 `,
   },
   {
-    title: (title = "ის მოკვდა, რომ მე მეცოცხლა,"),
-    num: (num = 264),
+    title: (title = "Будь высшим, Иисус Христос."),
+    num: (num = 191),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 362)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ვცოცხლობ უფლისთვისმე;</li>
-<li>ჯვარცმულ იესოს ვაძლევ ჩემს</li>
-<li>სიყვარულს, სიცოცხლეს.</li>
-<li class="chorus chorus-top">ო, იესო, ჩემო მხსნელო,</li>
-<li class="chorus">დამეხმარე, რომ გამოგყვე</li>
-<li class="chorus">სიცოცხლეშიც და სიკვდილშიც,</li>
-<li class="chorus chorus-bottom">ისე, როგორც ეს შენ ქენი.</li>
+<li>с Тобой не встанут в ряд</li>
+<li>ни вера и любовь людей,</li>
+<li>ни церковь, ни обряд.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ის მოკვდა და მეც მოვუკვდი</li>
-<li>მეს, ცოდვას, სატანას;</li>
-<li>ღრმა სიკვდილი! ზესიცოცხლე!</li>
-<li>მე მსურს მათი განცდა.</li>
-<li class="chorus chorus-top">ო, იესო, ჩემო მხსნელო,</li>
-<li class="chorus">დამეხმარე, რომ გამოგყვე</li>
-<li class="chorus">სიცოცხლეშიც და სიკვდილშიც,</li>
-<li class="chorus chorus-bottom">ისე, როგორც ეს შენ ქენი.</li>
+<li>будь высшим, Иисус Христос.</li>
+<li>ты покорил меня;</li>
+<li>под сенью Твоего креста</li>
+<li>живу лишь для Тебя.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ის ცოცხლობს, რომ მეც ვიცოცხლო</li>
-<li>უმწიკვლოდ მასსავით;</li>
-<li>მხსნელო, მომეცი მე შენი:</li>
-<li>სიცოცხლე, ბუნება.</li>
-<li class="chorus chorus-top">ო, იესო, ჩემო მხსნელო,</li>
-<li class="chorus">დამეხმარე, რომ გამოგყვე</li>
-<li class="chorus">სიცოცხლეშიც და სიკვდილშიც,</li>
-<li class="chorus chorus-bottom">ისე, როგორც ეს შენ ქენი.</li>
+<li>будь высшим, Иисус Христос.</li>
+<li>проникни вглубь меня,</li>
+<li>чтоб в мыслях и желаниях</li>
+<li>одним с Тобой стал я.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ის ცოცხლობს, რომ მის სიყვარულს</li>
-<li>მე ჩაგრულთ ვაძლევდე;</li>
-<li>მსურს, მეც ვიცხოვრო მასსავით,</li>
-<li>მის ნაბიჯებს მივყვე.</li>
-<li class="chorus chorus-top">ო, იესო, ჩემო მხსნელო,</li>
-<li class="chorus">დამეხმარე, რომ გამოგყვე</li>
-<li class="chorus">სიცოცხლეშიც და სიკვდილშიც,</li>
-<li class="chorus chorus-bottom">ისე, როგორც ეს შენ ქენი.</li>
+<li>будь высшим, Иисус Христос.</li>
+<li>меня преображай</li>
+<li>и чрез завесу плоти Ты</li>
+<li>величием сияй.</li>
+</ul>
+</section>
+<section>
+<span class="number">5.</span>
+<ul>
+<li>будь высшим, Иисус Христос.</li>
+<li>в Тебе ликую я;</li>
+<li>рад волю исполнять Твою,</li>
+<li>рабом быть для Тебя.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ჩემში ხარ, იესო,"),
-    num: (num = 265),
+    title: (title = "Больше любви к Тебе,"),
+    num: (num = 192),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 365)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>შენს სიცოცხლეს მე ვფლობ;</li>
-<li>გთხოვ, მაჩვენე,</li>
-<li>რომ მე და შენ ვერვინ</li>
-<li>დაგვაშორებს.</li>
+<li>о мой Господь!</li>
+<li>я на коленях здесь</li>
+<li>перед Тобой.</li>
+<li>я пред Тобой в мольбе:</li>
+<li>дай мне любовь к Тебе.</li>
+<li>больше любви,</li>
+<li>больше любви!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>შენ იცხოვრე ჩემგან,</li>
-<li>მე ამიერიდან</li>
-<li>გამოვხატავ</li>
-<li>შენს ფიქრებს და სიტყვებს</li>
-<li>- ჩემსას აღარ.</li>
+<li>прежде земных искал</li>
+<li>радостей я;</li>
+<li>ныне дай лучшее -</li>
+<li>дай мне Себя;</li>
+<li>буду просить в мольбе:</li>
+<li>дай мне любовь к Тебе.</li>
+<li>больше любви,</li>
+<li>больше любви!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>იდინე ჩემს გულში</li>
-<li>შენი მშვიდობით და</li>
-<li>სიხარულით;</li>
-<li>გაიზარდოს ჩემში</li>
-<li>ეს დინება.</li>
+<li>пусть скорбь свой труд вершит,</li>
+<li>боль ниспошли;</li>
+<li>о, как мне вестники</li>
+<li>сладки Твои!</li>
+<li>сладостно вторят мне:</li>
+<li>дай мне любовь к Тебе.</li>
+<li>больше любви,</li>
+<li>больше любви!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>აღდგომის ძალაა</li>
-<li>კურთხევა და ძღვენი</li>
-<li>ეკლესიის;</li>
-<li>უფალო, სიცოცხლე</li>
-<li>მომეც უხვი.</li>
+<li>пусть мой последний вздох</li>
+<li>славит Тебя,</li>
+<li>сердце в последний раз</li>
+<li>просит, любя.</li>
+<li>будет оно молить:</li>
+<li>дай мне любовь к Тебе.</li>
+<li>больше любви,</li>
+<li>больше любви!</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "Пребудь со мной! Уж свет сменился мглой,"),
+    num: (num = 193),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>всё глубже тьма, Господь, пребудь со мной!</li>
+<li>когда лишусь опоры я земной,</li>
+<li>оплот бессильных, Ты пребудь со мной.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>так жизни день короткий утечёт,</li>
+<li>померкнет всё земное и пройдёт.</li>
+<li>все песни счастья - только звук пустой.</li>
+<li>друг неизменный, о, пребудь со мной.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>не с царским обликом ко мне приди,</li>
+<li>а с состраданьем нежным и в любви.</li>
+<li>ты исцеление неси с Собой.</li>
+<li>как солнца луч, таким пребудь со мной!</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>в Тебе нуждаюсь каждый час, мой Бог,</li>
+<li>чтоб искусителя Ты превозмог.</li>
+<li>и в светлый час, и облачной порой,</li>
+<li>руководя, храня, пребудь со мной!</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>უფალო, საჩუქარს</li>
-<li>ვითხოვ შენი სიტყვით,</li>
-<li>შენს სახელში,</li>
-<li>და გიძღვნი დიდებას</li>
-<li>აღტაცებით.</li>
+<li>не страшен враг мне, если Ты вблизи,</li>
+<li>скорбь не теснит, не знаю я тоски.</li>
+<li>где смерти жало? Ад, где ужас твой?</li>
+<li>бессильно всё - лишь Ты пребудь со мной.</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "Ты нужен мне всегда,"),
+    num: (num = 194),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>господь благой;</li>
+<li>лишь нежный голос Твой</li>
+<li>даёт покой.</li>
+<li class="chorus chorus-top">ты нужен мне, Ты нужен;</li>
+<li class="chorus">каждый час Ты нужен;</li>
+<li class="chorus">мне дай благословенье!</li>
+<li class="chorus chorus-bottom">иду к Тебе.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>ты нужен мне всегда;</li>
+<li>пребудь со мной;</li>
+<li>бессилен при Тебе</li>
+<li>соблазн любой.</li>
+<li class="chorus chorus-top">ты нужен мне, Ты нужен;</li>
+<li class="chorus">каждый час Ты нужен;</li>
+<li class="chorus">мне дай благословенье!</li>
+<li class="chorus chorus-bottom">иду к Тебе.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>и в счастье, и в беде</li>
+<li>ты нужен мне;</li>
+<li>спаси от суеты,</li>
+<li>приди ко мне.</li>
+<li class="chorus chorus-top">ты нужен мне, Ты нужен;</li>
+<li class="chorus">каждый час Ты нужен;</li>
+<li class="chorus">мне дай благословенье!</li>
+<li class="chorus chorus-bottom">иду к Тебе.</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>ты нужен мне всегда;</li>
+<li>во мне сверши</li>
+<li>всё то, что обещал,</li>
+<li>что хочешь Ты.</li>
+<li class="chorus chorus-top">ты нужен мне, Ты нужен;</li>
+<li class="chorus">каждый час Ты нужен;</li>
+<li class="chorus">мне дай благословенье!</li>
+<li class="chorus chorus-bottom">иду к Тебе.</li>
+</ul>
+</section>
+<section>
+<span class="number">5.</span>
+<ul>
+<li>ты нужен мне всегда,</li>
+<li>о Пресвятой;</li>
+<li>твоим лишь стать хочу,</li>
+<li>о Сын благой.</li>
+<li class="chorus chorus-top">ты нужен мне, Ты нужен;</li>
+<li class="chorus">каждый час Ты нужен;</li>
+<li class="chorus">мне дай благословенье!</li>
+<li class="chorus chorus-bottom">иду к Тебе.</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "Пусть не стоит между нами ничто."),
+    num: (num = 195),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>славу Свою яви,</li>
+<li>к Себе, Господь, влеки,</li>
+<li>мне говори в любви.</li>
+<li>о мой Господь, быть лишь с Тобой!</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>пусть не стоит между нами ничто.</li>
+<li>пусть шум земной сейчас</li>
+<li>не заглушит Твой глас;</li>
+<li>пусть он мне радость даст.</li>
+<li>о мой Господь, быть лишь с Тобой!</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>пусть не стоит между нами ничто:</li>
+<li>ни груз забот земных,</li>
+<li>ни слёзы, ни мольбы,</li>
+<li>ни фальшь моей души.</li>
+<li>о мой Господь, быть лишь с Тобой!</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>пусть не стоит между нами ничто.</li>
+<li>пусть пред Твоим лицом</li>
+<li>моё неверье всё,</li>
+<li>сомненье, страх уйдёт.</li>
+<li>о мой Господь, быть лишь с Тобой!</li>
+</ul>
+</section>
+<section>
+<span class="number">5.</span>
+<ul>
+<li>пусть не стоит между нами ничто.</li>
+<li>ясным лучом сияй,</li>
+<li>тучи все разгоняй,</li>
+<li>сердцем овладевай.</li>
+<li>о мой Господь, быть лишь с Тобой!</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>იესო, შენი ვარ</li>
-<li>და შენში ვიქნები</li>
-<li>დაფარული,</li>
-<li>მე და შენ ვერავინ</li>
-<li>დაგვაშორებს.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "აღმატებულო იესო,"),
-    num: (num = 266),
-    page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 367)</span>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ვერ შეგედრება შენ,</li>
-<li>ვერც მრწამსი, ვერც ეკლესია,</li>
-<li>წესიც, რელიგიაც.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>სიყვარულმა დამამარცხა,</li>
-<li>შენმა, ო იესო,</li>
-<li>ჯვარზე ვკვდები ჩემი მესთვის,</li>
-<li>ვცხოვრობ მხოლოდ შენთვის.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>აღმატებულო იესო,</li>
-<li>ამივსე არსება,</li>
-<li>რომ შენსავით მეც ვიფიქრო,</li>
-<li>ვისურვო შენსავით.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>აღმატებულო იესო,</li>
-<li>გარდამსახე შენით;</li>
-<li>მოკვდავი ხორცის ფარდიდან,</li>
-<li>დიდებით გაბრწყინდი.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>აღმატებულო იესო,</li>
-<li>მშვინვა ხარობს შენში;</li>
-<li>ნეტარება არის ჩემი,</li>
-<li>მონად ყოფნა შენი.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "მხოლოდ მეტ სიყვარულს"),
-    num: (num = 267),
-    page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 368)</span>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ო! უფალო!</li>
-<li>მუხლ მოდრეკილი გთხოვ,</li>
-<li>შეგიყვარო!</li>
-<li>გულს მხოლოდ ერთი სურს:</li>
-<li>მომცემდე სიყვარულს.</li>
-<li>ო, შენდამი</li>
-<li>მეტ სიყვარულს!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ვეძებდი მიწიერ</li>
-<li>გართობას მე.</li>
-<li>ახლა გთხოვ უკეთესს</li>
-<li>არსებას შენს.</li>
-<li>გევედრები და მსურს</li>
-<li>მომცემდე სიყვარულს.</li>
-<li>ო, შენდამი</li>
-<li>მეტ სიყვარულს!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>დარდი და ტკივილი</li>
-<li>გამოგზავნე.</li>
-<li>ო! რა ტკბილი არის</li>
-<li>შენი მაცნე!</li>
-<li>მასთან სიმღერა მსურს:</li>
-<li>მომცემდე სიყვარულს!</li>
-<li>ო, შენდამი</li>
-<li>მეტ სიყვარულს!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ჩემმა ბოლო სუნთქვამ</li>
-<li>განგადიდოს;</li>
-<li>გულის ბოლო ფეთქვაც</li>
-<li>შენთვის იყოს.</li>
-<li>გეტყვი, რომ ერთი მსურს:</li>
-<li>მომცემდე სიყვარულს</li>
-<li>ო, შენდამი</li>
-<li>მეტ სიყვარულს!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "დამკვიდრდი ჩემთან, სწრაფად ბნელდება;"),
-    num: (num = 268),
-    page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 370)</span>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>საღამოს მწუხრი კვლავ ძლიერდება,</li>
-<li>მაშინ როდესაც ნუგეში ქრება,</li>
-<li>დამეხმარე უძლურს, დარჩი ჩემთან!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>მთელი სიცოცხლე ერთ მოკლე დღეს ჰგავს;</li>
-<li>მიწიური გადადის, არ რჩება;</li>
-<li>რასაც ვხედავ იცვლება, იხრწნება;</li>
-<li>შენ ხარ უცვლელი, დამკვიდრდი ჩემთან!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>როცა მოდიხარ, არ ვგრძნობ ზეწოლას;</li>
-<li>მაძლევს სიკეთეს და განკურნებას,</li>
-<li>მოყვარული გულით თანაგრძნობას;</li>
-<li>ცოდვილთა მეგობარი ხარ ჩემთან.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>სულ მჭირდება შენი თანდასწრება;</li>
-<li>მადლით გადამარჩენ ცდუნებისგან;</li>
-<li>ვის ძალუძს შენსავით წინ გაძღოლა?</li>
-<li>ღრუბლიან თუ მზიან დროს ხარ ჩემთან.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>კურთხეულ ხელში, მტრის შიში არ მაქვს;</li>
-<li>არც ავად ყოფნას, ცრემლს არ აქვს წონა;</li>
-<li>სად არის სიკვდილო შენი ძალა?</li>
-<li>მე კვლავ ვიმარჯვებ, თუ შენ ხარ ჩემთან!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "მოწყალე უფალო,"),
-    num: (num = 269),
-    page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 371)</span>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>სულ მჭირდები;</li>
-<li>შენს ნაზ ხმას ძალუძს, რომ</li>
-<li>დამამშვიდოს.</li>
-<li class="chorus chorus-top">მჭირდები, ო, მჭირდები;</li>
-<li class="chorus">ყოველ დღე, ყოველ წამს;</li>
-<li class="chorus">მხსნელო, მაკურთხე ახლა!</li>
-<li class="chorus chorus-bottom">შენთან მოვალ.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>მჭირდები ყოველთვის,</li>
-<li>დარჩი ჩემთან;</li>
-<li>ასე ცდუნებები,</li>
-<li>უძლურდება.</li>
-<li class="chorus chorus-top">მჭირდები, ო, მჭირდები;</li>
-<li class="chorus">ყოველ დღე, ყოველ წამს;</li>
-<li class="chorus">მხსნელო, მაკურთხე ახლა!</li>
-<li class="chorus chorus-bottom">შენთან მოვალ.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მჭირდები ყოველთვის,</li>
-<li>ლხინში, ჭირში;</li>
-<li>ამაოებისგან</li>
-<li>დამიხსენი.</li>
-<li class="chorus chorus-top">მჭირდები, ო, მჭირდები;</li>
-<li class="chorus">ყოველ დღე, ყოველ წამს;</li>
-<li class="chorus">მხსნელო, მაკურთხე ახლა!</li>
-<li class="chorus chorus-bottom">შენთან მოვალ.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>შენი დაპირება,</li>
-<li>შენი ნება,</li>
-<li>ჩემში აღასრულე,</li>
-<li>მჭირდები შენ!</li>
-<li class="chorus chorus-top">მჭირდები, ო, მჭირდები;</li>
-<li class="chorus">ყოველ დღე, ყოველ წამს;</li>
-<li class="chorus">მხსნელო, მაკურთხე ახლა!</li>
-<li class="chorus chorus-bottom">შენთან მოვალ.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>მჭირდები ყოველთვის,</li>
-<li>უწმიდესო!</li>
-<li>სრულად მომიპოვე,</li>
-<li>კურთხევის ძევ!</li>
-<li class="chorus chorus-top">მჭირდები, ო, მჭირდები;</li>
-<li class="chorus">ყოველ დღე, ყოველ წამს;</li>
-<li class="chorus">მხსნელო, მაკურთხე ახლა!</li>
-<li class="chorus chorus-bottom">შენთან მოვალ.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "არაფერი იდგეს ჩვენ შორის,"),
-    num: (num = 270),
-    page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 272)</span>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>დიდებას ვხედავდე,</li>
-<li>მეტად მიმიზიდე,</li>
-<li>დამელაპარაკე,</li>
-<li>არაფერი იდგეს ჩვენ შორის</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>არაფერი იდგეს ჩვენ შორის,</li>
-<li>ამქვეყნიური ხმა,</li>
-<li>ნუ ჩაახშობს შენს ხმას;</li>
-<li>მე მასში მახარე</li>
-<li>არაფერი იდგეს ჩვენ შორის</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>არაფერი იდგეს ჩვენ შორის;</li>
-<li>მიწიერი ზრუნვის,</li>
-<li>ცრემლნარევი თხოვნის,</li>
-<li>ან სიცრუე მშვინვის,</li>
-<li>არაფერი იდგეს ჩვენ შორის</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>არაფერი იდგეს ჩვენ შორის;</li>
-<li>შიში, ეჭვი ქრება</li>
-<li>და ურწმუნოება,</li>
-<li>როცა შენ ახლოს ხარ,</li>
-<li>არაფერი იდგეს ჩვენ შორის</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>არაფერი იდგეს ჩვენ შორის;</li>
-<li>მზის სხივად იბრწყინე,</li>
-<li>ნისლები გაფანტე,</li>
-<li>ჩემს გულს დაეუფლე</li>
-<li>არაფერი იდგეს ჩვენ შორის;</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>არაფერი იდგეს ჩვენ შორის;</li>
-<li>რომ ერთად ვიაროთ,</li>
-<li>შენ გხედავდე მხოლოდ,</li>
-<li>მარტო შენი ვიყო,</li>
-<li>არაფერი იდგეს ჩვენ შორის;</li>
+<li>пусть не стоит между нами ничто.</li>
+<li>так дай с Тобой ходить,</li>
+<li>видя Тебя лишь, жить</li>
+<li>и лишь Твоим мне быть.</li>
+<li>о мой Господь, быть лишь с Тобой!</li>
 </ul>
 </section>
 <section>
 <span class="number">7.</span>
 <ul>
-<li>არაფერი იდგეს ჩვენ შორის;</li>
-<li>უსასრულო სხივი</li>
-<li>სანამ ბნელს გაარღვევს,</li>
-<li>ხედვას გამიბრწყინებს</li>
-<li>არაფერი იდგეს ჩვენ შორის;</li>
+<li>пусть не стоит между нами ничто.</li>
+<li>пока Твой вечный свет</li>
+<li>в земной кромешной тьме</li>
+<li>не воссияет мне.</li>
+<li>о мой Господь, быть лишь с Тобой!</li>
 </ul>
 </section>
 </main>
@@ -12443,7 +12306,6 @@ const pages = [
     num: (num = 271),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 377)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -12492,7 +12354,6 @@ const pages = [
     num: (num = 272),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 378)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -12541,7 +12402,6 @@ const pages = [
     num: (num = 273),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 380)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -12590,7 +12450,6 @@ const pages = [
     num: (num = 274),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 381)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -12639,7 +12498,6 @@ const pages = [
     num: (num = 275),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 382)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -12701,7 +12559,6 @@ const pages = [
     num: (num = 276),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 383)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -12763,7 +12620,6 @@ const pages = [
     num: (num = 277),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 387)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -12825,7 +12681,6 @@ const pages = [
     num: (num = 278),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 389)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -12887,7 +12742,6 @@ const pages = [
     num: (num = 279),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 390)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13001,7 +12855,6 @@ const pages = [
     num: (num = 281),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 395)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13076,7 +12929,6 @@ const pages = [
     num: (num = 282),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 396)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13138,7 +12990,6 @@ const pages = [
     num: (num = 283),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 397)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13199,7 +13050,6 @@ const pages = [
     num: (num = 284),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 395)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13274,7 +13124,6 @@ const pages = [
     num: (num = 285),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 399)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13347,7 +13196,6 @@ const pages = [
     num: (num = 286),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 403)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13408,8 +13256,7 @@ const pages = [
     title: (title = "დიდების მამაო, ახლა მომეცი"),
     num: (num = 287),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1133)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13464,7 +13311,6 @@ const pages = [
     num: (num = 288),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 405)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13539,7 +13385,6 @@ const pages = [
     num: (num = 289),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 406)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13587,7 +13432,6 @@ const pages = [
     num: (num = 290),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 408)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13652,7 +13496,6 @@ const pages = [
     num: (num = 291),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 412)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13753,7 +13596,6 @@ const pages = [
     num: (num = 292),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 413)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13817,7 +13659,6 @@ const pages = [
     num: (num = 293),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 415)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13893,7 +13734,6 @@ const pages = [
     num: (num = 294),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 418)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -13936,7 +13776,6 @@ const pages = [
     num: (num = 295),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 423)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -14023,7 +13862,6 @@ const pages = [
     num: (num = 296),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 426)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -14137,7 +13975,6 @@ const pages = [
     num: (num = 297),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 430)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -14227,8 +14064,7 @@ const pages = [
     title: (title = "უფალო გვასწავლე,"),
     num: (num = 298),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1132)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -14318,8 +14154,7 @@ const pages = [
     title: (title = "გააძლიერე ჩემი სული,"),
     num: (num = 299),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1134)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -14380,8 +14215,7 @@ const pages = [
     title: (title = "უფალო, გაგვწმინდე,"),
     num: (num = 300),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1135)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -14476,8 +14310,7 @@ const pages = [
     title: (title = "გვაკურთხე გამოცხადებით,"),
     num: (num = 301),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1136)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -14551,8 +14384,7 @@ const pages = [
     title: (title = "მის სახეს ანგელოზნი ხედავენ თუმც"),
     num: (num = 302),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1137)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -14627,7 +14459,6 @@ const pages = [
     num: (num = 303),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 431)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -14673,7 +14504,6 @@ const pages = [
     num: (num = 304),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 432)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -14723,7 +14553,6 @@ const pages = [
     num: (num = 305),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 433)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -14769,7 +14598,6 @@ const pages = [
     num: (num = 306),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 435)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -14823,7 +14651,6 @@ const pages = [
     num: (num = 307),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 436)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -14899,7 +14726,6 @@ const pages = [
     num: (num = 308),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 437)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15000,7 +14826,6 @@ const pages = [
     num: (num = 309),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 438)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15078,7 +14903,6 @@ const pages = [
     num: (num = 310),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 439)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15207,7 +15031,6 @@ const pages = [
     num: (num = 311),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 441)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15282,7 +15105,6 @@ const pages = [
     num: (num = 312),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 444)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15357,7 +15179,6 @@ const pages = [
     num: (num = 313),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 445)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15427,7 +15248,6 @@ const pages = [
     num: (num = 314),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 446)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15487,8 +15307,7 @@ const pages = [
     title: (title = "გიძღვნი ჩემს სიცოცხლეს შენ,"),
     num: (num = 315),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1359)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15576,7 +15395,6 @@ const pages = [
     num: (num = 316),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 449)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15638,7 +15456,6 @@ const pages = [
     num: (num = 317),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 452)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15699,7 +15516,6 @@ const pages = [
     num: (num = 318),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 456)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15777,7 +15593,6 @@ const pages = [
     num: (num = 319),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 460)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15839,7 +15654,6 @@ const pages = [
     num: (num = 320),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 462)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15894,7 +15708,6 @@ const pages = [
     num: (num = 321),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 463)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -15943,7 +15756,6 @@ const pages = [
     num: (num = 322),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 469)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16038,7 +15850,6 @@ const pages = [
     num: (num = 323),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 471)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16092,7 +15903,6 @@ const pages = [
     num: (num = 324),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 472)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16154,7 +15964,6 @@ const pages = [
     num: (num = 325),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 473)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16202,8 +16011,7 @@ const pages = [
     title: (title = "უფალო, ჩვენი მიძღვნა ხარ,"),
     num: (num = 326),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1138)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16265,7 +16073,6 @@ const pages = [
     num: (num = 327),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 474)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16353,7 +16160,6 @@ const pages = [
     num: (num = 328),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 475)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16415,7 +16221,6 @@ const pages = [
     num: (num = 329),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 477)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16476,7 +16281,6 @@ const pages = [
     num: (num = 330),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 479)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16543,7 +16347,6 @@ const pages = [
     num: (num = 331),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 481)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16604,7 +16407,6 @@ const pages = [
     num: (num = 332),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 482)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16692,7 +16494,6 @@ const pages = [
     num: (num = 333),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 483)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16752,7 +16553,6 @@ const pages = [
     num: (num = 334),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 484)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16822,7 +16622,6 @@ const pages = [
     num: (num = 335),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 486)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -16897,7 +16696,6 @@ const pages = [
     num: (num = 336),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 487)</span>
 <main class="full-hymn">
 <section>
 <ul>
@@ -16919,7 +16717,6 @@ const pages = [
     num: (num = 337),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 488)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17001,7 +16798,6 @@ const pages = [
     num: (num = 338),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 489)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17092,7 +16888,6 @@ const pages = [
     num: (num = 339),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 490)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17165,7 +16960,6 @@ const pages = [
     num: (num = 340),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 491)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17238,7 +17032,6 @@ const pages = [
     num: (num = 341),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 492)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17310,8 +17103,7 @@ const pages = [
     title: (title = "ვუმღეროთ უფალს დიდება სულში,"),
     num: (num = 342),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1141)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17357,7 +17149,6 @@ const pages = [
     num: (num = 343),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 493)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17411,8 +17202,7 @@ const pages = [
     title: (title = "იესოა რეალობა,"),
     num: (num = 344),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1141)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17487,7 +17277,6 @@ const pages = [
     num: (num = 345),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 494)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17542,7 +17331,6 @@ const pages = [
     num: (num = 346),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 495)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17633,7 +17421,6 @@ const pages = [
     num: (num = 347),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 496)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17697,7 +17484,6 @@ const pages = [
     num: (num = 348),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 497)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17752,7 +17538,6 @@ const pages = [
     num: (num = 349),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 498)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17827,7 +17612,6 @@ const pages = [
     num: (num = 350),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 499)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17889,7 +17673,6 @@ const pages = [
     num: (num = 351),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 500)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -17938,7 +17721,6 @@ const pages = [
     num: (num = 352),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 501)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18039,7 +17821,6 @@ const pages = [
     num: (num = 353),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 502)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18082,7 +17863,6 @@ const pages = [
     num: (num = 354),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 503)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18143,7 +17923,6 @@ const pages = [
     num: (num = 355),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 505)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18213,7 +17992,6 @@ const pages = [
     num: (num = 356),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 507)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18275,7 +18053,6 @@ const pages = [
     num: (num = 357),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 508)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18336,8 +18113,7 @@ const pages = [
     title: (title = "დიდება! ქრისტე სიცოცხლეა!"),
     num: (num = 358),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1356)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18366,7 +18142,6 @@ const pages = [
     num: (num = 359),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 509)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18440,8 +18215,7 @@ const pages = [
     title: (title = "სიცოცხლის ხის ტკბილ ნაყოფში,"),
     num: (num = 360),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1143)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18486,8 +18260,7 @@ const pages = [
     title: (title = "ძველად ღმერთის სიტყვამ ნათლად გვითხრა"),
     num: (num = 361),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1144)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18587,8 +18360,7 @@ const pages = [
     title: (title = "ო, ღმერთმა უსასყიდლოდ ძე"),
     num: (num = 362),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1145)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18649,8 +18421,7 @@ const pages = [
     title: (title = "იესო ყოველდღე ვჭამოთ,"),
     num: (num = 363),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1146)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18698,8 +18469,7 @@ const pages = [
     title: (title = 'უფალი გვიხმობს: "ჭამეთ, სვით"!'),
     num: (num = 364),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1148)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18732,8 +18502,7 @@ const pages = [
     title: (title = "ქრისტე - მადლის, სინამდვილის"),
     num: (num = 365),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1149)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18786,8 +18555,7 @@ const pages = [
     title: (title = "ო, გვკვებავს ცოცხალი პური,"),
     num: (num = 366),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1150)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18861,8 +18629,7 @@ const pages = [
     title: (title = "შესვი! ტახტიდან მოედინება მდინარე;"),
     num: (num = 367),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1151)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -18924,7 +18691,6 @@ const pages = [
     num: (num = 368),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 510)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -19069,7 +18835,6 @@ const pages = [
     num: (num = 369),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 511)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -19157,7 +18922,6 @@ const pages = [
     num: (num = 370),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 513)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -19252,7 +19016,6 @@ const pages = [
     num: (num = 371),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 514)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -19342,7 +19105,6 @@ const pages = [
     num: (num = 372),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 517)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -19417,7 +19179,6 @@ const pages = [
     num: (num = 373),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 518)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -19492,7 +19253,6 @@ const pages = [
     num: (num = 374),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 521)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -19568,7 +19328,6 @@ const pages = [
     num: (num = 375),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 522)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -19633,7 +19392,6 @@ const pages = [
     num: (num = 376),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 523)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -19711,7 +19469,6 @@ const pages = [
     num: (num = 377),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 529)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -19773,7 +19530,6 @@ const pages = [
     num: (num = 378),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 530)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -19835,7 +19591,6 @@ const pages = [
     num: (num = 379),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 531)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -19897,7 +19652,6 @@ const pages = [
     num: (num = 380),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 532)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -19940,7 +19694,6 @@ const pages = [
     num: (num = 381),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 535)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20005,7 +19758,6 @@ const pages = [
     num: (num = 382),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 536)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20078,7 +19830,6 @@ const pages = [
     num: (num = 383),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 537)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20166,7 +19917,6 @@ const pages = [
     num: (num = 384),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 538)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20254,7 +20004,6 @@ const pages = [
     num: (num = 385),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 539)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20329,7 +20078,6 @@ const pages = [
     num: (num = 386),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 540)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20416,8 +20164,7 @@ const pages = [
     title: (title = "ყოვლისმომცველი მიწაა,"),
     num: (num = 387),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1164)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20504,8 +20251,7 @@ const pages = [
     title: (title = "მიწაზე ვართ, მიწაზე ვართ,"),
     num: (num = 388),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1165)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20540,8 +20286,7 @@ const pages = [
     title: (title = "კეთილ მიწაზე ვშრომობთ, ვრგავთ და ვრწყავთ,"),
     num: (num = 389),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1168)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20635,8 +20380,7 @@ const pages = [
     title: (title = "უფალი ჩემი მწყემსია,"),
     num: (num = 390),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1170)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20740,8 +20484,7 @@ const pages = [
     title: (title = "ვიცით, ქრისტე რეალობაა,"),
     num: (num = 391),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1178)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20798,8 +20541,7 @@ const pages = [
     title: (title = "ჩემი ძველი კაცი მასთან ერთად"),
     num: (num = 392),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1179)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20858,8 +20600,7 @@ const pages = [
     title: (title = "ძველი პიროვნება ჯვარზეა,"),
     num: (num = 393),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1180)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20916,8 +20657,7 @@ const pages = [
     title: (title = "გიცნობდეთ შენ, პიროვნებას"),
     num: (num = 394),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1181)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -20994,8 +20734,7 @@ const pages = [
     title: (title = "აღმატებულია"),
     num: (num = 395),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1187)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21082,7 +20821,6 @@ const pages = [
     num: (num = 396),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 541)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21157,7 +20895,6 @@ const pages = [
     num: (num = 397),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 542)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21245,7 +20982,6 @@ const pages = [
     num: (num = 398),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 544)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21291,7 +21027,6 @@ const pages = [
     num: (num = 399),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 546)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21323,7 +21058,6 @@ const pages = [
     num: (num = 400),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 547)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21377,8 +21111,7 @@ const pages = [
     title: (title = "ო, საყვარელო"),
     num: (num = 401),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1154)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21443,8 +21176,7 @@ const pages = [
     title: (title = "მთელი ჩემი სიყვარული"),
     num: (num = 402),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1158)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21530,8 +21262,7 @@ const pages = [
     title: (title = "შენი სილამაზით დაპყრობილი,"),
     num: (num = 403),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1159)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21593,7 +21324,6 @@ const pages = [
     num: (num = 404),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 548)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21657,7 +21387,6 @@ const pages = [
     num: (num = 405),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 549)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21739,7 +21468,6 @@ const pages = [
     num: (num = 406),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 551)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21825,7 +21553,6 @@ const pages = [
     num: (num = 407),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 552)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21887,7 +21614,6 @@ const pages = [
     num: (num = 408),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 553)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21949,7 +21675,6 @@ const pages = [
     num: (num = 409),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 554)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -21998,7 +21723,6 @@ const pages = [
     num: (num = 410),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 556)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -22080,7 +21804,6 @@ const pages = [
     num: (num = 411),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 559)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -22141,8 +21864,7 @@ const pages = [
     title: (title = "დარჩი ქრისტეში - კურთხევა ჰპოვე"),
     num: (num = 412),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1352)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -22214,8 +21936,7 @@ const pages = [
     title: (title = "იცხოვრე ნათელში,"),
     num: (num = 413),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1353)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -22236,7 +21957,6 @@ const pages = [
     num: (num = 414),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 561)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -22336,7 +22056,6 @@ const pages = [
     num: (num = 415),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 563)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -22469,8 +22188,7 @@ const pages = [
     title: (title = "ცხოვრების გასაღებს ჩავწვდით,"),
     num: (num = 417),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1162)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -22540,7 +22258,6 @@ const pages = [
     num: (num = 418),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 575)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -22604,7 +22321,6 @@ const pages = [
     num: (num = 419),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 578)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -22650,7 +22366,6 @@ const pages = [
     num: (num = 420),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 582)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -22735,7 +22450,6 @@ const pages = [
     num: (num = 421),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 583)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -22808,7 +22522,6 @@ const pages = [
     num: (num = 422),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 589)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -22870,7 +22583,6 @@ const pages = [
     num: (num = 423),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 590)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -22925,7 +22637,6 @@ const pages = [
     num: (num = 424),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 591)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23055,8 +22766,7 @@ const pages = [
     title: (title = "ვიპოვეთ ქრისტე და ჩვენთვის ის"),
     num: (num = 426),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1153)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23131,7 +22841,6 @@ const pages = [
     num: (num = 427),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 593)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23204,7 +22913,6 @@ const pages = [
     num: (num = 428),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 594)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23279,7 +22987,6 @@ const pages = [
     num: (num = 429),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 595)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23329,8 +23036,7 @@ const pages = [
     title: (title = "ძველ აღთქმაში ოქროთი"),
     num: (num = 430),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1171)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23393,8 +23099,7 @@ const pages = [
     title: (title = "ნათელი ხედვა მოგვეცი"),
     num: (num = 431),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1173)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23442,8 +23147,7 @@ const pages = [
     title: (title = "როგორი გამარჯვებაა!"),
     num: (num = 432),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1174)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23507,8 +23211,7 @@ const pages = [
     title: (title = "განუზომელია ღმერთის ძალა"),
     num: (num = 433),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1175)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23569,8 +23272,7 @@ const pages = [
     title: (title = "განუზომელი ძალა აჩვენა,"),
     num: (num = 434),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1176)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23632,7 +23334,6 @@ const pages = [
     num: (num = 435),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 599)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23687,7 +23388,6 @@ const pages = [
     num: (num = 436),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 600)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23757,7 +23457,6 @@ const pages = [
     num: (num = 437),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 602)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23843,8 +23542,7 @@ const pages = [
     title: (title = "სიცოცხლის სათავე - სამერთიანი,"),
     num: (num = 438),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1191)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23892,8 +23590,7 @@ const pages = [
     title: (title = "სიცოცხლე - მამა ღმერთი ქრისტეში,"),
     num: (num = 439),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1193)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -23965,8 +23662,7 @@ const pages = [
     title: (title = "სიცოცხლე ღმერთია, საიდუმლო,"),
     num: (num = 440),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1195)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -24083,8 +23779,7 @@ const pages = [
     title: (title = "ის ცოცხალია-თქვი аллилуйя!"),
     num: (num = 441),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1196)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -24123,8 +23818,7 @@ const pages = [
     title: (title = "ღმერთი სინათლეა, მასში არ არს სიბნელე,"),
     num: (num = 442),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1197)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -24156,7 +23850,6 @@ const pages = [
     num: (num = 443),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 608)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -24231,7 +23924,6 @@ const pages = [
     num: (num = 444),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 609)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -24340,7 +24032,6 @@ const pages = [
     num: (num = 445),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 610)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -24488,7 +24179,6 @@ const pages = [
     num: (num = 447),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 612)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -24575,8 +24265,7 @@ const pages = [
     title: (title = "ღმერთი - ძლიერი მდინარე,"),
     num: (num = 448),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1198)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -24641,8 +24330,7 @@ const pages = [
     title: (title = "ღვთის გეგმა კაცობრიობასთანაა სამყაროში,"),
     num: (num = 449),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1199)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -24729,8 +24417,7 @@ const pages = [
     title: (title = "ჩრდილოეთიდან უბერავს გრიგალი;"),
     num: (num = 450),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1200)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -24804,8 +24491,7 @@ const pages = [
     title: (title = "ღვთის სახლიდან ჩრდილოეთით"),
     num: (num = 451),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1201)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -24893,7 +24579,6 @@ const pages = [
     num: (num = 452),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 622)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -24930,7 +24615,6 @@ const pages = [
     num: (num = 453),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 626)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -25025,7 +24709,6 @@ const pages = [
     num: (num = 454),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 628)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -25139,7 +24822,6 @@ const pages = [
     num: (num = 455),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 630)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -25201,7 +24883,6 @@ const pages = [
     num: (num = 456),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 631)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -25250,7 +24931,6 @@ const pages = [
     num: (num = 457),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 635)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -25513,7 +25193,6 @@ const pages = [
     num: (num = 459),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 637)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -25567,7 +25246,6 @@ const pages = [
     num: (num = 460),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 639)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -25631,7 +25309,6 @@ const pages = [
     num: (num = 461),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 640)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -25677,7 +25354,6 @@ const pages = [
     num: (num = 462),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 642)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -25723,7 +25399,6 @@ const pages = [
     num: (num = 463),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 643)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -25785,7 +25460,6 @@ const pages = [
     num: (num = 464),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 645)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -25834,7 +25508,6 @@ const pages = [
     num: (num = 465),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 657)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -25896,7 +25569,6 @@ const pages = [
     num: (num = 466),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 659)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -25958,7 +25630,6 @@ const pages = [
     num: (num = 467),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 662)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26004,7 +25675,6 @@ const pages = [
     num: (num = 468),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 663)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26047,8 +25717,7 @@ const pages = [
     title: (title = "მიზნისკენ წადი, მისდიე"),
     num: (num = 469),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1205)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26110,7 +25779,7 @@ const pages = [
     num: (num = 470),
     page: `
 	<h2 class="hNum">${num}</h2>
-	<span class="top-30">(ინგ. 666)</span>
+
 	<main class="full-hymn">
 	<section>
 	<span class="number">1.</span>
@@ -26158,8 +25827,7 @@ const pages = [
     title: (title = "ჩვენ წინ სარბიელია - ალილუია,"),
     num: (num = 471),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1206)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26233,8 +25901,7 @@ const pages = [
     title: (title = "წლობით ვიტანჯებოდი ჯვართან,"),
     num: (num = 472),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1208)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26296,7 +25963,6 @@ const pages = [
     num: (num = 473),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 671)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26333,7 +25999,6 @@ const pages = [
     num: (num = 474),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 688)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26427,7 +26092,6 @@ const pages = [
     num: (num = 475),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 697)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26507,7 +26171,6 @@ const pages = [
     num: (num = 476),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 698)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26556,7 +26219,6 @@ const pages = [
     num: (num = 477),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 701)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26611,7 +26273,6 @@ const pages = [
     num: (num = 478),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 703)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26673,7 +26334,6 @@ const pages = [
     num: (num = 479),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 708)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26734,7 +26394,6 @@ const pages = [
     num: (num = 480),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 710)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26770,7 +26429,6 @@ const pages = [
     num: (num = 481),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 711)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26848,7 +26506,6 @@ const pages = [
     num: (num = 482),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 717)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26897,7 +26554,6 @@ const pages = [
     num: (num = 483),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 720)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -26946,7 +26602,6 @@ const pages = [
     num: (num = 484),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 721)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27041,7 +26696,6 @@ const pages = [
     num: (num = 485),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 722)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27107,7 +26761,6 @@ const pages = [
     num: (num = 486),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 723)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27144,7 +26797,6 @@ const pages = [
     num: (num = 487),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 729)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27176,7 +26828,6 @@ const pages = [
     num: (num = 488),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 730)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27218,8 +26869,7 @@ const pages = [
     title: (title = "სრულად გამოსყიდული ვიქნები,"),
     num: (num = 489),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1210)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27294,7 +26944,6 @@ const pages = [
     num: (num = 490),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 733)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27385,7 +27034,6 @@ const pages = [
     num: (num = 491),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 734)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27485,7 +27133,6 @@ const pages = [
     num: (num = 492),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 735)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27567,7 +27214,6 @@ const pages = [
     num: (num = 493),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 736)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27649,7 +27295,6 @@ const pages = [
     num: (num = 494),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 737)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27722,7 +27367,6 @@ const pages = [
     num: (num = 495),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 738)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27795,7 +27439,6 @@ const pages = [
     num: (num = 496),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 739)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27877,7 +27520,6 @@ const pages = [
     num: (num = 497),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 740)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -27941,7 +27583,6 @@ const pages = [
     num: (num = 498),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 741)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28003,7 +27644,6 @@ const pages = [
     num: (num = 499),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 742)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28094,7 +27734,6 @@ const pages = [
     num: (num = 500),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 743)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28167,7 +27806,6 @@ const pages = [
     num: (num = 501),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 744)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28231,7 +27869,6 @@ const pages = [
     num: (num = 502),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 745)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28313,7 +27950,6 @@ const pages = [
     num: (num = 503),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 746)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28386,7 +28022,6 @@ const pages = [
     num: (num = 504),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 747)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28459,7 +28094,6 @@ const pages = [
     num: (num = 505),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 748)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28532,7 +28166,6 @@ const pages = [
     num: (num = 506),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 749)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28614,7 +28247,6 @@ const pages = [
     num: (num = 507),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 750)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28689,7 +28321,6 @@ const pages = [
     num: (num = 508),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 751)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28750,8 +28381,7 @@ const pages = [
     title: (title = "ო, ამოთხარე, ამოთხარე,"),
     num: (num = 509),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1214)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28838,8 +28468,7 @@ const pages = [
     title: (title = "შიგნით სიცოცხლე გვაქვს, მისით ვცოცხლობთ მუდამ,"),
     num: (num = 510),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1216)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28894,7 +28523,6 @@ const pages = [
     num: (num = 511),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 764)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -28967,7 +28595,6 @@ const pages = [
     num: (num = 512),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 765)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -29031,7 +28658,6 @@ const pages = [
     num: (num = 513),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 766)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -29093,7 +28719,6 @@ const pages = [
     num: (num = 514),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 767)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -29139,7 +28764,6 @@ const pages = [
     num: (num = 515),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 769)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -29248,7 +28872,6 @@ const pages = [
     num: (num = 516),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 770)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -29297,7 +28920,6 @@ const pages = [
     num: (num = 517),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 771)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -29370,7 +28992,6 @@ const pages = [
     num: (num = 518),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 772)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -29470,8 +29091,7 @@ const pages = [
     title: (title = "გაბედულად მივეახლოთ,"),
     num: (num = 519),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1217)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -29546,7 +29166,6 @@ const pages = [
     num: (num = 520),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 775)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -29595,7 +29214,6 @@ const pages = [
     num: (num = 521),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 776)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -29641,7 +29259,6 @@ const pages = [
     num: (num = 522),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 778)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -29777,7 +29394,6 @@ const pages = [
     num: (num = 524),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 780)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -29865,7 +29481,6 @@ const pages = [
     num: (num = 525),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 781)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -29953,7 +29568,6 @@ const pages = [
     num: (num = 525),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 782)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30026,7 +29640,6 @@ const pages = [
     num: (num = 527),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 783)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30090,7 +29703,6 @@ const pages = [
     num: (num = 528),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 784)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30178,7 +29790,6 @@ const pages = [
     num: (num = 529),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 785)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30233,7 +29844,6 @@ const pages = [
     num: (num = 530),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 786)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30288,7 +29898,6 @@ const pages = [
     num: (num = 531),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 788)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30350,7 +29959,6 @@ const pages = [
     num: (num = 532),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 789)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30399,7 +30007,6 @@ const pages = [
     num: (num = 533),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 790)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30461,7 +30068,6 @@ const pages = [
     num: (num = 534),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 791)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30562,7 +30168,6 @@ const pages = [
     num: (num = 535),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 792)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30622,7 +30227,6 @@ const pages = [
     num: (num = 536),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 793)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30695,7 +30299,6 @@ const pages = [
     num: (num = 537),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 797)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30783,7 +30386,6 @@ const pages = [
     num: (num = 538),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 799)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30847,7 +30449,6 @@ const pages = [
     num: (num = 539),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 800)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30911,7 +30512,6 @@ const pages = [
     num: (num = 540),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 801)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -30975,7 +30575,6 @@ const pages = [
     num: (num = 541),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 802)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -31057,7 +30656,6 @@ const pages = [
     num: (num = 542),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 804)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -31119,7 +30717,6 @@ const pages = [
     num: (num = 543),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 806)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -31181,7 +30778,6 @@ const pages = [
     num: (num = 544),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 807)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -31243,7 +30839,6 @@ const pages = [
     num: (num = 545),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 811)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -31357,7 +30952,6 @@ const pages = [
     num: (num = 546),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 812)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -31412,7 +31006,6 @@ const pages = [
     num: (num = 547),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 813)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -31521,7 +31114,6 @@ const pages = [
     num: (num = 548),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 814)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -31612,7 +31204,6 @@ const pages = [
     num: (num = 549),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 815)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -31685,7 +31276,6 @@ const pages = [
     num: (num = 550),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 816)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -31760,7 +31350,6 @@ const pages = [
     num: (num = 551),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 817)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -31834,8 +31423,7 @@ const pages = [
     title: (title = "თუ წუთისოფლიდან თავდახსნა გსურს,"),
     num: (num = 552),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1218)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -31896,8 +31484,7 @@ const pages = [
     title: (title = "რა საოცარი ცვლილება მოხდა ჩემში"),
     num: (num = 553),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1219)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -31985,7 +31572,6 @@ const pages = [
     num: (num = 554),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 818)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -32058,7 +31644,6 @@ const pages = [
     num: (num = 555),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 819)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -32149,7 +31734,6 @@ const pages = [
     num: (num = 556),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 820)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -32204,7 +31788,6 @@ const pages = [
     num: (num = 557),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 821)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -32286,7 +31869,6 @@ const pages = [
     num: (num = 558),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 822)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -32386,7 +31968,6 @@ const pages = [
     num: (num = 559),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 823)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -32513,7 +32094,6 @@ const pages = [
     num: (num = 560),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 824)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -32614,7 +32194,6 @@ const pages = [
     num: (num = 561),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 829)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -32704,8 +32283,7 @@ const pages = [
     title: (title = "შვიდ ადგილობრივ სასანთლეს,"),
     num: (num = 562),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1274)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -32868,7 +32446,6 @@ const pages = [
     num: (num = 563),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 831)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -32943,7 +32520,6 @@ const pages = [
     num: (num = 564),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 832)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -32998,7 +32574,6 @@ const pages = [
     num: (num = 565),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 834)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -33125,7 +32700,6 @@ const pages = [
     num: (num = 566),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 837)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -33207,7 +32781,6 @@ const pages = [
     num: (num = 567),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 838)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -33307,7 +32880,6 @@ const pages = [
     num: (num = 568),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 839)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -33382,7 +32954,6 @@ const pages = [
     num: (num = 569),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 840)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -33457,7 +33028,6 @@ const pages = [
     num: (num = 570),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 841)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -33545,7 +33115,6 @@ const pages = [
     num: (num = 571),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 842)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -33600,7 +33169,6 @@ const pages = [
     num: (num = 572),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 843)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -33655,7 +33223,6 @@ const pages = [
     num: (num = 573),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 844)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -33728,7 +33295,6 @@ const pages = [
     num: (num = 574),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 845)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -33792,7 +33358,6 @@ const pages = [
     num: (num = 575),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 846)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -33874,7 +33439,6 @@ const pages = [
     num: (num = 576),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 847)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -33938,7 +33502,6 @@ const pages = [
     num: (num = 577),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 848)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34039,7 +33602,6 @@ const pages = [
     num: (num = 578),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 849)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34153,7 +33715,6 @@ const pages = [
     num: (num = 579),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 851)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34244,7 +33805,6 @@ const pages = [
     num: (num = 580),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 852)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34308,7 +33868,6 @@ const pages = [
     num: (num = 581),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 853)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34363,7 +33922,6 @@ const pages = [
     num: (num = 582),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 854)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34436,7 +33994,6 @@ const pages = [
     num: (num = 583),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 855)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34459,7 +34016,6 @@ const pages = [
     num: (num = 584),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 858)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34519,7 +34075,6 @@ const pages = [
     num: (num = 585),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 860)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34573,8 +34128,7 @@ const pages = [
     title: (title = "ადგილობრივ ნიადაგზე"),
     num: (num = 586),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1257)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34674,8 +34228,7 @@ const pages = [
     title: (title = "ადგილობრივ ეკლესიებს,"),
     num: (num = 587),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1258)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34723,8 +34276,7 @@ const pages = [
     title: (title = "იესოს მოწმობა"),
     num: (num = 588),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1259)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34818,8 +34370,7 @@ const pages = [
     title: (title = "ღვთის რჩეულ ნიადაგზე"),
     num: (num = 589),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1260)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -34840,8 +34391,7 @@ const pages = [
     title: (title = "ეკლესიაა ქრისტეს"),
     num: (num = 590),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1265)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34922,8 +34472,7 @@ const pages = [
     title: (title = "ჩვენს გონებას სულისაკენ"),
     num: (num = 591),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1266)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -34974,8 +34523,7 @@ const pages = [
     title: (title = "რიდე მომხსენი უფალო"),
     num: (num = 592),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1220)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35047,8 +34595,7 @@ const pages = [
     title: (title = "იესომ, მწყემსმა კეთილმა"),
     num: (num = 593),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1221)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35122,8 +34669,7 @@ const pages = [
     title: (title = "წადით და გარს შემოუარეთ,"),
     num: (num = 594),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1223)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35222,8 +34768,7 @@ const pages = [
     title: (title = "მადლით ჩვენ ქრისტეს ვენდობით;"),
     num: (num = 595),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1224)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35297,8 +34842,7 @@ const pages = [
     title: (title = "უფალო, როგორც სხეული,"),
     num: (num = 596),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1225)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35359,8 +34903,7 @@ const pages = [
     title: (title = "ო ქრისტეს ეკლესია დიდებულია და მასში,"),
     num: (num = 597),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1226)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35421,8 +34964,7 @@ const pages = [
     title: (title = "უფალი მოვიდა, მოკვდა,"),
     num: (num = 598),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1227)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35483,8 +35025,7 @@ const pages = [
     title: (title = "ქრისტეს სიხარულია"),
     num: (num = 599),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1229)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35558,8 +35099,7 @@ const pages = [
     title: (title = "დახსნილთა ერთობა არის"),
     num: (num = 600),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1230)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35607,8 +35147,7 @@ const pages = [
     title: (title = "ღმერთს გეგმა აქვს, კაცი შექმნა,"),
     num: (num = 601),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1231)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35665,8 +35204,7 @@ const pages = [
     title: (title = "ჩვენ ვიყავით ცოდვაში მკვდრები,"),
     num: (num = 602),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1232)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35753,8 +35291,7 @@ const pages = [
     title: (title = "ძიება მორჩა,"),
     num: (num = 603),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1233)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35795,8 +35332,7 @@ const pages = [
     title: (title = "მომწყურდა ბაბილონში, ვერსად ვიპოვე"),
     num: (num = 604),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1234)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35847,8 +35383,7 @@ const pages = [
     title: (title = "ერთ დროს იყო უბედური"),
     num: (num = 605),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1235)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -35961,8 +35496,7 @@ const pages = [
     title: (title = "ეკლესიაში სიცოცხლის ხმა ჩვენს ყურებს ესმის,"),
     num: (num = 606),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1236)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -36035,8 +35569,7 @@ const pages = [
     title: (title = "ეკლესიური ცხოვრების მშვენიერ ბაღში ვცხოვრობთ."),
     num: (num = 607),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1237)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -36115,8 +35648,7 @@ const pages = [
     title: (title = "არც კი მიოცნებია"),
     num: (num = 608),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1238)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -36177,8 +35709,7 @@ const pages = [
     title: (title = "ღრმად, უფრო ღრმად, ო, იესოს ჯვარზე"),
     num: (num = 609),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1240)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -36291,8 +35822,7 @@ const pages = [
     title: (title = "როცა ერათად დგანან ძმები,"),
     num: (num = 610),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1245)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -36366,8 +35896,7 @@ const pages = [
     title: (title = "თავს გაძლევთ ეკლესიებს რომ გავყვეთ"),
     num: (num = 611),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1246)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -36454,8 +35983,7 @@ const pages = [
     title: (title = "დავითმა შეჰფიცა"),
     num: (num = 612),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1248)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -36516,8 +36044,7 @@ const pages = [
     title: (title = "ბაბილონიდან დღეს ჩვენ"),
     num: (num = 613),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1251)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -36616,8 +36143,7 @@ const pages = [
     title: (title = "ქვემოთ ბაბილონში, ტყვეობაში,"),
     num: (num = 614),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1252)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -36681,8 +36207,7 @@ const pages = [
     title: (title = "უფლის ტაძრის აშენების ჟამია, ავდგეთ!"),
     num: (num = 615),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1254)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -36743,8 +36268,7 @@ const pages = [
     title: (title = "ვართ უფლის აღდგენისთვის, რომ"),
     num: (num = 616),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1255)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -36791,8 +36315,7 @@ const pages = [
     title: (title = "მდინარე ევფრატი გადავლახეთ და"),
     num: (num = 617),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1271)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -36866,8 +36389,7 @@ const pages = [
     title: (title = "ქრისტემ მოგვიხმო და კვლავ"),
     num: (num = 618),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1273)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -36952,8 +36474,7 @@ const pages = [
     title: (title = "სიყვარულის ეკლესია,"),
     num: (num = 619),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1275)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -37027,8 +36548,7 @@ const pages = [
     title: (title = "იესოს ეკლესიაში მიიღებ"),
     num: (num = 620),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1278)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -37074,7 +36594,6 @@ const pages = [
     num: (num = 621),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 863)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -37147,7 +36666,6 @@ const pages = [
     num: (num = 622),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 864)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -37260,9 +36778,7 @@ const pages = [
     title: (title = "სულში, ჭეშმარიტებაში,"),
     num: (num = 623),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30"></span>
-<main class="full-hymn">
+<h2 class="hNum">${num}</h2>ss="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
@@ -37343,7 +36859,6 @@ const pages = [
     num: (num = 624),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 866)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -37443,7 +36958,6 @@ const pages = [
     num: (num = 625),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 867)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -37505,7 +37019,6 @@ const pages = [
     num: (num = 626),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 868)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -37542,7 +37055,6 @@ const pages = [
     num: (num = 627),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 869)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -37578,8 +37090,7 @@ const pages = [
     title: (title = "აღდგომის ძალით გავხდით ჩვენ"),
     num: (num = 628),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1280)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -37691,7 +37202,6 @@ const pages = [
     num: (num = 629),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 870)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -37769,7 +37279,6 @@ const pages = [
     num: (num = 630),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 871)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -37864,7 +37373,6 @@ const pages = [
     num: (num = 631),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 873)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -37952,7 +37460,6 @@ const pages = [
     num: (num = 632),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 876)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -38007,7 +37514,6 @@ const pages = [
     num: (num = 633),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 877)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -38085,7 +37591,6 @@ const pages = [
     num: (num = 634),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 880)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -38134,7 +37639,6 @@ const pages = [
     num: (num = 635),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 882)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -38212,7 +37716,6 @@ const pages = [
     num: (num = 636),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 885)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -38313,7 +37816,7 @@ const pages = [
     num: (num = 637),
     page: `
 	<h2 class="hNum">${num}</h2>
-	<span class="top-30">(ინგ. 886)</span>
+
 	<main class="full-hymn">
 	<section>
 	<span class="number">1.</span>
@@ -38379,7 +37882,6 @@ const pages = [
     num: (num = 638),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 887)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -38454,7 +37956,6 @@ const pages = [
     num: (num = 639),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 888)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -38529,7 +38030,6 @@ const pages = [
     num: (num = 640),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 889)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -38617,7 +38117,6 @@ const pages = [
     num: (num = 641),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 890)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -38691,8 +38190,7 @@ const pages = [
     title: (title = "ქრისტემ მტერზე გამარჯვება მოიპოვა,"),
     num: (num = 642),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1289)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -38759,7 +38257,6 @@ const pages = [
     num: (num = 643),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 892)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -38805,7 +38302,6 @@ const pages = [
     num: (num = 644),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 893)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -38893,7 +38389,6 @@ const pages = [
     num: (num = 645),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 894)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -39006,8 +38501,7 @@ const pages = [
     title: (title = "იბრძოლეთ!"),
     num: (num = 646),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1283)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -39030,8 +38524,7 @@ const pages = [
     title: (title = "რწმენა, რომელიც მიეცათ"),
     num: (num = 647),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1285)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -39226,7 +38719,6 @@ const pages = [
     num: (num = 649),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 904)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -39301,7 +38793,6 @@ const pages = [
     num: (num = 650),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 907)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -39356,7 +38847,6 @@ const pages = [
     num: (num = 651),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 908)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -39418,7 +38908,6 @@ const pages = [
     num: (num = 652),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 909)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -39467,7 +38956,6 @@ const pages = [
     num: (num = 653),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 910)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -39529,7 +39017,6 @@ const pages = [
     num: (num = 654),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 911)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -39617,7 +39104,6 @@ const pages = [
     num: (num = 655),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 912)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -39692,7 +39178,6 @@ const pages = [
     num: (num = 656),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 913)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -39806,7 +39291,6 @@ const pages = [
     num: (num = 657),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 914)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -39920,7 +39404,6 @@ const pages = [
     num: (num = 658),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 917)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -39969,7 +39452,6 @@ const pages = [
     num: (num = 659),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 920)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40031,7 +39513,6 @@ const pages = [
     num: (num = 660),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 921)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40100,8 +39581,7 @@ const pages = [
     title: (title = "აღსდექ და ახარე!"),
     num: (num = 661),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1358)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -40125,7 +39605,6 @@ const pages = [
     num: (num = 662),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 922)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40187,7 +39666,6 @@ const pages = [
     num: (num = 663),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 923)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40233,7 +39711,6 @@ const pages = [
     num: (num = 664),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 925)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40295,7 +39772,6 @@ const pages = [
     num: (num = 665),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 928)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40344,7 +39820,6 @@ const pages = [
     num: (num = 666),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 930)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40406,7 +39881,6 @@ const pages = [
     num: (num = 667),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 934)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40467,8 +39941,7 @@ const pages = [
     title: (title = "ო, სამყაროს"),
     num: (num = 668),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1293)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40537,8 +40010,7 @@ const pages = [
     title: (title = "განვაცხადოთ! სანამ უფლის სამეფო მოვა."),
     num: (num = 669),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1294)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40592,8 +40064,7 @@ const pages = [
     title: (title = "ზიარება გვაქვს სახარებაში,"),
     num: (num = 670),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1295)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40654,8 +40125,7 @@ const pages = [
     title: (title = "ვთესავთ დილაობით, სიკეთის თესლს ვთესავთ,"),
     num: (num = 671),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1349)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40703,8 +40173,7 @@ const pages = [
     title: (title = "რა წყალობაა, ვიხილე უფალი,"),
     num: (num = 672),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1351)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40741,7 +40210,6 @@ const pages = [
     num: (num = 673),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 936)</span>
 <main class="full-hymn">
 <section>
 <ul>
@@ -40763,7 +40231,6 @@ const pages = [
     num: (num = 674),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 937)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40818,7 +40285,6 @@ const pages = [
     num: (num = 675),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 938)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40846,7 +40312,6 @@ const pages = [
     num: (num = 676),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 941)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -40934,7 +40399,6 @@ const pages = [
     num: (num = 677),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 942)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41006,8 +40470,7 @@ const pages = [
     title: (title = "ჩვენი სულის პლაცდარმიდან"),
     num: (num = 678),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1297)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -41033,7 +40496,6 @@ const pages = [
     num: (num = 679),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 943)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41115,7 +40577,6 @@ const pages = [
     num: (num = 680),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 944)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41197,7 +40658,6 @@ const pages = [
     num: (num = 681),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 945)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41315,7 +40775,6 @@ const pages = [
     num: (num = 682),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 946)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41390,7 +40849,6 @@ const pages = [
     num: (num = 683),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 947)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41462,8 +40920,7 @@ const pages = [
     title: (title = "ადამიანის შემოქმედს"),
     num: (num = 684),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1299)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41537,8 +40994,7 @@ const pages = [
     title: (title = "ო, იესო სამეფო მოვიდა"),
     num: (num = 685),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1301)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41601,7 +41057,6 @@ const pages = [
     num: (num = 686),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 948)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41649,8 +41104,7 @@ const pages = [
     title: (title = "დიდების იმედია, ჩემია სიცოცხლე,"),
     num: (num = 687),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1301)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41720,7 +41174,6 @@ const pages = [
     num: (num = 688),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 954)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41794,7 +41247,6 @@ const pages = [
     num: (num = 689),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 956)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41857,7 +41309,6 @@ const pages = [
     num: (num = 690),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 957)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41892,8 +41343,7 @@ const pages = [
     title: (title = "უფლის ციდან დაშვების დროს ღმერთის საყვირის ხმაზე,"),
     num: (num = 691),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1354)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -41955,7 +41405,6 @@ const pages = [
     num: (num = 692),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 958)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -42056,7 +41505,6 @@ const pages = [
     num: (num = 693),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 959)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -42157,7 +41605,6 @@ const pages = [
     num: (num = 694),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 960)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -42271,7 +41718,6 @@ const pages = [
     num: (num = 695),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 962)</span>
 <main class="full-hymn">
 <section>
 <ul>
@@ -42293,7 +41739,6 @@ const pages = [
     num: (num = 696),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 963)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -42355,7 +41800,6 @@ const pages = [
     num: (num = 697),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 965)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -42437,7 +41881,6 @@ const pages = [
     num: (num = 698),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 966)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -42499,7 +41942,6 @@ const pages = [
     num: (num = 699),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 967)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -42565,7 +42007,6 @@ const pages = [
     num: (num = 700),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 969)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -42611,7 +42052,6 @@ const pages = [
     num: (num = 701),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 970)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -42683,8 +42123,7 @@ const pages = [
     title: (title = "მადლი ნაბოძები ღვთისგან"),
     num: (num = 702),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1321)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -42771,8 +42210,7 @@ const pages = [
     title: (title = "ყველა ნიშანი ამბობს -"),
     num: (num = 703),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1302)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -42871,8 +42309,7 @@ const pages = [
     title: (title = "ღვთის სამეფო ახლოვდება:"),
     num: (num = 704),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1303)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -42946,8 +42383,7 @@ const pages = [
     title: (title = "ქრისტე ნადიმზე მოდის,"),
     num: (num = 705),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1304)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43076,8 +42512,7 @@ const pages = [
     title: (title = "ჩვენი რწმენა ღვთის მიმართ უნდა გავრცელდეს,"),
     num: (num = 706),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1305)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43138,8 +42573,7 @@ const pages = [
     title: (title = "დღე ახლოვდება -  იესო ბრუნდება;"),
     num: (num = 707),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1307)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43200,8 +42634,7 @@ const pages = [
     title: (title = "ზეთით გვაქვს ლამპრები სავსე - ვიწვით!"),
     num: (num = 708),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1308)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43249,8 +42682,7 @@ const pages = [
     title: (title = "უფლის გულს პატარძალი სურს"),
     num: (num = 709),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1310)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43313,8 +42745,7 @@ const pages = [
     title: (title = "ჩვენი ძვირფასი ნეფე ბრუნდება, ემზადება"),
     num: (num = 710),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1311)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43362,8 +42793,7 @@ const pages = [
     title: (title = "უფალო, მოგელით,"),
     num: (num = 711),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1314)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43416,8 +42846,7 @@ const pages = [
     title: (title = "იხარეთ! ჩვენი საქმრო მოდის,"),
     num: (num = 712),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1315)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43494,8 +42923,7 @@ const pages = [
     title: (title = "გაზაფხულის ერთ საღამოს,"),
     num: (num = 713),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1318)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43564,8 +42992,7 @@ const pages = [
     title: (title = "რასაც, იკვლევდნენ, ეძებდნენ"),
     num: (num = 714),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1319)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43626,8 +43053,7 @@ const pages = [
     title: (title = "უფალი ეკლესიითვის"),
     num: (num = 715),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1320)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43676,7 +43102,6 @@ const pages = [
     num: (num = 716),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 971)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43763,8 +43188,7 @@ const pages = [
     title: (title = "ღმერთის სამუდამო გეგმა,"),
     num: (num = 717),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1325)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43852,7 +43276,6 @@ const pages = [
     num: (num = 718),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 972)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -43943,7 +43366,6 @@ const pages = [
     num: (num = 719),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 974)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -44074,7 +43496,6 @@ const pages = [
     num: (num = 721),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 975)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -44174,7 +43595,6 @@ const pages = [
     num: (num = 722),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 976)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -44252,7 +43672,6 @@ const pages = [
     num: (num = 723),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 978)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -44314,7 +43733,6 @@ const pages = [
     num: (num = 724),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 979)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -44468,7 +43886,6 @@ const pages = [
     num: (num = 725),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 980)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -44559,7 +43976,6 @@ const pages = [
     num: (num = 726),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 981)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -44650,7 +44066,6 @@ const pages = [
     num: (num = 727),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 984)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -44712,7 +44127,6 @@ const pages = [
     num: (num = 728),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 985)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -44891,7 +44305,6 @@ const pages = [
     num: (num = 731),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 986)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -44979,7 +44392,6 @@ const pages = [
     num: (num = 732),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 987)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45054,7 +44466,6 @@ const pages = [
     num: (num = 733),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 988)</span>
 <main class="full-hymn">
 <section>
 <ul>
@@ -45076,7 +44487,6 @@ const pages = [
     num: (num = 734),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 991)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45138,7 +44548,6 @@ const pages = [
     num: (num = 735),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 993)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45232,7 +44641,6 @@ const pages = [
     num: (num = 736),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 994)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45281,7 +44689,6 @@ const pages = [
     num: (num = 737),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 996)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45345,7 +44752,6 @@ const pages = [
     num: (num = 738),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 997)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45407,7 +44813,6 @@ const pages = [
     num: (num = 739),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 998)</span>
 <main class="full-hymn">
 <section>
 <ul>
@@ -45429,7 +44834,6 @@ const pages = [
     num: (num = 740),
     page: `
 <h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 999)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45503,8 +44907,7 @@ const pages = [
     title: (title = "რაზე შევშინდე როდესაც"),
     num: (num = 741),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1003)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45557,8 +44960,7 @@ const pages = [
     title: (title = "იესომ დაღვარა სისხლი"),
     num: (num = 742),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1004)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45658,8 +45060,7 @@ const pages = [
     title: (title = "ო წყარო, რომელშიც სისხლი"),
     num: (num = 743),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1006)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45713,8 +45114,7 @@ const pages = [
     title: (title = "გინახავს იესოს გამწმენდი ძალა?"),
     num: (num = 744),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1007)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45775,8 +45175,7 @@ const pages = [
     title: (title = "რა ჩამომრეცხავს ცოდვას?"),
     num: (num = 745),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1008)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45837,8 +45236,7 @@ const pages = [
     title: (title = "შენ შენი ცოდვის ტვირთს თავს დააღწევ?"),
     num: (num = 746),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1009)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45899,8 +45297,7 @@ const pages = [
     title: (title = "მე ვხედავ ტალღას გამწმენდელს!"),
     num: (num = 747),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1010)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -45948,8 +45345,7 @@ const pages = [
     title: (title = "ხეტიალისგან მოხეტიალეთ რა იცავს?"),
     num: (num = 748),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1013)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46010,8 +45406,7 @@ const pages = [
     title: (title = "ქება, ქება, რა სიცოცხლე,"),
     num: (num = 749),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1015)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -46030,8 +45425,7 @@ const pages = [
     title: (title = "ღმერთი იესოში განკაცდა გახდა ჩემი მსგავსი."),
     num: (num = 750),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1017)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46062,8 +45456,7 @@ const pages = [
     title: (title = "მოძღვარი ღამით იესოს ესტუმრა,"),
     num: (num = 751),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1019)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46111,8 +45504,7 @@ const pages = [
     title: (title = "ვინ დაგვიხსნის ცოდვისგან?"),
     num: (num = 752),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1020)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -46132,8 +45524,7 @@ const pages = [
     title: (title = "ცოდვილნი ცოდვას მონობენ,"),
     num: (num = 753),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1021)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -46154,8 +45545,7 @@ const pages = [
     title: (title = "შენ გჭირდება მხოლოდ ქრისტე მხსნელი"),
     num: (num = 754),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1024)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46244,8 +45634,7 @@ const pages = [
     title: (title = "დატოვე წუთისოფელი,"),
     num: (num = 755),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1025)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46306,8 +45695,7 @@ const pages = [
     title: (title = "იესო ნაზად, ფაქიზად გვეძახის"),
     num: (num = 756),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1027)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46368,8 +45756,7 @@ const pages = [
     title: (title = "იესო ნაზად გეძახის სახლში"),
     num: (num = 757),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1028)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46422,8 +45809,7 @@ const pages = [
     title: (title = '"მეწამული ცოდვები'),
     num: (num = 758),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1037)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46477,8 +45863,7 @@ const pages = [
     title: (title = "თუ დაგღალა შენი ცოდვის ტვირთმა,"),
     num: (num = 759),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1038)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46526,8 +45911,7 @@ const pages = [
     title: (title = "ყური უგდე, აკაკუნებს"),
     num: (num = 760),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1040)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46570,8 +45954,7 @@ const pages = [
     title: (title = "სიცოცხლე მოკლე არის,"),
     num: (num = 761),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1043)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46660,8 +46043,7 @@ const pages = [
     title: (title = "შენ მზად ხარ, ღმერთს რომ შეხვდე?"),
     num: (num = 762),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1044)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -46680,8 +46062,7 @@ const pages = [
     title: (title = "ო, ზურგს ნუ შეაქცევს სიტყვას,"),
     num: (num = 763),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1045)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46742,8 +46123,7 @@ const pages = [
     title: (title = "როდესაც მარადისობა"),
     num: (num = 764),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1047)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46862,8 +46242,7 @@ const pages = [
     title: (title = "მონობიდან და სიბნელიდან"),
     num: (num = 766),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1050)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46924,8 +46303,7 @@ const pages = [
     title: (title = "ჩამესმის ხმა შენი,"),
     num: (num = 767),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1051)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -46999,8 +46377,7 @@ const pages = [
     title: (title = "ღმერთისგან შორს ვიყავი,"),
     num: (num = 768),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1052)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47087,8 +46464,7 @@ const pages = [
     title: (title = "გვერდს ნუ ამივლი, ო მხსნელო,"),
     num: (num = 769),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1054)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47149,8 +46525,7 @@ const pages = [
     title: (title = "ვარ ცოდვილი და უმწეო,"),
     num: (num = 770),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1055)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -47171,8 +46546,7 @@ const pages = [
     title: (title = "იესო, ჩემო მხსნელო,"),
     num: (num = 771),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1057)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47233,8 +46607,7 @@ const pages = [
     title: (title = "ჩემთვის გაპობილო კლდევ,"),
     num: (num = 772),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1058)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47287,8 +46660,7 @@ const pages = [
     title: (title = "იესო, გთხოვ მამყოფე"),
     num: (num = 773),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1059)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47349,8 +46721,7 @@ const pages = [
     title: (title = "ჩემს გულში შემოდი, უფალო,"),
     num: (num = 774),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1061)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47398,8 +46769,7 @@ const pages = [
     title: (title = "ბრმა, სუსტი და ღარიბი"),
     num: (num = 775),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1062)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47460,8 +46830,7 @@ const pages = [
     title: (title = "მსურს, ამბავი მოგიყვეთ,"),
     num: (num = 776),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1064)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47538,8 +46907,7 @@ const pages = [
     title: (title = "დიადია ხსნა მისი!"),
     num: (num = 777),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1065)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47600,8 +46968,7 @@ const pages = [
     title: (title = "ო, ჩემი მხსნელი ჯვარზე მოვკდა,"),
     num: (num = 778),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1066)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47662,8 +47029,7 @@ const pages = [
     title: (title = "მან ფაქიზად მომძებნა"),
     num: (num = 779),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1068)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47747,8 +47113,7 @@ const pages = [
     title: (title = "მშვიდობის ნაპირიდან,"),
     num: (num = 780),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1070)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47814,8 +47179,7 @@ const pages = [
     title: (title = "მიიღებენ იესოს,"),
     num: (num = 781),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1071)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47876,8 +47240,7 @@ const pages = [
     title: (title = "ისმინეთ! არს საიდუმლო"),
     num: (num = 782),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1073)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -47898,8 +47261,7 @@ const pages = [
     title: (title = "ო საიდუმლო! დღეს ჩემს მხსნელთან"),
     num: (num = 783),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1074)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -47920,8 +47282,7 @@ const pages = [
     title: (title = "სამყაროც რომ ვპოვო, თუ მხსნელს ვკარგავ,"),
     num: (num = 784),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1079)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -47982,8 +47343,7 @@ const pages = [
     title: (title = "აქვს აზრი მიწაზე შრომას?"),
     num: (num = 785),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1080)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -48057,8 +47417,7 @@ const pages = [
     title: (title = "ოდეს მწყურვალი, სიღრმიდან"),
     num: (num = 786),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1327)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -48273,8 +47632,7 @@ const pages = [
     title: (title = "იგემე უფლის სიკეთე;"),
     num: (num = 789),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1331)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -48319,8 +47677,7 @@ const pages = [
     title: (title = "იცი, რომ შენ რჩეულ იყავ"),
     num: (num = 790),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1332)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -48394,8 +47751,7 @@ const pages = [
     title: (title = "ო, რა დღე დადგა!"),
     num: (num = 791),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1333)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -48440,8 +47796,7 @@ const pages = [
     title: (title = "დიდი არის უფალი, აქონ ის,"),
     num: (num = 792),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1335)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -48462,8 +47817,7 @@ const pages = [
     title: (title = "მე უფალს რა უნდა მივცე?"),
     num: (num = 793),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1336)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -48481,8 +47835,7 @@ const pages = [
     title: (title = "უფალმა სიონის ტყვეობა რომ შეწყვიტა,"),
     num: (num = 794),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1337)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -48550,8 +47903,7 @@ const pages = [
     title: (title = "აქ მე მარად ვისვენებ;"),
     num: (num = 795),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1338)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -48572,8 +47924,7 @@ const pages = [
     title: (title = "რა კარგია და რა საამური"),
     num: (num = 796),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1339)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -48615,8 +47966,7 @@ const pages = [
     title: (title = "და სიხარულით ამოხაპავთ,"),
     num: (num = 797),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1340)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
@@ -48648,8 +47998,7 @@ const pages = [
     title: (title = "უფლის გამოსყიდულნი დაბრუნდებიან,"),
     num: (num = 798),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1341)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -48673,8 +48022,7 @@ const pages = [
     title: (title = "მე ახალ მცნებას"),
     num: (num = 799),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1343)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
@@ -48700,8 +48048,7 @@ const pages = [
     title: (title = "როცა გული უფლისკენ ბრუნდება,"),
     num: (num = 800),
     page: `
-<h2 class="hNum">${num}</h2>
-<span class="top-30">(ინგ. 1345)</span>
+<h2 class="hNum">${num}</h2>>
 <main class="full-hymn">
 <section>
 <ul>
