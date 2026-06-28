@@ -14613,8 +14613,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "ზურგი ვაქციე ყოველგვარ"),
-    num: (num = 309),
+    title: (title = "От мира отвернулся я -"),
+    num: (num = 231),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14622,76 +14622,76 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ტკბობას წუთისოფლისას;</li>
-<li>ზეციური განძისაკენ</li>
-<li>გული მიმართული მაქვს.</li>
-<li>ვეღარ დამაბრმავებს მეტად</li>
-<li>ამაო ბრწყინვალება,</li>
-<li>გადავაბიჯე გამყოფ ზღვარს,</li>
-<li>დავთმე ქვეყნიერება.</li>
-<li class="chorus chorus-top">დავტოვე უკან!</li>
-<li class="chorus">დავტოვე უკან!</li>
-<li class="chorus">გადავაბიჯე გამყოფ ზღვარს,</li>
-<li class="chorus chorus-bottom">დავთმე ქვეყნიერება.</li>
+<li>чужды его соблазны,</li>
+<li>тщеславный блеск и мишура</li>
+<li>слепят меня напрасно.</li>
+<li>дары богаче и святей</li>
+<li>я сердцу предоставил;</li>
+<li>я за порог переступил</li>
+<li>и мир навек оставил.</li>
+<li class="chorus chorus-top">навек оставил!</li>
+<li class="chorus">навек оставил!</li>
+<li class="chorus">я за порог переступил</li>
+<li class="chorus chorus-bottom">и мир навек оставил.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>მივატოვე ძველი, ცოდვით</li>
-<li>ავსებული ცხოვრება;</li>
-<li>ახლა ქრისტეში ვარ მყარად,</li>
-<li>ვიღებ მის წმიდა აღთქმას.</li>
-<li>ჯვარი ჩემი ალამია</li>
-<li>- ნახოს ქვეყნიერებამ;</li>
-<li>სიკვდილიდან სიცოცხლეში</li>
-<li>ახლა გადასული ვარ.</li>
-<li class="chorus chorus-top">დავტოვე უკან!</li>
-<li class="chorus">ქვეყნიერება!</li>
-<li class="chorus">სიკვდილიდან სიცოცხლეში</li>
-<li class="chorus chorus-bottom">ახლა გადასული ვარ.</li>
+<li>я жизнь пустую во грехе</li>
+<li>оставил в мире этом;</li>
+<li>мой дом - Христос, и верен я</li>
+<li>святым Его обетам.</li>
+<li>пусть мир кичится - я себе</li>
+<li>крест знаменем поставил;</li>
+<li>прошёл в Христе из смерти в жизнь</li>
+<li>и мир навек оставил.</li>
+<li class="chorus chorus-top">навек оставил!</li>
+<li class="chorus">навек оставил!</li>
+<li class="chorus">прошёл в Христе из смерти в жизнь</li>
+<li class="chorus chorus-bottom">и мир навек оставил.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ჩემი სამშვინველი აღარ</li>
-<li>აირჩევს წარსულ ადგილს;</li>
-<li>მხოლოდ აქ მაქვს მე მშვიდობა,</li>
-<li>ვარ მსჯავრისგან დახსნილი.</li>
-<li>ახლა მე სხვა ბატონი მყავს,</li>
-<li>დიდების აღთქმა მზღუდავს;</li>
-<li>მე ერთხელ და სამუდამოდ</li>
-<li>დავთმე ქვეყნიერება.</li>
-<li class="chorus chorus-top">დავტოვე უკან!</li>
-<li class="chorus">დავტოვე უკან!</li>
-<li class="chorus">მე ერთხელ და სამუდამოდ</li>
-<li class="chorus chorus-bottom">დავთმე ქვეყნიერება.</li>
+<li>назад не возвратится вновь</li>
+<li>душа моя отныне -</li>
+<li>ведь только здесь царит покой</li>
+<li>и нет вины в помине;</li>
+<li>себя обетом славы я</li>
+<li>от прежних уз избавил</li>
+<li>и навсегда отринул мир,</li>
+<li>да, мир навек оставил.</li>
+<li class="chorus chorus-top">навек оставил!</li>
+<li class="chorus">навек оставил!</li>
+<li class="chorus">и навсегда отринул мир,</li>
+<li class="chorus chorus-bottom">да, мир навек оставил.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>გავაკეთე არჩევანი</li>
-<li>მე აღარ მსურს სხვა მხსნელი;</li>
-<li>ნამდვილი ბედნიერება</li>
-<li>არის მის სიყვარულში.</li>
-<li>უფლისაა ჩემი გული,</li>
-<li>სოფელი ვერ მაბრმავებს,</li>
-<li>წითელი ზღვა გადავკვეთე,</li>
-<li>ქვეყნიერება დავთმე.</li>
-<li class="chorus chorus-top">უკან დავტოვე!</li>
-<li class="chorus">უკან დავტოვე!</li>
-<li class="chorus">წითელი ზღვა გადავკვეთე,</li>
-<li class="chorus chorus-bottom">ქვეყნიერება დავთმე.</li>
+<li>мой выбор сделан - не ищу</li>
+<li>спасителя иного,</li>
+<li>нет выше счастья, чем любовь</li>
+<li>и благодать Христова;</li>
+<li>мир не слепит меня с тех пор,,</li>
+<li>как я Христа восславил,,</li>
+<li>с Ним в Красном море смерть прошёл</li>
+<li>и мир навек оставил.</li>
+<li class="chorus chorus-top">навек оставил!</li>
+<li class="chorus">навек оставил!</li>
+<li class="chorus">с Ним в Красном море смерть прошёл</li>
+<li class="chorus chorus-bottom">и мир навек оставил.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "სრულად ვარ მიძღვნილი"),
-    num: (num = 310),
+    title: (title = "Я Святому Духу"),
+    num: (num = 232),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14699,127 +14699,127 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>წმიდა სულისთვის!</li>
-<li>ყველაფრის ფასად მსურს</li>
-<li>სისავსე მისი.</li>
-<li>მივატოვებ ნაპირს,</li>
-<li>ღრმად ჩავეშვები</li>
-<li>მის ძლიერ ძალაში,</li>
-<li>მე გადავრჩები.</li>
-<li class="chorus chorus-top">თავი მივუძღვენი</li>
-<li class="chorus">ყველაფრის უფალს,</li>
-<li class="chorus">მსურს მისი სისავსე,</li>
-<li class="chorus chorus-bottom">ვპასუხობ მის ხმას.</li>
+<li>отдан целиком!</li>
+<li>всё отдам я ради</li>
+<li>полноты Его.</li>
+<li>покидаю берег,</li>
+<li>погружаюсь я</li>
+<li>в глубь той силы Духа,</li>
+<li>что хранит меня.</li>
+<li class="chorus chorus-top">целиком я отдан</li>
+<li class="chorus">господу всего.</li>
+<li class="chorus">он зовёт - стремлюсь я</li>
+<li class="chorus chorus-bottom">к полноте Его.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>სრულად ვარ მიძღვნილი</li>
-<li>წმიდა სულისთვის;</li>
-<li>"მეს" სრულ დაკარგვამდე,</li>
-<li>მასში ვეფლობი.</li>
-<li>ჭურჭელი ვარ მის ფერხთ</li>
-<li>მე ცარიელი;</li>
-<li>დაასრულებს შრომას,</li>
-<li>ავსება მისით.</li>
-<li class="chorus chorus-top">თავი მივუძღვენი</li>
-<li class="chorus">ყველაფრის უფალს,</li>
-<li class="chorus">მსურს მისი სისავსე,</li>
-<li class="chorus chorus-bottom">ვპასუხობ მის ხმას.</li>
+<li>я Святому Духу</li>
+<li>отдан целиком!</li>
+<li>я себя теряю,</li>
+<li>утопая в Нём.</li>
+<li>жду, когда разбитый</li>
+<li>и пустой сосуд</li>
+<li>он Собой наполнит,</li>
+<li>завершит Свой труд.</li>
+<li class="chorus chorus-top">целиком я отдан</li>
+<li class="chorus">господу всего.</li>
+<li class="chorus">он зовёт - стремлюсь я</li>
+<li class="chorus chorus-bottom">к полноте Его.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>სრულად ვარ მიძღვნილი,</li>
-<li>ღმერთის ნებისთვის;</li>
-<li>ბატონის ნაბიჯებს</li>
-<li>მე კვლავ მივყვები.</li>
-<li>მე ჩემს უფალს ვირჩევ,</li>
-<li>გართობის ნაცვლად;</li>
-<li>ველოდები მის ხმას,</li>
-<li>წინამძღოლობას.</li>
-<li class="chorus chorus-top">თავი მივუძღვენი</li>
-<li class="chorus">ყველაფრის უფალს,</li>
-<li class="chorus">მსურს მისი სისავსე,</li>
-<li class="chorus chorus-bottom">ვპასუხობ მის ხმას.</li>
+<li>воле Божьей отдан</li>
+<li>целиком, во всём.</li>
+<li>где прошёл Господь мой,</li>
+<li>тем иду путём.</li>
+<li>вместо удовольствий</li>
+<li>выбор мой - Господь.</li>
+<li>слушаю Его я -</li>
+<li>пусть меня ведёт.</li>
+<li class="chorus chorus-top">целиком я отдан</li>
+<li class="chorus">господу всего.</li>
+<li class="chorus">он зовёт - стремлюсь я</li>
+<li class="chorus chorus-bottom">к полноте Его.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>მიძღვნილი ვარ სრულად,</li>
-<li>მარადიულად;</li>
-<li>არ ვირჩევ ჩემს ნებას,</li>
-<li>არამედ მისას;</li>
-<li>ჩემი სურვილები,</li>
-<li>მისთვის გადავდე;</li>
-<li>რადგან ყველაფერი</li>
-<li>მასში ვიპოვე.</li>
-<li class="chorus chorus-top">თავი მივუძღვენი</li>
-<li class="chorus">ყველაფრის უფალს,</li>
-<li class="chorus">მსურს მისი სისავსე,</li>
-<li class="chorus chorus-bottom">ვპასუხობ მის ხმას.</li>
+<li>полностью я отдан,</li>
+<li>навсегда Ему!</li>
+<li>выбираю волю</li>
+<li>божью, не свою.</li>
+<li>все свои стремленья</li>
+<li>в ней я потерял;</li>
+<li>нищий я, но всем в Нём</li>
+<li>обладаю я.</li>
+<li class="chorus chorus-top">целиком я отдан</li>
+<li class="chorus">господу всего.</li>
+<li class="chorus">он зовёт - стремлюсь я</li>
+<li class="chorus chorus-bottom">к полноте Его.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>მიძღვნილი ვარ სრულად!</li>
-<li>მის სიყვარულში</li>
-<li>ვარ თავისუფალი,</li>
-<li>დატყვევებული.</li>
-<li>აღარ ვარ ტყვე ცოდვის,</li>
-<li>შიშის და ეჭვის,</li>
-<li>დარდისგან, შფოთვისგან</li>
-<li>გავთავისუფლდი.</li>
-<li class="chorus chorus-top">თავი მივუძღვენი</li>
-<li class="chorus">ყველაფრის უფალს,</li>
-<li class="chorus">მსურს მისი სისავსე,</li>
-<li class="chorus chorus-bottom">ვპასუხობ მის ხმას.</li>
+<li>полностью я отдан!</li>
+<li>он пленил меня,</li>
+<li>но в любовных узах</li>
+<li>так свободен я!</li>
+<li>от греха свободен,</li>
+<li>страха и невзгод,</li>
+<li>от тревог, сомнений,</li>
+<li>горя и забот.</li>
+<li class="chorus chorus-top">целиком я отдан</li>
+<li class="chorus">господу всего.</li>
+<li class="chorus">он зовёт - стремлюсь я</li>
+<li class="chorus chorus-bottom">к полноте Его.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>მიძღვნილი ვარ სრულად!</li>
-<li>ძლიერ ტკბილია,</li>
-<li>მის თანდასწრებაში</li>
-<li>ო, მის ფერხთ ყოფნა.</li>
-<li>აქ მე ველოდები,</li>
-<li>სულით ავსებას;</li>
-<li>მთელ ჩემს არსებას ის</li>
-<li>სრულად გაწმინდავს.</li>
-<li class="chorus chorus-top">თავი მივუძღვენი</li>
-<li class="chorus">ყველაფრის უფალს,</li>
-<li class="chorus">მსურს მისი სისავსე,</li>
-<li class="chorus chorus-bottom">ვპასუხობ მის ხმას.</li>
+<li>полностью я отдан!</li>
+<li>весь я для Него!</li>
+<li>в сладостном покое</li>
+<li>жду у ног Его.</li>
+<li>жду, когда наполнит</li>
+<li>мой Господь меня</li>
+<li>и внутри очищен</li>
+<li>весь Им буду я.</li>
+<li class="chorus chorus-top">целиком я отдан</li>
+<li class="chorus">господу всего.</li>
+<li class="chorus">он зовёт - стремлюсь я</li>
+<li class="chorus chorus-bottom">к полноте Его.</li>
 </ul>
 </section>
 <section>
 <span class="number">7.</span>
 <ul>
-<li>მის თანდასწრებაში</li>
-<li>ო, მავსებს სული!</li>
-<li>მე მასში ვარ სრული</li>
-<li>და კურთხეული.</li>
-<li>არასდროს ჩაქრება</li>
-<li>სინათლე ჩემში,</li>
-<li>სანამ მას ვეკუთვნი,</li>
-<li>ვიცხოვრებ მისთვის.</li>
-<li class="chorus chorus-top">თავი მივუძღვენი</li>
-<li class="chorus">ყველაფრის უფალს,</li>
-<li class="chorus">მსურს მისი სისავსე,</li>
-<li class="chorus chorus-bottom">ვპასუხობ მის ხმას.</li>
+<li>о, Господь так близок</li>
+<li>в Духе для меня!</li>
+<li>в Нём я совершенен!</li>
+<li>и блажен в Нём я!</li>
+<li>впредь не потускнеет</li>
+<li>свет внутри меня.</li>
+<li>для Него лишь буду</li>
+<li>жить отныне я!</li>
+<li class="chorus chorus-top">целиком я отдан</li>
+<li class="chorus">господу всего.</li>
+<li class="chorus">он зовёт - стремлюсь я</li>
+<li class="chorus chorus-bottom">к полноте Его.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "იესოს ვუძღვნი ყველაფერს,"),
-    num: (num = 311),
+    title: (title = "Всё Иисусу отдаю я,"),
+    num: (num = 233),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14827,73 +14827,73 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>თავისუფლად გადავცემ;</li>
-<li>მის თანდასრებაში ვცხოვრობ,</li>
-<li>მიყვარს, ვენდობი ძლიერ.</li>
-<li class="chorus chorus-top">ო, სულ ყველაფერს,</li>
-<li class="chorus">მე გადმოგცემ შენ!</li>
-<li class="chorus">ჩემო კურთხეულო მხსნელო,</li>
-<li class="chorus chorus-bottom">გაძლევ ყველაფერს!</li>
+<li>весь Ему принадлежу;</li>
+<li>с упованьем и любовью</li>
+<li>пред лицом Его хожу.</li>
+<li class="chorus chorus-top">всё я отдаю,</li>
+<li class="chorus">всё я отдаю,</li>
+<li class="chorus">о, Тебе, мой Искупитель,</li>
+<li class="chorus chorus-bottom">всё я отдаю.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>იესოს ვუძღვნი ყველაფერს,</li>
-<li>მის ფერხთ ვარ, თავს ვიმდაბლებ;</li>
-<li>ქვეყნიურ ტკბობებს ვივიწყებ,</li>
-<li>იესო, ამიტაცე!</li>
-<li class="chorus chorus-top">ო, სულ ყველაფერს,</li>
-<li class="chorus">მე გადმოგცემ შენ!</li>
-<li class="chorus">ჩემო კურთხეულო მხსნელო,</li>
-<li class="chorus chorus-bottom">გაძლევ ყველაფერს!</li>
+<li>всё Иисусу отдаю я</li>
+<li>и смиренно преклонюсь,</li>
+<li>всё мирское я оставлю;</li>
+<li>о, возьми меня, Иисус!</li>
+<li class="chorus chorus-top">всё я отдаю,</li>
+<li class="chorus">всё я отдаю,</li>
+<li class="chorus">о, Тебе, мой Искупитель,</li>
+<li class="chorus chorus-bottom">всё я отдаю.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>იესოს ვუძღვნი ყველაფერს,</li>
-<li>სრულად გამხადე შენი;</li>
-<li>დაე, ვიგრძნო წმიდა სული,</li>
-<li>ვიცოდე, რომ ხარ ჩემი.</li>
-<li class="chorus chorus-top">ო, სულ ყველაფერს,</li>
-<li class="chorus">მე გადმოგცემ შენ!</li>
-<li class="chorus">ჩემო კურთხეულო მხსნელო,</li>
-<li class="chorus chorus-bottom">გაძლევ ყველაფერს!</li>
+<li>о Иисус, всё отдаю я;</li>
+<li>буду полностью Твоим.</li>
+<li>духом Ты меня наполни.</li>
+<li>о Спаситель, будь моим!</li>
+<li class="chorus chorus-top">всё я отдаю,</li>
+<li class="chorus">всё я отдаю,</li>
+<li class="chorus">о, Тебе, мой Искупитель,</li>
+<li class="chorus chorus-bottom">всё я отдаю.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>იესოს ვუძღვნი ყველაფერს,</li>
-<li>უფალო, ჩემს თავს გაძლევ;</li>
-<li>შენი სიყვარული, ძალა</li>
-<li>კურთხევად გადმომღვარე;</li>
-<li class="chorus chorus-top">ო, სულ ყველაფერს,</li>
-<li class="chorus">მე გადმოგცემ შენ!</li>
-<li class="chorus">ჩემო კურთხეულო მხსნელო,</li>
-<li class="chorus chorus-bottom">გაძლევ ყველაფერს!</li>
+<li>о Иисус, всё отдаю я,</li>
+<li>сам себя я отдаю.</li>
+<li>дай мне как благословенье</li>
+<li>силу и любовь Свою.</li>
+<li class="chorus chorus-top">всё я отдаю,</li>
+<li class="chorus">всё я отдаю,</li>
+<li class="chorus">о, Тебе, мой Искупитель,</li>
+<li class="chorus chorus-bottom">всё я отдаю.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>იესოს ვუძღვნი ყველაფერს,</li>
-<li>ახლა, მე ვგრძნობ წმიდა ცეცხლს;</li>
-<li>ის - სრული გადარჩენაა!</li>
-<li>დიდება უფლის სახელს!</li>
-<li class="chorus chorus-top">ო, სულ ყველაფერს,</li>
-<li class="chorus">მე გადმოგცემ შენ!</li>
-<li class="chorus">ჩემო კურთხეულო მხსნელო,</li>
-<li class="chorus chorus-bottom">გაძლევ ყველაფერს!</li>
+<li>всё Иисусу отдаю я,</li>
+<li>не оставлю ничего.</li>
+<li>он - мне полное спасенье!</li>
+<li>слава имени Его!</li>
+<li class="chorus chorus-top">всё я отдаю,</li>
+<li class="chorus">всё я отдаю,</li>
+<li class="chorus">о, Тебе, мой Искупитель,</li>
+<li class="chorus chorus-bottom">всё я отдаю.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ყველაფერი იესოსთვის!"),
-    num: (num = 312),
+    title: (title = "Всё отдам я Иисусу!"),
+    num: (num = 234),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14901,73 +14901,73 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>მან მე გამომისყიდა;</li>
-<li>მისთვისაა ჩემი ყველა</li>
-<li>დღე, ფიქრი, საქმე, სიტყვა.</li>
-<li>ყველაფერი იესოსთვის!</li>
-<li>მისთვის ყველა დღე, წუთი;</li>
-<li>ყველაფერი იესოსთვის!</li>
-<li>მისთვის ყველა დღე, წუთი.</li>
+<li>ведь меня Он искупил;</li>
+<li>все слова, дела и мысли,</li>
+<li>все часы и дни мои.</li>
+<li>всё отдам я Иисусу,</li>
+<li>все часы и дни мои.</li>
+<li>всё отдам я Иисусу,</li>
+<li>все часы и дни мои.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>შენს გზას გავყვე, ჩემმა ხელმა</li>
-<li>კი ჰქმნას შენი ბრძანება;</li>
-<li>თვალით მხოლოდ შენ გხედავდე,</li>
-<li>ბაგით ვამბობდე ქებას.</li>
-<li>ყველაფერი იესოსთვის!</li>
-<li>ბაგე ამბობს მის ქებას;</li>
-<li>ყველაფერი იესოსთვის!</li>
-<li>ბაგე ამბობს მის ქებას.</li>
+<li>руки пусть Иисусу служат;</li>
+<li>ноги пусть за Ним идут;</li>
+<li>пусть глаза Его лишь видят,</li>
+<li>а уста Ему поют.</li>
+<li>всё отдам я Иисусу!</li>
+<li>пусть уста Ему поют.</li>
+<li>всё отдам я Иисусу!</li>
+<li>пусть уста Ему поют.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>არ ვენდობი წუთისოფლის,</li>
-<li>სილამაზეს და ჯილდოს;</li>
-<li>არც სიმდიდრეს, მისით ტკბობას;</li>
-<li>მე ვეყრდნობი იესოს!</li>
-<li>ყველაფერი იესოსთვის!</li>
-<li>მე მხოლოდ მას ვენდობი;</li>
-<li>ყველაფერი იესოსთვის!</li>
-<li>მე მხოლოდ მას ვენდობი.</li>
+<li>жаждут в мире лишь сокровищ,</li>
+<li>золочёный прах ценя;</li>
+<li>славой хвалятся, богатством -</li>
+<li>лишь Иисусу вверюсь я.</li>
+<li>всё отдам я Иисусу!</li>
+<li>лишь Иисусу вверюсь я.</li>
+<li>всё отдам я Иисусу!</li>
+<li>лишь Иисусу вверюсь я.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>მე სხვას ვეღარაფერს ვხედავ,</li>
-<li>რადგან იესოს ვუცქერ;</li>
-<li>ჩემი სულის ხედვა არის</li>
-<li>იესო, ისიც ჯვარზე.</li>
-<li>ყველაფერი იესოსთვის!</li>
-<li>მე შევყურებ მას ჯვარცმულს;</li>
-<li>ყველაფერი იესოსთვის!</li>
-<li>მე შევყურებ მას ჯვარცმულს.</li>
+<li>я увидел Иисуса,</li>
+<li>и ослеп я для всего -</li>
+<li>в духе виденьем пленённый,</li>
+<li>я смотрю на крест Его.</li>
+<li>всё отдам я Иисусу!</li>
+<li>я смотрю на крест Его.</li>
+<li>всё отдам я Иисусу!</li>
+<li>я смотрю на крест Его.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ო, რა მშვენიერი არის,</li>
-<li>იესო, მეფეთ მეფემ</li>
-<li>გამხადა თავისი სატრფო;</li>
-<li>მე ვისვენებ მის ფრთებ ქვეშ.</li>
-<li>ყველაფერი იესოსთვის!</li>
-<li>მე ვისვენებ მის ფრთებ ქვეშ;</li>
-<li>ყველაფერი იესოსთვის!</li>
-<li>მე ვისვენებ მის ფრთებ ქვეშ.</li>
+<li>славлю чудного Иисуса,</li>
+<li>величайшего Царя:</li>
+<li>он любовь Свою явил мне,</li>
+<li>под крылом сокрыл меня.</li>
+<li>всё отдам я Иисусу!</li>
+<li>в Нём теперь покоюсь я.</li>
+<li>всё отдам я Иисусу!</li>
+<li>в Нём теперь покоюсь я.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "გიძღვნი ჩემს სიცოცხლეს შენ,"),
-    num: (num = 313),
+    title: (title = "Жизнь возьми, Господь! Дай мне"),
+    num: (num = 235),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14975,60 +14975,60 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>უფალო, გთხოვ აიღე;</li>
-<li>შენია ჩემი დღენი,</li>
-<li>სავსე უწყვეტი ქებით,</li>
-<li>სავსე უწყვეტი ქებით.</li>
+<li>посвятить её Тебе;</li>
+<li>дни мои возьми, чтоб я</li>
+<li>славил каждый миг Тебя,</li>
+<li>славил каждый миг Тебя.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ხელებმა იმოქმედონ,</li>
-<li>შენს სიყვარულს დაეყრდნონ;</li>
-<li>ფეხები იყვნენ შენთვის</li>
-<li>მარდი და მშვენიერი,</li>
-<li>მარდი და მშვენიერი.</li>
+<li>возьми руки, пусть они</li>
+<li>всё творят в Твоей любви.</li>
+<li>возьми ноги, должно им</li>
+<li>по стезям ходить Твоим,</li>
+<li>по стезям ходить Твоим.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ჩემი ხმა მიიძღვენი,</li>
-<li>იმღეროს მეფისათვის;</li>
-<li>ჩემი ბაგე გახადე</li>
-<li>შენი სიტყვებით სავსე,</li>
-<li>შენი სიტყვებით სავსე.</li>
+<li>возьми голос, чтобы я</li>
+<li>пел, мой Царь, лишь для Тебя.</li>
+<li>пусть всегда уста мои</li>
+<li>будут слов Твоих полны,</li>
+<li>будут слов Твоих полны.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>გაძლევ ჩემს ოქროს და ვერცხლს,</li>
-<li>მცირედსაც არ ვიტოვებ;</li>
-<li>ჩემს ჭკუას გიძღვნი, რომ შენ</li>
-<li>როგორც გსურს იყენებდე,</li>
-<li>როგორც გსურს იყენებდე.</li>
+<li>золото и серебро</li>
+<li>всё возьми Себе моё;</li>
+<li>ум, способности мои</li>
+<li>для Себя употреби,</li>
+<li>для Себя употреби.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ჩემი ნება აიღე,</li>
-<li>სრულად შენი გახადე;</li>
-<li>აიღე ჩემი გული -</li>
-<li>შენი სამეფო ტახტი,</li>
-<li>შენი სამეფო ტახტი.</li>
+<li>возьми волю - вся она</li>
+<li>лишь Твоею быть должна;</li>
+<li>возьми сердце и устрой</li>
+<li>в нём престол Ты царский Свой,</li>
+<li>в нём престол Ты царский Свой.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>ო, ჩემი სიყვარული</li>
-<li>შენს ფერხთ გადმოგიღვარე.</li>
-<li>მთლიანად მიმიძღვენი,</li>
-<li>მარად და მხოლოდ შენთვის,</li>
-<li>მარად და მხოლოდ შენთვის.</li>
+<li>все сокровища любви</li>
+<li>изолью у ног Твоих.</li>
+<li>о, возьми всего меня!</li>
+<li>навсегда, навек Твой я,</li>
+<li>навсегда, навек Твой я.</li>
 </ul>
 </section>
 </main>
