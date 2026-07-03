@@ -16307,8 +16307,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "უფალო, როცა იყავი"),
-    num: (num = 338),
+    title: (title = "будем Господу петь в нашем духе,"),
+    num: (num = 256),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16316,1014 +16316,345 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>მიწაზე შენების გვერდით,</li>
-<li>თუმცა გიცნობდა შენ ყველა,</li>
-<li>მაგრამ იყავ იდუმალი.</li>
+<li>будем петь мы Ему из глубин,</li>
+<li>будем петь: «Аллилуйя!» Иисусу</li>
+<li>и сольёмся в единстве мы с Ним.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>შენი ესმოდათ, შენს ლამაზ</li>
-<li>ნაკვთებს ხედავდა სუყველა;</li>
-<li>თუმც მუდამ გარს გეხვეოდნენ,</li>
-<li>არ იცოდნენ ის, თუ ვინ ხარ.</li>
+<li>много лет мы в религии были,</li>
+<li>много в разуме лет проведя,</li>
+<li>много лет в наших чувствах блуждали,</li>
+<li>то, что нужно нам, не находя.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ჩვენც მათსავით ფარდა გვადევს;</li>
-<li>დიდი ხანია გიცნობთ შენ;</li>
-<li>მაგრამ ამ ჩვენს ცოდნას ძლიერ</li>
-<li>აკლია ნამდვილი სიღრმე.</li>
+<li>ныне учимся в дух обращаться</li>
+<li>и Христа в нас как жизнь принимать;</li>
+<li>ныне учимся Им насыщаться</li>
+<li>и пустую борьбу оставлять.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>აკლია ნამდვილი სიღრმე.</li>
-<li>გახდი ნუგეშისმცემელი;</li>
-<li>რადგან შენი ტაძარი ვარ,</li>
-<li>ჩემს გულს გაუხსენი თავი.</li>
+<li>аллилуйя за жизнь, что есть в Духе,</li>
+<li>аллилуйя за свежесть внутри.</li>
+<li>обращаясь от разума к духу,</li>
+<li>всё богатство Его мы вкусим.</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "иисус Господь - Дух жизни,"),
+    num: (num = 257),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>так реален Он;</li>
+<li>мы, призвав Его, находим</li>
+<li>наслажденье в Нём.</li>
+<li class="chorus chorus-top">иисус Господь - Дух жизни.</li>
+<li class="chorus">это славный факт!</li>
+<li class="chorus">он для призывающих Его</li>
+<li class="chorus chorus-bottom">всегда богат.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>он, давая нам свободу,</li>
+<li>в нас живёт сейчас;</li>
+<li>знаем мы, Его вкушая,</li>
+<li>как Он благ для нас.</li>
+<li class="chorus chorus-top">иисус Господь - Дух жизни.</li>
+<li class="chorus">это славный факт!</li>
+<li class="chorus">он для призывающих Его</li>
+<li class="chorus chorus-bottom">всегда богат.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>иисус Господь - Дух жизни.</li>
+<li>слово жизни Он;</li>
+<li>через чтение с молитвой</li>
+<li>в дух наш входит Он.</li>
+<li class="chorus chorus-top">иисус Господь - Дух жизни.</li>
+<li class="chorus">это славный факт!</li>
+<li class="chorus">он для призывающих Его</li>
+<li class="chorus chorus-bottom">всегда богат.</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>иисус Господь - Дух жизни.</li>
+<li>он течёт средь нас,</li>
+<li>и общенье жизни в духе</li>
+<li>нам единство даст.</li>
+<li class="chorus chorus-top">иисус Господь - Дух жизни.</li>
+<li class="chorus">это славный факт!</li>
+<li class="chorus">он для призывающих Его</li>
+<li class="chorus chorus-bottom">всегда богат.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ო, შენი ნეტარი სულით,</li>
-<li>ამივსე მე სამშვინველი;</li>
-<li>მასწავლე და განმაახლე,</li>
-<li>შთამიგონე ნაწილები.</li>
+<li>иисус Господь - Дух жизни.</li>
+<li>пир обильный нам;</li>
+<li>в Теле нам Он наслажденье,</li>
+<li>нет конца хвалам.</li>
+<li class="chorus chorus-top">иисус Господь - Дух жизни.</li>
+<li class="chorus">это славный факт!</li>
+<li class="chorus">он для призывающих Его</li>
+<li class="chorus chorus-bottom">всегда богат.</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "вот моя чудная повесть -"),
+    num: (num = 258),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>в сердце Христос моём;</li>
+<li>сам Иисус, Царь славы,</li>
+<li>дом обретает в нём.</li>
+<li class="chorus chorus-top">сам Христос, Сам Христос,</li>
+<li class="chorus">сам Христос во мне обитает;</li>
+<li class="chorus">он во мне, Он во мне,</li>
+<li class="chorus chorus-bottom">сам Христос, надежда славы.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>был ли когда-нибудь кто-то,</li>
+<li>кто б так, любя, страдал?</li>
+<li>был ли Жених, столь желанный,</li>
+<li>кто бы нас так искал?</li>
+<li class="chorus chorus-top">сам Христос, Сам Христос,</li>
+<li class="chorus">сам Христос во мне обитает;</li>
+<li class="chorus">он во мне, Он во мне,</li>
+<li class="chorus chorus-bottom">сам Христос, надежда славы.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>счастлив, что принял Его я,</li>
+<li>царь мой теперь Иисус;</li>
+<li>прежде Его огорчавший,</li>
+<li>всё отдаю Ему.</li>
+<li class="chorus chorus-top">сам Христос, Сам Христос,</li>
+<li class="chorus">сам Христос во мне обитает;</li>
+<li class="chorus">он во мне, Он во мне,</li>
+<li class="chorus chorus-bottom">сам Христос, надежда славы.</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>разве останусь один я?</li>
+<li>разве могу упасть?</li>
+<li>ведь мой Христос - всё во всём мне,</li>
+<li>есть ли блаженней часть?</li>
+<li class="chorus chorus-top">сам Христос, Сам Христос,</li>
+<li class="chorus">сам Христос во мне обитает;</li>
+<li class="chorus">он во мне, Он во мне,</li>
+<li class="chorus chorus-bottom">сам Христос, надежда славы.</li>
+</ul>
+</section>
+<section>
+<span class="number">5.</span>
+<ul>
+<li>ныне сокрыт в Его лоне,</li>
+<li>сердце моё поёт;</li>
+<li>я во Христе пребываю,</li>
+<li>и Он во мне живёт.</li>
+<li class="chorus chorus-top">сам Христос, Сам Христос,</li>
+<li class="chorus">сам Христос во мне обитает;</li>
+<li class="chorus">он во мне, Он во мне,</li>
+<li class="chorus chorus-bottom">сам Христос, надежда славы.</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "о, что за жизнь! О, что за мир!"),
+    num: (num = 259),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>что за Христос во мне живёт!</li>
+<li>с Ним я распят - вот славный факт!</li>
+<li>познать мне это Он даёт.</li>
+<li>теперь уже не я живу -</li>
+<li>христос, Господь, во мне живёт.</li>
+<li>теперь уже не я живу -</li>
+<li>христос, Господь, во мне живёт.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>о, что за радость и покой!</li>
+<li>он образуется во мне.</li>
+<li>божью природу, Божью жизнь</li>
+<li>в меня внедряет Он теперь.</li>
+<li>всё, что я есть, к концу пришло,</li>
+<li>и для меня Христос есть всё.</li>
+<li>всё, что я есть, к концу пришло,</li>
+<li>и для меня Христос есть всё.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>о, что за мысль и похвала!</li>
+<li>он возвеличится во мне.</li>
+<li>ни в чём не буду посрамлён,</li>
+<li>во всём Он будет применён.</li>
+<li>чрез скорбь и благо, жизнь и смерть</li>
+<li>христос проявится во мне.</li>
+<li>чрез скорбь и благо, жизнь и смерть</li>
+<li>христос проявится во мне.</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>что за награда ждёт меня!</li>
+<li>христос - одна лишь цель моя.</li>
+<li>здесь мне не дорого ничто -</li>
+<li>лишь всеобъемлющий Христос.</li>
+<li>надежда, слава и венец -</li>
+<li>христос, кому подобных нет.</li>
+<li>надежда, слава и венец -</li>
+<li>христос, кому подобных нет.</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "мой славный Спаситель Христос,"),
+    num: (num = 260),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>божественный свет Ты принёс.</li>
+<li>бог бесконечный в вечности,</li>
+<li>ты смертным стал во времени.</li>
+<li class="chorus chorus-top">о! Христос, в ком явлен Великий Бог,</li>
+<li class="chorus">бесконечно богат и свеж!</li>
+<li class="chorus">бог, слитый с человечеством,</li>
+<li class="chorus chorus-bottom">став всем мне, живёт во мне.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>в Тебе полнота Божества,</li>
+<li>являешь Ты славу Отца;</li>
+<li>ты в плоти - Искупитель мой,</li>
+<li>как Дух - единым стал со мной.</li>
+<li class="chorus chorus-top">о! Христос, в ком явлен Великий Бог,</li>
+<li class="chorus">бесконечно богат и свеж!</li>
+<li class="chorus">бог, слитый с человечеством,</li>
+<li class="chorus chorus-bottom">став всем мне, живёт во мне.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>всё то, что Отцово, - Твоё,</li>
+<li>всё, что Ты есть, в Духе моё;</li>
+<li>ты в Духе мне так близок стал,</li>
+<li>чтоб я Твоимебя переживал.</li>
+<li class="chorus chorus-top">о! Христос, в ком явлен Великий Бог,</li>
+<li class="chorus">бесконечно богат и свеж!</li>
+<li class="chorus">бог, слитый с человечеством,</li>
+<li class="chorus chorus-bottom">став всем мне, живёт во мне.</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>дух жизни мне передаёт</li>
+<li>тебя через Слово Твоё.</li>
+<li>лишь Духа в Слове принял я,</li>
+<li>во мне родилась жизнь Твоимебявоя.</li>
+<li class="chorus chorus-top">о! Христос, в ком явлен Великий Бог,</li>
+<li class="chorus">бесконечно богат и свеж!</li>
+<li class="chorus">бог, слитый с человечеством,</li>
+<li class="chorus chorus-bottom">став всем мне, живёт во мне.</li>
+</ul>
+</section>
+<section>
+<span class="number">5.</span>
+<ul>
+<li>я, в духе смотря на Тебя</li>
+<li>и славу Твою отражая,</li>
+<li>преобразуюсь так в Тебя,</li>
+<li>чтоб Ты был явлен чрез меня.</li>
+<li class="chorus chorus-top">о! Христос, в ком явлен Великий Бог,</li>
+<li class="chorus">бесконечно богат и свеж!</li>
+<li class="chorus">бог, слитый с человечеством,</li>
+<li class="chorus chorus-bottom">став всем мне, живёт во мне.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>კვლავ აცხადებს სული შენი</li>
-<li>შენს თავს მეტად ამ ჩემს გულში,</li>
-<li>ჩემს ნანახზე, გაგონილზე</li>
-<li>მეტად შენა ხარ ნამდვილი.</li>
+<li>лишь так к освященью придём,</li>
+<li>победу в Тебе обретём;</li>
+<li>и станем так духовными,</li>
+<li>коснёмся жизни славы мы.</li>
+<li class="chorus chorus-top">о! Христос, в ком явлен Великий Бог,</li>
+<li class="chorus">бесконечно богат и свеж!</li>
+<li class="chorus">бог, слитый с человечеством,</li>
+<li class="chorus chorus-bottom">став всем мне, живёт во мне.</li>
 </ul>
 </section>
 <section>
 <span class="number">7.</span>
 <ul>
-<li>როცა ამჟღავნებ წყალობას</li>
-<li>და ვით სული გვაძლევ შენს თავს,</li>
-<li>იმაზე მეტად ნამდვილი</li>
-<li>რა არის, ვინც შენ ჩვენთვის ხარ?</li>
-</ul>
-</section>
-<section>
-<span class="number">8.</span>
-<ul>
-<li>ვლოცულობ, რომ შენმა სულმა</li>
-<li>წალეკოს ჩემი არსება,</li>
-<li>ღმერთის დიდებამ აავსოს</li>
-<li>ჩემი ნაწილები - ყველა.</li>
-</ul>
-</section>
-<section>
-<span class="number">9.</span>
-<ul>
-<li>ამ სიცოცხლში ერთი ვართ,</li>
-<li>ერთია ზეცა და მიწა;</li>
-<li>შენი თანდასწრება გვავსებს,</li>
-<li>ჩვენი გული გიძღვნის ქებას.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "უფალო, უცნობი მამა"),
-    num: (num = 339),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>მიწაზე შენში მოვიდა,</li>
-<li>რათა, უმეცრებაში მყოფთ,</li>
-<li>ჩვენ შენში გაგვეცნო მამა.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>როცა მიწაზე იყავი,</li>
-<li>უფალო, შენ ცოტა გცნობდა;</li>
-<li>ბრბო თან გსდევდა, ფარდის მიღმა</li>
-<li>ვერავინ ვერ გიყურებდა.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ახლა ვით სული მოხვედი,</li>
-<li>თვით მამა მოვიდა შენში;</li>
-<li>როგორც შენში ვიცნობთ მამას,</li>
-<li>ისე შეგიცანით სულით.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ხორცით აღარ ხარ მოსილი,</li>
-<li>ეს შრომა შენ დაასრულე;</li>
-<li>როგორც სული ახლა ჩვენს გულს</li>
-<li>შენს შეწევნას უხვად აძლევ.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>უფალო, მამა გიწოდეს,</li>
-<li>ახლა კი წმიდა სული ხარ;</li>
-<li>სული შენი სხვა სახეა,</li>
-<li>ჩვენს გულში დასამკვიდრებლად.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>უფალო, როცა გცნობთ ვით სულს,</li>
-<li>შენი სიცოცხლის დენას ვგრძნობთ,</li>
-<li>შენს დიდებას, შენს ხასიათს,</li>
-<li>შენს საოცრებებს შევიცნობთ.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>გული შენს სახელს ადიდებს;</li>
-<li>შენსავ ძვირფასი ვინ არის;</li>
-<li>ვიცით, თუ რა ნამდვილი ხარ</li>
-<li>შენი სადარი არ არის.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "უფალო, შენ იცოდი, რომ"),
-    num: (num = 340),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ხორცში შეგიცნობდი მცირედ;</li>
-<li>შემდეგ სული გახდი, მოხვედ</li>
-<li>ჩემს სულში, რომ შეგიცნობდე.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ხორცში შენ მხსნელი ხარ ჩემთვის,</li>
-<li>სული - ნუგეშისმცემელი.</li>
-<li>შეწყდა ხილული კავშირი,</li>
-<li>გაძლიერდა შინაგანი.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>განუწყვეტლივ მევლინები,</li>
-<li>რადგან შენ ახლა ხარ სული;</li>
-<li>სინამდვილეს, თანდასწრებას</li>
-<li>შენსას შევიცნობ ჩემს სულში.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>შენი სიცოცხლე ჭარბობს იმ</li>
-<li>ცოდნას , რაც მოწაფეთ ჰქონდათ;</li>
-<li>თუმც ცხოვრობდნენ შენთან ერთად,</li>
-<li>მაინც დაფარული იყავ.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>შენი სული მკვიდობს ჩემში,</li>
-<li>ო, ძალზედ რეალური ხარ!</li>
-<li>ვერ გეხები, თუმც გენდობი,</li>
-<li>ვერ გხედავ, ძლიერ მიყვარხარ!</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>წმიდა სულით შენ ხარ ჩემში,</li>
-<li>როგორც სამართლიანობა,</li>
-<li>სიწმიდე, გამოსყიდვა და</li>
-<li>სიბრძნე, ნაყოფიერება.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>შენი სული ჩემს სულშია,</li>
-<li>მამარაგებს, გვაკავშირებს,</li>
-<li>თუმცა ყოველთვის მე ვარ მე,</li>
-<li>მაინც მუდმივად მე ვარ შენ.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "უფალო, მშვიდობა ჰპოვე"),
-    num: (num = 341),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>შენს სამუშაოში ჯვარზე;</li>
-<li>დღესაც აგრძელებ შრომაც, თუმც</li>
-<li>სხვა ფორმით გვევლინები ჩვენ.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>შენ კვლავ გვაჩვენებ ხსნის ძალას,</li>
-<li>ლაპარაკობ, გვაცისკროვნებ;</li>
-<li>შენ და სული ერთ ნაკადში</li>
-<li>სხვა მრავალს სიცოცხლით ავსებ.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მასში გაქვს უსაზღვრო ძალა,</li>
-<li>მისით მუშაობას არ წყვეტ;</li>
-<li>ნუგეშს გვცემ, წინ მიგვიძღვები,</li>
-<li>გვამხნევებ და გვაძლიერებ.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>სულის მოსვლით შენ მოხვედი,</li>
-<li>რადგან ერთი ხარ ამ სულთან,</li>
-<li>შენ სული გახდი, ამგვარად</li>
-<li>ჩვენში დამკვიდრებული ხარ.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ის აღასრულებს ჩემს გულში,</li>
-<li>შენს ყველა სურვილს, მოთხოვნას,</li>
-<li>როგორც შენ ასრულებდი სულ</li>
-<li>მამის ბრძანებებს ამ ქვეყნად.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>სულის შეცნობით, შენ გიცნობთ,</li>
-<li>შენ გმორჩილებთ, მას რომ ვუსმენთ;</li>
-<li>ნებას ვრთავთ აგვავსოს, ასე</li>
-<li>სრულად შენით ვივსებით ჩვენ.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>ჩვენგან შორს არ ხარ, ზეცაში,</li>
-<li>მარტო კი არ დაგვტოვე აქ;</li>
-<li>შენ ისევ მიწაზე ხარ და</li>
-<li>ჩვენი გული გაქვს შენს სახლად.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ვუმღეროთ უფალს დიდება სულში,"),
-    num: (num = 342),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ვუმღეროთ ჩვენი არსებიდან,</li>
-<li>ვუმღეროთ "ალილუია იესოს!"</li>
-<li>და გავხდებით ერთნი ჩვენ მასთან.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>წლები დავკარგეთ რელიგიაში,</li>
-<li>წლები გონებაში ვატარეთ,</li>
-<li>წლები გავატარეთ ჩვენს გრძნობებში,</li>
-<li>რასაც ვეძებდით ვერ ვიპოვეთ.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ახლა ვსწავლობთ, შემოვბრუნდეთ სულში,</li>
-<li>მივიღოთ ქრისტე ჩვენს სიცოცხლედ.</li>
-<li>ახლა ვსწავლობთ, ვიკვებოთ ქრისტეთი,</li>
-<li>ამაო ბრძოლებს მივატოვებთ.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>аллилуйя! სიცოცხლეს მის სულში,</li>
-<li>аллилуйя! შიგნით სიახლეს;</li>
-<li>გონებას როცა მივმართავთ სულზე,</li>
-<li>ვეზიარებით მის სიცოცხლეს.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "უფალო, ხარ სული ახლა,"),
-    num: (num = 343),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>სიცოცხლეს გვაძლევ, გვაცოცხლებ</li>
-<li>ღვთაებრივი, დიდებული</li>
-<li>უხვი სიმდიდრით გვამაგრებ.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>უფალო, ხარ სული ახლა</li>
-<li>- გამათავისუფლებელი,</li>
-<li>სულის ძალის მოქმედებით,</li>
-<li>გვმართავ სიცოცხლის კანონით</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>უფალო ხარ სული ახლა,</li>
-<li>სულით გარდაგვსახავ და გვჟღენთ,</li>
-<li>შენს სახებას გვამსგავსებ და</li>
-<li>შენი სინათლით ანათებ</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>უფალო, ხარ სული ახლა,</li>
-<li>სამკვიდრებელს იწყობ სულში</li>
-<li>შენი სული ჩემს სულს ერწყმის</li>
-<li>ერთ სულად ვმკვიდრდებით ორი</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>მასწავლე სულის ვარჯიში,</li>
-<li>ახლა სულით, რომ შეგეხო</li>
-<li>შერწყმულ სულში, რომ ვიარო</li>
-<li>და სინამდვილით ვიცხოვრო.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "იესოა რეალობა,"),
-    num: (num = 344),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>სიცოცხლის სული;</li>
-<li>ვტკბებით, როცა მოვუხმობთ მას</li>
-<li>უბრალოებით.</li>
-<li class="chorus chorus-top">იესო-სიცოცხლის სული,</li>
-<li class="chorus">უნდა გაცხადდეს!</li>
-<li class="chorus">მდიდარია ყველასთვის, ვინც</li>
-<li class="chorus chorus-bottom">უხმობს მის სახელს.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ახლა ჩვენში ცხოვრობს, გვაძლევს</li>
-<li>თავისუფლებას;</li>
-<li>ჩვენ ვიგემეთ და ვნახეთ, რომ</li>
-<li>ის მოწყალეა.</li>
-<li class="chorus chorus-top">იესო-სიცოცხლის სული,</li>
-<li class="chorus">უნდა გაცხადდეს!</li>
-<li class="chorus">მდიდარია ყველასთვის, ვინც</li>
-<li class="chorus chorus-bottom">უხმობს მის სახელს.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ის სიცოცხლის სულია და</li>
-<li>ცოცხალი სიტყვა;</li>
-<li>ლოცვა-კითხვით თუ ვეხებით,</li>
-<li>მივიღებთ უფალს.</li>
-<li class="chorus chorus-top">იესო-სიცოცხლის სული,</li>
-<li class="chorus">უნდა გაცხადდეს!</li>
-<li class="chorus">მდიდარია ყველასთვის, ვინც</li>
-<li class="chorus chorus-bottom">უხმობს მის სახელს.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>იესო-ცოცხალი სული,</li>
-<li>ჩვენ შორის მოსჩქეფს;</li>
-<li>სიცოცხლის ურთიერთობით</li>
-<li>სულში გვაერთებს.</li>
-<li class="chorus chorus-top">იესო-სიცოცხლის სული,</li>
-<li class="chorus">უნდა გაცხადდეს!</li>
-<li class="chorus">მდიდარია ყველასთვის, ვინც</li>
-<li class="chorus chorus-bottom">უხმობს მის სახელს.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>იესო - ცოცხალი სული,</li>
-<li>უხვი ნადიმი;</li>
-<li>სხეული ტკბება მისით და</li>
-<li>მას ქებას უძღვნის.</li>
-<li class="chorus chorus-top">იესო-სიცოცხლის სული,</li>
-<li class="chorus">უნდა გაცხადდეს!</li>
-<li class="chorus">მდიდარია ყველასთვის, ვინც</li>
-<li class="chorus chorus-bottom">უხმობს მის სახელს.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ქრისტე - ღმერთის ჭეშმარიტი"),
-    num: (num = 345),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>მოწმობაა არსით, საქმით;</li>
-<li>ღმერთის დიდებას, ბუნებას</li>
-<li>ის ავლენს და ვხედავთ მასში.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ის მეტად ამოწმებს ღმერთზე,</li>
-<li>ვიდრე მოწმობა კანონის,</li>
-<li>რაც ღმერთს მხოლოდ სიტყვით ხსნიდა</li>
-<li>და არა სიცოცხლის ძალით.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ღვთაების მთელი სისავსე</li>
-<li>მასში მკვიდრობს და შეადგენს;</li>
-<li>ღვთის სრული განკაცებაა,</li>
-<li>სახლად იყენებს ამ ჭურჭელს.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>მამა ღმერთს ქრისტე ამჟღავნებს,</li>
-<li>ღვთიურ თვისებებს აჩვენებს;</li>
-<li>მამის გულს და მის ყველა გზას</li>
-<li>მასში ვხედავთ ჩვენ ბოლომდე.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ქრისტე, ვით სული მოვიდა,</li>
-<li>ჩვენს სამარადისო ხვედრად;</li>
-<li>ჩვენს სულში ვაგემოვნებთ მას,</li>
-<li>ღვთის არსს ვიზიარებთ სრულად.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ღვთის ცენტრალურობა და"),
-    num: (num = 346),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>უნივერსალურობა,</li>
-<li>სიხარული და ტკბობა</li>
-<li>- ქრისტე მარადიულად.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ღვთაების სისავსეა</li>
-<li>მასში განკაცებული;</li>
-<li>მის აღმატებულებას,</li>
-<li>თავობას ვერვინ სჯობნის.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ღმერთის ჩანაფიქრია,</li>
-<li>ის იყოს ყველაფერი;</li>
-<li>ყოველი მიწად, ზეცად,</li>
-<li>მისით არის შექმნილი.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ქრისტეს მიერ და მისთვის</li>
-<li>არის მთელი ქმნილება;</li>
-<li>მისით არსებობს ყველა,</li>
-<li>ის ცენტრი და ფერსოა.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>სისხლით გამოსყიდვაში,</li>
-<li>მან ღმერთთან შეარიგა</li>
-<li>ყველა თავისში, ასე</li>
-<li>მშვიდობა მოიტანა.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>დიადი დასაწყისი,</li>
-<li>ეკლესიის თავია;</li>
-<li>მისი სიცოცხლე, არსი;</li>
-<li>პირმშო მკვდართაგანაა.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>მეფედ - ღვთის სამეფოში,</li>
-<li>მას აქვს ძალაუფლება;</li>
-<li>დიდებაში ის მართავს,</li>
-<li>ყველაფერს მიწად, ზეცად.</li>
-</ul>
-</section>
-<section>
-<span class="number">8.</span>
-<ul>
-<li>ახალ ცას და მიწაზე</li>
-<li>მარადიულობაში,</li>
-<li>ის ყველაფრის ცენტრია,</li>
-<li>ღმერთისთვის და კაცისთვის.</li>
-</ul>
-</section>
-<section>
-<span class="number">9.</span>
-<ul>
-<li>ღმერთს სურს, რომ ქრისტეს ჰქონდეს,</li>
-<li>უპირატესობა და</li>
-<li>ასეთი ქრისტე უნდა</li>
-<li>განვიცადოთ ჩვენ ახლა.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ყველაფრის სინამდვილეა ქრისტე:"),
-    num: (num = 347),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ღვთაების, კაცის და დანარჩენის.</li>
-<li>კაცი ვერ პოვებს ღმერთს მის გარეშე,</li>
-<li>უმისოდ ცრუ არის ყველაფერი.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ძველი დროის ყველა წინასახე,</li>
-<li>რაც ჩვენ დაგვჭირდა, მცირე თუ დიდი,</li>
-<li>მხოლოდ ჩრდილია ღმერთის ქრისტესი</li>
-<li>- ვინც ყოველი უნდა იყოს ჩვენთვის</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ამაოებაა ყველაფერი,</li>
-<li>ქრისტე სინამდვილის სისავსეა.</li>
-<li>ყოვლის მქონენი რომც ვიყოთ, თუკი</li>
-<li>- ქრისტე გვაკლია ცარიელნი ვართ</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ო, ქრისტე არის ჩვენი ნამდვილი:</li>
-<li>ღმერთი, უფალი, სინათლე, ძალა,</li>
-<li>სიცოცხლე, საჭმელი და სასმელი.</li>
-<li>ქრისტე ნამდვილი სამოსელია.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ქრისტე არის სინამდვილე ჩვენი:</li>
-<li>თეოლოგიების, დოქტრინების.</li>
-<li>და ჩვენ მიერ ცოდნა წერილების</li>
-<li>და ჩვენ მიერ ცოდნა წერილების</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>ქრისტე არის სინამდვილე: დროის,</li>
-<li>სივრცის, თითოეული ეტაპის.</li>
-<li>ქრისტეა სინამდვილე ყველაფრის,</li>
-<li>მარადისობის განმავლობაში.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "მადლის უმაღლესი განსაზღვრება"),
-    num: (num = 348),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>- ღმერთი ძეში, ჩვენი ტკბობისათვის,</li>
-<li>მხოლოდ მისი საქმენი კი არა,</li>
-<li>ამ დიდებულ ხვედრში გვყავს თვით ღმერთი.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ღმერთი განკაცდა, ხორცი გახდა, რომ</li>
-<li>ჩვენ ის მივიღოთ და განვიცადოთ;</li>
-<li>ჩვენ ის მივიღოთ და განვიცადოთ;</li>
-<li>და ეს მადლი არის ქრისტე თვითონ.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>პავლემ ჩათვალა ყოველი ნაგვად,</li>
-<li>და მხოლოდ ღმერთი ქრისტეში - მადლად;</li>
-<li>ამ მადლით ის განიცდიდა უფალს,</li>
-<li>და სარბიელზეც გააუსწრო ყველას.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ეს მადლი შინაგანი ძალაა,</li>
-<li>ჩვენ ყოვლადსაკმარისობით გვავსებს;</li>
-<li>ეს მადლი, რომელიც ჩვენს სულშია</li>
-<li>გვამხნევებს, ღმერთის ნებას ასრულებს.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>მადლი თვითონ ცოცხალი ქრისტეა,</li>
-<li>ჩვენ ძლიერ გვჭირდება მისი განცდა;</li>
-<li>დაე, შეგიცნოთ, შენით ვიცხოვროთ,</li>
-<li>როგორც მადლით, გაზარდე ეს გრძნობა.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ჩემს საოცარ ამბავს გეტყვით:"),
-    num: (num = 349),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ჩემს გულშია ქრისტე;</li>
-<li>იესო, დიდების მეფე,</li>
-<li>აქ თავის სახლს ჰპოვებს.</li>
-<li class="chorus chorus-top">ქრისტე არის ჩემში,</li>
-<li class="chorus">ო, საოცარი ამბავია;</li>
-<li class="chorus">ქრისტე არის ჩემში</li>
-<li class="chorus chorus-bottom">ეს დიდების იმედია.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>გსმენიათ მსგავსი ამბავი</li>
-<li>სიყვარულის, ტანჯვის?</li>
-<li>ნეფეზე, ვინც ასე ძლიერ</li>
-<li>დაიპყრო გულები.</li>
-<li class="chorus chorus-top">ქრისტე არის ჩემში,</li>
-<li class="chorus">ო, საოცარი ამბავია;</li>
-<li class="chorus">ქრისტე არის ჩემში</li>
-<li class="chorus chorus-bottom">ეს დიდების იმედია.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მიხარია, რომ მივიღე,</li>
-<li>ჩემი გულის მეფე;</li>
-<li>ვისაც ხშირად ვამწუხრებდი,</li>
-<li>ყველაფერს მის ფერხთ ვდებ.</li>
-<li class="chorus chorus-top">ქრისტე არის ჩემში,</li>
-<li class="chorus">ო, საოცარი ამბავია;</li>
-<li class="chorus">ქრისტე არის ჩემში</li>
-<li class="chorus chorus-bottom">ეს დიდების იმედია.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>აღარ ვიქნები მარტო და</li>
-<li>აღარც დავეცემი;</li>
-<li>აღარც დავეცემი;</li>
-<li>ჩემი ყველაფერი.</li>
-<li class="chorus chorus-top">ქრისტე არის ჩემში,</li>
-<li class="chorus">ო, საოცარი ამბავია;</li>
-<li class="chorus">ქრისტე არის ჩემში</li>
-<li class="chorus chorus-bottom">ეს დიდების იმედია.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>მის გულზე მიყრდნობილი ვარ,</li>
-<li>ჩემს სიმღერას ვმღერი;</li>
-<li>მე ქრისტეში ვმკვიდრდები და</li>
-<li>ქრისტე მუდამ ჩემში.</li>
-<li class="chorus chorus-top">ქრისტე არის ჩემში,</li>
-<li class="chorus">ო, საოცარი ამბავია;</li>
-<li class="chorus">ქრისტე არის ჩემში</li>
-<li class="chorus chorus-bottom">ეს დიდების იმედია.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ო სიცოცხლე და მშვიდობა!"),
-    num: (num = 350),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ქრისტე ხომ ჩემ შიგნით ცხოვრობს.</li>
-<li>მასთან ერთად მე ვეცვი ჯვარს,</li>
-<li>მაქვს ეს დიდებული ფაქტი.</li>
-<li>ახლა მე კი აღარ ვცოცხლობ,</li>
-<li>არამედ ეს ქრისტე ჩემში!</li>
-<li>ახლა მე კი აღარ ვცოცხლობ,</li>
-<li>არამედ ეს ქრისტე ჩემში!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>სიხარული და მშვიდობა!</li>
-<li>ქრისტე ისახება ჩემში.</li>
-<li>მისი სიცოცხლეც, ბუნებაც</li>
-<li>- ჩაინერგება ის ჩემში.</li>
-<li>მე სრულად მომეღო ბოლო,</li>
-<li>ქრისტეა ყოველი ჩემთვის.</li>
-<li>მე სრულად მომეღო ბოლო,</li>
-<li>ქრისტეა ყოველი ჩემთვის.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ო, ტრაბახით სავსე ფიქრი</li>
-<li>- ქრისტე განდიდდება ჩემში!</li>
-<li>არაფერში არ შევრცხვები,</li>
-<li>ყველგან მას გამოვიყენებ.</li>
-<li>ჭირშიც, ლხინშიც - ყველაფერში</li>
-<li>მუდამ ქრისტეს დავამოწმებ.</li>
-<li>ჭირშიც, ლხინშიც - ყველაფერში</li>
-<li>მუდამ ქრისტეს დავამოწმებ.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ო, ჯილდო - მონაპოვარი!</li>
-<li>ქრისტე ჩემი მიზანია.</li>
-<li>ყოვლისმომცველ ქრისტეს გარდა,</li>
-<li>აღარაფერს არ ვაფასებ.</li>
-<li>ქრისტეა ჩემი გვირგვინი,</li>
-<li>იმედია და დიდება!</li>
-<li>ქრისტეა ჩემი გვირგვინი,</li>
-<li>იმედია და დიდება!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ო, ძალა და ძლიერება!"),
-    num: (num = 351),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ღმერთმა ქრისტე მკვდრეთით მაღლა</li>
-<li>აღადგინა! მარჯვნივ დასვა,</li>
-<li>და ის ჩვენს თავად აქცია!</li>
-<li>ამ ძალას ფლობს ეკლესია,</li>
-<li>რომ ფეხქვეშ მტრები გათელოს.</li>
-<li>ამ ძალას ფლობს ეკლესია,</li>
-<li>რომ ფეხქვეშ მტრები გათელოს.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>რა კურთხეული ფაქტია,</li>
-<li>რომ მე ქრისტეს ნაწილი ვარ!</li>
-<li>ვზავდები წმიდებთან ერთად,</li>
-<li>ახალ-კაცის სიცოცხლე მაქვს.</li>
-<li>შევუერთდით დიდებულ თავს,</li>
-<li>ჩვენ მისი ეკლესია ვართ!</li>
-<li>შევუერთდით დიდებულ თავს,</li>
-<li>ჩვენ მისი ეკლესია ვართ!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ო, რა სიგანე და სიგრძე</li>
-<li>რა სიღმე და რა სიმაღლე!</li>
-<li>ქრისტე განუზომელია,</li>
-<li>აურაცხელი სიმდიდრე.</li>
-<li>ის, რაც მას აქვს, და ვინც არის,</li>
-<li>ახლა ჩვენია სიცოცხლე!</li>
-<li>ის, რაც მას აქვს, და ვინც არის,</li>
-<li>ახლა ჩვენია სიცოცხლე!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "დიდებულო მხსნელო ქრისტე,"),
-    num: (num = 352),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ხარ ღვთაებრივი სინათლე;</li>
-<li>უსასრულო ღმერთი გახდი,</li>
-<li>სასრული ადამიანი.</li>
-<li class="chorus chorus-top">ო, ქრისტე, ღვთის გამოხატულება,</li>
-<li class="chorus">აურაცხელი სიმდიდრე,</li>
-<li class="chorus">ღვთის შერწყმა ადამიანთან,</li>
-<li class="chorus chorus-bottom">ცხოვრობს ჩემში, მავსებს მე.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>შენში ღვთაების სისავსე</li>
-<li>მკვიდრობს. შენ დიდებას ავლენ;</li>
-<li>ხორცში - გახდი გადარჩენა;</li>
-<li>სულით მომეცი ერთობა.</li>
-<li class="chorus chorus-top">ო, ქრისტე, ღვთის გამოხატულება,</li>
-<li class="chorus">აურაცხელი სიმდიდრე,</li>
-<li class="chorus">ღვთის შერწყმა ადამიანთან,</li>
-<li class="chorus chorus-bottom">ცხოვრობს ჩემში, მავსებს მე.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>რაც მამისაა, შენია,</li>
-<li>რაც შენია - სულში ჩემი;</li>
-<li>სულით ხდები რეალური</li>
-<li>და ხარ ჩემ მიერ განცდილი.</li>
-<li class="chorus chorus-top">ო, ქრისტე, ღვთის გამოხატულება,</li>
-<li class="chorus">აურაცხელი სიმდიდრე,</li>
-<li class="chorus">ღვთის შერწყმა ადამიანთან,</li>
-<li class="chorus chorus-bottom">ცხოვრობს ჩემში, მავსებს მე.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>სიცოცხლის სული გიბიძგებს,</li>
-<li>სიტყვით ჩემში შენ დარიგდე;</li>
-<li>სულით მაღწევ დღეს სიტყვაში,</li>
-<li>სიცოცხლე შემოდის ჩემში.</li>
-<li class="chorus chorus-top">ო, ქრისტე, ღვთის გამოხატულება,</li>
-<li class="chorus">აურაცხელი სიმდიდრე,</li>
-<li class="chorus">ღვთის შერწყმა ადამიანთან,</li>
-<li class="chorus chorus-bottom">ცხოვრობს ჩემში, მავსებს მე.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>სულში გიცქერ, ავირეკლავ,</li>
-<li>როგორც სარკე შენს დიდებას;</li>
-<li>ვიქნები გარდასახული,</li>
-<li>შენ ჩემგან გამოხატული.</li>
-<li class="chorus chorus-top">ო, ქრისტე, ღვთის გამოხატულება,</li>
-<li class="chorus">აურაცხელი სიმდიდრე,</li>
-<li class="chorus">ღვთის შერწყმა ადამიანთან,</li>
-<li class="chorus chorus-bottom">ცხოვრობს ჩემში, მავსებს მე.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>გაწმინდანების გზით ვაღწევთ,</li>
-<li>შენს გამარჯვებაში შესვლას,</li>
-<li>სულიერნი შევეხებით,</li>
-<li>შენი სიცოცხლის დიდებას.</li>
-<li class="chorus chorus-top">ო, ქრისტე, ღვთის გამოხატულება,</li>
-<li class="chorus">აურაცხელი სიმდიდრე,</li>
-<li class="chorus">ღვთის შერწყმა ადამიანთან,</li>
-<li class="chorus chorus-bottom">ცხოვრობს ჩემში, მავსებს მე.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>სრულად გამჟღენთს შენი სული,</li>
-<li>გამსჭვალავს ჩემს ყველა ნაწილს,</li>
-<li>დამიხსნის ძველი კაცისგან,</li>
-<li>ნაგებობა დასრულდება.</li>
-<li class="chorus chorus-top">ო, ქრისტე, ღვთის გამოხატულება,</li>
-<li class="chorus">აურაცხელი სიმდიდრე,</li>
-<li class="chorus">ღვთის შერწყმა ადამიანთან,</li>
-<li class="chorus chorus-bottom">ცხოვრობს ჩემში, მავსებს მე.</li>
+<li>твой Дух пропитает меня,</li>
+<li>проникнет Бог в каждую часть,</li>
+<li>от старости меня спасёт,</li>
+<li>включит в строение Своё.</li>
+<li class="chorus chorus-top">о! Христос, в ком явлен Великий Бог,</li>
+<li class="chorus">бесконечно богат и свеж!</li>
+<li class="chorus">бог, слитый с человечеством,</li>
+<li class="chorus chorus-bottom">став всем мне, живёт во мне.</li>
 </ul>
 </section>
 </main>
