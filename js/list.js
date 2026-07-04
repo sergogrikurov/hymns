@@ -5495,7 +5495,7 @@ const pages = [
 <li>узы сняв, к преуспеванью</li>
 <li>бывших узников ведёт.</li>
 <li>благодать! Для стада Он</li>
-<li>лагодать! для стада он</li>
+<li>приготовил этот дом.</li>
 <li>аллилуйя, аллилуйя,</li>
 <li>аллилуйя, Аминь!</li>
 </ul>
@@ -16661,8 +16661,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "ცოდვაში მკვდარი და"),
-    num: (num = 353),
+    title: (title = "я мёртвым был в грехе,"),
+    num: (num = 261),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16670,41 +16670,47 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>უიმედო ვიყავ;</li>
-<li>ახლა ჯვარცმულ-მკვდარი</li>
-<li>ქრისტესთან ერთად ვარ.</li>
-<li class="chorus chorus-top">ისე ძლიერ შემიყვარა,</li>
-<li class="chorus chorus-bottom">შეეწირა ჩემთვის?</li>
+<li>был безнадёжен я,</li>
+<li>теперь с Христом распят</li>
+<li>и мёртв я для греха.</li>
+<li class="chorus chorus-top">о, как могло такое быть?</li>
+<li class="chorus">он возлюбил меня;</li>
+<li class="chorus">себя Он отдал за меня,</li>
+<li class="chorus chorus-bottom">да, отдал за меня!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>სიმაღლეს და სიღრმეს</li>
-<li>ვერ გამოვთქვამ, ვწვდები;</li>
-<li>უსაზღვრო სიყვარულს</li>
-<li>რაც ვპოვე ჩემს მხსნელში;</li>
-<li class="chorus chorus-top">ისე ძლიერ შემიყვარა,</li>
-<li class="chorus chorus-bottom">შეეწირა ჩემთვის?</li>
+<li>какая высота</li>
+<li>и глубина, что в Нём!</li>
+<li>безмерная любовь</li>
+<li>в Спасителе моём!</li>
+<li class="chorus chorus-top">о, как могло такое быть?</li>
+<li class="chorus">он возлюбил меня;</li>
+<li class="chorus">себя Он отдал за меня,</li>
+<li class="chorus chorus-bottom">да, отдал за меня!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>მე კი აღარ ვცოცხლობ</li>
-<li>- ქრისტე ცხოვრობს ჩემში;</li>
-<li>მისხნა კანონისგან</li>
-<li>ცოდვის და სიკვდილის.</li>
-<li class="chorus chorus-top">ისე ძლიერ შემიყვარა,</li>
-<li class="chorus chorus-bottom">შეეწირა ჩემთვის?</li>
+<li>живу уже не я -</li>
+<li>христос во мне живёт,</li>
+<li>от смерти и греха</li>
+<li>свободу мне даёт.</li>
+<li class="chorus chorus-top">о, как могло такое быть?</li>
+<li class="chorus">он возлюбил меня;</li>
+<li class="chorus">себя Он отдал за меня,</li>
+<li class="chorus chorus-bottom">да, отдал за меня!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ვემსახურები ჩემს მხსნელს,"),
-    num: (num = 354),
+    title: (title = "спасителю служу я,"),
+    num: (num = 262),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16712,59 +16718,71 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ჩემი სამყაროა,</li>
-<li>ვიცი ის ცოცხალია</li>
-<li>ვინც რა უნდა ის თქვას.</li>
-<li>ვხედავ მის მწყალობელ ხელს</li>
-<li>და მესმის მისი ხმა,</li>
-<li>როდესაც კი მჭირდება</li>
-<li>სულ ახლოა.</li>
-<li class="chorus chorus-top">ცოცხლობს, ცოცხლობს ჩემში ცოცხლობს ქრისტე,</li>
-<li class="chorus">მესაუბრება, დავდივართ ერთად ვიწრო გზაზე.</li>
-<li class="chorus">ცოცხლობს, ცოცხლობს, გადადჩენას ნერგავს.</li>
-<li class="chorus chorus-bottom">მკითხავთ, ეს საიდან ვიცი? - ის ცოცხლობს ჩემს გულში</li>
+<li>воскресшему навек.</li>
+<li>я знаю, что живой Он,</li>
+<li>наперекор молве.</li>
+<li>его я милость вижу,</li>
+<li>его я слышу весть.</li>
+<li>когда я в Нём нуждаюсь, -</li>
+<li>всегда Он здесь.</li>
+<li class="chorus chorus-top">он жив! Он жив!</li>
+<li class="chorus">иисус Христос живёт!</li>
+<li class="chorus">по жизни Он идёт со мной</li>
+<li class="chorus">и разговор ведёт.</li>
+<li class="chorus">он жив! Он жив!</li>
+<li class="chorus">моё спасенье в Нём.</li>
+<li class="chorus">как знаю я, что Он живёт?</li>
+<li class="chorus chorus-bottom">он в сердце жив моём.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ყველაფერში ჩემს ირგვლივ</li>
-<li>მის მზრუნველ ხელს ვხედავ,</li>
-<li>თუმცა ხშირად ვმწუხრდები</li>
-<li>გულს არ ვიტეხავ.</li>
-<li>ვიცი რომ წინ მიმიძღვის,</li>
-<li>ირგვლივ თუმც ქარია.</li>
-<li>დადგება ის დღე</li>
-<li>როცა გამოჩნდება</li>
-<li class="chorus chorus-top">ცოცხლობს, ცოცხლობს ჩემში ცოცხლობს ქრისტე,</li>
-<li class="chorus">მესაუბრება, დავდივართ ერთად ვიწრო გზაზე.</li>
-<li class="chorus">ცოცხლობს, ცოცხლობს, გადადჩენას ნერგავს.</li>
-<li class="chorus chorus-bottom">მკითხავთ, ეს საიდან ვიცი? - ის ცოცხლობს ჩემს გულში</li>
+<li>во всём, что есть на свете,</li>
+<li>видна Его любовь.</li>
+<li>и хоть томится сердце,</li>
+<li>я верю вновь и вновь,</li>
+<li>что через все невзгоды</li>
+<li>меня Он проведёт</li>
+<li>и день Его явленья</li>
+<li>в конце придёт.</li>
+<li class="chorus chorus-top">он жив! Он жив!</li>
+<li class="chorus">иисус Христос живёт!</li>
+<li class="chorus">по жизни Он идёт со мной</li>
+<li class="chorus">и разговор ведёт.</li>
+<li class="chorus">он жив! Он жив!</li>
+<li class="chorus">моё спасенье в Нём.</li>
+<li class="chorus">как знаю я, что Он живёт?</li>
+<li class="chorus chorus-bottom">он в сердце жив моём.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ქრისტიანნო, იხარეთ</li>
-<li>და აიმაღლეთ ხმა,</li>
-<li>უმღერეთ "ალილუია"</li>
-<li>იესოს მეფეა!</li>
-<li>მძებნელთათვის იმედი,</li>
-<li>მპოვნელთათვის არს ხსნა</li>
-<li>მსგავსად საყვარელი</li>
-<li>არვინ არის სხვა.</li>
-<li class="chorus chorus-top">ცოცხლობს, ცოცხლობს ჩემში ცოცხლობს ქრისტე,</li>
-<li class="chorus">მესაუბრება, დავდივართ ერთად ვიწრო გზაზე.</li>
-<li class="chorus">ცოცხლობს, ცოცხლობს, გადადჩენას ნერგავს.</li>
-<li class="chorus chorus-bottom">მკითხავთ, ეს საიდან ვიცი? - ის ცოცხლობს ჩემს გულში</li>
+<li>возвысь свой глас, ликуя,</li>
+<li>христианин, и пой:</li>
+<li>вовеки аллилуйя!</li>
+<li>иисус Христос, Царь мой!</li>
+<li>он ищущим - надежда,</li>
+<li>и помощь всем, кто с Ним.</li>
+<li>никто в любви и благе</li>
+<li>с Ним несравним.</li>
+<li class="chorus chorus-top">он жив! Он жив!</li>
+<li class="chorus">иисус Христос живёт!</li>
+<li class="chorus">по жизни Он идёт со мной</li>
+<li class="chorus">и разговор ведёт.</li>
+<li class="chorus">он жив! Он жив!</li>
+<li class="chorus">моё спасенье в Нём.</li>
+<li class="chorus">как знаю я, что Он живёт?</li>
+<li class="chorus chorus-bottom">он в сердце жив моём.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "კაცია დიდებაში"),
-    num: (num = 355),
+    title: (title = "человек есть во славе,"),
+    num: (num = 263),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16772,68 +16790,68 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>- სიცოცხლე ჩემი.</li>
-<li>სუფთაა, წმიდაა,</li>
-<li>გამარჯვებული.</li>
-<li>მოსიყვარულეა,</li>
-<li>ნაზი და ბრძენი;</li>
-<li>მისი სიცოცხლეა,</li>
-<li>სიცოცხლე ჩემი;</li>
-<li>მისი სიცოცხლეა,</li>
-<li>სიცოცხლე ჩემი.</li>
+<li>чья жизнь - для меня.</li>
+<li>победный, свободный,</li>
+<li>как чист Он и свят!</li>
+<li>как нежно Он любит,</li>
+<li>его нет мудрей,</li>
+<li>и жизнь Его в славе</li>
+<li>должна быть моей,</li>
+<li>и жизнь Его в славе</li>
+<li>должна быть моей.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>კაცია დიდებაში</li>
-<li>- სიცოცხლე ჩემი.</li>
-<li>მან სძლია სატანას</li>
-<li>და მარწუხებს მისს.</li>
-<li>მეფობს სიცოცხლეში,</li>
-<li>მეფურია ის!</li>
-<li>მისი სიცოცხლეა,</li>
-<li>სიცოცხლე ჩემი;</li>
-<li>მისი სიცოცხლეა,</li>
-<li>სიცოცხლე ჩემი.</li>
+<li>человек есть во славе,</li>
+<li>чья жизнь - для меня.</li>
+<li>от уз Он свободен,</li>
+<li>изгнал он врага.</li>
+<li>он царствует в жизни,</li>
+<li>он Царь всех царей!</li>
+<li>и жизнь Его в славе</li>
+<li>должна быть моей,</li>
+<li>и жизнь Его в славе</li>
+<li>должна быть моей.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>კაცია დიდებაში</li>
-<li>- სიცოცხლე ჩემი.</li>
-<li>მას არ აქვს სისუსტე,</li>
-<li>მას არ აქვს სენი.</li>
-<li>ის არის ძლიერი,</li>
-<li>ენერგიული!</li>
-<li>მის სიცოცხლეს ძალუძს,</li>
-<li>რომ იყოს ჩემი;</li>
-<li>მის სიცოცხლეს ძალუძს,</li>
-<li>რომ იყოს ჩემი.</li>
+<li>человек есть во славе,</li>
+<li>чья жизнь - мне завет.</li>
+<li>и в Нём ни болезни,</li>
+<li>ни слабости нет.</li>
+<li>как радостью полон</li>
+<li>он в жизни Своей!</li>
+<li>и жизнь Его может</li>
+<li>быть жизнью моей,</li>
+<li>и жизнь Его может</li>
+<li>быть жизнью моей.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>კაცია დიდებაში</li>
-<li>- სიცოცხლე ჩემი.</li>
-<li>მშვიდობა გვაქვს მისი,</li>
-<li>მომთმენია ის.</li>
-<li>სიხარულით ელის,</li>
-<li>გაბრწყინებული,</li>
-<li>რომ სიცოცხლე მისი</li>
-<li>აღსრულდეს ჩემში;</li>
-<li>რომ სიცოცხლე მისი,</li>
-<li>აღსრულდეს ჩემში.</li>
+<li>человек есть во славе,</li>
+<li>чья жизнь - для меня.</li>
+<li>о, как терпелив Он,</li>
+<li>покой Свой храня!</li>
+<li>и с радостью ждёт Он,</li>
+<li>когда в полноте</li>
+<li>его жизнь во славе</li>
+<li>свершится во мне,</li>
+<li>его жизнь во славе</li>
+<li>свершится во мне.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "შორს ღმერთისგან, ცოდვით მკვდარი,"),
-    num: (num = 356),
+    title: (title = "вдали от Бога, в темноте,"),
+    num: (num = 264),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16841,60 +16859,60 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>გული იყო ბნელში.</li>
-<li>სინათლე ვპოვე სიტყვაში,</li>
-<li>ქრისტე ცხოვრობს ჩემში.</li>
-<li class="chorus chorus-top">ქრისტე ცხოვრობს ჩემში,</li>
-<li class="chorus">ქრისტე ცხოვრობს ჩემში,</li>
-<li class="chorus">ო, რა გადარჩენაა,</li>
-<li class="chorus chorus-bottom">ქრისტე ცხოვრობს ჩემში.</li>
+<li>я мёртвым был в грехе.</li>
+<li>но в Слове Божьем свет обрёл -</li>
+<li>христос живёт во мне.</li>
+<li class="chorus chorus-top">христос живёт во мне,</li>
+<li class="chorus">христос живёт во мне.</li>
+<li class="chorus">о, что за спасение -</li>
+<li class="chorus chorus-bottom">христос живёт во мне!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>როგორც მზის სხივი აღვიძებს</li>
-<li>მიწაზე ყვავილებს,</li>
-<li>სიცოცხლეს მოაქვს სინათლე,</li>
-<li>ქრისტე ცხოვრობს ჩემში.</li>
-<li class="chorus chorus-top">ქრისტე ცხოვრობს ჩემში,</li>
-<li class="chorus">ქრისტე ცხოვრობს ჩემში,</li>
-<li class="chorus">ო, რა გადარჩენაა,</li>
-<li class="chorus chorus-bottom">ქრისტე ცხოვრობს ჩემში.</li>
+<li>как свет освободил цветы</li>
+<li>из семени в земле,</li>
+<li>так жизнь, любовь и свет даёт</li>
+<li>христос, живя во мне.</li>
+<li class="chorus chorus-top">христос живёт во мне,</li>
+<li class="chorus">христос живёт во мне.</li>
+<li class="chorus">о, что за спасение -</li>
+<li class="chorus chorus-bottom">христос живёт во мне!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>როგორც ყვავილის სიცოცხლე,</li>
-<li>დაფარული თესლში,</li>
-<li>სინამდვილის, მადლის სული,</li>
-<li>ქრისტე ცხოვრობს ჩემში.</li>
-<li class="chorus chorus-top">ქრისტე ცხოვრობს ჩემში,</li>
-<li class="chorus">ქრისტე ცხოვრობს ჩემში,</li>
-<li class="chorus">ო, რა გადარჩენაა,</li>
-<li class="chorus chorus-bottom">ქრისტე ცხოვრობს ჩემში.</li>
+<li>как семя жизнь несёт цветка</li>
+<li>и дерева в себе,</li>
+<li>так, Господу Христу хвала,</li>
+<li>его Дух во мне.</li>
+<li class="chorus chorus-top">христос живёт во мне,</li>
+<li class="chorus">христос живёт во мне.</li>
+<li class="chorus">о, что за спасение -</li>
+<li class="chorus chorus-bottom">христос живёт во мне!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>გული სავსე არის ლტოლვით,</li>
-<li>ვიყო точно как Он,</li>
-<li>საოცარი აზრი მავსებს,</li>
-<li>ქრისტე ცხოვრობს ჩემში.</li>
-<li class="chorus chorus-top">ქრისტე ცხოვრობს ჩემში,</li>
-<li class="chorus">ქრისტე ცხოვრობს ჩემში,</li>
-<li class="chorus">ო, რა გადარჩენაა,</li>
-<li class="chorus chorus-bottom">ქრისტე ცხოვრობს ჩემში.</li>
+<li>желаю стать таким, как Он,</li>
+<li>я в сердца глубине,</li>
+<li>пленённый чудной мыслью той:</li>
+<li>христос живёт во мне.</li>
+<li class="chorus chorus-top">христос живёт во мне,</li>
+<li class="chorus">христос живёт во мне.</li>
+<li class="chorus">о, что за спасение -</li>
+<li class="chorus chorus-bottom">христос живёт во мне!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ო ტყვევ! განთავისუფლდი!"),
-    num: (num = 357),
+    title: (title = "о, ты свободен, пленник!"),
+    num: (num = 265),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16902,52 +16920,52 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ცოდვის კანონისგან,</li>
-<li>გაგაცოცხლებს კანონი</li>
-<li>სიცოცხლის სულისა.</li>
-<li>ახლა მისი სიცოცხლე</li>
-<li>სულით იმორჩილებს,</li>
-<li>შენი სხეულის წევრებს,</li>
-<li>სამშვინველის კარებს.</li>
+<li>закон греха сражён!</li>
+<li>законом жизни в Духе</li>
+<li>ты будешь оживлён.</li>
+<li>теперь Своею жизнью</li>
+<li>дух подчинит Себе</li>
+<li>души твоей движенья</li>
+<li>и члены тела все.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>იესოსთან ჯვარცმული,</li>
-<li>თავისუფალი ხარ;</li>
-<li>შენს მშვინვაში, სხეულში,</li>
-<li>ამსხვრევს ცოდვის ძალას.</li>
-<li>აღარ აჰყვე სხეულის</li>
-<li>"უკანონო" ქცევებს;</li>
-<li>"სიცოცხლის კანონს" ძალუძს</li>
-<li>გმართოს მთლიანად შენ.</li>
+<li>свободен в Иисусе,</li>
+<li>ведь ты распят с Ним был;</li>
+<li>в душе твоей и в теле</li>
+<li>он власть греха сломил.</li>
+<li>не поступай, как будто</li>
+<li>«закона» в теле нет;</li>
+<li>пусть власть «закона жизни»</li>
+<li>смирит весь бунт в тебе.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>მის სიკვდილში ჩაფლული,</li>
-<li>ხარ თავისუფალი;</li>
-<li>გვაძლევს სიცოცხლის ძალას,</li>
-<li>ის სულის შთაბერვით.</li>
-<li>ამ სიცოცხლის ძალით ჩვენს</li>
-<li>სულში ვძლიერდებით;</li>
-<li>ჩვენი მშვინვა, სხეული</li>
-<li>სიმშვიდეში შედის.</li>
+<li>свободен в Иисусе,</li>
+<li>с Ним в смерти погребён,</li>
+<li>даст силу Своей жизни</li>
+<li>с дыханьем Духа Он.</li>
+<li>посредством этой жизни</li>
+<li>дух будет всё сильней,</li>
+<li>в покое покорятся</li>
+<li>душа и тело ей!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>იესოს აღდგომაში,</li>
-<li>ხარ თავისუფალი,</li>
-<li>მისი გამარჯვებიდან</li>
-<li>შენც იბრძოლე ლოცვით;</li>
-<li>მან გაგვათავისუფლა,</li>
-<li>ბნელეთზე მაღლა ვართ;</li>
-<li>მისმა სიცოცხლემ შთანთქა</li>
-<li>სიკვდილი და ცოდვა.</li>
+<li>свободен в Иисусе,</li>
+<li>с Воскресшим ты одно,</li>
+<li>молитвою сражаясь,</li>
+<li>в победе стой Его;</li>
+<li>в Его свободе славной</li>
+<li>над тьмой ты воспарил;</li>
+<li>закон греха и смерти</li>
+<li>он жизнью победил.</li>
 </ul>
 </section>
 </main>
@@ -21492,7 +21510,7 @@ const pages = [
 <li class="chorus chorus-top">ო, დახსნილ ვიყო მესგან უფალო,</li>
 <li class="chorus">დავიკარგო შენში</li>
 <li class="chorus">მე უკვე აღარ, არამედ</li>
-<li class="chorus chorus-bottom">ქრისტე ცხოვრობს ჩემში.</li>
+<li class="chorus chorus-bottom">христос живёт во мне.</li>
 </ul>
 </section>
 <section>
@@ -21505,7 +21523,7 @@ const pages = [
 <li class="chorus chorus-top">ო, დახსნილ ვიყო მესგან უფალო,</li>
 <li class="chorus">დავიკარგო შენში</li>
 <li class="chorus">მე უკვე აღარ, არამედ</li>
-<li class="chorus chorus-bottom">ქრისტე ცხოვრობს ჩემში.</li>
+<li class="chorus chorus-bottom">христос живёт во мне.</li>
 </ul>
 </section>
 <section>
@@ -21518,7 +21536,7 @@ const pages = [
 <li class="chorus chorus-top">ო, დახსნილ ვიყო მესგან უფალო,</li>
 <li class="chorus">დავიკარგო შენში</li>
 <li class="chorus">მე უკვე აღარ, არამედ</li>
-<li class="chorus chorus-bottom">ქრისტე ცხოვრობს ჩემში.</li>
+<li class="chorus chorus-bottom">христос живёт во мне.</li>
 </ul>
 </section>
 <section>
@@ -21531,7 +21549,7 @@ const pages = [
 <li class="chorus chorus-top">ო, დახსნილ ვიყო მესგან უფალო,</li>
 <li class="chorus">დავიკარგო შენში</li>
 <li class="chorus">მე უკვე აღარ, არამედ</li>
-<li class="chorus chorus-bottom">ქრისტე ცხოვრობს ჩემში.</li>
+<li class="chorus chorus-bottom">христос живёт во мне.</li>
 </ul>
 </section>
 <section>
@@ -21544,7 +21562,7 @@ const pages = [
 <li class="chorus chorus-top">ო, დახსნილ ვიყო მესგან უფალო,</li>
 <li class="chorus">დავიკარგო შენში</li>
 <li class="chorus">მე უკვე აღარ, არამედ</li>
-<li class="chorus chorus-bottom">ქრისტე ცხოვრობს ჩემში.</li>
+<li class="chorus chorus-bottom">христос живёт во мне.</li>
 </ul>
 </section>
 </main>
@@ -34014,7 +34032,7 @@ const pages = [
 <li>სულში ახლა ჩემში ცხოვრობს,</li>
 <li>უზენაესია,</li>
 <li>ჩემი - ყველაფერი</li>
-<li>ალელუია! ქრისტე ცხოვრობს ჩემში.</li>
+<li>ალელუია! христос живёт во мне.</li>
 </ul>
 </section>
 <section>
