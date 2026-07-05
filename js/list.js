@@ -16972,36 +16972,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "დიდება! ქრისტე სიცოცხლეა!"),
-    num: (num = 358),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>დიდება! სული - წინამძღოლი!</li>
-<li>სინათლემ ბნელს სძლია, სუსტი განმტკიცდა;</li>
-<li>დიდება! ქრისტე სიცოცხლეა!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>დიდება! ქრისტეთი ვცხოვრობ დღეს!</li>
-<li>დავდივარ სულში და მას ვუსმენ!</li>
-<li>ოხვრა, მარცხი ხდება</li>
-<li>ქების სიმღერა.</li>
-<li>დიდება! ქრისტეთი ვცხოვრობ დღეს!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "სიცოცხლის ხე და მდინარე,"),
-    num: (num = 359),
+    title: (title = "слава! Слава! Верно, жизнь - Христос!"),
+    num: (num = 266),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17009,405 +16981,223 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ეკუთვნიან ედემის ბაღს,</li>
-<li>რათა კაცმა ჭამოს და სვას,</li>
-<li>იცხოვროს მან მარად.</li>
-<li class="chorus chorus-top">ღმერთი ქრისტეში შეწევნაა,</li>
-<li class="chorus">ღმერთი, როგორც სული მე მკვებავს!</li>
-<li class="chorus">თუკი სულში ქრისტეს უხვად ვჭამ,</li>
-<li class="chorus chorus-bottom">ის მავსებს სიცოცხლით.</li>
+<li>слава! Дух Его меня ведёт!</li>
+<li>слабость стала силой, свет прогнал всю тьму.</li>
+<li>слава! Слава! Верно, жизнь - Христос!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ხე დიდებული ქრისტეა,</li>
-<li>როგორც ცოცხალი საკვები.</li>
-<li>გვამარაგებს, გვატკბობს უხვად,</li>
-<li>ღვთის სიმდიდრეებით.</li>
-<li class="chorus chorus-top">ღმერთი ქრისტეში შეწევნაა,</li>
-<li class="chorus">ღმერთი, როგორც სული მე მკვებავს!</li>
-<li class="chorus">თუკი სულში ქრისტეს უხვად ვჭამ,</li>
-<li class="chorus chorus-bottom">ის მავსებს სიცოცხლით.</li>
+<li>слава! Слава! Я Христом живу.</li>
+<li>слава! В Духе, слушаясь, хожу.</li>
+<li>гимн звучит победный там, где был лишь стон.</li>
+<li>слава! Слава! Я Христом живу.</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "на сад Эдемский посмотри:"),
+    num: (num = 267),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>дерево жизни и река,</li>
+<li>чтоб человек их ел и пил</li>
+<li>и чтобы вечно жил.</li>
+<li class="chorus chorus-top">бог во Христе - снабженье моё,</li>
+<li class="chorus">бог мой как Дух питает меня.</li>
+<li class="chorus">в духе моём вкушая Христа,</li>
+<li class="chorus chorus-bottom">жизнью наполнюсь я.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>древо являет нам Христа:</li>
+<li>пищей живою стал нам Он,</li>
+<li>чтоб наслаждался человек</li>
+<li>божьим богатством в Нём.</li>
+<li class="chorus chorus-top">бог во Христе - снабженье моё,</li>
+<li class="chorus">бог мой как Дух питает меня.</li>
+<li class="chorus">в духе моём вкушая Христа,</li>
+<li class="chorus chorus-bottom">жизнью наполнюсь я.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>მდინარე წარმოადგენს სულს,</li>
-<li>ადამიანის სულს ერწყმის,</li>
-<li>გვავსებს ღვთის სიმდიდრეებით,</li>
-<li>ასე ვწმინდანდებით.</li>
-<li class="chorus chorus-top">ღმერთი ქრისტეში შეწევნაა,</li>
-<li class="chorus">ღმერთი, როგორც სული მე მკვებავს!</li>
-<li class="chorus">თუკი სულში ქრისტეს უხვად ვჭამ,</li>
-<li class="chorus chorus-bottom">ის მავსებს სიცოცხლით.</li>
+<li>духа являет нам река:</li>
+<li>в дух человека входит Он,</li>
+<li>божьим богатством чтоб снабдить,</li>
+<li>чтобы нас освятить.</li>
+<li class="chorus chorus-top">бог во Христе - снабженье моё,</li>
+<li class="chorus">бог мой как Дух питает меня.</li>
+<li class="chorus">в духе моём вкушая Христа,</li>
+<li class="chorus chorus-bottom">жизнью наполнюсь я.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ჩემი სიცოცხლე ქრისტეა,</li>
-<li>როგორც სული ჩემში მკვიდრობს,</li>
-<li>ღმერთთან ვარ შეზავებული,</li>
-<li>ვავლენ მის სახებას.</li>
-<li class="chorus chorus-top">ღმერთი ქრისტეში შეწევნაა,</li>
-<li class="chorus">ღმერთი, როგორც სული მე მკვებავს!</li>
-<li class="chorus">თუკი სულში ქრისტეს უხვად ვჭამ,</li>
-<li class="chorus chorus-bottom">ის მავსებს სიცოცხლით.</li>
+<li>славный Христос мне жизнью стал:</li>
+<li>в духе как Дух Он у меня,</li>
+<li>чтобы весь слился с Богом я,</li>
+<li>славой Его сиял.</li>
+<li class="chorus chorus-top">бог во Христе - снабженье моё,</li>
+<li class="chorus">бог мой как Дух питает меня.</li>
+<li class="chorus">в духе моём вкушая Христа,</li>
+<li class="chorus chorus-bottom">жизнью наполнюсь я.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ძვირფას ქრისტეს ავამაღლებ,</li>
-<li>მუდამ სულს ვემორჩილები,</li>
-<li>გამოვავლენ მის დიდებას,</li>
-<li>მადლით ავივსები.</li>
-<li class="chorus chorus-top">ღმერთი ქრისტეში შეწევნაა,</li>
-<li class="chorus">ღმერთი, როგორც სული მე მკვებავს!</li>
-<li class="chorus">თუკი სულში ქრისტეს უხვად ვჭამ,</li>
-<li class="chorus chorus-bottom">ის მავსებს სიცოცხლით.</li>
+<li>превознести Христа хочу,</li>
+<li>духу себя я подчиню.</li>
+<li>и, благодать Его приняв,</li>
+<li>славу Его явлю.</li>
+<li class="chorus chorus-top">бог во Христе - снабженье моё,</li>
+<li class="chorus">бог мой как Дух питает меня.</li>
+<li class="chorus">в духе моём вкушая Христа,</li>
+<li class="chorus chorus-bottom">жизнью наполнюсь я.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "სიცოცხლის ხის ტკბილ ნაყოფში,"),
-    num: (num = 360),
+    title: (title = "как сладок древа жизни плод!"),
+    num: (num = 268),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>სიცოცხლეა ღმერთის.</li>
-<li>მკვდარი ვიყავ, ახლა ვცოცხლობ,</li>
-<li>მშიერი დავნაყრდი.</li>
+<li>сам Бог как жизнь в нём весь.</li>
+<li>я мёртвым был - и стал живым,</li>
+<li>был голоден - стал есть.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ღმერთმა ეს ხე წარმიდგინა,</li>
-<li>ქრისტე ვით საკვები;</li>
-<li>რაც დავიწყე მისგან ჭამა,</li>
-<li>ო, გახდა ძვირფასი.</li>
+<li>бог к древу Сам меня привёл,</li>
+<li>христос как пища здесь;</li>
+<li>я древо жизни полюбил,</li>
+<li>когда я начал есть.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>თვით უფალია საკვები,</li>
-<li>ჩემი შემწეობა;</li>
-<li>ისეთ წმინდა ტკბობას მაძლევს</li>
-<li>არავის ძალუძს სხვას.</li>
+<li>господь Сам - пища для меня,</li>
+<li>снабжение, чтоб жить;</li>
+<li>таким же наслажденьем мне</li>
+<li>ничто не сможет быть.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>თავისუფლად ვჭამ ცოცხალ ხეს;</li>
-<li>ჭამის მეშვეობით</li>
-<li>ღმერთის სიცოცხლით ვივსები</li>
-<li>და ვცხოვრობ დღეს მისით.</li>
+<li>обильно насыщаюсь я</li>
+<li>тем деревом живым;</li>
+<li>так входит Бога жизнь в меня,</li>
+<li>чтоб ныне жил я Им.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ძველად ღმერთის სიტყვამ ნათლად გვითხრა"),
-    num: (num = 361),
+    title: (title = "«ешь и пей, - Господь зовёт нас, -"),
+    num: (num = 269),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ღმერთმა კაცი მის სახად შექმნა,</li>
-<li>ღვთის ძალაუფლება გამოხატოს,</li>
-<li>რომ შეასრულოს მისი გეგმა</li>
-<li class="chorus chorus-top">სახად, სახად</li>
-<li class="chorus">ღმერთმა კაცი მის სახად შექმნა</li>
-<li class="chorus">სახად, სახად</li>
-<li class="chorus chorus-bottom">რომ შეასრულოს მისი გეგმა</li>
+<li>ешь и пей».</li>
+<li>можем есть и пить Иисуса каждый день!</li>
+<li>ежедневный наш запас -</li>
+<li>только Он насытит нас.</li>
+<li>«ешь и пей, - Господь зовёт нас, -</li>
+<li>ешь и пей».</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>არ მისცა კანონი, ინსტრუქცია</li>
-<li>"ყველა ხე კარგია საჭმელად;</li>
-<li>მხოლოდ შეცნობის ხიდან არ ჭამო,</li>
-<li>მოკვდები რა დღესაც შეჭამ' - თქვა</li>
-<li class="chorus chorus-top">შეცნობის ხის</li>
-<li class="chorus">ნაყოფი არ ვარგა საჭმელად.</li>
-<li class="chorus">შეცნობის ხის</li>
-<li class="chorus chorus-bottom">ნაყოფი არ ვარგა საჭმელად.</li>
+<li>«ешь и пей, - Господь зовёт нас, -</li>
+<li>ешь и пей».</li>
+<li>если есть и пить Иисуса каждый день,</li>
+<li>жизнью станет Он для нас,</li>
+<li>до краёв наполнит нас.</li>
+<li>«ешь и пей, - Господь зовёт нас, -</li>
+<li>ешь и пей».</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "он - благодать и истина."),
+    num: (num = 270),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>из родника здесь пьём мы;</li>
+<li>христа мы будем петь всегда;</li>
+<li>здесь, в церкви, дом Его!</li>
+<li class="chorus chorus-top">будь славен Бог! Из родника здесь пьём мы!</li>
+<li class="chorus chorus-bottom">будь славен Бог! Мы в церкви, здесь наш дом!</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>обильна благодать Его,</li>
+<li>из родника здесь пьём мы;</li>
+<li>стремись к Нему, венцу всего,</li>
+<li>и здесь Его найдёшь!</li>
+<li class="chorus chorus-top">будь славен Бог! Из родника здесь пьём мы!</li>
+<li class="chorus chorus-bottom">будь славен Бог! Мы в церкви, здесь наш дом!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ბაღის შუაში სიცოცხლის ხეა</li>
-<li>ღმერთი თავის თავს წარმოადგენს,</li>
-<li>ცბიერად მტერმა კაცი აცდუნა</li>
-<li>და მან შეჭამა შეცნობის ხე.</li>
-<li class="chorus chorus-top">დაეცა ის</li>
-<li class="chorus">კაცმა სიკვდილის ხიდან ჭამა,</li>
-<li class="chorus">დაეცა ის</li>
-<li class="chorus chorus-bottom">კაცს ჭირდება სრული აღდგენა</li>
+<li>пусть нападает Сатана -</li>
+<li>из родника здесь пьём мы;</li>
+<li>не одолеет никогда</li>
+<li>он церковь, где наш дом!</li>
+<li class="chorus chorus-top">будь славен Бог! Из родника здесь пьём мы!</li>
+<li class="chorus chorus-bottom">будь славен Бог! Мы в церкви, здесь наш дом!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>იესო თვით სიცოცხლე მოვიდა,</li>
-<li>რომ დააკმაყოფილოს ღმერთი,</li>
-<li>გამოგვისყიდა, კაცს მისცა სუნთქვა,</li>
-<li>კაცთათვის ის გახდა საკვები.</li>
-<li class="chorus chorus-top">ო, იესო</li>
-<li class="chorus">იესო კარგია საჭმელად,</li>
-<li class="chorus">ო, იესო</li>
-<li class="chorus chorus-bottom">ჩვენი ნამდვილი სასმელია</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>იესოს არ სურს კვებოს გონება</li>
-<li>აამაყებს კაცს კარგი ცოდნა,</li>
-<li>მოვიდა როგორც დღესასწაული,</li>
-<li>ანალიზის ნაცვლად ვხაპავთ მას.</li>
-<li class="chorus chorus-top">მიიღე ის,</li>
-<li class="chorus">ო, სრულიად აკმაყოფილებს,</li>
-<li class="chorus">მიიღე ის,</li>
-<li class="chorus chorus-bottom">სიცოცხლის ხე იესოა დღეს.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>ვჭამთ რა იესოს, ჩვენში იზრდება</li>
-<li>სიცოცხლე, რიცხვები იზრდება.</li>
-<li>ქრისტე არს ჩვენი დღესასწაული</li>
-<li>ქრისტე არ არის რელიგია.</li>
-<li class="chorus chorus-top">ჭამე, ჭამე</li>
-<li class="chorus">ქრისტე - სიცოცხლე საკვებია.</li>
-<li class="chorus">ჭამე, ჭამე</li>
-<li class="chorus chorus-bottom">ვინც მას შეჭამს იცოცხლებს მარად.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>ჭამა ეს არის ერთადერთი გზა,</li>
-<li>ქრისტე იცხოვრო მისი ჭამით.</li>
-<li>ეკლესიები ხდებიან სრული,</li>
-<li>ნეფე ბრუნდება ქრისტეს ჭამით.</li>
-<li class="chorus chorus-top">ჭამით, ჭამით</li>
-<li class="chorus">მისი ჭამით არა გვაკლია.</li>
-<li class="chorus">ჭამით, ჭამით</li>
-<li class="chorus chorus-bottom">ქრისტეს ჭამით ნეფე ბრუნდება.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ო, ღმერთმა უსასყიდლოდ ძე"),
-    num: (num = 362),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>უხვი სიცოცხლის ხედ მოგვცა,</li>
-<li>რომ გასინჯოს ყველამ, მიხვდნენ</li>
-<li>- კარგია საჭმელად!</li>
-<li class="chorus chorus-top">კარგია საჭმელად!</li>
-<li class="chorus">კარგია საჭმელად!</li>
-<li class="chorus">ჩვენ გავსინჯეთ და ვამოწმებთ,</li>
-<li class="chorus chorus-bottom">კარგია საჭმელად!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ჩვენი საკვებია ღმერთი</li>
-<li>და ვჭამთ რა მას ვცხოვრობთ მისით.</li>
-<li>თავად ღმერთია ამ ლხინის</li>
-<li>ყველა კომპონენტი.</li>
-<li class="chorus chorus-top">ჩვენი ნადიმია!</li>
-<li class="chorus">ჩვენი ნადიმია!</li>
-<li class="chorus">ვჭამთ და ვაცხადებთ - იესო</li>
-<li class="chorus chorus-bottom">ჩვენი ნადიმია!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>იესო ქრისტეს ვჭამთ როგორც</li>
-<li>საკვებს - ჩვენს პურსა და ჩვენს ხორცს.</li>
-<li>შეწევნაა სასიცოცხლო.</li>
-<li>ჩვენ ყოველდღე ვჭამთ მას!</li>
-<li class="chorus chorus-top">ჩვენ ყოველდღე ვჭამთ მას!</li>
-<li class="chorus">ჩვენ ყოველდღე ვჭამთ მას!</li>
-<li class="chorus">ჩვენი მომარაგებაა</li>
-<li class="chorus chorus-bottom">ჩვენ ყოველდღე ვჭამთ მას!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ეს საამური ნადიმი</li>
-<li>ასეთი მისაწვდომია</li>
-<li>კაცთათვის, რადგან ღმერთმა თქვა</li>
-<li>ვისაც უნდა ჭამოს!</li>
-<li class="chorus chorus-top">უსასყიდლოდ ჭამოს!</li>
-<li class="chorus">უსასყიდლოდ ჭამოს!</li>
-<li class="chorus">რადგან ღმერთმა თქვა, რომ ყველამ</li>
-<li class="chorus chorus-bottom">უსასყიდლოდ ჭამოს!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "იესო ყოველდღე ვჭამოთ,"),
-    num: (num = 363),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>რათა მის ხორცს ვეზიაროთ,</li>
-<li>დიდ თუ მცირე განსაცდელში,</li>
-<li>იესოა ყველაფერი.</li>
-<li class="chorus chorus-top">იესო შევჭამოთ!</li>
-<li class="chorus">იესო შევჭამოთ!</li>
-<li class="chorus">მისი ადამიანობის</li>
-<li class="chorus chorus-bottom">ჭამით აღარ ვართ მშიერნი.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>დავლიოთ იესო, რათა</li>
-<li>მისი ადამიანობა,</li>
-<li>ვით მდინარე ჩქეფდეს ჩვენგან,</li>
-<li>მორწყას, გააცოცხლოს ყველა.</li>
-<li class="chorus chorus-top">იესო დავლიოთ!</li>
-<li class="chorus">იესო დავლიოთ!</li>
-<li class="chorus">მისი ადამიანობის</li>
-<li class="chorus chorus-bottom">შესმით აღარ ვართ მწყურვალნი.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ვჭამოთ იესო, რომ ღმერთმა</li>
-<li>აღასრულოს თავის გეგმა</li>
-<li>- ერთ ეკლესიას ქალაქში</li>
-<li>აქვს მიზნად ახალი კაცი.</li>
-<li class="chorus chorus-top">იესო დავღეჭოთ!</li>
-<li class="chorus">იესო დავღეჭოთ!</li>
-<li class="chorus">შეკრებაზე მას მივიტანთ,</li>
-<li class="chorus chorus-bottom">ვით პურეულ შესაწირავს.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = 'უფალი გვიხმობს: "ჭამეთ, სვით"!'),
-    num: (num = 364),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>"ჭამეთ, სვით" -</li>
-<li>ვჭამოთ და შევსვათ იესო ყოველთვის!</li>
-<li>ის შეწევნაა ჩვენი,</li>
-<li>მისით ვკმაყოფილდებით.</li>
-<li>უფალი გვიხმობს: "ჭამეთ, სვით"!</li>
-<li>"ჭამეთ, სვით."</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>უფალი გვიხმობს: "ჭამეთ, სვით"!</li>
-<li>"ჭამეთ, სვით."</li>
-<li>როცა ვჭამთ და ვსვამთ იესოს ყოველთვის,</li>
-<li>სიცოცხლე ხდება ჩვენი,</li>
-<li>სრულად ამავსებელი.</li>
-<li>უფალი გვიხმობს: "ჭამეთ, სვით"!</li>
-<li>"ჭამეთ, სვით".</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ქრისტე - მადლის, სინამდვილის"),
-    num: (num = 365),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>სათავეა, მისგან ვსვამთ;</li>
-<li>ეკლესიაში, მის სახლში,</li>
-<li>მას ვუმღერებთ მარად.</li>
-<li class="chorus chorus-top">დიდება ღმერთს! ჩვენ აქ სათავისგან ვსვამთ!</li>
-<li class="chorus chorus-bottom">ეკლესიაში, აქ ჩვენს სახლში ვართ!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>მადლი უხვად მოგვეცემა,</li>
-<li>ჩვენ სათავისაგან ვსვამთ;</li>
-<li>აღმატებულს, მას ვესწრაფვით,</li>
-<li>მის სახლში, აქ ვნახავთ.</li>
-<li class="chorus chorus-top">დიდება ღმერთს! ჩვენ აქ სათავისგან ვსვამთ!</li>
-<li class="chorus chorus-bottom">ეკლესიაში, აქ ჩვენს სახლში ვართ!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მტერი იბრძვის მთელი ძალით,</li>
-<li>ჩვენ სათავისაგან ვსვამთ;</li>
-<li>ვერ დაძლევს, მცირე ხნითაც კი,</li>
-<li>ეკლესიას, ჩვენს სახლს.</li>
-<li class="chorus chorus-top">დიდება ღმერთს! ჩვენ აქ სათავისგან ვსვამთ!</li>
-<li class="chorus chorus-bottom">ეკლესიაში, აქ ჩვენს სახლში ვართ!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>მწყურვალენი ვისწრაფვით აქ,</li>
-<li>რომ ამ სათავიდან ვსვათ;</li>
-<li>ეს ჭა ეკლესიაშია,</li>
-<li>შესვი, არ დაშრება!</li>
-<li class="chorus chorus-top">დიდება ღმერთს! ჩვენ აქ სათავისგან ვსვამთ!</li>
-<li class="chorus chorus-bottom">ეკლესიაში, აქ ჩვენს სახლში ვართ!</li>
+<li>к источнику спешим скорей,</li>
+<li>из родника здесь пьём мы;</li>
+<li>он не иссякнет - вдоволь пей!</li>
+<li>он в церкви, где наш дом!</li>
+<li class="chorus chorus-top">будь славен Бог! Из родника здесь пьём мы!</li>
+<li class="chorus chorus-bottom">будь славен Бог! Мы в церкви, здесь наш дом!</li>
 </ul>
 </section>
 </main>
