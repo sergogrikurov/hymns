@@ -5889,7 +5889,7 @@ const pages = [
 `,
   },
   {
-    title: (title = "О Господь, Ты — Царь царей!"),
+    title: (title = "О Господь, Ты - Царь царей!"),
     num: (num = 95),
     page: `
 <h2 class="hNum">${num}</h2>
@@ -17204,143 +17204,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "ო, გვკვებავს ცოცხალი პური,"),
-    num: (num = 366),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ვსვავთ ცოცხალი სათავიდან,</li>
-<li>ვინც შესვავს იესომ თქვა,</li>
-<li>აღარასდროს მოსწყურდება</li>
-<li>რა? არ მომწყურდება? კი, არ მოგწყურდება!</li>
-<li>რა ?არ მომწყურდება? კი, არ მოგწყურდება!</li>
-<li>ვინც შესვავს იესომ თქვა</li>
-<li>აღარასდროს მოსწყურდება</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ვჭამთ ცოცხალ პურს და ვნადიმობთ,</li>
-<li>სუფრა უფალმა გაშალა,</li>
-<li>ვინც მას შეჭამს იესომ თქვა</li>
-<li>აღარასდროს მოშივდება.</li>
-<li>რა? არ მომშივდება? კი, არ მოგშივდება!</li>
-<li>რა? არ მომშივდება? კი, არ მოგშივდება!</li>
-<li>ვინც მას შეჭამს, იესომ თქვა</li>
-<li>აღარასდროს მოშივდება</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ცოცხალ ჰაერს ვსუნთქავთ მასში,</li>
-<li>ვინც გვიზიარებს სიცოცხლეს,</li>
-<li>ვინც სუნთქავს უფალში დღეს,</li>
-<li>აქვს მარად ღმერთის სიცოცხლე.</li>
-<li>რა? ღმერთის სიცოცხლე? კი, ღმერთის სიცოცხლე!</li>
-<li>რა? ღმერთის სიცოცხლე? კი, ღმერთის სიცოცხლე!</li>
-<li>ვინც სუნთქავს უფალში დღეს,</li>
-<li>აქვს მარად ღმერთის სიცოცხლე</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ცოცხალ ღვინოს ვაგემოვნებთ,</li>
-<li>სულში - ღვთაებრივ სიცოცხლეს,</li>
-<li>ყოველ დღე, ვინც მას სინჯავს</li>
-<li>ღვთის უხვი სიხარული აქვს.</li>
-<li>რა? ღვთის სიხარული? კი, ღვთის სიხარული!</li>
-<li>რა? ღვთის სიხარული? კი, ღვთის სიხარული!</li>
-<li>ყოველ დღე ვინც მას სინჯავს</li>
-<li>ღვთის უხვი სიხარული აქვს.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ქრისტე აღმდგარი მეფეა</li>
-<li>მოკვდა, აღდგა, გვაქვს სიცოცხლე.</li>
-<li>თუ მიიღებ, იმღერებ</li>
-<li>მარადიულად იცოცხლებ.</li>
-<li>რა? მარად ვიცოცხლებ? კი მარად იცოცხლებ!</li>
-<li>რა? მარად ვიცოცხლებ? კი მარად იცოცხლებ!</li>
-<li>თუ მიიღებ, იმღერებ</li>
-<li>მარადიულად იცოცხლებ.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "შესვი! ტახტიდან მოედინება მდინარე;"),
-    num: (num = 367),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ჭამე! რა უხვია ნაყოფით სიცოცხლის ხე;</li>
-<li>შეხედე! არ გვჭირდება არც მთვარე და არც მზე,</li>
-<li>აქ ღამე არ არის!</li>
-<li class="chorus chorus-top">სული და პატარძალი "მოდი!" - ამბობენ.</li>
-<li class="chorus">ვისაც ესმის ეს - გაიმეორებენ.</li>
-<li class="chorus">ყველა მწყურვალემ სიცოცხლის წყალი სვას,</li>
-<li class="chorus chorus-bottom">ის უსასყიდლოა!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ქრისტე - მდინარეა, წყარო - შიგნიდან მოსჩქეფს,</li>
-<li>ქრისტე - ტკბილი ნაყოფია და სიცოცხლის ხე.</li>
-<li>ჩვენი დღე და სინათლეა, დილის ვარსკლავი,</li>
-<li>ის ყველაფერია!</li>
-<li class="chorus chorus-top">სული და პატარძალი "მოდი!" - ამბობენ.</li>
-<li class="chorus">ვისაც ესმის ეს - გაიმეორებენ.</li>
-<li class="chorus">ყველა მწყურვალემ სიცოცხლის წყალი სვას,</li>
-<li class="chorus chorus-bottom">ის უსასყიდლოა!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>გავითეთროთ სამოსი, ვიკვებოთ სიცოცხლით,</li>
-<li>უფალს ამინ! аллилуйя! - ქრისტეთი ვტკბებით.</li>
-<li>როდესაც სულს ვავარჯიშებთ განვიცდით ქრისტეს</li>
-<li>ო! რა განძი გვაქვს!</li>
-<li class="chorus chorus-top">სული და პატარძალი "მოდი!" - ამბობენ.</li>
-<li class="chorus">ვისაც ესმის ეს - გაიმეორებენ.</li>
-<li class="chorus">ყველა მწყურვალემ სიცოცხლის წყალი სვას,</li>
-<li class="chorus chorus-bottom">ის უსასყიდლოა!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ჩვენ გვაქვს სახლი ისეთი - მზეზე მეტად ბრწყინავს,</li>
-<li>ყველა ძმა სრულ ერთობაში ქრისტეს აქ მოჰყავს.</li>
-<li>იესომ მოგვიხმო ერთად - ის გამოვსახოთ,</li>
-<li>აქ ეკლესიაში!</li>
-<li class="chorus chorus-top">სული და პატარძალი "მოდი!" - ამბობენ.</li>
-<li class="chorus">ვისაც ესმის ეს - გაიმეორებენ.</li>
-<li class="chorus">ყველა მწყურვალემ სიცოცხლის წყალი სვას,</li>
-<li class="chorus chorus-bottom">ის უსასყიდლოა!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ჩემი გული ტკბობით მღერის,"),
-    num: (num = 368),
+    title: (title = "пей! Исходит от престола чистая река."),
+    num: (num = 271),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17348,143 +17213,204 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>რადგან ის ვიპოვე,</li>
-<li>ვინც შეუდარებელია,</li>
-<li>ო, რა ქრისტე მყავს მე.</li>
+<li>ешь! Неистощимы жизни дерева плоды.</li>
+<li>посмотри! Нужды нет в свете солнца и луны -</li>
+<li>ночи не будет здесь!</li>
+<li class="chorus chorus-top">«приди!» - и Дух, и невеста говорят;</li>
+<li class="chorus">«приди!» - кто слышит, пусть это повторят;</li>
+<li class="chorus">«приди!» - кто жаждет, пусть воду жизни пьёт,</li>
+<li class="chorus chorus-bottom">приходит и даром берёт!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ჩემს ქრისტეს - ღმერთის კრავს მოაქვს,</li>
-<li>სრული გადარჩენა;</li>
-<li>სამართლიანობის მზეა,</li>
-<li>თავის ფრთებით კურნავს.</li>
+<li>наш Христос - река, вода, течёт Он из глубин,</li>
+<li>он и древо, и плоды, чтоб наслаждаться Им,</li>
+<li>день, и свет, и утренняя светлая звезда -</li>
+<li>всё для нас Христос!</li>
+<li class="chorus chorus-top">«приди!» - и Дух, и невеста говорят;</li>
+<li class="chorus">«приди!» - кто слышит, пусть это повторят;</li>
+<li class="chorus">«приди!» - кто жаждет, пусть воду жизни пьёт,</li>
+<li class="chorus chorus-bottom">приходит и даром берёт!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ჩემს ქრისტეს - სიცოცხლის ხეს აქვს</li>
-<li>მრავალი ნაყოფი;</li>
-<li>ყოველდღიურად მისგან ვჭამ,</li>
-<li>სრულად მიქრობს შიმშილს.</li>
+<li>чтоб от древа жизни есть, одежды убелим;</li>
+<li>он так сладок - аллилуйя! О Господь! Аминь!</li>
+<li>упражняя дух, переживаем мы Христа.</li>
+<li>о, какой Христос!</li>
+<li class="chorus chorus-top">«приди!» - и Дух, и невеста говорят;</li>
+<li class="chorus">«приди!» - кто слышит, пусть это повторят;</li>
+<li class="chorus">«приди!» - кто жаждет, пусть воду жизни пьёт,</li>
+<li class="chorus chorus-bottom">приходит и даром берёт!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ქრისტესგან, გაპობილ კლდიდან,</li>
-<li>ჩქეფს ცოცხალი წყალი;</li>
-<li>ჩემს გულში, ის სათავეა,</li>
-<li>და ახშობს ჩემს წყურვილს.</li>
+<li>светлый дом у нас такой, что солнце он затмил;</li>
+<li>братья здесь все вместе стали истинно одним.</li>
+<li>иисус собрал нас, и Его являем мы</li>
+<li>в церкви местной так.</li>
+<li class="chorus chorus-top">«приди!» - и Дух, и невеста говорят;</li>
+<li class="chorus">«приди!» - кто слышит, пусть это повторят;</li>
+<li class="chorus">«приди!» - кто жаждет, пусть воду жизни пьёт,</li>
+<li class="chorus chorus-bottom">приходит и даром берёт!</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "я счастлив, ибо я обрёл"),
+    num: (num = 272),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>того, кто несравнен.</li>
+<li>пусть сердце о Христе поёт:</li>
+<li>что за Христос во мне!</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>он Агнец Божий для меня,</li>
+<li>спасенье мне дарит;</li>
+<li>он Солнце Праведности мне,</li>
+<li>лучами Он целит.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>он Древо Жизни, от Него</li>
+<li>вкушаю каждый день,</li>
+<li>и утоляет голод Он</li>
+<li>мне сладостью Своей.</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>он рассечённая Скала</li>
+<li>с потоком вод живых;</li>
+<li>источник в сердце Он моём,</li>
+<li>что жажду утолит.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>სიცოცხლე, სინათლე და გზა,</li>
-<li>ნუგეში, მშვიდობა,</li>
-<li>სიხარული, ჯანმრთელობა,</li>
-<li>დიდება ქრისტეა.</li>
+<li>христос мне жизнь, и свет, и путь,</li>
+<li>здоровье, отдых мой,</li>
+<li>богатство, слава, радость, мир,</li>
+<li>надежда и покой.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>ქრისტე - ჩემი სიბრძნე, ძალა,</li>
-<li>სიმართლე, სიწმიდე;</li>
-<li>გამარჯვება, გამოსყიდვა,</li>
-<li>კვეხნა, სინამდვილე.</li>
+<li>мне сила, мудрость, похвала</li>
+<li>и праведность во всём,</li>
+<li>победа, святость, истина</li>
+<li>и искупленье - Он.</li>
 </ul>
 </section>
 <section>
 <span class="number">7.</span>
 <ul>
-<li>მხსნელი, მწყემსი და უფალი</li>
-<li>ჩემი მხარდამჭერი,</li>
-<li>მრჩეველი, მამა და ღმერთი,</li>
-<li>ძმა და სიყვარული.</li>
+<li>спаситель, Пастырь и Господь,</li>
+<li>защитник свыше мой,</li>
+<li>советник мой, Отец и Бог,</li>
+<li>брат, Друг мой и Любовь.</li>
 </ul>
 </section>
 <section>
 <span class="number">8.</span>
 <ul>
-<li>ჩემი მეთაური, მცველი,</li>
-<li>და მასწავლებელი,</li>
-<li>ნეფე, ბატონი და თავი</li>
-<li>- ეს ქრისტეა ჩემში.</li>
+<li>христос - мой Вождь, Хранитель мой,</li>
+<li>учитель, Проводник,</li>
+<li>жених, Владыка и Глава,</li>
+<li>как мой Христос велик!</li>
 </ul>
 </section>
 <section>
 <span class="number">9.</span>
 <ul>
-<li>ჩემი წინასწარმეტყველი,</li>
-<li>ყოველის მხედველი;</li>
-<li>მღვდელია ჩემს და ღმერთს შორის,</li>
-<li>ძლიერ მეფედ ჩემში.</li>
+<li>христос, Пророк мой, видит всё</li>
+<li>и знает обо всём,</li>
+<li>пред Богом Он Священник мой,</li>
+<li>мой Царь могучий он.</li>
 </ul>
 </section>
 <section>
 <span class="number">10.</span>
 <ul>
-<li>ჩემი რწმენის წინამძღოლი</li>
-<li>და სრულმყოფელია;</li>
-<li>ერთგული მოწმე, გარანტი,</li>
-<li>შუამდგომელია.</li>
+<li>начальник, Завершитель Он</li>
+<li>той веры, что во мне,</li>
+<li>посредник, Поручитель мой,</li>
+<li>свидетель верный мне.</li>
 </ul>
 </section>
 <section>
 <span class="number">11.</span>
 <ul>
-<li>ყოვლადსაკმარისი მიწა,</li>
-<li>საუკუნო სახლი;</li>
-<li>ციხე-სიმაგრე, საყრდენი</li>
-<li>და თავშესაფარი.</li>
+<li>христос - обильная земля,</li>
+<li>христос - мой вечный дом,</li>
+<li>укрытье, крепость Он моя,</li>
+<li>я вечно буду в Нём.</li>
 </ul>
 </section>
 <section>
 <span class="number">12.</span>
 <ul>
-<li>შაბათი, ახალი მთვარე,</li>
-<li>დილა, დღე ქრისტეა;</li>
-<li>ჩემი მარადისობაა,</li>
-<li>ის, რაც არ გადავა.</li>
+<li>суббота, новомесячье</li>
+<li>и утро для меня,</li>
+<li>христос - и день мой, и мой век,</li>
+<li>и вечность Он моя.</li>
 </ul>
 </section>
 <section>
 <span class="number">13.</span>
 <ul>
-<li>ჩემი ამავსებელია,</li>
-<li>ნდობა და სურვილი,</li>
-<li>ვინც მჭირდება, ეს ქრისტეა!</li>
-<li>ტკბობა, სიხარული.</li>
+<li>он наполнение моё,</li>
+<li>желанье и оплот,</li>
+<li>моё довольство и восторг,</li>
+<li>он Тот, кто всё даёт.</li>
 </ul>
 </section>
 <section>
 <span class="number">14.</span>
 <ul>
-<li>ო, რა ვუწოდო ჩემს ქრისტეს?</li>
-<li>ყოვლისმომცველია,</li>
-<li>პირველი, უკანასკნელი,</li>
-<li>ის ყველაფერია.</li>
+<li>мой всеобъемлющий Христос,</li>
+<li>сколь много скрыто в Нём!</li>
+<li>он первый и последний Он,</li>
+<li>христос мой - всё во всём!</li>
 </ul>
 </section>
 <section>
 <span class="number">15.</span>
 <ul>
-<li>ჩემი გული ტკბობით მღერის,</li>
-<li>განძი მოვიპოვე;</li>
-<li>კვლავ ვიმღერებ და ვიმღერებ,</li>
-<li>ო, რა ქრისტე მყავს მე!</li>
+<li>что за сокровище обрёл</li>
+<li>я в Том, кто несравнен!</li>
+<li>пусть сердце о Христе поёт:</li>
+<li>что за Христос во мне!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ვაუწყებთ იესოს მხოლოდ,"),
-    num: (num = 369),
+    title: (title = "говорим лишь об Иисусе,"),
+    num: (num = 273),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17492,86 +17418,86 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ერთადერთი ცნობაა;</li>
-<li>ყველგან მას აღვამაღლებთ და</li>
-<li>მხოლოდ იესოს ვხედავთ.</li>
-<li class="chorus chorus-top">მხოლოდ იესოს ვუმღერით,</li>
-<li class="chorus">ის არის ჩვენი მხსნელი,</li>
-<li class="chorus">მკურნალი, უფალი, მეფე,</li>
-<li class="chorus chorus-bottom">გამაწმიდანებელი.</li>
+<li>он для нас важней всего;</li>
+<li>возвышать Иисуса будем,</li>
+<li>видеть будем лишь Его.</li>
+<li class="chorus chorus-top">лишь Иисуса воспеваем:</li>
+<li class="chorus">он есть Тот, кто всех нас спас,</li>
+<li class="chorus">освятитель, и Целитель,</li>
+<li class="chorus chorus-bottom">и Господь, и Царь для нас.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>იესო - მხსნელმა წაშალა</li>
-<li>ჩვენი დანაშაული;</li>
-<li>გახდა ჩვენი სიმართლე და</li>
-<li>ძალა ყოველდღიური.</li>
-<li class="chorus chorus-top">მხოლოდ იესოს ვუმღერით,</li>
-<li class="chorus">ის არის ჩვენი მხსნელი,</li>
-<li class="chorus">მკურნალი, უფალი, მეფე,</li>
-<li class="chorus chorus-bottom">გამაწმიდანებელი.</li>
+<li>иисус лишь наш Спаситель,</li>
+<li>всю вину снимает с нас,</li>
+<li>наша праведность навеки,</li>
+<li>наша сила каждый час.</li>
+<li class="chorus chorus-top">лишь Иисуса воспеваем:</li>
+<li class="chorus">он есть Тот, кто всех нас спас,</li>
+<li class="chorus">освятитель, и Целитель,</li>
+<li class="chorus chorus-bottom">и Господь, и Царь для нас.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ვით გამაწმიდანებელი</li>
-<li>გვიხსნის ცოდვისგან, "მე"-სგან;</li>
-<li>თავის სულის სისავსიდან,</li>
-<li>ავსებს ჩვენს გულებს სრულად.</li>
-<li class="chorus chorus-top">მხოლოდ იესოს ვუმღერით,</li>
-<li class="chorus">ის არის ჩვენი მხსნელი,</li>
-<li class="chorus">მკურნალი, უფალი, მეფე,</li>
-<li class="chorus chorus-bottom">გამაწმიდანებელი.</li>
+<li>иисус - наш Освятитель,</li>
+<li>весь наш грех и наше «я»</li>
+<li>он уносит, наполняя</li>
+<li>своим Духом нам сердца.</li>
+<li class="chorus chorus-top">лишь Иисуса воспеваем:</li>
+<li class="chorus">он есть Тот, кто всех нас спас,</li>
+<li class="chorus">освятитель, и Целитель,</li>
+<li class="chorus chorus-bottom">и Господь, и Царь для нас.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>იესო - ჩვენი მკურნალი,</li>
-<li>გვაშორებს სნეულებას;</li>
-<li>მისი აღდგომის სიცოცხლეს</li>
-<li>ვიზიარებთ ჩვენ სრულად.</li>
-<li class="chorus chorus-top">მხოლოდ იესოს ვუმღერით,</li>
-<li class="chorus">ის არის ჩვენი მხსნელი,</li>
-<li class="chorus">მკურნალი, უფალი, მეფე,</li>
-<li class="chorus chorus-bottom">გამაწმიდანებელი.</li>
+<li>иисус лишь наш Целитель,</li>
+<li>он унёс болезни все,</li>
+<li>и Его жизнь воскресенья</li>
+<li>нам доступна в полноте.</li>
+<li class="chorus chorus-top">лишь Иисуса воспеваем:</li>
+<li class="chorus">он есть Тот, кто всех нас спас,</li>
+<li class="chorus">освятитель, и Целитель,</li>
+<li class="chorus chorus-bottom">и Господь, и Царь для нас.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>იესო - ძალაა, ნიჭი</li>
-<li>ორმოცდამეათე დღის;</li>
-<li>ჩვენზე შთაბერე ეს სული,</li>
-<li>აგვავსე წმიდა სულით.</li>
-<li class="chorus chorus-top">მხოლოდ იესოს ვუმღერით,</li>
-<li class="chorus">ის არის ჩვენი მხსნელი,</li>
-<li class="chorus">მკურნალი, უფალი, მეფე,</li>
-<li class="chorus chorus-bottom">გამაწმიდანებელი.</li>
+<li>иисус лишь наша Сила,</li>
+<li>дар Пятидесятницы.</li>
+<li>духом нас, Иисус, наполни,</li>
+<li>силу в нас Свою вдохни.</li>
+<li class="chorus chorus-top">лишь Иисуса воспеваем:</li>
+<li class="chorus">он есть Тот, кто всех нас спас,</li>
+<li class="chorus">освятитель, и Целитель,</li>
+<li class="chorus chorus-bottom">и Господь, и Царь для нас.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>ახლა, იესოს მოველით</li>
-<li>და ვუსმენთ მის დაძახილს;</li>
-<li>ყველაფერი ყველაფერში,</li>
-<li>იესო არის ჩვენთვის.</li>
-<li class="chorus chorus-top">მხოლოდ იესოს ვუმღერით,</li>
-<li class="chorus">ის არის ჩვენი მხსნელი,</li>
-<li class="chorus">მკურნალი, უფალი, მეფე,</li>
-<li class="chorus chorus-bottom">გამაწმიდანებელი.</li>
+<li>звук трубы хотим услышать,</li>
+<li>иисуса все мы ждём;</li>
+<li>и по-прежнему Он будет</li>
+<li>нам вовеки всё во всём.</li>
+<li class="chorus chorus-top">лишь Иисуса воспеваем:</li>
+<li class="chorus">он есть Тот, кто всех нас спас,</li>
+<li class="chorus">освятитель, и Целитель,</li>
+<li class="chorus chorus-bottom">и Господь, и Царь для нас.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "იყო კურთხევა, დღეს"),
-    num: (num = 370),
+    title: (title = "дар, благословенье"),
+    num: (num = 274),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17579,93 +17505,93 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>- ეს უფალია;</li>
-<li>ერთ დროს იყო გრძნობა,</li>
-<li>ახლა-ღვთის სიტყვა;</li>
-<li>ერთ დროს ნიჭი მსურდა,</li>
-<li>ახლა უფალს ვფლობ;</li>
-<li>ვეძებდი კურნებას,</li>
-<li>ახლა - მას მხოლოდ.</li>
-<li class="chorus chorus-top">ყველაფერში მხოლოდ</li>
-<li class="chorus">ქრისტეს ვუმღერი,</li>
-<li class="chorus">ქრისტეა ყოველში,</li>
-<li class="chorus chorus-bottom">ყოველი - ქრისტეში.</li>
+<li>раньше я искал,</li>
+<li>чувство, исцеленье -</li>
+<li>вот о чём мечтал.</li>
+<li>а теперь владею</li>
+<li>господом Самим,</li>
+<li>словом наслаждаюсь,</li>
+<li>быть хочу лишь с Ним.</li>
+<li class="chorus chorus-top">лишь Христа пою я,</li>
+<li class="chorus">он есть всё во всём.</li>
+<li class="chorus">всё в Христе имею я,</li>
+<li class="chorus chorus-bottom">и Сам Христос есть всё!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ერთ დროს მარცხი იყო,</li>
-<li>დღეს მხოლოდ - ნდობა;</li>
-<li>ნაწილობრივ მქონდა,</li>
-<li>დღეს მაქვს სრული ხსნა;</li>
-<li>ვმართავდი ყოველს, დღეს</li>
-<li>ღმერთს ვუჭერივარ;</li>
-<li>ხშირად ვშორდებოდი,</li>
-<li>ახლა მასში ვარ.</li>
-<li class="chorus chorus-top">ყველაფერში მხოლოდ</li>
-<li class="chorus">ქრისტეს ვუმღერი,</li>
-<li class="chorus">ქრისტეა ყოველში,</li>
-<li class="chorus chorus-bottom">ყოველი - ქრისტეში.</li>
+<li>раньше - боль попыток</li>
+<li>всё держать в руках,</li>
+<li>и полуспасенье,</li>
+<li>жизнь в блужданьях, страх.</li>
+<li>а теперь уверен -</li>
+<li>держит Он меня,</li>
+<li>до конца спасённый,</li>
+<li>бросил якорь я.</li>
+<li class="chorus chorus-top">лишь Христа пою я,</li>
+<li class="chorus">он есть всё во всём.</li>
+<li class="chorus">всё в Христе имею я,</li>
+<li class="chorus chorus-bottom">и Сам Христос есть всё!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ერთ დროს ვგეგმავდი, დღეს</li>
-<li>ლოცვას ვენდობი;</li>
-<li>ღელვით ვზრუნავდი, დღეს</li>
-<li>ზრუნავს უფალი;</li>
-<li>იყო როგორც მსურდა,</li>
-<li>დღეს - რაც სურს უფალს;</li>
-<li>ერთ დროს ვთხოვდი მუდამ,</li>
-<li>დღეს ვაქებ უფალს.</li>
-<li class="chorus chorus-top">ყველაფერში მხოლოდ</li>
-<li class="chorus">ქრისტეს ვუმღერი,</li>
-<li class="chorus">ქრისტეა ყოველში,</li>
-<li class="chorus chorus-bottom">ყოველი - ქრისტეში.</li>
+<li>раньше суетился,</li>
+<li>всё хотел решить,</li>
+<li>в просьбах, беспокойствах</li>
+<li>приходилось жить.</li>
+<li>а теперь молюсь я -</li>
+<li>он решает всё;</li>
+<li>возношу хвалу я -</li>
+<li>бремя Он несёт.</li>
+<li class="chorus chorus-top">лишь Христа пою я,</li>
+<li class="chorus">он есть всё во всём.</li>
+<li class="chorus">всё в Христе имею я,</li>
+<li class="chorus chorus-bottom">и Сам Христос есть всё!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>იყო ჩემი შრომა,</li>
-<li>დღეს გახდა მისი;</li>
-<li>უფალს ვიყენებდი;</li>
-<li>დღეს მიყენებს ის.</li>
-<li>ერთ დროს მსურდა ძალა,</li>
-<li>ახლა - მძლეველი;</li>
-<li>ვშრომობდი თავისთვის,</li>
-<li>დღეს ვშრომობ ღვთისთვის</li>
-<li class="chorus chorus-top">ყველაფერში მხოლოდ</li>
-<li class="chorus">ქრისტეს ვუმღერი,</li>
-<li class="chorus">ქრისტეა ყოველში,</li>
-<li class="chorus chorus-bottom">ყოველი - ქრისტეში.</li>
+<li>чтоб Господь служил мне,</li>
+<li>раньше я желал;</li>
+<li>для себя трудился,</li>
+<li>силы я искал.</li>
+<li>ныне для Иисуса</li>
+<li>рад трудиться я,</li>
+<li>лишь Его ищу я,</li>
+<li>сила Он моя.</li>
+<li class="chorus chorus-top">лишь Христа пою я,</li>
+<li class="chorus">он есть всё во всём.</li>
+<li class="chorus">всё в Христе имею я,</li>
+<li class="chorus chorus-bottom">и Сам Христос есть всё!</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>იესოში მწამდა</li>
-<li>ის ჩემია დღეს;</li>
-<li>ჩამქვრალი ლამპარი</li>
-<li>ახლა კაშკაშებს;</li>
-<li>სიკვდილს მოველოდი</li>
-<li>დღეს - უფლის მოსვლას;</li>
-<li>მყარი იმედი მაქვს</li>
-<li>ფარდის მიღმა ვარ.</li>
-<li class="chorus chorus-top">ყველაფერში მხოლოდ</li>
-<li class="chorus">ქრისტეს ვუმღერი,</li>
-<li class="chorus">ქრისტეა ყოველში,</li>
-<li class="chorus chorus-bottom">ყოველი - ქრისტეში.</li>
+<li>был Он лишь надеждой -</li>
+<li>мой Он ныне стал.</li>
+<li>ярким стал светильник</li>
+<li>тот, что угасал.</li>
+<li>жду теперь не смерти -</li>
+<li>жду Иисуса я.</li>
+<li>на Него надежда -</li>
+<li>якорь для меня.</li>
+<li class="chorus chorus-top">лишь Христа пою я,</li>
+<li class="chorus">он есть всё во всём.</li>
+<li class="chorus">всё в Христе имею я,</li>
+<li class="chorus chorus-bottom">и Сам Христос есть всё!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ყველაფერი იცვლება,"),
-    num: (num = 371),
+    title: (title = "всё изменчиво, но «Он есть»,"),
+    num: (num = 275),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17673,80 +17599,80 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>მხოლოდ ერთის გარდა;</li>
-<li>ის, ვინც მოიცავს მომავალს,</li>
-<li>აწმყოსაც, წარსულსაც.</li>
-<li>ეს ქრისტეა - კლდე უცვლელი,</li>
-<li>პირველია და</li>
-<li>უკანასკნელი.</li>
-<li class="chorus chorus-top">პირველია და</li>
-<li class="chorus">უკანასკნელი,</li>
-<li class="chorus">ანდე მომავალი,</li>
-<li class="chorus">დათმე წარსული;</li>
-<li class="chorus">პირველია და</li>
-<li class="chorus">უკანასკნელი,</li>
-<li class="chorus">ქრისტე - კლდე უცვლელი,</li>
-<li class="chorus chorus-bottom">მარადიული.</li>
+<li>нет изменений в Нём,</li>
+<li>он объемлет всё, что будет,</li>
+<li>что есть и что прошло:</li>
+<li>наш Христос - Скала веков,</li>
+<li>он первый, и Он</li>
+<li>последний во всём.</li>
+<li class="chorus chorus-top">первый Иисус,</li>
+<li class="chorus">и последний Он.</li>
+<li class="chorus">будущее с прошлым</li>
+<li class="chorus">вверь ему своё.</li>
+<li class="chorus">первый Иисус,</li>
+<li class="chorus">и последний Он.</li>
+<li class="chorus">наш Христос надёжный -</li>
+<li class="chorus chorus-bottom">скала Он веков.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>მისი მხრებია საყრდენი,</li>
-<li>მთელი ქმნილებისა;</li>
-<li>ჩვენ კი მის გულზე ვართ და გვთხოვს,</li>
-<li>მასზე დავდოთ ტანჯვა.</li>
-<li>მას უთხარი ყველაფერი,</li>
-<li>პირველია და</li>
-<li>უკანასკნელი.</li>
-<li class="chorus chorus-top">პირველია და</li>
-<li class="chorus">უკანასკნელი,</li>
-<li class="chorus">ანდე მომავალი,</li>
-<li class="chorus">დათმე წარსული;</li>
-<li class="chorus">პირველია და</li>
-<li class="chorus">უკანასკნელი,</li>
-<li class="chorus">ქრისტე - კლდე უცვლელი,</li>
-<li class="chorus chorus-bottom">მარადიული.</li>
+<li>необъятное творенье</li>
+<li>удерживает Он,</li>
+<li>но велит Он возложить нам</li>
+<li>заботы на Него.</li>
+<li>принесём их все Иисусу -</li>
+<li>он первый, и Он</li>
+<li>последний во всём.</li>
+<li class="chorus chorus-top">первый Иисус,</li>
+<li class="chorus">и последний Он.</li>
+<li class="chorus">будущее с прошлым</li>
+<li class="chorus">вверь ему своё.</li>
+<li class="chorus">первый Иисус,</li>
+<li class="chorus">и последний Он.</li>
+<li class="chorus">наш Христос надёжный -</li>
+<li class="chorus chorus-bottom">скала Он веков.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ცხოვრების შტორმის დროს მისმა</li>
-<li>სიყვარულმა გვიხსნა;</li>
-<li>მისი ხელი გვიცავს სანამ,</li>
-<li>გრიგალი გადავა.</li>
-<li>იესოს მარად ვენდობით,</li>
-<li>პირველია და</li>
-<li>უკანასკნელი.</li>
-<li class="chorus chorus-top">პირველია და</li>
-<li class="chorus">უკანასკნელი,</li>
-<li class="chorus">ანდე მომავალი,</li>
-<li class="chorus">დათმე წარსული;</li>
-<li class="chorus">პირველია და</li>
-<li class="chorus">უკანასკნელი,</li>
-<li class="chorus">ქრისტე - კლდე უცვლელი,</li>
-<li class="chorus chorus-bottom">მარადიული.</li>
+<li>в бурях жизни сохраняет</li>
+<li>нас всех любовь Его,</li>
+<li>нас проводит чрез невзгоды</li>
+<li>своей рукою Он.</li>
+<li>на Тебя, Иисус, надежда,</li>
+<li>ты первый, и Ты -</li>
+<li>последний во всём.</li>
+<li class="chorus chorus-top">первый Иисус,</li>
+<li class="chorus">и последний Он.</li>
+<li class="chorus">будущее с прошлым</li>
+<li class="chorus">вверь ему своё.</li>
+<li class="chorus">первый Иисус,</li>
+<li class="chorus">и последний Он.</li>
+<li class="chorus">наш Христос надёжный -</li>
+<li class="chorus chorus-bottom">скала Он веков.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ო, ქრისტე, ჩვენ გვირგვინს გადებთ,</li>
-<li>ნაზი სიყვარულით;</li>
-<li>უფალთა უფალო, შენს წინ</li>
-<li>ყველა დათმობს გვირგვინს.</li>
-<li>მოდის დღე შენი დიდების,</li>
-<li>პირველი ხარ და</li>
-<li>უკანასკნელი.</li>
-<li class="chorus chorus-top">პირველია და</li>
-<li class="chorus">უკანასკნელი,</li>
-<li class="chorus">ანდე მომავალი,</li>
-<li class="chorus">დათმე წარსული;</li>
-<li class="chorus">პირველია და</li>
-<li class="chorus">უკანასკნელი,</li>
-<li class="chorus">ქრისტე - კლდე უცვლელი,</li>
-<li class="chorus chorus-bottom">მარადიული.</li>
+<li>о Христос, Тебя в любви мы</li>
+<li>возводим на престол;</li>
+<li>приближай скорей день славы</li>
+<li>своей, Господь господ.</li>
+<li>пред Тобой падут венцы все,</li>
+<li>ты - первый, и Ты -</li>
+<li>последний во всём.</li>
+<li class="chorus chorus-top">первый Иисус,</li>
+<li class="chorus">и последний Он.</li>
+<li class="chorus">будущее с прошлым</li>
+<li class="chorus">вверь ему своё.</li>
+<li class="chorus">первый Иисус,</li>
+<li class="chorus">и последний Он.</li>
+<li class="chorus">наш Христос надёжный -</li>
+<li class="chorus chorus-bottom">скала Он веков.</li>
 </ul>
 </section>
 </main>
