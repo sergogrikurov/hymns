@@ -19268,165 +19268,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "ო, მე ჩავწვდი საიდუმლოს,"),
-    num: (num = 416),
-    page: `
-<h2 class="hNum">${num}</h2>
-<h3>ქრისტეს განცდა</h3>
-<h4>მასში დამკვიდრება</h4>
-<span>(ინგ. 564)</span>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>უფალში დამკვიდრების.</li>
-<li>სიცოცხლის შადრევანიდან</li>
-<li>მე ახლა ვსვამ მის სიტყვას.</li>
-<li>ნამდვილი ძალა და სიტკბო,</li>
-<li>ვპოვე სისხლის ქვეშ მყოფმა.</li>
-<li>ჩავიკარგე იესოში</li>
-<li>ო, ჩავიძირე ღმერთში.</li>
-<li class="chorus chorus-top">უფლის სიტყვას ვეყრდნობი.</li>
-<li class="chorus">ღმერთში ვმკვიდრობ და მისი</li>
-<li class="chorus">სიყვარულის წიაღში ვიმალები.</li>
-<li class="chorus">უფალში დამკვიდრებით,</li>
-<li class="chorus">მის სიტყვაზე მინდობით,</li>
-<li class="chorus chorus-bottom">სიყვარულის წიაღში ვიმალები.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>იესოსთან ერთად, ვეცვი</li>
-<li>ჯვარს. ახლა მკვიდრობს ჩემში.</li>
-<li>მე შევწყვიტე ჩემი ბრძოლა</li>
-<li>- "მე" აღარ, არამედ "ის"</li>
-<li>ჩემში მეფობს მისი სული,</li>
-<li>ჩემი ნებაც მას დაჰყვა.</li>
-<li>ცოდვისგან მწმენდს და მინახავს</li>
-<li>მისი ძვირფასი სისხლი.</li>
-<li class="chorus chorus-top">უფლის სიტყვას ვეყრდნობი.</li>
-<li class="chorus">ღმერთში ვმკვიდრობ და მისი</li>
-<li class="chorus">სიყვარულის წიაღში ვიმალები.</li>
-<li class="chorus">უფალში დამკვიდრებით,</li>
-<li class="chorus">მის სიტყვაზე მინდობით,</li>
-<li class="chorus chorus-bottom">სიყვარულის წიაღში ვიმალები.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მივუტან ჩემს ყველა ტკივილს,</li>
-<li>მომხსნის, თავად იტვირთავს.</li>
-<li>გავანდობ: შიშს, მწუხარებას</li>
-<li>და ჩემს ყველა საზრუნავს.</li>
-<li>მთელ ჩემს ძალას მისგან ვიღებ,</li>
-<li>მისი სუნთქვით ვმოძრაობ.</li>
-<li>მაძლევს: სიყვარულს, სიცოცხლეს,</li>
-<li>თავის გონებას, რწმენას.</li>
-<li class="chorus chorus-top">უფლის სიტყვას ვეყრდნობი.</li>
-<li class="chorus">ღმერთში ვმკვიდრობ და მისი</li>
-<li class="chorus">სიყვარულის წიაღში ვიმალები.</li>
-<li class="chorus">უფალში დამკვიდრებით,</li>
-<li class="chorus">მის სიტყვაზე მინდობით,</li>
-<li class="chorus chorus-bottom">სიყვარულის წიაღში ვიმალები.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>სიტყვისა და საქმისათვის,</li>
-<li>სიბრძნეს და ძალას მაძლევს.</li>
-<li>ღვთის მუდმივი თანდასწრება</li>
-<li>მინახავს, მიმიძღვება.</li>
-<li>უშრეტი წყაროა ჩემი</li>
-<li>გულის სიხარულისა.</li>
-<li>მეფეა რომელიც მოდის.</li>
-<li>მხსნელი და მკურნალია.</li>
-<li class="chorus chorus-top">უფლის სიტყვას ვეყრდნობი.</li>
-<li class="chorus">ღმერთში ვმკვიდრობ და მისი</li>
-<li class="chorus">სიყვარულის წიაღში ვიმალები.</li>
-<li class="chorus">უფალში დამკვიდრებით,</li>
-<li class="chorus">მის სიტყვაზე მინდობით,</li>
-<li class="chorus chorus-bottom">სიყვარულის წიაღში ვიმალები.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ცხოვრების გასაღებს ჩავწვდით,"),
-    num: (num = 417),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ვნახეთ ხედვა ღვთიური:</li>
-<li>ვმკვიდრდებით, ვმკვიდრდებით ვაზზე</li>
-<li>ღმერთისგან ვართ ქრისტე იესოში.</li>
-<li class="chorus chorus-top">ჩვენ ვაზზე ვმკვიდრდებით</li>
-<li class="chorus">ო, ღმერთის სიცოცხლის</li>
-<li class="chorus">ყველა სიმდიდრე ჩემის არის.</li>
-<li class="chorus">ქება მას, ჩვენ რომ აქ</li>
-<li class="chorus">ერთად მოგვათავსა,</li>
-<li class="chorus chorus-bottom">ო, ვაზზე ვმკვიდრდებით, ვმკვიდრდებით</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ამაო ბრძოლა დასრულდა</li>
-<li>ქრისტეში შესასვლელად.</li>
-<li>ქება ღმერთს - უკვე მასში ვართ,</li>
-<li>ჩვენ ვაზზე ვმკვიდრდებით, ალილუია.</li>
-<li class="chorus chorus-top">ჩვენ ვაზზე ვმკვიდრდებით</li>
-<li class="chorus">ო, ღმერთის სიცოცხლის</li>
-<li class="chorus">ყველა სიმდიდრე ჩემის არის.</li>
-<li class="chorus">ქება მას, ჩვენ რომ აქ</li>
-<li class="chorus">ერთად მოგვათავსა,</li>
-<li class="chorus chorus-bottom">ო, ვაზზე ვმკვიდრდებით, ვმკვიდრდებით</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ღვთაებრივი ცხებულება</li>
-<li>მკვიდრობს, მოძრაობს ჩემში.</li>
-<li>ღმერთის ძვირფას არსს მანიჭებს,</li>
-<li>როცა ვაზზე ვმკვიდრდები, ვმკვიდრდები.</li>
-<li class="chorus chorus-top">ჩვენ ვაზზე ვმკვიდრდებით</li>
-<li class="chorus">ო, ღმერთის სიცოცხლის</li>
-<li class="chorus">ყველა სიმდიდრე ჩემის არის.</li>
-<li class="chorus">ქება მას, ჩვენ რომ აქ</li>
-<li class="chorus">ერთად მოგვათავსა,</li>
-<li class="chorus chorus-bottom">ო, ვაზზე ვმკვიდრდებით, ვმკვიდრდებით</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ვცხოვრობთ სიცოცხლის ნაკადში,</li>
-<li>ო, სინათლე გვანათებს!</li>
-<li>ახლა, ღმერთს და კაცს აქვთ სახლი</li>
-<li>ურთიერთ მკვიდრდებიან ამ ვაზზე.</li>
-<li class="chorus chorus-top">ჩვენ ვაზზე ვმკვიდრდებით</li>
-<li class="chorus">ო, ღმერთის სიცოცხლის</li>
-<li class="chorus">ყველა სიმდიდრე ჩემის არის.</li>
-<li class="chorus">ქება მას, ჩვენ რომ აქ</li>
-<li class="chorus">ერთად მოგვათავსა,</li>
-<li class="chorus chorus-bottom">ო, ვაზზე ვმკვიდრდებით, ვმკვიდრდებით</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ვღებულობ რწმენით შენს დაპირებებს,"),
-    num: (num = 418),
+    title: (title = "я постиг секрет чудесный"),
+    num: (num = 301),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19434,62 +19277,216 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ჩემი ძალაა მოსი სისავსე,</li>
-<li>სიცოცხლის მომავალს უშიშრად ვჭვრეტ,</li>
-<li>შენ ხარ უფალო ჩემთან ყოველდღე.</li>
+<li>пребывания в Христе,</li>
+<li>я нашёл источник жизни -</li>
+<li>пью от Слова я теперь.</li>
+<li>силу я обрёл и сладость,</li>
+<li>здесь под кровью находясь.</li>
+<li>потерялся я в Иисусе,</li>
+<li>погружаюсь в Бога я.</li>
+<li class="chorus chorus-top">буду в Нём я пребывать,</li>
+<li class="chorus">его слову доверять;</li>
+<li class="chorus">я сокроюсь в глубине Его любви.</li>
+<li class="chorus">буду в Нём я пребывать,</li>
+<li class="chorus">его слову доверять;</li>
+<li class="chorus chorus-bottom">я сокроюсь в глубине Его любви.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>დღეები შესაძლოა სავსეა</li>
-<li>ჩვენს ირგვლივ ცვლილებით, დანაკარგით,</li>
-<li>გემადლიერები ჩემო მხსნელო,</li>
-<li>არ არის დღე, როცა მაგდებ, მტოვებ.</li>
+<li>я распят с Иисусом вместе,</li>
+<li>и уже не я живу;</li>
+<li>он теперь живёт со мною,</li>
+<li>прекратил я всю борьбу.</li>
+<li>моя воля с ним согласна,</li>
+<li>дух Его внутри царит;</li>
+<li>от греха всегда свободным</li>
+<li>его кровь меня хранит.</li>
+<li class="chorus chorus-top">буду в Нём я пребывать,</li>
+<li class="chorus">его слову доверять;</li>
+<li class="chorus">я сокроюсь в глубине Его любви.</li>
+<li class="chorus">буду в Нём я пребывать,</li>
+<li class="chorus">его слову доверять;</li>
+<li class="chorus chorus-bottom">я сокроюсь в глубине Его любви.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>სიბნელისა და გასაჭირის ჟამს,</li>
-<li>ცოდვის საცდურით ზრუნვა რომ გბოჭავს,</li>
-<li>ასეთ დროს ვერ შემაშინებს ბნელიც,</li>
-<li>რადგან ჩრდილებს შორის შენ იქნები.</li>
+<li>он уносит все болезни,</li>
+<li>что к Нему я приношу;</li>
+<li>день за днём я поверяю</li>
+<li>страхи, горести Ему.</li>
+<li>я живу Его дыханьем,</li>
+<li>силу черпаю я в Нём;</li>
+<li>мне любовь, и жизнь, и веру,</li>
+<li>и свой разум дарит Он.</li>
+<li class="chorus chorus-top">буду в Нём я пребывать,</li>
+<li class="chorus">его слову доверять;</li>
+<li class="chorus">я сокроюсь в глубине Его любви.</li>
+<li class="chorus">буду в Нём я пребывать,</li>
+<li class="chorus">его слову доверять;</li>
+<li class="chorus chorus-bottom">я сокроюсь в глубине Его любви.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>როცა დღე სავსეა სიხარულით,</li>
-<li>მიწა-მშვენიერი, ცა-ნათელი</li>
-<li>ახლოს მიმიკარი, დავისვენო</li>
-<li>შენს მკერდზე ჩემო გადამრჩენელო.</li>
+<li>его мудрость мне - для слова,</li>
+<li>сила Духа - для труда,</li>
+<li>и присутствием Его я</li>
+<li>на пути храним всегда.</li>
+<li>доля сердца моего Он,</li>
+<li>моя радость без конца,</li>
+<li>мой Целитель и Спаситель,</li>
+<li>мой Господь, грядущий Царь.</li>
+<li class="chorus chorus-top">буду в Нём я пребывать,</li>
+<li class="chorus">его слову доверять;</li>
+<li class="chorus">я сокроюсь в глубине Его любви.</li>
+<li class="chorus">буду в Нём я пребывать,</li>
+<li class="chorus">его слову доверять;</li>
+<li class="chorus chorus-bottom">я сокроюсь в глубине Его любви.</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "жизни секрет мы постигли,"),
+    num: (num = 302),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>свет есть чудесный у нас.</li>
+<li>видим: от Бога в Христе мы -</li>
+<li>пребываем мы на лозе сейчас.</li>
+<li class="chorus chorus-top">пребуду на лозе!</li>
+<li class="chorus">дано здесь во Христе</li>
+<li class="chorus">всё богатство Божьей жизни мне.</li>
+<li class="chorus">богу хвала, что здесь</li>
+<li class="chorus">нас поместил Он всех.</li>
+<li class="chorus chorus-bottom">мы вечно пребудем на лозе.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>больше не нужно бороться,</li>
+<li>чтоб оказаться в Христе.</li>
+<li>в Нём мы уже - слава Богу!</li>
+<li>аллилуйя, пребудем на лозе.</li>
+<li class="chorus chorus-top">пребуду на лозе!</li>
+<li class="chorus">дано здесь во Христе</li>
+<li class="chorus">всё богатство Божьей жизни мне.</li>
+<li class="chorus">богу хвала, что здесь</li>
+<li class="chorus">нас поместил Он всех.</li>
+<li class="chorus chorus-bottom">мы вечно пребудем на лозе.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>и как помазанье Божье</li>
+<li>движется миро во мне,</li>
+<li>божью мне сущность даруя,</li>
+<li>когда я пребываю на лозе.</li>
+<li class="chorus chorus-top">пребуду на лозе!</li>
+<li class="chorus">дано здесь во Христе</li>
+<li class="chorus">всё богатство Божьей жизни мне.</li>
+<li class="chorus">богу хвала, что здесь</li>
+<li class="chorus">нас поместил Он всех.</li>
+<li class="chorus chorus-bottom">мы вечно пребудем на лозе.</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>в жизни потоке живём мы,</li>
+<li>о, как сияет в нас свет!</li>
+<li>бог с человеком в покое</li>
+<li>пребывают взаимно на лозе.</li>
+<li class="chorus chorus-top">пребуду на лозе!</li>
+<li class="chorus">дано здесь во Христе</li>
+<li class="chorus">всё богатство Божьей жизни мне.</li>
+<li class="chorus">богу хвала, что здесь</li>
+<li class="chorus">нас поместил Он всех.</li>
+<li class="chorus chorus-bottom">мы вечно пребудем на лозе.</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "верю обету Твоему, Господь,"),
+    num: (num = 303),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>он силу мне на каждый день даёт;</li>
+<li>в будущее смотрю без страха я:</li>
+<li>все дни, Спаситель, Ты со мной, всегда.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>пусть боль утрат и ветер перемен</li>
+<li>новые дни порой приносят мне;</li>
+<li>хвала Тебе - не будет в жизни дня,</li>
+<li>когда б, Господь, оставил Ты меня.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>дни тьмы и горя могут выпасть мне -</li>
+<li>дни искушений, и забот, и бед,</li>
+<li>но в самый мрачный день не устрашусь -</li>
+<li>и средь теней со мною Ты, Иисус.</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>в жизни бывают радостные дни -</li>
+<li>кажется ярче красота земли;</li>
+<li>ближе тогда к Себе влеки меня,</li>
+<li>чтоб не нашёл покой я вне Тебя.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>არის დღეები ჩემს ცხოვრებაში,</li>
-<li>დღენი არაფრით გამორჩეული,</li>
-<li>როდესაც ზრუნვა მცირეა ძალზე,</li>
-<li>და სხვების გულებს ვერ უზიარებ.</li>
+<li>и остальные дни, в которых нет</li>
+<li>радости, горя, суеты и бед,</li>
+<li>дни столь привычных повседневных дел,</li>
+<li>что составляют наш земной удел, -</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>იყავი ასეთ დღეებში ჩემთან,</li>
-<li>ანათოს ბნელზე შენმა დიდებამ,</li>
-<li>მიწიერი წლები რომ გადავა,</li>
-<li>ვიყო სრულყოფილ დღეს შენთან ერთად.</li>
+<li>все эти дни, Господь, пребудь со мной -</li>
+<li>так засияет славой мрак ночной.</li>
+<li>и когда жизнь земная вся пройдёт,</li>
+<li>дай быть с Тобой, Господь, в день вечный тот.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "მაქვს სუსტი ნება და ძალა,"),
-    num: (num = 419),
+    title: (title = "ослабла воля, силы нет;"),
+    num: (num = 304),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19497,44 +19494,44 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>იმედი თითქმის გამიქრა,</li>
-<li>შენს სამუშაოს ვენდობი,</li>
-<li>ხელი მომკიდე, მოგყვები.</li>
+<li>надежды тает слабый след.</li>
+<li>лишь уповаю на Тебя -</li>
+<li>не дай упасть, веди средь бед.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ბევრჯერ ვცადე, ვერ შევძელი,</li>
-<li>ბევრჯერ შევცდი და დავმარცხდი.</li>
-<li>ვენდობი შენს მოთმინებას,</li>
-<li>შემინახე შენს სიტყვასთან.</li>
+<li>я делал всё, что только мог,</li>
+<li>но вот опять споткнулся я.</li>
+<li>твоё терпенье - мой оплот,</li>
+<li>оно одно хранит меня.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>როდესაც ჩემს გულს ვიმაღლებ,</li>
-<li>დაცემასთან რა ახლოს ვარ,</li>
-<li>ვერ ვბედავ ფიქრს, მოქმედებას</li>
-<li>შენს გარეშე არავინ ვარ.</li>
+<li>лишь сердце чуть превознеслось -</li>
+<li>падения не отвратить.</li>
+<li>господь, не смею без Тебя</li>
+<li>я ни помыслить, ни ступить.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ჩემი მხსნელი ხარ და ძალა</li>
-<li>ო, მოვდივარ შენს სახესთან,</li>
-<li>თუმც სუსტთა შორის სუსტი ვარ,</li>
-<li>შენი მადლი მმატებს ძალას</li>
+<li>ты - мой Спаситель и оплот;</li>
+<li>господь, Твой лик стремлюсь искать.</li>
+<li>пусть я так слаб, но силу всю</li>
+<li>даёт Твоя мне благодать.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "სიტყვის სინათლეში"),
-    num: (num = 420),
+    title: (title = "если с Господом мы"),
+    num: (num = 305),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19542,75 +19539,75 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>როდესაც დავდივართ,</li>
-<li>ო, რა დიდება გვინათებს გზას,</li>
-<li>ვასრულებთ ღვთის ნებას,</li>
-<li>ღმერთი ჩვენში რჩება,</li>
-<li>როცა ვმორჩილებთ, ვენდობით მას.</li>
-<li class="chorus chorus-top">მიენდე მას</li>
-<li class="chorus">დაემორჩილე,</li>
-<li class="chorus">ბედნიერების გზა</li>
-<li class="chorus chorus-bottom">იესოშია დღეს.</li>
+<li>в свете Слова идём,</li>
+<li>он дарует нам славу Свою.</li>
+<li>и всегда с нами Он,</li>
+<li>если с Ним мы одно,</li>
+<li>если, веря, послушны Ему.</li>
+<li class="chorus chorus-top">о, доверяй,</li>
+<li class="chorus">будь послушен всегда!</li>
+<li class="chorus">быть счастливым в Иисусе</li>
+<li class="chorus chorus-bottom">сможешь только тогда.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ბნელი არ იქნება,</li>
-<li>არც ღრუბელი ცაზე,</li>
-<li>მისი ღიმილი განდევნის მათ.</li>
-<li>არც ეჭვი და შიში,</li>
-<li>არც დარდი და ცრემლი</li>
-<li>თუ ვენდობით, ვემორჩილებით.</li>
-<li class="chorus chorus-top">მიენდე მას</li>
-<li class="chorus">დაემორჩილე,</li>
-<li class="chorus">ბედნიერების გზა</li>
-<li class="chorus chorus-bottom">იესოშია დღეს.</li>
+<li>не опустится тень,</li>
+<li>и без туч будет день -</li>
+<li>ведь улыбка Его гонит тьму.</li>
+<li>нет сомнений, тревог,</li>
+<li>вздохов, слёз у того,</li>
+<li>кто, доверясь, послушен Ему.</li>
+<li class="chorus chorus-top">о, доверяй,</li>
+<li class="chorus">будь послушен всегда!</li>
+<li class="chorus">быть счастливым в Иисусе</li>
+<li class="chorus chorus-bottom">сможешь только тогда.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ჩვენ ჩვენი ძალით არ</li>
-<li>ვატარებთ ტვირთს ან ჯვარს,</li>
-<li>ის ანაზღაურებს ჩვენს შრომას,</li>
-<li>ყველაფერი ხდება</li>
-<li>კურთხევა, როდესაც</li>
-<li>უფალს ვენდობით, ვმორჩილებთ მას</li>
-<li class="chorus chorus-top">მიენდე მას</li>
-<li class="chorus">დაემორჩილე,</li>
-<li class="chorus">ბედნიერების გზა</li>
-<li class="chorus chorus-bottom">იესოშია დღეს.</li>
+<li>хоть заботы у нас</li>
+<li>или горе подчас -</li>
+<li>в них являет Он щедрость Свою.</li>
+<li>скорбь, утраты и крест -</li>
+<li>в них блаженство для тех,</li>
+<li>кто, доверясь, послушен Ему.</li>
+<li class="chorus chorus-top">о, доверяй,</li>
+<li class="chorus">будь послушен всегда!</li>
+<li class="chorus">быть счастливым в Иисусе</li>
+<li class="chorus chorus-bottom">сможешь только тогда.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>სიყვარულის ტკბობას</li>
-<li>განვიცდით, როდესაც</li>
-<li>ყველაფერს სამსხვერპლოზე ვტოვებთ.</li>
-<li>წყალობას, კურთხევას</li>
-<li>ჩუქნის ყოველს, ვინც მას</li>
-<li>ენდობა და ემორჩილება.</li>
-<li class="chorus chorus-top">მიენდე მას</li>
-<li class="chorus">დაემორჩილე,</li>
-<li class="chorus">ბედნიერების გზა</li>
-<li class="chorus chorus-bottom">იესოშია დღეს.</li>
+<li>лишь когда Ему всё</li>
+<li>в жертву ты принесёшь,</li>
+<li>он любовь тебе явит Свою.</li>
+<li>ведь Он благоволит,</li>
+<li>радость тем лишь дарит,</li>
+<li>кто, доверясь, послушен Ему.</li>
+<li class="chorus chorus-top">о, доверяй,</li>
+<li class="chorus">будь послушен всегда!</li>
+<li class="chorus">быть счастливым в Иисусе</li>
+<li class="chorus chorus-bottom">сможешь только тогда.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ტკბილ ზიარებაში,</li>
-<li>ღვთის ფეხებთან ვსხედვართ</li>
-<li>თუ გზას მასთან ერთად გავდივართ,</li>
-<li>გვეტყვის და ვასრულებთ,</li>
-<li>გვგზავნის და მივდივართ.</li>
-<li>არ გვეშინია, ვენდობით მას.</li>
-<li class="chorus chorus-top">მიენდე მას</li>
-<li class="chorus">დაემორჩილე,</li>
-<li class="chorus">ბედნიერების გზა</li>
-<li class="chorus chorus-bottom">იესოშია დღეს.</li>
+<li>с Ним общенье тогда</li>
+<li>будет сладким всегда,</li>
+<li>рядом с Ним будет светлым наш путь;</li>
+<li>он пошлёт - мы пойдём,</li>
+<li>и нет страха ни в чём;</li>
+<li>просто верь и послушен лишь будь.</li>
+<li class="chorus chorus-top">о, доверяй,</li>
+<li class="chorus">будь послушен всегда!</li>
+<li class="chorus">быть счастливым в Иисусе</li>
+<li class="chorus chorus-bottom">сможешь только тогда.</li>
 </ul>
 </section>
 </main>
