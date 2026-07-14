@@ -261,6 +261,12 @@ h6 {
   width: 3.375rem;
 }
 
+.history-heart-icons {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -535,4 +541,19 @@ input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
+}
+.heart-hymn {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 0;
+}
+
+.heart-hymn svg path {
+  transition: 0.2s;
+}
+
+.heart-hymn.active svg path {
+  fill: gold;
+  stroke: gold;
 }

@@ -14,8 +14,17 @@ const search = document.querySelector(".search");
 const hymnWrapper = document.querySelector(".hymn-wrapper");
 const strContainer = document.querySelector(".str-container");
 const hymnHistory = document.querySelector(".hymn-history");
-const hBtn = document.querySelector(".h-btn");
-const itemsList = document.querySelector(".itemsList");
+const historyBtn = document.querySelector(".history-btn");
+const heartBtn = document.querySelector(".heart-btn");
+const heartHymn = document.querySelector(".heart-hymn");
+const historyList = document.querySelector(".historyList");
+const favoriteList = document.querySelector(".favoriteList");
+const hymnFavorite = document.querySelector(".hymn-favorite");
+
+//=======================================================//
+
+let favoriteItems = JSON.parse(localStorage.getItem("favorite_items")) || [];
+let historyItems = JSON.parse(localStorage.getItem("history_items")) || [];
 
 //=======================================================//
 
@@ -98,9 +107,9 @@ iBtn.addEventListener("click", () => {
     inputText.addEventListener("click", () => {
       inputTextModal.classList.add("height-none");
     });
-    hBtn.addEventListener("click", () => {
+    historyBtn.addEventListener("click", () => {
       inputTextModal.classList.add("height-none");
-      if (itemsList.childNodes.length === 0) {
+      if (historyList.childNodes.length === 0) {
         inputText.focus();
       }
     });
@@ -245,7 +254,7 @@ search.onclick = () => {
   hymnWrapper.classList.add("none");
   main.classList.remove("none");
   hymnHistory.classList.add("none");
-  hBtn.classList.remove("active");
+  historyBtn.classList.remove("active");
   stopSound();
   inputNum.value = "";
   inputText.value = "";
@@ -256,61 +265,168 @@ search.onclick = () => {
 function hNumber() {
   const hNum = document.querySelector(".hNum");
   hymnNum.innerHTML = `Гимн <span>${hNum.textContent}</span>`;
+
+  checkFavorite();
 }
 
 //=======================================================//
-let items = [];
+
+function checkFavorite() {
+  const hNum = Number(document.querySelector(".hymnNum span").textContent);
+
+  if (favoriteItems.includes(hNum)) {
+    heartHymn.classList.add("active");
+  } else {
+    heartHymn.classList.remove("active");
+  }
+}
+
+//=======================================================//
+
+function toggleFavorite() {
+  const hNum = Number(document.querySelector(".hymnNum span").textContent);
+
+  if (favoriteItems.includes(hNum)) {
+    favoriteItems = favoriteItems.filter((item) => item !== hNum);
+  } else {
+    favoriteItems.push(hNum);
+  }
+
+  localStorage.setItem("favorite_items", JSON.stringify(favoriteItems));
+
+  checkFavorite();
+  displayFavorites();
+}
+
+//=======================================================//
+
+if (heartHymn) {
+  heartHymn.onclick = toggleFavorite;
+}
+
+//=======================================================//
+
+heartBtn.onclick = function () {
+  if (favoriteItems.length !== 0) {
+    displayFavorites();
+
+    main.classList.add("none");
+    hymnFavorite.classList.remove("none");
+  }
+};
+
+//=======================================================//
 
 function addItem() {
   const hStr = document.querySelector(".hymnNum span").textContent;
   let n = Number(hStr);
+
   function strCreate() {
     for (let key in pages) {
       let str = pages[n - 1].title;
       let num = pages[n - 1].num;
-      items.push(
+
+      historyItems.push(
         `<li class="h-str-li" data="${num}">${str}<span>${num}</span></li>`,
       );
+
       break;
     }
   }
-  if (localStorage.getItem("items")) {
-    items = JSON.parse(localStorage.getItem("items"));
+
+  if (localStorage.getItem("history_items")) {
+    historyItems = JSON.parse(localStorage.getItem("history_items"));
+
     strCreate();
-    const arr = [...new Set(items)];
+
+    const arr = [...new Set(historyItems)];
+
     if (arr.length > 20) {
       arr.shift();
-      items = [];
-      localStorage.setItem("items", JSON.stringify(arr));
+      historyItems = [];
+      localStorage.setItem("history_items", JSON.stringify(arr));
     } else {
-      items = [];
-      localStorage.setItem("items", JSON.stringify(arr));
+      historyItems = [];
+      localStorage.setItem("history_items", JSON.stringify(arr));
     }
   } else {
     strCreate();
-    const arr = [...new Set(items)];
-    items = [];
-    localStorage.setItem("items", JSON.stringify(arr));
+
+    const arr = [...new Set(historyItems)];
+
+    historyItems = [];
+
+    localStorage.setItem("history_items", JSON.stringify(arr));
   }
-  displayItems();
+
+  displayHistoryItems();
 }
 
-function displayItems() {
-  let itemStr = JSON.parse(localStorage.getItem("items"));
+//=======================================================//
+
+function displayHistoryItems() {
+  let historyStr = JSON.parse(localStorage.getItem("history_items"));
   let out = "";
-  if (itemStr !== null) {
-    for (let i = itemStr.length; i >= 0; i--) {
-      if (itemStr[i] !== undefined) {
-        out += `${itemStr[i]}`;
+  if (historyStr !== null) {
+    for (let i = historyStr.length; i >= 0; i--) {
+      if (historyStr[i] !== undefined) {
+        out += `${historyStr[i]}`;
       }
     }
   }
-  itemsList.innerHTML = out;
+  historyList.innerHTML = out;
 }
-displayItems();
+displayHistoryItems();
 
-hBtn.onclick = function () {
-  if (itemsList.childNodes.length != 0) {
+//=======================================================//
+
+function displayFavorites() {
+  let out = "";
+
+  favoriteItems.forEach((item) => {
+    let index = item - 1;
+
+    if (!pages[index]) return;
+
+    let title = pages[index].title;
+    let num = pages[index].num;
+
+    out += `
+      <li class="h-str-li" data-num="${num}">
+        ${title}
+        <span>${num}</span>
+      </li>
+    `;
+  });
+
+  favoriteList.innerHTML = out;
+
+  document.querySelectorAll(".favoriteList .h-str-li").forEach((item) => {
+    item.onclick = function () {
+      let n = Number(this.dataset.num) - 1;
+
+      hymnFavorite.classList.add("none");
+      hymnWrapper.classList.remove("none");
+
+      stopP.classList.add("none");
+      pause.classList.add("none");
+      play.classList.remove("none");
+
+      hCont.innerHTML = `${pages[n].page}`;
+
+      hNumber();
+
+      songSrc();
+
+      sum = n;
+    };
+  });
+}
+
+//=======================================================//
+
+historyBtn.onclick = function () {
+  if (historyList.childNodes.length != 0) {
     this.classList.add("active");
     if (this.classList.contains("active")) {
       hymnHistory.classList.remove("none");

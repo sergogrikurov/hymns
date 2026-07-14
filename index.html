@@ -29,11 +29,35 @@
         />
         <div class="inputText__modal height-none">Введите минимум 8 букв</div>
         <button class="i-btn">Поиск</button>
-        <button class="h-btn icon-history"></button>
+        <div class="history-heart-icons">
+          <button class="h-btn history-btn icon-history"></button>
+          <button class="h-btn heart-btn">
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none">
+              <path
+                d="M12 21s-7-4.35-9.5-8C.5 9.5 2.5 5 7 5c2.2 0 3.6 1.2 5 3 1.4-1.8 2.8-3 5-3 4.5 0 6.5 4.5 4.5 8-2.5 3.65-9.5 8-9.5 8z"
+                stroke="white"
+                stroke-width="2"
+                fill="none"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
       </main>
       <div class="hymn-wrapper none">
         <header class="header">
           <p class="hymnNum"><span></span></p>
+          <button class="heart-hymn">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none">
+              <path
+                d="M12 21s-7-4.35-9.5-8C.5 9.5 2.5 5 7 5c2.2 0 3.6 1.2 5 3 1.4-1.8 2.8-3 5-3 4.5 0 6.5 4.5 4.5 8-2.5 3.65-9.5 8-9.5 8z"
+                stroke="white"
+                stroke-width="2"
+                fill="none"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
           <button class="search icon-search"></button>
         </header>
         <div class="hymn-container"></div>
@@ -53,7 +77,10 @@
       </div>
       <div class="str-container none"></div>
       <div class="hymn-history none">
-        <ul class="itemsList"></ul>
+        <ul class="historyList"></ul>
+      </div>
+      <div class="hymn-favorite none">
+        <ul class="favoriteList"></ul>
       </div>
     </div>
 
