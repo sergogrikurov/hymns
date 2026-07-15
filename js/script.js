@@ -130,19 +130,12 @@ iBtn.addEventListener("click", () => {
   document.querySelectorAll(".str-li").forEach((item) => {
     item.onclick = function () {
       strContainer.classList.add("none");
-      hymnWrapper.classList.remove("none");
-      stopP.classList.add("none");
-      pause.classList.add("none");
-      play.classList.remove("none");
-      playStop.classList.remove("none");
       strContainer.innerHTML = "";
+
       let s = this.getAttribute("data");
       let n = Number(s);
-      hCont.innerHTML = `${pages[n].page}`;
-      hNumber();
 
-      songSrc();
-      sum = n;
+      openHymn(n);
       let hnst = document.querySelector(".hymnNum span").textContent;
       let hNs = Number(hnst);
       if (hNs === 1) {
@@ -255,6 +248,7 @@ search.onclick = () => {
   main.classList.remove("none");
   hymnHistory.classList.add("none");
   historyBtn.classList.remove("active");
+  hymnFavorite.classList.add("none");
   stopSound();
   inputNum.value = "";
   inputText.value = "";
@@ -267,6 +261,25 @@ function hNumber() {
   hymnNum.innerHTML = `Гимн <span>${hNum.textContent}</span>`;
 
   checkFavorite();
+}
+
+//=======================================================//
+
+function openHymn(n) {
+  hymnWrapper.classList.remove("none");
+  main.classList.add("none");
+
+  stopP.classList.add("none");
+  pause.classList.add("none");
+  play.classList.remove("none");
+  playStop.classList.remove("none");
+
+  hCont.innerHTML = `${pages[n].page}`;
+
+  hNumber();
+  songSrc();
+
+  sum = n;
 }
 
 //=======================================================//
@@ -405,20 +418,7 @@ function displayFavorites() {
     item.onclick = function () {
       let n = Number(this.dataset.num) - 1;
 
-      hymnFavorite.classList.add("none");
-      hymnWrapper.classList.remove("none");
-
-      stopP.classList.add("none");
-      pause.classList.add("none");
-      play.classList.remove("none");
-
-      hCont.innerHTML = `${pages[n].page}`;
-
-      hNumber();
-
-      songSrc();
-
-      sum = n;
+      openHymn(n);
     };
   });
 }
@@ -443,13 +443,10 @@ historyBtn.onclick = function () {
         playStop.classList.remove("none");
         strContainer.innerHTML = "";
         let s = this.getAttribute("data");
-        let n = Number(s);
-        n = n - 1;
-        hCont.innerHTML = `${pages[n].page}`;
-        hNumber();
+        let n = Number(s) - 1;
 
-        songSrc();
-        sum = n;
+        openHymn(n);
+
         let hnst = document.querySelector(".hymnNum span").textContent;
         let hNs = Number(hnst);
         if (hNs === 1) {
