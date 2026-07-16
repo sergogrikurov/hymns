@@ -8106,8 +8106,8 @@ const pages = [
 <li>горит любовь Твоя.</li>
 <li class="chorus chorus-top">господь Иисус, пребудь со мной;</li>
 <li class="chorus">во всякий час Ты мой покой;</li>
-<li class="chorus">улыбка светит мне твоя;</li>
-<li class="chorus chorus-bottom">о, я люблю тебя.</li>
+<li class="chorus">улыбка светит мне Твоя;</li>
+<li class="chorus chorus-bottom">о, я люблю Тебя.</li>
 </ul>
 </section>
 <section>
@@ -8119,8 +8119,8 @@ const pages = [
 <li>спасение души.</li>
 <li class="chorus chorus-top">господь Иисус, пребудь со мной;</li>
 <li class="chorus">во всякий час Ты мой покой;</li>
-<li class="chorus">улыбка светит мне твоя;</li>
-<li class="chorus chorus-bottom">о, я люблю тебя.</li>
+<li class="chorus">улыбка светит мне Твоя;</li>
+<li class="chorus chorus-bottom">о, я люблю Тебя.</li>
 </ul>
 </section>
 <section>
@@ -8132,8 +8132,8 @@ const pages = [
 <li>не будет выжжен прочь.</li>
 <li class="chorus chorus-top">господь Иисус, пребудь со мной;</li>
 <li class="chorus">во всякий час Ты мой покой;</li>
-<li class="chorus">улыбка светит мне твоя;</li>
-<li class="chorus chorus-bottom">о, я люблю тебя.</li>
+<li class="chorus">улыбка светит мне Твоя;</li>
+<li class="chorus chorus-bottom">о, я люблю Тебя.</li>
 </ul>
 </section>
 <section>
@@ -8145,8 +8145,8 @@ const pages = [
 <li>счесть всё, что есть в Тебе?</li>
 <li class="chorus chorus-top">господь Иисус, пребудь со мной;</li>
 <li class="chorus">во всякий час Ты мой покой;</li>
-<li class="chorus">улыбка светит мне твоя;</li>
-<li class="chorus chorus-bottom">о, я люблю тебя.</li>
+<li class="chorus">улыбка светит мне Твоя;</li>
+<li class="chorus chorus-bottom">о, я люблю Тебя.</li>
 </ul>
 </section>
 <section>
@@ -8158,8 +8158,8 @@ const pages = [
 <li>господь Иисус для нас.</li>
 <li class="chorus chorus-top">господь Иисус, пребудь со мной;</li>
 <li class="chorus">во всякий час Ты мой покой;</li>
-<li class="chorus">улыбка светит мне твоя;</li>
-<li class="chorus chorus-bottom">о, я люблю тебя.</li>
+<li class="chorus">улыбка светит мне Твоя;</li>
+<li class="chorus chorus-bottom">о, я люблю Тебя.</li>
 </ul>
 </section>
 </main>
@@ -8194,7 +8194,7 @@ const pages = [
 <ul>
 <li>надежда тех, кто сокрушён,</li>
 <li>и радость кротких Ты;</li>
-<li>о, как ты добр ко всем, кто пал,</li>
+<li>о, как Ты добр ко всем, кто пал,</li>
 <li>благ к ищущим Твоим!</li>
 </ul>
 </section>
@@ -20556,69 +20556,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "წლობით ვიტანჯებოდი ჯვართან,"),
-    num: (num = 472),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ცოდვებს ვინანიებდი მუდამ.</li>
-<li>ბოლოს გაველ მდინარის მიღმა</li>
-<li>- შევეხე ტახტს.</li>
-<li class="chorus chorus-top">ახლა მოსჩქეფს მადლიც, წყალობაც</li>
-<li class="chorus">- სარბიელს მე უფლით გავდივარ!</li>
-<li class="chorus">მივდივარ და ვჭამ გაბედულად</li>
-<li class="chorus chorus-bottom">ჩემს დიდ უფალს.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ჩემს ქრისტიანულ ცხოვრებაში</li>
-<li>სულ სამსხვერპლოებთან ვიყავი,</li>
-<li>ბოლოს ისინი დავშთე, ტახტი</li>
-<li>შევიცანი.</li>
-<li class="chorus chorus-top">ახლა მოსჩქეფს მადლიც, წყალობაც</li>
-<li class="chorus">- სარბიელს მე უფლით გავდივარ!</li>
-<li class="chorus">მივდივარ და ვჭამ გაბედულად</li>
-<li class="chorus chorus-bottom">ჩემს დიდ უფალს.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ძმანნო, წმიდაში მხნედ შემოდით,</li>
-<li>ირბინეთ, დატოვეთ ცოდვები.</li>
-<li>аллилуйя! აწ საბურველი</li>
-<li>არის ხსნილი.</li>
-<li class="chorus chorus-top">ახლა მოსჩქეფს მადლიც, წყალობაც</li>
-<li class="chorus">- სარბიელს მე უფლით გავდივარ!</li>
-<li class="chorus">მივდივარ და ვჭამ გაბედულად</li>
-<li class="chorus chorus-bottom">ჩემს დიდ უფალს.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ახლა ფარდის მიღმა ვტკბებით: ღვთით,</li>
-<li>მანანით, სიცოცხლის კანონით,</li>
-<li>კვერთხით, ქრისტეთი და სავანით</li>
-<li>- аллилуйя!</li>
-<li class="chorus chorus-top">ახლა მოსჩქეფს მადლიც, წყალობაც</li>
-<li class="chorus">- სარბიელს მე უფლით გავდივარ!</li>
-<li class="chorus">მივდივარ და ვჭამ გაბედულად</li>
-<li class="chorus chorus-bottom">ჩემს დიდ უფალს.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "მე შენი სახელის სიღრმეებში,"),
-    num: (num = 473),
+    title: (title = "в самых глубинах в имени Твоём,"),
+    num: (num = 321),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20626,35 +20565,35 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ჩემო ღმერთო, შევდივარ, ვისვენებ;</li>
-<li>შენ ხარ საკმარისი გრძელ დღესაც კი,</li>
-<li>და ღამეში საკმარი სინათლე.</li>
+<li>бог мой, вхожу я в сладостный покой,</li>
+<li>переживу с Тобою долгий день,</li>
+<li>и тёмной ночи не боюсь с Тобой.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>შენ ხარ ყოვლადსაკმარისი ღმერთი,</li>
-<li>ძალგიძს, ამივსო საჭიროება;</li>
-<li>ჩემთვის გზა გამზადდა შენი ხელით,</li>
-<li>თან მსდევს შენი სიყვარული, ზრუნვა.</li>
+<li>бог мой, Ты Вседостаточный Господь,</li>
+<li>ты покрываешь нужды все мои;</li>
+<li>путь одинокий выстлал для меня</li>
+<li>нежной заботой в чудесах любви.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>შენ გენდობი. ჩემო ღმერთო, ვბედავ,</li>
-<li>რომ შენს მკერდზე ისევ მოვისვენო,</li>
-<li>და თაყვანი ვცე შენს გზებს, საოცარს,</li>
-<li>და მათზე განცვიფრებით ვიფიქრო.</li>
+<li>верю Тебе. Осмеливаюсь вновь,</li>
+<li>бог мой, укрыться на Твоей груди,</li>
+<li>в тихом покое веры постигать,</li>
+<li>как изумительны Твои пути.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "მე დავინახე ელვა,"),
-    num: (num = 474),
+    title: (title = "утомлённый жизнью странник,"),
+    num: (num = 322),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20662,171 +20601,78 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>მომესმა გრუხუნი;</li>
-<li>ვიგრძენ ცოდვისგან მსხვრევა,</li>
-<li>შთანთქვა ჩემი მშვინვის;</li>
-<li>იესოს ხმა მომესმა,</li>
-<li>რომ მებრძოლა ბოლომდე;</li>
-<li>ის დამპირდა, რომ არასდროს</li>
-<li>მე არ მიმატოვებს.</li>
-<li class="chorus chorus-top">არ მიმატოვებს,</li>
-<li class="chorus">არ მიმატოვებს,</li>
-<li class="chorus">ის დამპირდა, რომ არასდროს</li>
-<li class="chorus">მე არ მიმატოვებს;</li>
-<li class="chorus">არ მიმატოვებს,</li>
-<li class="chorus">არ მიმატოვებს,</li>
-<li class="chorus">ის დამპირდა, რომ არასდროს</li>
-<li class="chorus chorus-bottom">მე არ მიმატოვებს.</li>
+<li>изнемогший от труда,</li>
+<li>слушай слово утешенья:</li>
+<li>«бремя Господу отдай».</li>
+<li class="chorus chorus-top">бремя Господу отдай,</li>
+<li class="chorus">бремя Господу отдай,</li>
+<li class="chorus">и Он тебя снабдит,</li>
+<li class="chorus">утешит, укрепит.</li>
+<li class="chorus chorus-bottom">бремя Господу отдай.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ქვეყნად ქრის ქარიშხალი,</li>
-<li>ჭარბობს ცდუნებები;</li>
-<li>თუმც მაქვს მშვიდობა, ვიცი,</li>
-<li>მხსნელი დგას ჩვენს შორის;</li>
-<li>ხიფათში ის ფარად მიდგას,</li>
-<li>სხვებმა როს დამტოვეს,</li>
-<li>ის დამპირდა, რომ არასდროს</li>
-<li>მე არ მიმატოვებს.</li>
-<li class="chorus chorus-top">არ მიმატოვებს,</li>
-<li class="chorus">არ მიმატოვებს,</li>
-<li class="chorus">ის დამპირდა, რომ არასდროს</li>
-<li class="chorus">მე არ მიმატოვებს;</li>
-<li class="chorus">არ მიმატოვებს,</li>
-<li class="chorus">არ მიმატოვებს,</li>
-<li class="chorus">ის დამპირდა, რომ არასდროს</li>
-<li class="chorus chorus-bottom">მე არ მიმატოვებს.</li>
+<li>ты устал, слабеют ноги?</li>
+<li>крест тяжёл как никогда?</li>
+<li>не сияет твой светильник?</li>
+<li>бремя Господу отдай.</li>
+<li class="chorus chorus-top">бремя Господу отдай,</li>
+<li class="chorus">бремя Господу отдай,</li>
+<li class="chorus">и Он тебя снабдит,</li>
+<li class="chorus">утешит, укрепит.</li>
+<li class="chorus chorus-bottom">бремя Господу отдай.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>როცა შავეთის ველით</li>
-<li>მიწევს ხოლმე გასვლა,</li>
-<li>მძიმე ჯვრის ტარებაში,</li>
-<li>მხსნელი მეხმარება;</li>
-<li>როცა ფეხები მმუხთლობს,</li>
-<li>ვარ წაქცევის პირზე,</li>
-<li>ის მჩურჩულებს, რომ არასდროს</li>
-<li>მე არ მიმატოვებს.</li>
-<li class="chorus chorus-top">არ მიმატოვებს,</li>
-<li class="chorus">არ მიმატოვებს,</li>
-<li class="chorus">ის დამპირდა, რომ არასდროს</li>
-<li class="chorus">მე არ მიმატოვებს;</li>
-<li class="chorus">არ მიმატოვებს,</li>
-<li class="chorus">არ მიმატოვებს,</li>
-<li class="chorus">ის დამპირდა, რომ არასდროს</li>
-<li class="chorus chorus-bottom">მე არ მიმატოვებს.</li>
+<li>разорвались узы дружбы?</li>
+<li>давит на сердце беда?</li>
+<li>голоса любимых смолкли?</li>
+<li>бремя Господу отдай.</li>
+<li class="chorus chorus-top">бремя Господу отдай,</li>
+<li class="chorus">бремя Господу отдай,</li>
+<li class="chorus">и Он тебя снабдит,</li>
+<li class="chorus">утешит, укрепит.</li>
+<li class="chorus chorus-bottom">бремя Господу отдай.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ის ჩემთვის მოკვდა ჯვარზე,</li>
-<li>ფერდი განუგმირეს,</li>
-<li>მან გააღო სათავე,</li>
-<li>ძლიერმოქმედი სისხლის;</li>
-<li>თვის დიდებაში მიხმობს,</li>
-<li>ის ზის თავის ტახტზე;</li>
-<li>ის დამპირდა, რომ არასდროს</li>
-<li>მე არ მიმატოვებს.</li>
-<li class="chorus chorus-top">არ მიმატოვებს,</li>
-<li class="chorus">არ მიმატოვებს,</li>
-<li class="chorus">ის დამპირდა, რომ არასდროს</li>
-<li class="chorus">მე არ მიმატოვებს;</li>
-<li class="chorus">არ მიმატოვებს,</li>
-<li class="chorus">არ მიმატოვებს,</li>
-<li class="chorus">ის დამპირდა, რომ არასდროს</li>
-<li class="chorus chorus-bottom">მე არ მიმატოვებს.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ხიზანო სიცოცხლის გზაზე"),
-    num: (num = 475),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>- გადაღლილო ტვირთის ქვეშ</li>
-<li>- ისმინე ნუგეშის სიტყვა,</li>
-<li>"ტვირთი უფალზე დადე".</li>
-<li class="chorus chorus-top">ტვირთი უფალზე დადე!</li>
-<li class="chorus">ტვირთი უფალზე დადე,</li>
-<li class="chorus">ის შენ გაგამაგრებს,</li>
-<li class="chorus">ნუგეშს, შველას მოგცემს</li>
-<li class="chorus chorus-bottom">- ტვირთი უფალზე დადე.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ფერხთ ძალა გამოგელია?</li>
-<li>ძლივსღა ანათებ სანთელს?</li>
-<li>მძიმე და დიდი ჯვარი გაქვს?</li>
-<li>"ტვირთი უფალზე დადე".</li>
-<li class="chorus chorus-top">ტვირთი უფალზე დადე!</li>
-<li class="chorus">ტვირთი უფალზე დადე,</li>
-<li class="chorus">ის შენ გაგამაგრებს,</li>
-<li class="chorus">ნუგეშს, შველას მოგცემს</li>
-<li class="chorus chorus-bottom">- ტვირთი უფალზე დადე.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მიგატოვეს მეგობრებმა?</li>
-<li>ტკბილი ხმები დადუმდნენ?</li>
-<li>გული მწუხარებით ღელავს?</li>
-<li>"ტვირთი უფალზე დადე".</li>
-<li class="chorus chorus-top">ტვირთი უფალზე დადე!</li>
-<li class="chorus">ტვირთი უფალზე დადე,</li>
-<li class="chorus">ის შენ გაგამაგრებს,</li>
-<li class="chorus">ნუგეშს, შველას მოგცემს</li>
-<li class="chorus chorus-bottom">- ტვირთი უფალზე დადე.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>გული სისუსტით ორჭოფობს?</li>
-<li>უფლის სიტყვას ივიწყებ?</li>
-<li>შენი ძალა მიიწურა?</li>
-<li>"ტვირთი უფალზე დადე".</li>
-<li class="chorus chorus-top">ტვირთი უფალზე დადე!</li>
-<li class="chorus">ტვირთი უფალზე დადე,</li>
-<li class="chorus">ის შენ გაგამაგრებს,</li>
-<li class="chorus">ნუგეშს, შველას მოგცემს</li>
-<li class="chorus chorus-bottom">- ტვირთი უფალზე დადე.</li>
+<li>позабыл твой разум Слово?</li>
+<li>слабость в сердце у тебя?</li>
+<li>немощь силу побеждает?</li>
+<li>бремя Господу отдай.</li>
+<li class="chorus chorus-top">бремя Господу отдай,</li>
+<li class="chorus">бремя Господу отдай,</li>
+<li class="chorus">и Он тебя снабдит,</li>
+<li class="chorus">утешит, укрепит.</li>
+<li class="chorus chorus-bottom">бремя Господу отдай.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ის დაგიცავს დაცემისგან,</li>
-<li>წარმართავს შენს ნაბიჯებს;</li>
-<li>გაამაგრებს შენს წინ სწრაფვას,</li>
-<li>დაგიცავს ის ძალით შენ.</li>
-<li class="chorus chorus-top">ტვირთი უფალზე დადე!</li>
-<li class="chorus">ტვირთი უფალზე დადე,</li>
-<li class="chorus">ის შენ გაგამაგრებს,</li>
-<li class="chorus">ნუგეშს, შველას მოგცემს</li>
-<li class="chorus chorus-bottom">- ტვირთი უფალზე დადე.</li>
+<li>он удержит от паденья,</li>
+<li>он укажет путь тебе,</li>
+<li>укрепит тебя в стараньях,</li>
+<li>мощью сохранит Своей.</li>
+<li class="chorus chorus-top">бремя Господу отдай,</li>
+<li class="chorus">бремя Господу отдай,</li>
+<li class="chorus">и Он тебя снабдит,</li>
+<li class="chorus">утешит, укрепит.</li>
+<li class="chorus chorus-bottom">бремя Господу отдай.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ჩემს განსაცდელებში მუდამ,"),
-    num: (num = 476),
+    title: (title = "средь испытаний на пути,"),
+    num: (num = 323),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20834,47 +20680,47 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>როს ეკლები ფეხს მიჩხვლიტავს,</li>
-<li>ტკბილი აზრი თან მსდევს მუდამ</li>
-<li>- უფალო, გახსოვარ.</li>
-<li class="chorus chorus-top">უფალო, გახსოვარ!</li>
-<li class="chorus">უფალო, გახსოვარ!</li>
-<li class="chorus">არ ვშიშობ, როცა ჩემთან ხარ</li>
-<li class="chorus chorus-bottom">და ვიცი, გახსოვარ.</li>
+<li>когда так больно мне идти,</li>
+<li>господь, утешен я одним -</li>
+<li>ты помнишь обо мне!</li>
+<li class="chorus chorus-top">ты помнишь обо мне!</li>
+<li class="chorus">ты помнишь обо мне!</li>
+<li class="chorus">весь страх - долой, ведь Ты со мной</li>
+<li class="chorus chorus-bottom">и помнишь обо мне!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ჩემს მშვინვას ურდოდ აწყდება</li>
-<li>საზრუნავნი ცხოვრებისა;</li>
-<li>ეს წყვდიადი მახსენებს კვლავ:</li>
-<li>უფალო, გახსოვარ.</li>
-<li class="chorus chorus-top">უფალო, გახსოვარ!</li>
-<li class="chorus">უფალო, გახსოვარ!</li>
-<li class="chorus">არ ვშიშობ, როცა ჩემთან ხარ</li>
-<li class="chorus chorus-bottom">და ვიცი, გახსოვარ.</li>
+<li>забот житейских череда,</li>
+<li>как тень на душу мне легла.</li>
+<li>напоминает мне их мгла:</li>
+<li>ты помнишь обо мне!</li>
+<li class="chorus chorus-top">ты помнишь обо мне!</li>
+<li class="chorus">ты помнишь обо мне!</li>
+<li class="chorus">весь страх - долой, ведь Ты со мной</li>
+<li class="chorus chorus-bottom">и помнишь обо мне!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ჩრდილი მოვა, ჩრდილი წავა,</li>
-<li>დღე და ღამე კვლავ გადავა</li>
-<li>არა მაკლია რა, როცა</li>
-<li>უფალო, გახსოვარ.</li>
-<li class="chorus chorus-top">უფალო, გახსოვარ!</li>
-<li class="chorus">უფალო, გახსოვარ!</li>
-<li class="chorus">არ ვშიშობ, როცა ჩემთან ხარ</li>
-<li class="chorus chorus-bottom">და ვიცი, გახსოვარ.</li>
+<li>беда иль радость у меня,</li>
+<li>светла, темна ли жизнь моя,</li>
+<li>доволен, ибо знаю я:</li>
+<li>ты помнишь обо мне!</li>
+<li class="chorus chorus-top">ты помнишь обо мне!</li>
+<li class="chorus">ты помнишь обо мне!</li>
+<li class="chorus">весь страх - долой, ведь Ты со мной</li>
+<li class="chorus chorus-bottom">и помнишь обо мне!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ჩემი მხსნელი წინ მიმიძღვის;"),
-    num: (num = 477),
+    title: (title = "мой Спаситель - Проводник мой;"),
+    num: (num = 324),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20882,53 +20728,53 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>რაღა ვითხოვო მეტი?</li>
-<li>ეჭვი როგორ შევიტანო</li>
-<li>მის ფაქიზ წყალობაში?</li>
-<li>ცის მშვიდობა, ღვთის ნუგეში</li>
-<li>- აქ რწმენით ვმკვიდრობ მასში!</li>
-<li>რადგან რაც არ უნდა მოხდეს,</li>
-<li>იესო მყავს მზრუნველი,</li>
-<li>რადგან რაც არ უნდა მოხდეს,</li>
-<li>იესო მყავს მზრუნველი.</li>
+<li>что могу просить ещё?</li>
+<li>как могу я сомневаться</li>
+<li>в нежной милости Его?</li>
+<li>мир небесный, утешенье -</li>
+<li>верой жить здесь на земле.</li>
+<li>знаю: всё, что происходит,</li>
+<li>он творит во благо мне,</li>
+<li>знаю: всё, что происходит,</li>
+<li>он творит во благо мне.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ჩემი მხსნელი წინ მიმიძღვის,</li>
-<li>მამხნევებს ჩემს ბილიკზე,</li>
-<li>მადლს მაძლევს განსაცდელებში,</li>
-<li>მკვებავს ცოცხალ პურით მე.</li>
-<li>თუნდაც ფეხი მომიცურდეს,</li>
-<li>და მოსწყურდეს ჩემს მშვინვას,</li>
-<li>ჩემ წინ გაპობილი კლდეა</li>
-<li>სიხარულის წყარო ჩანს,</li>
-<li>ჩემ წინ გაპობილი კლდეა,</li>
-<li>სიხარულის წყარო ჩანს.</li>
+<li>мой Спаситель - Проводник мой;</li>
+<li>на стезе моей земной</li>
+<li>бодрость дарит в испытаньях,</li>
+<li>благодать и хлеб живой.</li>
+<li>пусть могу я оступиться,</li>
+<li>жаждет пусть душа моя,</li>
+<li>вижу: радости источник</li>
+<li>из скалы бьёт для меня,</li>
+<li>вижу: радости источник</li>
+<li>из скалы бьёт для меня.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ჩემი მხსნელი წინ მიმიძღვის;</li>
-<li>სისავსე მისი მადლის!</li>
-<li>ჩემი მამის სავანეში,</li>
-<li>მშვიდობა მაქვს აღთქმული.</li>
-<li>უკვდავებით შემოსილი</li>
-<li>სულში ფრთებს გავშლი იმ დღეს,</li>
-<li>მუდამი ვიმღერებ იმას, რომ</li>
-<li>იესო მიძღვოდა მე,</li>
-<li>მუდამ ვიმღერებ იმას, რომ</li>
-<li>იესო მიძღვოდა მე.</li>
+<li>мой Спаситель - Проводник мой;</li>
+<li>благодать Его полна!</li>
+<li>о, какой покой обещан</li>
+<li>мне в объятиях Отца!</li>
+<li>и когда мой дух бессмертный</li>
+<li>воспарит в сиянье дня,</li>
+<li>петь я это буду вечно:</li>
+<li>«вёл Иисус всегда меня»,</li>
+<li>петь я это буду вечно:</li>
+<li>«вёл Иисус всегда меня».</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "გზას მიჰყვები დიდებისკენ,"),
-    num: (num = 478),
+    title: (title = "от земли идёшь ты к славе"),
+    num: (num = 325),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20936,52 +20782,52 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ხარ, დაღლილი ხიზანი;</li>
-<li>ღმერთი ძვირფას აღთქმას გაძლევს:</li>
-<li>"წინ თავად წაგიძღვები".</li>
-<li class="chorus chorus-top">წინ თავად მე წაგიძღვები,</li>
-<li class="chorus">და თვალს არ მოგაცილებ;</li>
-<li class="chorus">მიწიდან დიდების გზაზე</li>
-<li class="chorus chorus-bottom">მე თვალს არ მოგაცილებ.</li>
+<li>и уже устал в пути,</li>
+<li>но даёт Бог обещанье:</li>
+<li>«буду Я тебя вести».</li>
+<li class="chorus chorus-top">моё око над тобою,</li>
+<li class="chorus">буду Я тебя вести;</li>
+<li class="chorus">на пути земном во славу</li>
+<li class="chorus chorus-bottom">буду Я тебя вести.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>როცა განსაცდელს გადიხარ,</li>
-<li>როცა გტოვებენ სხვები,</li>
-<li>მაშინ ისმის დაპირება:</li>
-<li>"წინ თავად წაგიძღვები".</li>
-<li class="chorus chorus-top">წინ თავად მე წაგიძღვები,</li>
-<li class="chorus">და თვალს არ მოგაცილებ;</li>
-<li class="chorus">მიწიდან დიდების გზაზე</li>
-<li class="chorus chorus-bottom">მე თვალს არ მოგაცილებ.</li>
+<li>пусть теснят тебя соблазны,</li>
+<li>пусть друзья бегут твои,</li>
+<li>да не смолкнет обещанье:</li>
+<li>«буду Я тебя вести».</li>
+<li class="chorus chorus-top">моё око над тобою,</li>
+<li class="chorus">буду Я тебя вести;</li>
+<li class="chorus">на пути земном во славу</li>
+<li class="chorus chorus-bottom">буду Я тебя вести.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>თუ სასოება გარდახდა,</li>
-<li>მიიწურა იმედი,</li>
-<li>მტკიცედ გახსოვდეს აღთქმული:</li>
-<li>"წინ თავად წაგიძღვები".</li>
-<li class="chorus chorus-top">წინ თავად მე წაგიძღვები,</li>
-<li class="chorus">და თვალს არ მოგაცილებ;</li>
-<li class="chorus">მიწიდან დიდების გზაზე</li>
-<li class="chorus chorus-bottom">მე თვალს არ მოგაცილებ.</li>
+<li>пусть надежды год за годом</li>
+<li>гибнут тайные твои,</li>
+<li>сохрани лишь обещанье:</li>
+<li>«буду Я тебя вести».</li>
+<li class="chorus chorus-top">моё око над тобою,</li>
+<li class="chorus">буду Я тебя вести;</li>
+<li class="chorus">на пути земном во славу</li>
+<li class="chorus chorus-bottom">буду Я тебя вести.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>როცა სიცოცხლე გადავა,</li>
-<li>სიკვდილის მოვა ჟამი,</li>
-<li>ისმინე შენი მეგზურის:</li>
-<li>"წინ თავად წაგიძღვები".</li>
-<li class="chorus chorus-top">წინ თავად მე წაგიძღვები,</li>
-<li class="chorus">და თვალს არ მოგაცილებ;</li>
-<li class="chorus">მიწიდან დიდების გზაზე</li>
-<li class="chorus chorus-bottom">მე თვალს არ მოგაცილებ.</li>
+<li>и когда в предсмертной тени</li>
+<li>завершатся жизни дни,</li>
+<li>проводник твой верный скажет:</li>
+<li>«буду Я тебя вести».</li>
+<li class="chorus chorus-top">моё око над тобою,</li>
+<li class="chorus">буду Я тебя вести;</li>
+<li class="chorus">на пути земном во славу</li>
+<li class="chorus chorus-bottom">буду Я тебя вести.</li>
 </ul>
 </section>
 </main>

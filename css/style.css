@@ -292,13 +292,13 @@ h6 {
 
 @media (max-width: 767.98px) {
   .hymnNum {
-    font-size: calc(28px + 16 * ((100vw - 320px) / 447.98));
+    font-size: calc(32px + 16 * ((100vw - 320px) / 447.98));
   }
 }
 
 @media (max-width: 767.98px) {
   .search {
-    font-size: calc(28px + 16 * ((100vw - 320px) / 447.98));
+    font-size: calc(32px + 16 * ((100vw - 320px) / 447.98));
   }
 }
 
