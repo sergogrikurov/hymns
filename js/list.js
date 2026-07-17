@@ -20834,8 +20834,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "ქორფა, როგორც დილის ცვარი,"),
-    num: (num = 479),
+    title: (title = "свеж, как роса на рассвете,"),
+    num: (num = 326),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20843,59 +20843,59 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>გვაძლევს ტკბილ მოსვენებას,</li>
-<li>ქრისტე ნაზ ცხებულებაში,</li>
-<li>ჩვენს გულს ეჩურჩულება:</li>
-<li>იდექი ამ განსაცდელში,</li>
-<li>გაუძელი ქარიშხალს,</li>
-<li>იდექი ჩემს დიდებაში,</li>
-<li>სანამ სამეფო მოვა.</li>
-<li class="chorus chorus-top">სასოების ღმერთის</li>
-<li class="chorus">ტკბილი ხმა მესმის;</li>
-<li class="chorus">ხარობს გული</li>
-<li class="chorus chorus-bottom">შენს თანდასწრებაში.</li>
+<li>сладкий покой Он дарит,</li>
+<li>в нежном помазанье тихо</li>
+<li>сердцу Христос говорит:</li>
+<li>стой до конца в испытанье,</li>
+<li>стой - время бури пройдёт,</li>
+<li>стой ради славы Иисуса,</li>
+<li>стой же - и царство придёт!</li>
+<li class="chorus chorus-top">бог всех надежд,</li>
+<li class="chorus">сладок мне голос Твой.</li>
+<li class="chorus">о, как я рад</li>
+<li class="chorus chorus-bottom">предстоять пред Тобой!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>განსაცდელში თუ სუსტდება,</li>
-<li>ჩემი გული და სული,</li>
-<li>თუკი სრულიად გაქრება,</li>
-<li>იმედის ნაპერწკალი,</li>
-<li>დაე, მაშინ შენმა რწმენამ,</li>
-<li>და სიცოცხლემ ამავსოს,</li>
-<li>რათა მე გავიზიარო,</li>
-<li>მარად შენი დიდება.</li>
-<li class="chorus chorus-top">სასოების ღმერთის</li>
-<li class="chorus">ტკბილი ხმა მესმის;</li>
-<li class="chorus">ხარობს გული</li>
-<li class="chorus chorus-bottom">შენს თანდასწრებაში.</li>
+<li>если в беде ослабеют</li>
+<li>дух мой и сердце моё,</li>
+<li>веру, мерцанье надежды -</li>
+<li>всё испытаньем сметёт,</li>
+<li>пусть Твоя вера живая</li>
+<li>будет меня направлять,</li>
+<li>чтоб полноту Твоей славы</li>
+<li>мог я вовек разделять.</li>
+<li class="chorus chorus-top">бог всех надежд,</li>
+<li class="chorus">сладок мне голос Твой.</li>
+<li class="chorus">о, как я рад</li>
+<li class="chorus chorus-bottom">предстоять пред Тобой!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>უფალო, როგორც დილის მზემ,</li>
-<li>გამიფანტე სიბნელე,</li>
-<li>და შენი მკურნალი ფრთებით,</li>
-<li>ღამე დღედ გამითენე.</li>
-<li>მოდი, ნუგეშის უფალო,</li>
-<li>ამ სევდიან ჩემს გულთან,</li>
-<li>მოდი, დიდების იმედო,</li>
-<li>არასოდეს დამტოვო.</li>
-<li class="chorus chorus-top">სასოების ღმერთის</li>
-<li class="chorus">ტკბილი ხმა მესმის;</li>
-<li class="chorus">ხარობს გული</li>
-<li class="chorus chorus-bottom">შენს თანდასწრებაში.</li>
+<li>как восходящее Солнце</li>
+<li>тьму мою выгони прочь,</li>
+<li>крыльев целительным взмахом</li>
+<li>в день обрати мою ночь.</li>
+<li>бог утешенья, приди же</li>
+<li>в грустное сердце моё,</li>
+<li>славы блаженной надежда</li>
+<li>пусть никогда не уйдёт.</li>
+<li class="chorus chorus-top">бог всех надежд,</li>
+<li class="chorus">сладок мне голос Твой.</li>
+<li class="chorus">о, как я рад</li>
+<li class="chorus chorus-bottom">предстоять пред Тобой!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "თუმცა დაბნელდეს დღენი,"),
-    num: (num = 480),
+    title: (title = "хоть могут дни и ночи"),
+    num: (num = 327),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20903,34 +20903,34 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>გაიწელოს ღამე,</li>
-<li>იესო რომც შეყოვნდეს</li>
-<li>ერთი რამ მჯერა მე:</li>
-<li>უფალი ჩემთვის მეტად</li>
-<li>ძვირფასი გახდება,</li>
-<li>ურთიერთობა მასთან</li>
-<li>მწამს, მეტად დატკბება.</li>
+<li>ещё мрачнее стать</li>
+<li>и, может быть, придётся</li>
+<li>иисуса долго ждать,</li>
+<li>но знаю я: Он станет</li>
+<li>ещё дороже мне,</li>
+<li>и с Ним общенье будет</li>
+<li>всё ближе и свежей.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ჩვენს ძვირფას უფალს ვუცდით,</li>
-<li>ჩვენს სიხარულს, იმედს!</li>
-<li>გვწადია ნახვა მისი,</li>
-<li>მუდამ ვიმედოვნებთ,</li>
-<li>რომ ვინძლო ის ჩვენ შეგვხვდეს</li>
-<li>დღის დასრულებამდე,</li>
-<li>ლოდინიც დამთავრდება,</li>
-<li>მასთან დავისვენებთ.</li>
+<li>ждём Господа, ведь нам Он</li>
+<li>надежда, Радость, Друг!</li>
+<li>его увидеть жаждем,</li>
+<li>надеемся, что вдруг</li>
+<li>нас встретит на закате</li>
+<li>за поворотом Он,</li>
+<li>и мы, Его дождавшись,</li>
+<li>в покой Его войдём.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "არ ვიცი, რა მომელის,"),
-    num: (num = 481),
+    title: (title = "что ждёт меня, не знаю -"),
+    num: (num = 328),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20938,76 +20938,76 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ღმერთი მიფარავს თვალთ,</li>
-<li>ჩემს თითოეულ ნაბიჯზე</li>
-<li>ვხედავ ახალ სურათს;</li>
-<li>ის მუდამ მაძლევს სიხარულს</li>
-<li>და ბედნიერებას.</li>
-<li class="chorus chorus-top">მე მას მივყვები ყველგან,</li>
-<li class="chorus">მას სრულად ვენდობი;</li>
-<li class="chorus">მშვიდობით ყოველჟამს ვმღერი:</li>
-<li class="chorus">"მან ყოველი იცის";</li>
-<li class="chorus">მშვიდობით ყოველჟამს ვმღერი:</li>
-<li class="chorus chorus-bottom">"მან ყოველი იცის".</li>
+<li>закрыл глаза мне Бог;</li>
+<li>мне с каждым шагом новая</li>
+<li>картина предстаёт,</li>
+<li>и всякий раз так счастлив я,</li>
+<li>когда Он радость шлёт!</li>
+<li class="chorus chorus-top">иду за Ним, вверяясь</li>
+<li class="chorus">ему в пути моём,</li>
+<li class="chorus">и в полном мире каждый час</li>
+<li class="chorus">пою: «Всё знает Он»,</li>
+<li class="chorus">и в полном мире каждый час</li>
+<li class="chorus chorus-bottom">пою: «Всё знает Он».</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>მხოლოდ ერთ ნაბიჯს ვხედავ</li>
-<li>- მეტი არც მჭირდება,</li>
-<li>მიწის სიცრუე რომ ქრება,</li>
-<li>ცის შუქი იზრდება;</li>
-<li>სიჩუმეში ნაზად მესმის</li>
-<li>- "მომენდე" - მისი ხმა.</li>
-<li class="chorus chorus-top">მე მას მივყვები ყველგან,</li>
-<li class="chorus">მას სრულად ვენდობი;</li>
-<li class="chorus">მშვიდობით ყოველჟამს ვმღერი:</li>
-<li class="chorus">"მან ყოველი იცის";</li>
-<li class="chorus">მშვიდობით ყოველჟამს ვმღერი:</li>
-<li class="chorus chorus-bottom">"მან ყოველი იცის".</li>
+<li>на шаг вперёд лишь вижу -</li>
+<li>вот всё, что нужно мне.</li>
+<li>когда иллюзий нет земных,</li>
+<li>небесный ярче свет;</li>
+<li>и сладко в тишине звучит</li>
+<li>его: «Доверься Мне!»</li>
+<li class="chorus chorus-top">иду за Ним, вверяясь</li>
+<li class="chorus">ему в пути моём,</li>
+<li class="chorus">и в полном мире каждый час</li>
+<li class="chorus">пою: «Всё знает Он»,</li>
+<li class="chorus">и в полном мире каждый час</li>
+<li class="chorus chorus-bottom">пою: «Всё знает Он».</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ნეტარი უმეცრება</li>
-<li>- კარგია არცოდნა;</li>
-<li>მას ვუკავივარ მარჯვენით</li>
-<li>არ გამიშვებს არსად,</li>
-<li>უთქმელი მოსვენება აქვს</li>
-<li>მასში მშვინვას ჩემსას.</li>
-<li class="chorus chorus-top">მე მას მივყვები ყველგან,</li>
-<li class="chorus">მას სრულად ვენდობი;</li>
-<li class="chorus">მშვიდობით ყოველჟამს ვმღერი:</li>
-<li class="chorus">"მან ყოველი იცის";</li>
-<li class="chorus">მშვიდობით ყოველჟამს ვმღერი:</li>
-<li class="chorus chorus-bottom">"მან ყოველი იცის".</li>
+<li>блаженство - быть немудрым,</li>
+<li>как хорошо - не знать!</li>
+<li>рукой Своей держит Он меня</li>
+<li>и не даёт блуждать.</li>
+<li>в Его любви душе моей</li>
+<li>покойно пребывать!</li>
+<li class="chorus chorus-top">иду за Ним, вверяясь</li>
+<li class="chorus">ему в пути моём,</li>
+<li class="chorus">и в полном мире каждый час</li>
+<li class="chorus">пою: «Всё знает Он»,</li>
+<li class="chorus">и в полном мире каждый час</li>
+<li class="chorus chorus-bottom">пою: «Всё знает Он».</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>წინ მივიწევ უმეცრად;</li>
-<li>არც მსურს ცოდნა რამის;</li>
-<li>ღმერთის გვერდით სიბნელეშიც</li>
-<li>მიჯობს სიარული;</li>
-<li>რწმენით მასთან ერთად მიჯობს</li>
-<li>მუდამ სიარული.</li>
-<li class="chorus chorus-top">მე მას მივყვები ყველგან,</li>
-<li class="chorus">მას სრულად ვენდობი;</li>
-<li class="chorus">მშვიდობით ყოველჟამს ვმღერი:</li>
-<li class="chorus">"მან ყოველი იცის";</li>
-<li class="chorus">მშვიდობით ყოველჟამს ვმღერი:</li>
-<li class="chorus chorus-bottom">"მან ყოველი იცის".</li>
+<li>иду вперёд, не зная,</li>
+<li>но знать и не хочу;</li>
+<li>мне лучше с Богом во тьме идти,</li>
+<li>чем в свете одному.</li>
+<li>мне лучше верой с Ним идти,</li>
+<li>чем зреньем самому.</li>
+<li class="chorus chorus-top">иду за Ним, вверяясь</li>
+<li class="chorus">ему в пути моём,</li>
+<li class="chorus">и в полном мире каждый час</li>
+<li class="chorus">пою: «Всё знает Он»,</li>
+<li class="chorus">и в полном мире каждый час</li>
+<li class="chorus chorus-bottom">пою: «Всё знает Он».</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ო, ვიხაროთ უფალში საუკუნოდ,"),
-    num: (num = 482),
+    title: (title = "о, радуйтесь в Господе нашем всегда!"),
+    num: (num = 329),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21015,47 +21015,47 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>თუმც ირგვლივ ყოველი გვაშინებს,</li>
-<li>თუმც ტანჯვები აზვირთებულ ტალღებს ჰგავს,</li>
-<li>სჯობს, ვმღეროდეთ, ვიდრე ვოხრავდეთ.</li>
-<li class="chorus chorus-top">მაშ, იხარეთ მუდამ, იხარეთ მუდამ,</li>
-<li class="chorus">სჯობს, რომ ვმღეროდეთ, ვიდრე ვოხრავდეთ,</li>
-<li class="chorus">სჯობს, რომ ვცოცხლობდეთ, ვიდრე ვკვდებოდეთ,</li>
-<li class="chorus chorus-bottom">მაშ, იხარეთ ყველგან, მუდამ.</li>
+<li>пусть всё, что вокруг, нас пугает,</li>
+<li>пусть катятся беды на нас, как волна, -</li>
+<li>петь лучше, чем вянуть вздыхая.</li>
+<li class="chorus chorus-top">так и радуйтесь в Нём, всегда и во всём!</li>
+<li class="chorus">лучше петь, чем вздыхать угасая,</li>
+<li class="chorus">лучше жить, чем страдать умирая,</li>
+<li class="chorus chorus-bottom">всегда всюду радуйтесь в Нём!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ო, ვიხაროთ უფალში საუკუნოდ,</li>
-<li>როს მაცდურის ისრები მოდის,</li>
-<li>სატანა ძველებურად კვლავ გვესხმის თავს,</li>
-<li>სჯობს, ვმღეროდეთ, ვიდრე ვოხრავდეთ.</li>
-<li class="chorus chorus-top">მაშ, იხარეთ მუდამ, იხარეთ მუდამ,</li>
-<li class="chorus">სჯობს, რომ ვმღეროდეთ, ვიდრე ვოხრავდეთ,</li>
-<li class="chorus">სჯობს, რომ ვცოცხლობდეთ, ვიდრე ვკვდებოდეთ,</li>
-<li class="chorus chorus-bottom">მაშ, იხარეთ ყველგან, მუდამ.</li>
+<li>о, радуйтесь в Господе нашем всегда!</li>
+<li>пусть враг свои стрелы пускает,</li>
+<li>но он не приблизится в страхе тогда,</li>
+<li>когда мы поём не смолкая.</li>
+<li class="chorus chorus-top">так и радуйтесь в Нём, всегда и во всём!</li>
+<li class="chorus">лучше петь, чем вздыхать угасая,</li>
+<li class="chorus">лучше жить, чем страдать умирая,</li>
+<li class="chorus chorus-bottom">всегда всюду радуйтесь в Нём!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ო, ვიხაროთ უფალში საუკუნოდ,</li>
-<li>როს ავადმყოფობა თავს გვესხმის,</li>
-<li>გულს ყველაზე მეტად ამაგრებს როცა</li>
-<li>ვხარობთ - ეს გვკურნავს ყველაფრისგან.</li>
-<li class="chorus chorus-top">მაშ, იხარეთ მუდამ, იხარეთ მუდამ,</li>
-<li class="chorus">სჯობს, რომ ვმღეროდეთ, ვიდრე ვოხრავდეთ,</li>
-<li class="chorus">სჯობს, რომ ვცოცხლობდეთ, ვიდრე ვკვდებოდეთ,</li>
-<li class="chorus chorus-bottom">მაშ, იხარეთ ყველგან, მუდამ.</li>
+<li>о, радуйтесь в Господе нашем всегда!</li>
+<li>пусть немощи нас угнетают;</li>
+<li>нет лучшего средства для сердца тогда,</li>
+<li>чем радость, что нас исцеляет.</li>
+<li class="chorus chorus-top">так и радуйтесь в Нём, всегда и во всём!</li>
+<li class="chorus">лучше петь, чем вздыхать угасая,</li>
+<li class="chorus">лучше жить, чем страдать умирая,</li>
+<li class="chorus chorus-bottom">всегда всюду радуйтесь в Нём!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "მხოლოდ სიხარულს, მშვიდობას, მზეს,"),
-    num: (num = 483),
+    title: (title = "не обещал Бог солнца без бурь,"),
+    num: (num = 330),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21063,39 +21063,39 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>წვიმის, მწუხრის, ტანჯვის გარეშე;</li>
-<li>ლურჯ ზეცას, გზას ყვავილებიანს,</li>
-<li>ღმერთი ჩვენ არ დაგვპირებია.</li>
-<li class="chorus chorus-top">მაგრამ რაც მან აღგვითქვა არის:</li>
-<li class="chorus">ძალა დღისთვის,სინათლე გზისთვის;</li>
-<li class="chorus">თანაგრძნობა, ტანჯვაში მადლი,</li>
-<li class="chorus chorus-bottom">სიყვარული მარად უკვდავი.</li>
+<li>чистых небес, где вечно лазурь,</li>
+<li>радости, мира, гладких путей</li>
+<li>без огорчений, слёз и скорбей.</li>
+<li class="chorus chorus-top">но обещал Бог свет на путях,</li>
+<li class="chorus">силу на день сей, отдых в трудах,</li>
+<li class="chorus">в скорби дать помощь и благодать,</li>
+<li class="chorus chorus-bottom">вечно любя нас всех, нам сострадать.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>მას არ უთქვამს ჩვენ არ გავივლით,</li>
-<li>მწუხარებასა და ტანჯვაში;</li>
-<li>რომ არ ვატარებთ საზრუნავებს,</li>
-<li>გავატარებთ უდარდელ დღეებს.</li>
-<li class="chorus chorus-top">მაგრამ რაც მან აღგვითქვა არის:</li>
-<li class="chorus">ძალა დღისთვის,სინათლე გზისთვის;</li>
-<li class="chorus">თანაგრძნობა, ტანჯვაში მადლი,</li>
-<li class="chorus chorus-bottom">სიყვარული მარად უკვდავი.</li>
+<li>не обещал бог, что не для нас</li>
+<li>скорби и беды, труд и соблазн.</li>
+<li>не говорил Он, что не нести</li>
+<li>бремя забот нам в долгом пути.</li>
+<li class="chorus chorus-top">но обещал Бог свет на путях,</li>
+<li class="chorus">силу на день сей, отдых в трудах,</li>
+<li class="chorus">в скорби дать помощь и благодать,</li>
+<li class="chorus chorus-bottom">вечно любя нас всех, нам сострадать.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>გზას, რომელიც ფართო, სწრაფია,</li>
-<li>მასზე მსვლელობა მარტივია,</li>
-<li>არც ქვიანი ან მთიანია,</li>
-<li>ღმერთი ჩვენ არ დაგვპირებია.</li>
-<li class="chorus chorus-top">მაგრამ რაც მან აღგვითქვა არის:</li>
-<li class="chorus">ძალა დღისთვის,სინათლე გზისთვის;</li>
-<li class="chorus">თანაგრძნობა, ტანჯვაში მადლი,</li>
-<li class="chorus chorus-bottom">სიყვარული მარად უკვდავი.</li>
+<li>не обещал Бог лёгких дорог,</li>
+<li>где б ты пройти без помощи смог,</li>
+<li>где путь не станет горной тропой</li>
+<li>или глубокой, бурной рекой.</li>
+<li class="chorus chorus-top">но обещал Бог свет на путях,</li>
+<li class="chorus">силу на день сей, отдых в трудах,</li>
+<li class="chorus">в скорби дать помощь и благодать,</li>
+<li class="chorus chorus-bottom">вечно любя нас всех, нам сострадать.</li>
 </ul>
 </section>
 </main>
@@ -25481,7 +25481,7 @@ const pages = [
 <li>გული ხარობს შენი</li>
 <li>სახის ბრწყინვალებით,</li>
 <li>არ დაგტოვებ, აქ დავრჩები</li>
-<li>შენს თანდასწრებაში.</li>
+<li>предстоять пред Тобой!</li>
 </ul>
 </section>
 <section>
