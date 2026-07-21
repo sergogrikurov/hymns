@@ -505,8 +505,7 @@ li {
     font-size: calc(18px + 6 * ((100vw - 320px) / 447.98));
   }
 }
-.str-li:first-child,
-.h-str-li:first-child {
+.str-li:first-child {
   margin-top: 1.25rem;
 }
 .str-li:not(:last-child),
