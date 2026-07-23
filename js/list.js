@@ -22748,212 +22748,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "ქრისტემ მოგვიხმო და კვლავ"),
-    num: (num = 618),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>გვიხმობს თავისთვის ახლა,</li>
-<li>ჩვენ შევძახით: ო, ამინ!</li>
-<li>დაძლიე!</li>
-<li>ეკლესია დაეცა,</li>
-<li>ფიქრობს ცოდნა აქვს, კარგავს</li>
-<li>სიცოცხლეს; ამიტომაც</li>
-<li>დაძლიე!</li>
-<li class="chorus chorus-top">დაძლიე, დაძლიე,</li>
-<li class="chorus">დაძლიე მარცხი ქრისტიანობაში!</li>
-<li class="chorus">გადადე შენი საქმე,</li>
-<li class="chorus">მკვდარი სიტყვა უარყვე,</li>
-<li class="chorus">ო, მხოლოდ ქრისტე ჭამე</li>
-<li class="chorus chorus-bottom">დაძლიე!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ჭამა ხვედრია ჩვენი,</li>
-<li>უფლის აღდგენისათვის,</li>
-<li>ასე მარცხდება მტერი</li>
-<li>- დაძლიე!</li>
-<li>სიცოცხლის ხე იგემე,</li>
-<li>დოქტრინები დატოვე,</li>
-<li>და მხოლოდ ქრისტე ჭამე</li>
-<li>- დაძლიე!</li>
-<li class="chorus chorus-top">დაძლიე, დაძლიე,</li>
-<li class="chorus">დაძლიე მარცხი ქრისტიანობაში!</li>
-<li class="chorus">გადადე შენი საქმე,</li>
-<li class="chorus">მკვდარი სიტყვა უარყვე,</li>
-<li class="chorus">ო, მხოლოდ ქრისტე ჭამე</li>
-<li class="chorus chorus-bottom">დაძლიე!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>სწავლება ვერ შეგვცვლის და</li>
-<li>ვერ ასრულებს ღვთის მიზანს,</li>
-<li>როცა, მხოლოდ ქრისტეს ვჭამთ</li>
-<li>დაძლიე!</li>
-<li>ერთად და ცალ-ცალკე ჩვენ,</li>
-<li>მხოლოდ მას უნდა ვჭამდეთ,</li>
-<li>ვიყოთ ნადიმით სავსე</li>
-<li>- დაძლიე!</li>
-<li class="chorus chorus-top">დაძლიე, დაძლიე,</li>
-<li class="chorus">დაძლიე მარცხი ქრისტიანობაში!</li>
-<li class="chorus">გადადე შენი საქმე,</li>
-<li class="chorus">მკვდარი სიტყვა უარყვე,</li>
-<li class="chorus">ო, მხოლოდ ქრისტე ჭამე</li>
-<li class="chorus chorus-bottom">დაძლიე!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ჭამა წარმოშობს ძე-ვაჟს,</li>
-<li>ჭამა აბრუნებს უფალს;</li>
-<li>ახლა ჭამე, ასე კვლავ</li>
-<li>- დაძლიე!</li>
-<li>ძე-ვაჟი, ეკლესია, რომ</li>
-<li>ვიყოთ, ქრისტე ითხოვს,</li>
-<li>და ბოლოს, საპატარძლო</li>
-<li>- დაძლიე!</li>
-<li class="chorus chorus-top">დაძლიე, დაძლიე,</li>
-<li class="chorus">დაძლიე მარცხი ქრისტიანობაში!</li>
-<li class="chorus">გადადე შენი საქმე,</li>
-<li class="chorus">მკვდარი სიტყვა უარყვე,</li>
-<li class="chorus">ო, მხოლოდ ქრისტე ჭამე</li>
-<li class="chorus chorus-bottom">დაძლიე!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "სიყვარულის ეკლესია,"),
-    num: (num = 619),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>დიდებული რამ გითხრა,</li>
-<li>მან, ვინც ფლობს დავითის კლიტეს,</li>
-<li>წმიდამ და ჭეშმარიტმა,</li>
-<li>ვინც ფლობს სამეფოს შესასვლელს</li>
-<li>განაცხადა ზეციდან -</li>
-<li>"გავხსენი, ვერვინ დაკეტავს"</li>
-<li>- მან თქვა და აღასრულა</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ალილუია, ფილადელფია,</li>
-<li>ფლობ ღვთის მოსაწონ საქმეთ:</li>
-<li>დაიცავი ღმერთის სიტყვა,</li>
-<li>თუმცა გაქვს ძალა მცირე;</li>
-<li>არ უარყავი სახელი</li>
-<li>უფლის და აღიარე,</li>
-<li>ჰა, ხსნილია შენთვის კაღი</li>
-<li>რომლიდანაც შეხვალ შენ!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მოთმინების სიტყვა შენ გაქვს</li>
-<li>ტკბილო ფილადელფია,</li>
-<li>განსაცდელის ჟამს ის გიხსნის</li>
-<li>მიწის მკვიდრზედ, რომ მოვა.</li>
-<li>გაიგებენ, ღმერთს უყვარხარ</li>
-<li>შენს წინ დაიჩოქებენ.</li>
-<li>"არ წაგართვან, გეპყრას მტკიცედ,</li>
-<li>გვირგვინი, მოვალ მალე!"</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>"аллилуйя! გამარჯვებულთ,</li>
-<li>ღვთის ტაძარში ავაგებ,</li>
-<li>მძლეველებს სვეტად აღვმართავ,</li>
-<li>არასდროს გავლენ გარეთ"</li>
-<li>მათზე ღმერთის სახელია,</li>
-<li>ჩვენი უფლის სახელი,</li>
-<li>სამერთიან ღმერთთან არის</li>
-<li>ეს ქალაქი შერწყმული</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ალილუია, ცით ეშვება</li>
-<li>ღვთის იერუსალიმი:</li>
-<li>მარგალიტ-კარიბჭეებით</li>
-<li>და იასპის კედლებით,</li>
-<li>შემკული ძვირფასი ქვებით</li>
-<li>ძვირფასი პატარძალი,</li>
-<li>ვისაც ყური აქვს ისმინოს,</li>
-<li>რას ლაპარაკობს სული!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "იესოს ეკლესიაში მიიღებ"),
-    num: (num = 620),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ჭეშმარიტ სიყვარულს, წმინდას და სუფთას;</li>
-<li>ნუ იქნები მარტოდ და უმეგობროდ,</li>
-<li>ეკლესიაშია სრული შეწევნა.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>იესოს ეკლესიაში მიიღებ</li>
-<li>თბილ და ცვარივით ტკბილ ნამდვილ სიცოცხლეს;</li>
-<li>ნუ იქნები შიშში, მღელვარებაში,</li>
-<li>ეკლესია ზრუნავს იესოს ხალხზე.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>იესოს ეკლესიაში შრომაა,</li>
-<li>ისეთი, რომ ანგელოზთაც ახარებს;</li>
-<li>რაღად გსურს ამაო, ფუჭი შრომები,</li>
-<li>როცა ეკლესია შენ გელოდება.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>იესოს ეკლესიაში მიიღებ,</li>
-<li>დიდებულ და მშვიდობით სავსე ადგილს;</li>
-<li>რად დახეტიალობ ქანც გამოცლილი,</li>
-<li>ეკლესია გთავაზობს ასეთ ადგილს!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ყოველდღე ჩვენს სვლაში და კრებებზე,"),
-    num: (num = 621),
+    title: (title = "я ни за что не сдамся,"),
+    num: (num = 356),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -22961,71 +22757,76 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ქრისტე ცენტრია - ყველაფერია;</li>
-<li>ჩვენი კრებები არის ქრისტესთვის,</li>
-<li>და არა კარგი დოქტრინებისთვის.</li>
+<li>когда на крест смотрю:</li>
+<li>иисус разбил врагов там,</li>
+<li>низринул Сатану.</li>
+<li>господь, для этой битвы</li>
+<li>ты виденье мне дай,</li>
+<li>облёкшись в силу Духа,</li>
+<li>пусть буду побеждать.</li>
+<li class="chorus chorus-top">победа, победа</li>
+<li class="chorus">голгофой мне дана!</li>
+<li class="chorus">в Тебе победоносным,</li>
+<li class="chorus chorus-bottom">господь мой, сейчас пусть буду я.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ქრისტე გზა და სიცოცხლის შუქია,</li>
-<li>მასში დავდივართ, ის მიგვიძღვება;</li>
-<li>ცოცხალი საკვები და წყალია,</li>
-<li>ქრისტე გვკვებავს და მისით ვრწყულდებით.</li>
+<li>я ни за что не сдамся,</li>
+<li>ведь Иисус, Царь мой,</li>
+<li>призвал меня в сраженье,</li>
+<li>где выиграл Он бой.</li>
+<li>господь, дай мне отвагу,</li>
+<li>дай Духа Твоего,</li>
+<li>во мне живи Ты в силе,</li>
+<li>чтоб побеждать я мог.</li>
+<li class="chorus chorus-top">победа, победа</li>
+<li class="chorus">голгофой мне дана!</li>
+<li class="chorus">в Тебе победоносным,</li>
+<li class="chorus chorus-bottom">господь мой, сейчас пусть буду я.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ვამოწმებთ ქრისტეს - ჭეშმარიტებას,</li>
-<li>ის სიცოცხლეა, სხვებთან რომ მიგვაქვს;</li>
-<li>ქრისტე უფალია, მას ვადიდებთ,</li>
-<li>ქრისტე თავია, მას აღვამაღლებთ.</li>
+<li>я ни за что не сдамся -</li>
+<li>иисус ведёт меня</li>
+<li>чрез все преграды ада</li>
+<li>престол с Ним разделять.</li>
+<li>владеть мечом в сраженье</li>
+<li>господь, мне силу дай,</li>
+<li>пусть верным Твоим Словом</li>
+<li>я буду побеждать.</li>
+<li class="chorus chorus-top">победа, победа</li>
+<li class="chorus">голгофой мне дана!</li>
+<li class="chorus">в Тебе победоносным,</li>
+<li class="chorus chorus-bottom">господь мой, сейчас пусть буду я.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ის ყოველივეში ყოველია,</li>
-<li>ღმერთსაც და კაცსაც აკმაყოფილებს;</li>
-<li>ეკლესიაში სინამდვილეა,</li>
-<li>მისით მრავლდება სიცოცხლეც, რიცხვიც.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ჰიმნებს და ლოცვებს როცა აღვავლენთ,</li>
-<li>ქრისტეს, სინამდვილეს, გამოვხატავთ;</li>
-<li>ყველა საქმე ურთიერთობაში,</li>
-<li>ავლენს ქრისტეს მის მოქმედებაში.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>მის სახელში ვხვდებით, სულში ვიღწვით,</li>
-<li>გონებაში არაფერს აღარ ვწყვეტთ;</li>
-<li>მისით სულს ვავარჯიშებთ, ვადიდებთ</li>
-<li>ღვთისმოსაობაში ჩვენი ლოცვით.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>ვივიწყებთ ყოველს, ქრისტესკენ ვილტვით,</li>
-<li>ვიყენებთ მას ჩვენს სრულ სიმწიფემდე;</li>
-<li>ყოველი დანაკარგად ჩავთვალოთ,</li>
-<li>მის მოსაპოვებლად ყველაფერში.</li>
+<li>я ни за что не сдамся,</li>
+<li>ведь день к концу пришёл</li>
+<li>и ждёт Иисус минуты</li>
+<li>сказать мне: «Хорошо!»</li>
+<li>господь, склонись из славы,</li>
+<li>обильно Духа дай,</li>
+<li>пусть до конца сраженья</li>
+<li>я буду побеждать.</li>
+<li class="chorus chorus-top">победа, победа</li>
+<li class="chorus">голгофой мне дана!</li>
+<li class="chorus">в Тебе победоносным,</li>
+<li class="chorus chorus-bottom">господь мой, сейчас пусть буду я.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "როდესაც ვხვდებით ქრისტეში,"),
-    num: (num = 622),
+    title: (title = "постоянно моё слово:"),
+    num: (num = 357),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -23033,2118 +22834,300 @@ const pages = [
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>მისი სიუხვის სიჭარბე,</li>
-<li>საკვებად მიგვაქვს ღმერთისთვის,</li>
-<li>გამოვხატავთ ქრისტეს.</li>
-<li class="chorus chorus-top">ქრისტე გამოვხატოთ,</li>
-<li class="chorus">ქრისტე გამოვხატოთ;</li>
-<li class="chorus">ეკლესიაში კრებებზე,</li>
-<li class="chorus chorus-bottom">ქრისტე გამოვხატოთ.</li>
+<li>«нет» - врагу и «да» - Отцу,</li>
+<li>чтоб Свой замысел успешно</li>
+<li>в полноте свершить Ему.</li>
+<li>в послушанье Твоей воле,</li>
+<li>о Господь, даруй мне власть,</li>
+<li>чтобы мог я силой Духа</li>
+<li>вечный план Твой исполнять.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ქრისტეში ვიბრძვით და ვცხოვრობთ,</li>
-<li>დღედაღამ ქრისტეზე ვშრომობთ;</li>
-<li>მის სიჭარბეს ვინაწილებთ,</li>
-<li>გამოვხატავთ ქრისტეს.</li>
-<li class="chorus chorus-top">ქრისტე გამოვხატოთ,</li>
-<li class="chorus">ქრისტე გამოვხატოთ;</li>
-<li class="chorus">ეკლესიაში კრებებზე,</li>
-<li class="chorus chorus-bottom">ქრისტე გამოვხატოთ.</li>
+<li>постоянно моё слово:</li>
+<li>«нет» - врагу и «да» - Отцу,</li>
+<li>я вовек стою на этом;</li>
+<li>сохрани, Господь, прошу,</li>
+<li>чтоб в хожденье с послушаньем</li>
+<li>враг не мог мне помешать;</li>
+<li>повинуясь Твоей воле,</li>
+<li>я молю мне милость дать.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ქრისტე ჩვენი სიცოცხლეა,</li>
-<li>ჩვენი ნამდვილი არსია,</li>
-<li>ყოველ ჯერზე, როცა ვხვდებით,</li>
-<li>გამოვხატავთ ქრისტეს.</li>
-<li class="chorus chorus-top">ქრისტე გამოვხატოთ,</li>
-<li class="chorus">ქრისტე გამოვხატოთ;</li>
-<li class="chorus">ეკლესიაში კრებებზე,</li>
-<li class="chorus chorus-bottom">ქრისტე გამოვხატოთ.</li>
+<li>постоянно моё слово:</li>
+<li>«нет» - врагу и «да» - Отцу,</li>
+<li>быть всегда Ему послушным</li>
+<li>даже в скорби я хочу.</li>
+<li>если буду Им храним я</li>
+<li>на пути моём пред Ним,</li>
+<li>устою я в испытаньях</li>
+<li>и перед врагом любым.</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "аллилуйя за победу!"),
+    num: (num = 358),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>славьте все Христа.</li>
+<li>наш Спаситель - победитель</li>
+<li>смерти и греха.</li>
+<li class="chorus chorus-top">аллилуйя! Говори всем,</li>
+<li class="chorus">где бы ты ни шёл,</li>
+<li class="chorus">что Господь наш - победитель</li>
+<li class="chorus chorus-bottom">над любым врагом.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>аллилуйя за победу!</li>
+<li>прочь вся боль уйдёт,</li>
+<li>если мы победу примем,</li>
+<li>что нам крест даёт.</li>
+<li class="chorus chorus-top">аллилуйя! Говори всем,</li>
+<li class="chorus">где бы ты ни шёл,</li>
+<li class="chorus">что Господь наш - победитель</li>
+<li class="chorus chorus-bottom">над любым врагом.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>аллилуйя! В вознесенье</li>
+<li>ты Ему молись,</li>
+<li>и куда Иисус направит,</li>
+<li>смело ты иди.</li>
+<li class="chorus chorus-top">аллилуйя! Говори всем,</li>
+<li class="chorus">где бы ты ни шёл,</li>
+<li class="chorus">что Господь наш - победитель</li>
+<li class="chorus chorus-bottom">над любым врагом.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>კრებებზე ღმერთს ქრისტეს ვუძღვნით,</li>
-<li>ერთმანეთსაც ვუნაწილებთ,</li>
-<li>ღმერთთან ერთად მისით ვტკბებით,</li>
-<li>გამოვხატავთ ქრისტეს.</li>
-<li class="chorus chorus-top">ქრისტე გამოვხატოთ,</li>
-<li class="chorus">ქრისტე გამოვხატოთ;</li>
-<li class="chorus">ეკლესიაში კრებებზე,</li>
-<li class="chorus chorus-bottom">ქრისტე გამოვხატოთ.</li>
+<li>аллилуйя! Победитель</li>
+<li>страхи все унёс,</li>
+<li>виденье и путь наш ясным</li>
+<li>делает Христос.</li>
+<li class="chorus chorus-top">аллилуйя! Говори всем,</li>
+<li class="chorus">где бы ты ни шёл,</li>
+<li class="chorus">что Господь наш - победитель</li>
+<li class="chorus chorus-bottom">над любым врагом.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ღმერთთან მიგვაქვს ძღვენად ქრისტე,</li>
-<li>აღმდგარი, ამაღლებული;</li>
-<li>ღმერთს აკმაყოფილებს, როცა</li>
-<li>გამოვხატავთ ქრისტეს.</li>
-<li class="chorus chorus-top">ქრისტე გამოვხატოთ,</li>
-<li class="chorus">ქრისტე გამოვხატოთ;</li>
-<li class="chorus">ეკლესიაში კრებებზე,</li>
-<li class="chorus chorus-bottom">ქრისტე გამოვხატოთ.</li>
+<li>аллилуйя за победу!</li>
+<li>близок гласа звук:</li>
+<li>«победители, придите</li>
+<li>к вашему Царю!»</li>
+<li class="chorus chorus-top">аллилуйя! Говори всем,</li>
+<li class="chorus">где бы ты ни шёл,</li>
+<li class="chorus">что Господь наш - победитель</li>
+<li class="chorus chorus-bottom">над любым врагом.</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "хочешь жить как победитель? -"),
+    num: (num = 359),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>ведь Христос зовёт! -</li>
+<li>вслед за Ним пойти ты хочешь,</li>
+<li>путь не зная тот?</li>
+<li class="chorus chorus-top">хочешь жить как победитель,</li>
+<li class="chorus">сделать шаг сейчас?</li>
+<li class="chorus">сам Христос нас призывает,</li>
+<li class="chorus chorus-bottom">слушай этот глас!</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>хочешь жить как победитель?</li>
+<li>к Господу стремись!</li>
+<li>и любви будь верен первой,</li>
+<li>утра с ней дождись.</li>
+<li class="chorus chorus-top">хочешь жить как победитель,</li>
+<li class="chorus">сделать шаг сейчас?</li>
+<li class="chorus">сам Христос нас призывает,</li>
+<li class="chorus chorus-bottom">слушай этот глас!</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>хочешь жить как победитель?</li>
+<li>верным пребывай,</li>
+<li>его жизнью все гоненья</li>
+<li>ты претерпевай.</li>
+<li class="chorus chorus-top">хочешь жить как победитель,</li>
+<li class="chorus">сделать шаг сейчас?</li>
+<li class="chorus">сам Христос нас призывает,</li>
+<li class="chorus chorus-bottom">слушай этот глас!</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>хочешь жить как победитель?</li>
+<li>ты Христа являй,</li>
+<li>брось религию - лишь манну</li>
+<li>скрытую вкушай.</li>
+<li class="chorus chorus-top">хочешь жить как победитель,</li>
+<li class="chorus">сделать шаг сейчас?</li>
+<li class="chorus">сам Христос нас призывает,</li>
+<li class="chorus chorus-bottom">слушай этот глас!</li>
+</ul>
+</section>
+<section>
+<span class="number">5.</span>
+<ul>
+<li>хочешь жить как победитель,</li>
+<li>ясен, чист и прост?</li>
+<li>божью власть приобретай ты,</li>
+<li>примеси отбрось.</li>
+<li class="chorus chorus-top">хочешь жить как победитель,</li>
+<li class="chorus">сделать шаг сейчас?</li>
+<li class="chorus">сам Христос нас призывает,</li>
+<li class="chorus chorus-bottom">слушай этот глас!</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>კრებებზე სინამდვილე და</li>
-<li>ყველა მსახურების ცენტრი</li>
-<li>ისაა, რომ ერთობლივად</li>
-<li>გამოვხატოთ ქრისტე.</li>
-<li class="chorus chorus-top">ქრისტე გამოვხატოთ,</li>
-<li class="chorus">ქრისტე გამოვხატოთ;</li>
-<li class="chorus">ეკლესიაში კრებებზე,</li>
-<li class="chorus chorus-bottom">ქრისტე გამოვხატოთ.</li>
+<li>хочешь жить как победитель?</li>
+<li>верь Тому, кто жив!</li>
+<li>смерть с одежды смыв, получишь</li>
+<li>ты в награду жизнь.</li>
+<li class="chorus chorus-top">хочешь жить как победитель,</li>
+<li class="chorus">сделать шаг сейчас?</li>
+<li class="chorus">сам Христос нас призывает,</li>
+<li class="chorus chorus-bottom">слушай этот глас!</li>
 </ul>
 </section>
 <section>
 <span class="number">7.</span>
 <ul>
-<li>ჩვენი მოწმობა და ლოცვა,</li>
-<li>ჩვენი მოზიარეობა,</li>
-<li>ნიჭებით და ყველაფერი</li>
-<li>გამოხატავს ქრისტეს.</li>
-<li class="chorus chorus-top">ქრისტე გამოვხატოთ,</li>
-<li class="chorus">ქრისტე გამოვხატოთ;</li>
-<li class="chorus">ეკლესიაში კრებებზე,</li>
-<li class="chorus chorus-bottom">ქრისტე გამოვხატოთ.</li>
+<li>хочешь жить как победитель?</li>
+<li>тепловат не будь!</li>
+<li>о, стремись увидеть больше,</li>
+<li>жаждущим пребудь.</li>
+<li class="chorus chorus-top">хочешь жить как победитель,</li>
+<li class="chorus">сделать шаг сейчас?</li>
+<li class="chorus">сам Христос нас призывает,</li>
+<li class="chorus chorus-bottom">слушай этот глас!</li>
 </ul>
 </section>
 <section>
 <span class="number">8.</span>
 <ul>
-<li>ო მამაო, განგადიდებთ,</li>
-<li>და ქრისტე ძეს აღვამაღლებთ;</li>
-<li>კრების მიზანსაც ვამართლებთ,</li>
-<li>გამოვხატავთ ქრისტეს.</li>
-<li class="chorus chorus-top">ქრისტე გამოვხატოთ,</li>
-<li class="chorus">ქრისტე გამოვხატოთ;</li>
-<li class="chorus">ეკლესიაში კრებებზე,</li>
-<li class="chorus chorus-bottom">ქრისტე გამოვხატოთ.</li>
+<li>хочешь жить как победитель?</li>
+<li>слышен глас Христов!</li>
+<li>хочешь быть Ему ты верным,</li>
+<li>дать ответ на зов?</li>
+<li class="chorus chorus-top">хочешь жить как победитель,</li>
+<li class="chorus">сделать шаг сейчас?</li>
+<li class="chorus">сам Христос нас призывает,</li>
+<li class="chorus chorus-bottom">слушай этот глас!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "სულში, ჭეშმარიტებაში,"),
-    num: (num = 623),
+    title: (title = "как славен наш Царь и велик!"),
+    num: (num = 360),
     page: `
-<h2 class="hNum">${num}</h2>ss="full-hymn">
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>უფალო, გადიდებთ;</li>
-<li>ქრისტრეში განსწავლულები,</li>
-<li>შენს ახლოს მოვიწევთ.</li>
+<li>престол Его - небо само,</li>
+<li>он правит вселенною всей,</li>
+<li>все царства - под жезлом Его.</li>
+<li>живёт Он с народом Своим,</li>
+<li>в скорбях их всегда с ними Он.</li>
+<li>мы с Ним для работы Его,</li>
+<li>и бремя Его мы несём.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>სული ჭეშმარიტებაა,</li>
-<li>ახლო და ძვირფასი;</li>
-<li>რომ შევეხოთ სიცოცხლეში,</li>
-<li>რომ ღმერთს ვცეთ თაყვანი.</li>
+<li>живу я с Иисусом, Царём,</li>
+<li>жилище Его я нашёл;</li>
+<li>открыл своё сердце Ему -</li>
+<li>оно Его храм и престол.</li>
+<li>сижу, как Мария, при Нём,</li>
+<li>склонюсь к Нему, как Иоанн;</li>
+<li>в присутствии светлом Его</li>
+<li>покоя Его глубина.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ღმერთმა სულით გამოგვსახა,</li>
-<li>რომ თაყვანი ვცეთ მას;</li>
-<li>არა გარეგნულად ვესოთ,</li>
-<li>ვეძებოთ შიგნიდან.</li>
+<li>я ради труда Его с Ним,</li>
+<li>мне в плане Своём дал Он часть,</li>
+<li>чтоб царство Его принести,</li>
+<li>спасенье Его возвещать.</li>
+<li>есть труд и награды в миру -</li>
+<li>я счёл за утрату их все.</li>
+<li>мой труд - лишь работа Его,</li>
+<li>а слово моё - о кресте.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>უფლისგან ხელახლა ვიშვით,</li>
-<li>ჩვენს გულში ვახლდებით;</li>
-<li>ჩვენში ცხოვრობს ვით სიცოცხლე,</li>
-<li>და მისით ვცემთ თაყვანს.</li>
+<li>я ради труда Его с Ним,</li>
+<li>не мой это труд, а Его.</li>
+<li>готовит, планирует Он</li>
+<li>и силу мне свыше даёт.</li>
+<li>усладой сменяется долг,</li>
+<li>хвалою - молитва моя;</li>
+<li>с Царём я в работе Его,</li>
+<li>работаю силой Царя.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>შინაგან ცნობიერების</li>
-<li>თანახმად ვცემთ თაყვანს,</li>
-<li>მისი სულით ვართ ცხებული,</li>
-<li>მის სისავსეს ვავლენთ.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>ჭეშმარიტებაში ვდივართ,</li>
-<li>აღარ ვართ ჩრდილებში;</li>
-<li>ქრისტეში - სინამდვილეში</li>
-<li>ჩვენს მამას თაყვანს ვცემთ.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>ჩვენ ღმერთს ვუძღვნით ქრისტე უფალს,</li>
-<li>ჩვენ მიერვე განცდილს;</li>
-<li>ღმერთთან ერთად მისით ვტკბებით,</li>
-<li>განვიცდით მის სიტკბოს.</li>
-</ul>
-</section>
-<section>
-<span class="number">8.</span>
-<ul>
-<li>სულში, ჭეშმარიტებაში,</li>
-<li>ერთად ვიკრიბებით;</li>
-<li>ქება-დიდება გაისმის</li>
-<li>მოწყალების ტახტთან.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ავარჯიშეთ სული!"),
-    num: (num = 624),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>კაცთა ფიქრები</li>
-<li>უარყავით ყველა,</li>
-<li>კრებებზე მოდით.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ავარჯიშეთ სული!</li>
-<li>მკვდარი ფორმები</li>
-<li>ყველამ მიატოვეთ,</li>
-<li>ქრისტე შეჭამეთ.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ავარჯიშეთ სული, -</li>
-<li>არა გრძნობები;</li>
-<li>იმსახურეთ ერთად,</li>
-<li>ქრისტე იცხოვრეთ.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ავარჯიშეთ სული!</li>
-<li>მშვინვა უარყვეთ;</li>
-<li>უფალზე დაეყრდნეთ,</li>
-<li>სხვებს დაეხმარეთ.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>სულში თავს დააღწევთ:</li>
-<li>თვითგამართლებას,</li>
-<li>თვითმსჯავრდადებას და</li>
-<li>თვითდაკვირვებას.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>სულში თავს დააღწევთ,</li>
-<li>ფუჭ სიამაყეს,</li>
-<li>ამპარტავნებას და</li>
-<li>ყველა დანარჩენს.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>ავარჯიშეთ სული!</li>
-<li>და გაიმარჯვეთ</li>
-<li>სისხლით, რომელიც გვწმენდს</li>
-<li>- ქრისტეს სახელით.</li>
-</ul>
-</section>
-<section>
-<span class="number">8.</span>
-<ul>
-<li>ავარჯიშეთ სული,</li>
-<li>უფალს შეეხეთ;</li>
-<li>სიტყვის მეშვეობით,</li>
-<li>სული მიიღეთ.</li>
-</ul>
-</section>
-<section>
-<span class="number">9.</span>
-<ul>
-<li>მხოლოდ სულის მიერ,</li>
-<li>მოწმდება ქრისტე;</li>
-<li>სული იწვევს კაცის</li>
-<li>კმაყოფილებას.</li>
-</ul>
-</section>
-<section>
-<span class="number">10.</span>
-<ul>
-<li>ავარჯიშეთ სული!</li>
-<li>ჩვენ ეს გვჭირდება;</li>
-<li>დაე წინ წაგვიძღვეს,</li>
-<li>უფალი ყველას!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "სხეულის წევრები ვართ"),
-    num: (num = 625),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>გამოვხატავთ ქრისტეს,</li>
-<li>ყველა თავის ფუნქციით</li>
-<li>მის სისავსეს ავლენს;</li>
-<li>მაყურებლები არ ვართ,</li>
-<li>არამედ წევრები,</li>
-<li>ერთმანეთს ვეხმარებით,</li>
-<li>არ მოგვაქვს სიკვდილი.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ვშრომობთ ვით გუნდი და არ</li>
-<li>ვართ განცალკევებით;</li>
-<li>კოორდინაციაში</li>
-<li>ერთმანეთს ვეყრდნობით.</li>
-<li>მივყვებით დინებას და</li>
-<li>არ ვირჩევთ ჩვენ თვითონ.</li>
-<li>შუღლი არასდროს მოგვაქვს,</li>
-<li>შევიცნობთ სულის გზას.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ქრისტეა ჩვენი ცენტრი,</li>
-<li>მხოლოდ მას ვუყურებთ;</li>
-<li>მასთან ურთიერთობით</li>
-<li>ვიღებთ მის სიმდიდრეს.</li>
-<li>სხეული გამოვხატავთ</li>
-<li>ქრისტეს - ჩვენს თავს და არსს;</li>
-<li>ჩვენს ძვირფას ქრისტეს ვავლენთ</li>
-<li>ყველა შეკრებისას.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ვშენდებით სიყვარულში,</li>
-<li>მსჯავრს არ ვდებთ ერთმანეთს;</li>
-<li>ყველა სულს ვავარჯიშებთ,</li>
-<li>რომ გავსრულყოფილდეთ.</li>
-<li>ბუნებრივ სიცოცხლეს - "მეს"</li>
-<li>უარვყოფთ, ვივიწყებთ;</li>
-<li>სულში მადლით შევიცნობთ</li>
-<li>სხეულის სიცოცხლეს.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "უფალო, ყველა კრების დასასრულს,"),
-    num: (num = 626),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>კვლავ მადლობის სიმღერას გიმღერით,</li>
-<li>შენი თანდასწრების და მადლისთვის</li>
-<li>ასე უხვად რომ ჩაღვარე ჩვენში.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ახლა, თუმცა დასრულდა შეკრება,</li>
-<li>მადლი, თანდასწრება არ დაგვტოვებს;</li>
-<li>შენი სული ძალით გაგვამაგრებს,</li>
-<li>სიყვარულით უწყვეტად აგვავსებს.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>გთხოვთ, გამოგვყვეს შენი თანდასწრება,</li>
-<li>და ატაროს ჩვენი გულის ზრუნვა;</li>
-<li>მუდამ დავტკბეთ შენით მანამ სანამ,</li>
-<li>შემდეგი შეკრების დღე დადგება.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "კრების დასასრულს ისევ გადიდებთ,"),
-    num: (num = 627),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>შენი ტკბილი, ცოცხალი სიტყვისთვის;</li>
-<li>ჩვენ მიგვხიბლა შენმა სიძვირფასემ,</li>
-<li>შენს ნათქვამ სიტყვებს გული მოელტვის.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>შენი სიტყვაა სული, სიცოცხლე,</li>
-<li>მისით ვიკვებებით და ვიზრდებით;</li>
-<li>უფალო, სრულ ზომად სიმწიფემდე</li>
-<li>შენს სახებად გარდავისახებით.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>შენი თავი ჩვენში ჩადე მეტად,</li>
-<li>რომ სულში ვიაროთ, ვიმოძრაოთ;</li>
-<li>დავრჩეთ ურთიერთობაში შენთან,</li>
-<li>შეკრებამდე მადლი დავამოწმოთ.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "აღდგომის ძალით გავხდით ჩვენ"),
-    num: (num = 628),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>უფლის ძვირფასი ძმები,</li>
-<li>მას სურს, რომ ვიზიარებდეთ</li>
-<li>ტრიუმფალურ საათს მისს!</li>
-<li class="chorus chorus-top">იესო უფროსი ძმაა,</li>
-<li class="chorus">პირმშო ღვთის ძეთა შორის,</li>
-<li class="chorus">რელიგიისგან შორს მყოფი</li>
-<li class="chorus">მოვიდა აღდგომაში.</li>
-<li class="chorus">როგორც მისი ეკლესია</li>
-<li class="chorus">ვიკრიბებით ჩვენ ერთად,</li>
-<li class="chorus">ვუარყოფთ "მეს" და სიძველეს</li>
-<li class="chorus chorus-bottom">უფლის განსადიდებლად</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>უფროსი ძმის აღდგომაში</li>
-<li>აღმდგრები შევიკრიბოთ,</li>
-<li>არასდროს - ბუნებრივ კაცში,</li>
-<li>უფალი გავახაროთ!</li>
-<li class="chorus chorus-top">იესო უფროსი ძმაა,</li>
-<li class="chorus">პირმშო ღვთის ძეთა შორის,</li>
-<li class="chorus">რელიგიისგან შორს მყოფი</li>
-<li class="chorus">მოვიდა აღდგომაში.</li>
-<li class="chorus">როგორც მისი ეკლესია</li>
-<li class="chorus">ვიკრიბებით ჩვენ ერთად,</li>
-<li class="chorus">ვუარყოფთ "მეს" და სიძველეს</li>
-<li class="chorus chorus-bottom">უფლის განსადიდებლად</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ყოველ დღე ვნახოთ იესო</li>
-<li>ღმერთის სიტყვის ჭამის დროს,</li>
-<li>მწველი სულით ანთებული</li>
-<li>კრებებზე გავეშუროთ!</li>
-<li class="chorus chorus-top">იესო უფროსი ძმაა,</li>
-<li class="chorus">პირმშო ღვთის ძეთა შორის,</li>
-<li class="chorus">რელიგიისგან შორს მყოფი</li>
-<li class="chorus">მოვიდა აღდგომაში.</li>
-<li class="chorus">როგორც მისი ეკლესია</li>
-<li class="chorus">ვიკრიბებით ჩვენ ერთად,</li>
-<li class="chorus">ვუარყოფთ "მეს" და სიძველეს</li>
-<li class="chorus chorus-bottom">უფლის განსადიდებლად</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ვდღესასწაულობთ კრებებზე,</li>
-<li>რა უხვია საკვები,</li>
-<li>იესო გვაკმაყოფილებს,</li>
-<li>გვკვებავს ცოცხალი პურით.</li>
-<li class="chorus chorus-top">იესო უფროსი ძმაა,</li>
-<li class="chorus">პირმშო ღვთის ძეთა შორის,</li>
-<li class="chorus">რელიგიისგან შორს მყოფი</li>
-<li class="chorus">მოვიდა აღდგომაში.</li>
-<li class="chorus">როგორც მისი ეკლესია</li>
-<li class="chorus">ვიკრიბებით ჩვენ ერთად,</li>
-<li class="chorus">ვუარყოფთ "მეს" და სიძველეს</li>
-<li class="chorus chorus-bottom">უფლის განსადიდებლად</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ძმა დავაკმაყოფილოთ, თუმც</li>
-<li>ძალზე მცირე წილი გვაქვს,</li>
-<li>ყველამ მოვამზადოთ კერძი,</li>
-<li>გავუზიაროთ სხვებსაც.</li>
-<li class="chorus chorus-top">იესო უფროსი ძმაა,</li>
-<li class="chorus">პირმშო ღვთის ძეთა შორის,</li>
-<li class="chorus">რელიგიისგან შორს მყოფი</li>
-<li class="chorus">მოვიდა აღდგომაში.</li>
-<li class="chorus">როგორც მისი ეკლესია</li>
-<li class="chorus">ვიკრიბებით ჩვენ ერთად,</li>
-<li class="chorus">ვუარყოფთ "მეს" და სიძველეს</li>
-<li class="chorus chorus-bottom">უფლის განსადიდებლად</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>უფლისათვის ვიკრიბებით</li>
-<li>და სხვა არაფრისათვის,</li>
-<li>ვზრუნავთ მის თანდასწრებაზე,</li>
-<li>ხილვა გვსურს ძვირფასი ძმის.</li>
-<li class="chorus chorus-top">იესო უფროსი ძმაა,</li>
-<li class="chorus">პირმშო ღვთის ძეთა შორის,</li>
-<li class="chorus">რელიგიისგან შორს მყოფი</li>
-<li class="chorus">მოვიდა აღდგომაში.</li>
-<li class="chorus">როგორც მისი ეკლესია</li>
-<li class="chorus">ვიკრიბებით ჩვენ ერთად,</li>
-<li class="chorus">ვუარყოფთ "მეს" და სიძველეს</li>
-<li class="chorus chorus-bottom">უფლის განსადიდებლად</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "წამოვდქეთ იესოსთვის,"),
-    num: (num = 629),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ო, ჯარისკაცნო ჯვრის!</li>
-<li>ავწიოთ მაღლა მისი</li>
-<li>სამეფო ალამი,</li>
-<li>მარად გამარჯვებაში</li>
-<li>მის ჯარს მიუძღვის წინ,</li>
-<li>სანამ არ ძლევს ყველა მტერს</li>
-<li>იესო უფალი</li>
-<li class="chorus chorus-top">წამოვდგეთ იესოსთვის,</li>
-<li class="chorus">ჯარისკაცნო ჯვრის!</li>
-<li class="chorus">აღვმართოთ ღვთის ალამი,</li>
-<li class="chorus chorus-bottom">ვერასდროს დაგვამარცხებს მტერი</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>წამოვდქეთ იესოსთვის,</li>
-<li>საყვირი როცა ჟღერს,</li>
-<li>წინ მედგრად ფიცხელ ომში</li>
-<li>ქრისტეს დიდებულ დღეს,</li>
-<li>ძმებო, ვემსახუროთ ღმერთს</li>
-<li>მტრის ურიცხვ ჯარს დავძლევთ,</li>
-<li>სიმამაცით ძალაში</li>
-<li>დავუპირისპირდეთ!</li>
-<li class="chorus chorus-top">წამოვდგეთ იესოსთვის,</li>
-<li class="chorus">ჯარისკაცნო ჯვრის!</li>
-<li class="chorus">აღვმართოთ ღვთის ალამი,</li>
-<li class="chorus chorus-bottom">ვერასდროს დაგვამარცხებს მტერი</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>წამოვდგეთ იესოსთვის,</li>
-<li>მისი ძალით მხოლოდ,</li>
-<li>ხორცის მხარი არ არის</li>
-<li>მყარი, მას არ ვენდოთ.</li>
-<li>შევიმოსოთ ხარებით,</li>
-<li>ლოცვაში ვიფხიზლოთ,</li>
-<li>ვალდებულებას, ხიფათს</li>
-<li>უნდა მოვერიდოთ</li>
-<li class="chorus chorus-top">წამოვდგეთ იესოსთვის,</li>
-<li class="chorus">ჯარისკაცნო ჯვრის!</li>
-<li class="chorus">აღვმართოთ ღვთის ალამი,</li>
-<li class="chorus chorus-bottom">ვერასდროს დაგვამარცხებს მტერი</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>წამოვდგეთ იესოსთვის,</li>
-<li>დასრულდება ბრძოლაც,</li>
-<li>დღეს ბრძოლის ხმა ისმის, ხვალ</li>
-<li>იქნება სიმღერა,</li>
-<li>გამარჯვებულს სიცოცხლის</li>
-<li>გვირგვინს მისცემს ღმერთი,</li>
-<li>ო, დიდების მეფესთან</li>
-<li>ერთად იმეფებს ის.</li>
-<li class="chorus chorus-top">წამოვდგეთ იესოსთვის,</li>
-<li class="chorus">ჯარისკაცნო ჯვრის!</li>
-<li class="chorus">აღვმართოთ ღვთის ალამი,</li>
-<li class="chorus chorus-bottom">ვერასდროს დაგვამარცხებს მტერი</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ქრისტეს ჯარისკაცნო,"),
-    num: (num = 630),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>მტკიცედ წინ ომში!</li>
-<li>იესოს ჯვარია</li>
-<li>ჩვენი ალამი,</li>
-<li>ქრისტე ჩვენი მეფე,</li>
-<li>ჩვენი ბატონი,</li>
-<li>ის მტრის წინააღმდეგ</li>
-<li>მედგრად მიგვიძღვის.</li>
-<li class="chorus chorus-top">ქრისტეს ჯარისკაცნო,</li>
-<li class="chorus">მტკიცედ წინ ომში!</li>
-<li class="chorus">იესოს ჯვარია</li>
-<li class="chorus chorus-bottom">ჩვენი ალამი.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>იესოს სახელით</li>
-<li>მტრის ჯარი გარბის,</li>
-<li>ქრისტეს ჯარისკაცნო,</li>
-<li>წინ, გამარჯვებით!</li>
-<li>უფლის ქების ხმაზე</li>
-<li>ჯოჯოხეთი ძრწის,</li>
-<li>ძმებო, აღიმაღლეთ</li>
-<li>ხმა, თქვენი ჰიმნის!</li>
-<li class="chorus chorus-top">ქრისტეს ჯარისკაცნო,</li>
-<li class="chorus">მტკიცედ წინ ომში!</li>
-<li class="chorus">იესოს ჯვარია</li>
-<li class="chorus chorus-bottom">ჩვენი ალამი.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მოძრაობს ჯარივით</li>
-<li>ღვთის ეკლესია:</li>
-<li>ვთელავთ, რაც წმიდების</li>
-<li>გაკვალულია,</li>
-<li>არ ვართ დაყოფილნი,</li>
-<li>ვართ ერთ სხეულში,</li>
-<li>რწმენაში და სულში</li>
-<li>მარად ვართ ერთი.</li>
-<li class="chorus chorus-top">ქრისტეს ჯარისკაცნო,</li>
-<li class="chorus">მტკიცედ წინ ომში!</li>
-<li class="chorus">იესოს ჯვარია</li>
-<li class="chorus chorus-bottom">ჩვენი ალამი.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ქვეყნის სამეფონი</li>
-<li>მარად იცვლება,</li>
-<li>თუმც ღვთის ეკლესია</li>
-<li>მუდმივად რჩება.</li>
-<li>ჯოჯოხეთის ბჭენი</li>
-<li>ვერ დაძლევენ მას,</li>
-<li>ქრისტემ თქვა, დაგვპირდა,</li>
-<li>არ შეიცვლება.</li>
-<li class="chorus chorus-top">ქრისტეს ჯარისკაცნო,</li>
-<li class="chorus">მტკიცედ წინ ომში!</li>
-<li class="chorus">იესოს ჯვარია</li>
-<li class="chorus chorus-bottom">ჩვენი ალამი.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>მაშ წინ, ღმერთის ხალხო!</li>
-<li>ჩვენს ბედნიერ ჰანგს</li>
-<li>შეუერთეთ თქვენი</li>
-<li>გამარჯვების ხმა!</li>
-<li>დიდება, პატივი</li>
-<li>ქრისტეს, მეუფეს!</li>
-<li>კაცნი, ანგელოზნი</li>
-<li>უმღერიან ღმერთს.</li>
-<li class="chorus chorus-top">ქრისტეს ჯარისკაცნო,</li>
-<li class="chorus">მტკიცედ წინ ომში!</li>
-<li class="chorus">იესოს ჯვარია</li>
-<li class="chorus chorus-bottom">ჩვენი ალამი.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "შეტევაზე! დრო დადგა"),
-    num: (num = 631),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ბრძოლის, მეომრებო.</li>
-<li>გამარჯვების სიმღერას</li>
-<li>მალე შემოვძახებთ -</li>
-<li>ო, მტერზე გამარჯვება</li>
-<li>მოპოვებულია!</li>
-<li>ჯოჯოხეთის, სატანის,</li>
-<li>განადგურდეს ძალა!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>შეტევაზე! უყურეთ</li>
-<li>უფალს, მეომრებო.</li>
-<li>თუ მის ომში იბრძოლებთ,</li>
-<li>ტახტი არის ჯილდო.</li>
-<li>ბრძოლა მიწაზე კი არ</li>
-<li>არამედ სულშია,</li>
-<li>მტერი გარს გვახვევია,</li>
-<li>ეს იცის უფალმა.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მებრძოლებო შეტევა!</li>
-<li>ქრისტეს ტახტი გველის.</li>
-<li>აღდგომის ძალა ჩვენს სულს</li>
-<li>აამაღლებს და ჩვენ</li>
-<li>მოგვცემს ძალას, რომ მტერზე</li>
-<li>ვიმარჯვოთ. ვიმღერებთ</li>
-<li>სიმღერას და დავიდგამთ</li>
-<li>გამარჯვების გვირგვინს.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>მებრძოლებო, შეტევა!</li>
-<li>ღვთის მომზადებული</li>
-<li>ნადიმით ინადიმებთ</li>
-<li>და დაჯდებით ტახტზე.</li>
-<li>აღვდექით მასთან ერთად,</li>
-<li>ბორკილები მოგვხსნა.</li>
-<li>ყველაფერზე მაღლა ვართ,</li>
-<li>თავისუფლები ვართ!</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>მეფის მემკვიდრეებო -</li>
-<li>წინ! ო, მებრძოლებო,</li>
-<li>აგვირჩია სამეფოს</li>
-<li>გასაზიარებლად.</li>
-<li>წყვდიადს აღარ ვეკუთვნით,</li>
-<li>მყობადი განათდა.</li>
-<li>და ქრისტეს სიყვარულში</li>
-<li>დავმკვიდრდებით მარად.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>მობრძანდით და შესძახეთ</li>
-<li>- სიონი, სამეფო.</li>
-<li>სიონის მწვერვალზე, ჩვენს</li>
-<li>გამარჯვებას დავჭექთ.</li>
-<li>გამარჯვებული კრავი</li>
-<li>ის ავიდა ტახტზე.</li>
-<li>არის უძლიერესი,</li>
-<li>ხმამაღლა ვადიდებთ.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ცხარე ომში მტერს, რომ"),
-    num: (num = 632),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>სძლიო, ენდე</li>
-<li>ღმერთის სიტყვას, რწმენით</li>
-<li>იგალობე</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>შესძახე ერთხელ და</li>
-<li>გაიმარჯვებ</li>
-<li>ნურც დაკეტავ ბაგეს,</li>
-<li>ნუ წააგებ</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>თუ წნეხის ქვეშ გრძნობ და</li>
-<li>უძლურს შენს სულს,</li>
-<li>ძვირფას სისხლს მიმართე</li>
-<li>გამარჯვებულს</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>თუმც სასტიკ მტერს ებრძვი,</li>
-<li>გაიმარჯვებ</li>
-<li>თუ იდგები მყარად</li>
-<li>მალე დაძლევ</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>დაამოწმე ქრისტეს</li>
-<li>გამარჯვება,</li>
-<li>შეიცვლება ბნელი,</li>
-<li>შთაინთქმება.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ვერ ვბედავ დამარცხებას,"),
-    num: (num = 633),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ვხედავ რა გოლგოთას,</li>
-<li>იესომ მოსრა მტერი,</li>
-<li>მან სძლია სატანას.</li>
-<li>მოდი უფალო მომეც</li>
-<li>ხედვა, სიმამაცე,</li>
-<li>ვიყო გამარჯვებული,</li>
-<li>ღვთის სულით შემმოსე</li>
-<li class="chorus chorus-top">ო, გამარჯვებული</li>
-<li class="chorus">გოლგოთის ჯვრის გამო,</li>
-<li class="chorus">გამხადე მტრის მძლეველი</li>
-<li class="chorus chorus-bottom">გამარჯვებული შენში ღმერთო.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ვერ ვბედავ დამარცხებას</li>
-<li>ქრისტემ, ჩემმა მეფემ</li>
-<li>მომიხმო ბრძოლაში, თუმც</li>
-<li>მოიგო მან უკვე.</li>
-<li>უფალო გამამხნევე</li>
-<li>მძლეველი სულით დღეს,</li>
-<li>ჩემში მცხოვრები ძალით</li>
-<li>მძლეველი გამხადე</li>
-<li class="chorus chorus-top">ო, გამარჯვებული</li>
-<li class="chorus">გოლგოთის ჯვრის გამო,</li>
-<li class="chorus">გამხადე მტრის მძლეველი</li>
-<li class="chorus chorus-bottom">გამარჯვებული შენში ღმერთო.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ვერ ვბედავ დამარცხებას</li>
-<li>წინ მიძღვის იესო,</li>
-<li>რომ განვლო ბნელი გზები</li>
-<li>მის ტახტს ვეზიარო,</li>
-<li>შენს ჯარისკაცს მიეცი</li>
-<li>ღვთის სულის მახვილი,</li>
-<li>ვიყო გამარჯვებული,</li>
-<li>ღმერთო, შენი სიტყვით</li>
-<li class="chorus chorus-top">ო, გამარჯვებული</li>
-<li class="chorus">გოლგოთის ჯვრის გამო,</li>
-<li class="chorus">გამხადე მტრის მძლეველი</li>
-<li class="chorus chorus-bottom">გამარჯვებული შენში ღმერთო.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ვერ ვბედავ დამარცხებას,</li>
-<li>მისი დღე ახლოა,</li>
-<li>ყურში რომ ჩაგჩურჩულებს:</li>
-<li>"ძალიან კარგია!"</li>
-<li>ო, შენი დიდებიდან</li>
-<li>სული გადმოღვარე,</li>
-<li>ვიყო გამარჯვებული,</li>
-<li>მძლეველი ბოლომდე.</li>
-<li class="chorus chorus-top">ო, გამარჯვებული</li>
-<li class="chorus">გოლგოთის ჯვრის გამო,</li>
-<li class="chorus">გამხადე მტრის მძლეველი</li>
-<li class="chorus chorus-bottom">გამარჯვებული შენში ღმერთო.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = 'მტრისთვის ჩემი სიტყვა - "არა"'),
-    num: (num = 634),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>"დიახ" არის მამისთვის,</li>
-<li>რომ მისი გეგმა, მისი განზრახვა</li>
-<li>აღსრულდეს წარმატებით</li>
-<li>როცა შენს ნებას ვმორჩილობ,</li>
-<li>ძალაუფლებას ვფლობდე,</li>
-<li>შენი სულის ძალით ჩემში</li>
-<li>ღმერთის გეგმა ასრულდეს.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>მტრისთვის ჩემი სიტყვა - "არა"</li>
-<li>"დიახ" არის მამისთვის,</li>
-<li>მაქვს მარადიული განწყობა,</li>
-<li>უფალმა დაიცვას ის.</li>
-<li>მტერს არ ქონდეს მისადგომი,</li>
-<li>მორჩილებით ვიარო,</li>
-<li>შენს ბრძანებებს რომ მოვისმენ,</li>
-<li>წყალობას გთხოვ უფალო.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მტრისთვის ჩემი სიტყვა - "არა"</li>
-<li>მამისთვის არის "დიახ"</li>
-<li>მე მას დავემორჩილები,</li>
-<li>რომც დამჩაგროს ღრმა ტანჯვამ.</li>
-<li>თუ უფალი შემინახავს,</li>
-<li>სწრაფვაში მასთან ერთად,</li>
-<li>ვერ დამაბრკოლებს ტანჯვები,</li>
-<li>ვერც წინააღმდეგობა.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "დაბანაკდით სხივის გასწვრივ"),
-    num: (num = 635),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ჯარისკაცნო ცისა!</li>
-<li>წინ ბრძოლაში, ვიდრე ფარავს</li>
-<li>ღამე მბრწყინავ ზეცას.</li>
-<li>მტრის წინააღმდეგ ველებზე,</li>
-<li>მთელ ჩვენს ძალას ვტყორცნით,</li>
-<li>რწმენა არის გამარჯვება,</li>
-<li>სამყაროს მძლეველი</li>
-<li class="chorus chorus-top">რწმენა გამარჯვებაა!</li>
-<li class="chorus">რწმენა გამარჯვებაა!</li>
-<li class="chorus">დიდებული ძალაა!</li>
-<li class="chorus chorus-bottom">ო, ძლევს წუთისოფელს</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>სიყვარულია ალამი,</li>
-<li>მახვილი-ღვთის სიტყვა,</li>
-<li>წმიდების გაკვალულ გზაზე</li>
-<li>მივდივართ წინ მედგრად,</li>
-<li>რწმენით და მღელვარე სუნთქვით</li>
-<li>დაბლობებს ავიღებთ,</li>
-<li>რწმენით სიკვდილს ამარცხებდნენ,</li>
-<li>რწმენა ფარად გვაქვს დღეს.</li>
-<li class="chorus chorus-top">რწმენა გამარჯვებაა!</li>
-<li class="chorus">რწმენა გამარჯვებაა!</li>
-<li class="chorus">დიდებული ძალაა!</li>
-<li class="chorus chorus-bottom">ო, ძლევს წუთისოფელს</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ყოველ ფეხის ნაბიჯზე მტრის</li>
-<li>ჯარი გვემუქრება,</li>
-<li>ვტოვებთ უკან მშვიდ სადგომებს</li>
-<li>ბრძოლის ველზე მივალთ.</li>
-<li>გვაქვს ხსნის ჩაჩქანი, წელს გვაკრავს</li>
-<li>ღვთის ჭეშმარიტება,</li>
-<li>მიწის მკვიდრთ ზარს ცემს სვლა ჩვენი,</li>
-<li>ექოს გვაძლევს ყველა.</li>
-<li class="chorus chorus-top">რწმენა გამარჯვებაა!</li>
-<li class="chorus">რწმენა გამარჯვებაა!</li>
-<li class="chorus">დიდებული ძალაა!</li>
-<li class="chorus chorus-bottom">ო, ძლევს წუთისოფელს</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>თეთრ სამოსს მიიღებს ყველა,</li>
-<li>ვიც მტერი დაძლია,</li>
-<li>ყველა, ვინც ანგელოზთა წინ</li>
-<li>ქრისტე აღიარა.</li>
-<li>სიყვარულით გულებს ანთებს</li>
-<li>სინათლე მაღლობის,</li>
-<li>დავამარცხებთ მტრის მხედრობას</li>
-<li>იესოს სახელში.</li>
-<li class="chorus chorus-top">რწმენა გამარჯვებაა!</li>
-<li class="chorus">რწმენა გამარჯვებაა!</li>
-<li class="chorus">დიდებული ძალაა!</li>
-<li class="chorus chorus-bottom">ო, ძლევს წუთისოფელს</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "იბრძოლე მუდამ სხეულში,"),
-    num: (num = 636),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>არ იბრძოლო ეულად;</li>
-<li>სხეულთან თავს შეუერთდი,</li>
-<li>და იბრძოლე ტახტიდან.</li>
-<li class="chorus chorus-top">იბრძოლე მუდამ სხეულში!</li>
-<li class="chorus">თავის ძალის წყალობით;</li>
-<li class="chorus">მტკიცედ იდექი სხეულში,</li>
-<li class="chorus chorus-bottom">მიაღწევ გამარჯვებას!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>საჭურველს ღმერთი ანიჭებს,</li>
-<li>მხოლოდ სხეულს, არა სხვას;</li>
-<li>როდესაც იბრძვი სხეულში,</li>
-<li>ყველა სარგებელი გაქვს.</li>
-<li class="chorus chorus-top">იბრძოლე მუდამ სხეულში!</li>
-<li class="chorus">თავის ძალის წყალობით;</li>
-<li class="chorus">მტკიცედ იდექი სხეულში,</li>
-<li class="chorus chorus-bottom">მიაღწევ გამარჯვებას!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ეკლესია ქრისტეზეა,</li>
-<li>სატანა მას ვერ დაძლევს;</li>
-<li>სხეული ერთად შენდება,</li>
-<li>უდგას წინ ბოროტებას.</li>
-<li class="chorus chorus-top">იბრძოლე მუდამ სხეულში!</li>
-<li class="chorus">თავის ძალის წყალობით;</li>
-<li class="chorus">მტკიცედ იდექი სხეულში,</li>
-<li class="chorus chorus-bottom">მიაღწევ გამარჯვებას!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>სხეულში თავობის მიერ,</li>
-<li>იჯექი ცის ფარგლებში;</li>
-<li>შეებრძოლე ბოროტ სულებს</li>
-<li>გაბატონებულ ძალებს.</li>
-<li class="chorus chorus-top">იბრძოლე მუდამ სხეულში!</li>
-<li class="chorus">თავის ძალის წყალობით;</li>
-<li class="chorus">მტკიცედ იდექი სხეულში,</li>
-<li class="chorus chorus-bottom">მიაღწევ გამარჯვებას!</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ძმებთან ერთად ღმერთისათვის,</li>
-<li>სულ სხეულში იყავი;</li>
-<li>მუდმივად ილოცე სულში,</li>
-<li>და გაიმარჯვე სისხლით.</li>
-<li class="chorus chorus-top">იბრძოლე მუდამ სხეულში!</li>
-<li class="chorus">თავის ძალის წყალობით;</li>
-<li class="chorus">მტკიცედ იდექი სხეულში,</li>
-<li class="chorus chorus-bottom">მიაღწევ გამარჯვებას!</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>ზეცაში ვართ ზემძლეველნი,</li>
-<li>ვიმარჯვებთ მის ძალაში;</li>
-<li>როგორც ჯარისკაცი ჯარში,</li>
-<li>იომე შენ უფალში.</li>
-<li class="chorus chorus-top">იბრძოლე მუდამ სხეულში!</li>
-<li class="chorus">თავის ძალის წყალობით;</li>
-<li class="chorus">მტკიცედ იდექი სხეულში,</li>
-<li class="chorus chorus-bottom">მიაღწევ გამარჯვებას!</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>წინ წადი სხეულში ბრძოლით,</li>
-<li>დიდ გამარჯვებას ნახავ;</li>
-<li>ილოცე ღმერთის ნებისთვის,</li>
-<li>ქმენი მტრები საკვებად.</li>
-<li class="chorus chorus-top">იბრძოლე მუდამ სხეულში!</li>
-<li class="chorus">თავის ძალის წყალობით;</li>
-<li class="chorus">მტკიცედ იდექი სხეულში,</li>
-<li class="chorus chorus-bottom">მიაღწევ გამარჯვებას!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ჩვენი ღმერთი ძლიერია,"),
-    num: (num = 637),
-    page: `
-	<h2 class="hNum">${num}</h2>
-
-	<main class="full-hymn">
-	<section>
-	<span class="number">1.</span>
-	<ul>
-	<li>${title}</li>
-	<li>ციხე-სიმაგრე ურყევი;</li>
-	<li>დამხმარებაა ის ჩვენი,</li>
-	<li>გამარჯვებაა ჭირში.</li>
-	<li>ძველი მტერი ცდილობს,</li>
-	<li>ვინძლო დაგვამწუხროს.</li>
-	<li>უბადლოდ ცბიერი,</li>
-	<li>უგულოდ სასტიკი,</li>
-	<li>მიწაზე სწორი არ ჰყავს.</li>
-	</ul>
-	</section>
-	<section>
-	<span class="number">2.</span>
-	<ul>
-	<li>ჩვენს ძალას თუ ვეყრდნობით,</li>
-	<li>ბრძოლა წაგებულია;</li>
-	<li>მაგრამ გვერდით გვიდგას კაცი,</li>
-	<li>ღმერთისგან რჩეულია.</li>
-	<li>ნეტავ ის ვინ არის?</li>
-	<li>- ქრისტე იესოა;</li>
-	<li>ცაბაოთ უფალი</li>
-	<li>ჰქვია საუკუნოდ,</li>
-	<li>ის გამარჯვებულია!</li>
-	</ul>
-	</section>
-	<section>
-	<span class="number">3.</span>
-	<ul>
-	<li>თუმც გვემუქრება ქვეყანა,</li>
-	<li>ავი სულებით სავსე;</li>
-	<li>ღმერთის ჭეშმარიტება,</li>
-	<li>ჩვენგან განმტკიცდება;</li>
-	<li>ვერ გვრთგუნავს ბნელეთის</li>
-	<li>მთავრის პირქუშობა,</li>
-	<li>მის იერიშს ვითმენთ,</li>
-	<li>ის განწირულია!</li>
-	<li>სიტყვა მას დაამარცხებს!</li>
-	</ul>
-	</section>
-	<section>
-	<span class="number">4.</span>
-	<ul>
-	<li>სიტყვა ჯაბნის მიწის ძალებს,</li>
-	<li>ის მკვიდრობს საუკუნოდ;</li>
-	<li>სული და ნიჭები მოგვცა,</li>
-	<li>მან, ვინც ჩვენ მუდამ გვიცავს;</li>
-	<li>ყოველი გადავა,</li>
-	<li>მოკვდავი სიცოცხლეც,</li>
-	<li>სხეულიც რომ მოკლან,</li>
-	<li>ღმერთის სამეფო და</li>
-	<li>ჭეშმარიტება რჩება.</li>
-	</ul>
-	</section>
-	</main>
-	`,
-  },
-  {
-    title: (title = "იესოს სახელში ვდგავართ,"),
-    num: (num = 638),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>მის გამარჯვებაში</li>
-<li>არ ვეყრდნობით ბუნებრივ კაცს,</li>
-<li>ჩვენ ვიბრძვით უფალში,</li>
-<li>ხორცის იარაღს არ ვხმარობთ,</li>
-<li>გვაქვს სულის ისარი,</li>
-<li>ვიმოსებით ღვთის საჭურვლით</li>
-<li>მედგრად ვიბრძვით მასში.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>მტერი შეთქმული თავს გვესხმის</li>
-<li>ერთად ვიდგეთ მტკიცედ,</li>
-<li>ცხარე ბრძოლისას, უფალში</li>
-<li>წინ აღვუდგებით მტერს.</li>
-<li>ერთიც, რომ უკან მიიქცეს,</li>
-<li>ძირს უთხრის დანარჩენს,</li>
-<li>ო, ნუ დასცემ ძირს ძვირფას ძმებს,</li>
-<li>სძლიე ბოლომდე მტერს</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ეშმაკს ცოტა დრო აქვს, იცის,</li>
-<li>განრისხებულია</li>
-<li>ცდილობს დაგვასუსტოს სანამ</li>
-<li>ვაწარმოებთ ბრძოლას,</li>
-<li>განსაცდელები იზრდება,</li>
-<li>მწარდება ტანჯვები,</li>
-<li>გეენის ძალები გვიტევს</li>
-<li>ძალზე საშინელი</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>რა პოზიცია გვაქვს დღეს ჩვენ</li>
-<li>სასოწარკვეთილ დროს?</li>
-<li>მარტივი ტკბობის გზას ვირჩევთ</li>
-<li>დაე, მტერმა გვშთანთქოს?</li>
-<li>თუ გამძვინვარებულ ომში</li>
-<li>გაბედულად ვიბრძვით?</li>
-<li>ვინ დაიცავს ღვთის დიდებას</li>
-<li>თავგანწირული გზით?</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ქრისტესთვის, უფლისთვის, ვიდგეთ,</li>
-<li>გამარჯვებულია,</li>
-<li>მისთვის ტკივილსაც დავითმენთ</li>
-<li>სანამ დასრულდება</li>
-<li>ტრიუმფის საათს ვიხილავთ</li>
-<li>მოვა უფალი კვლავ,</li>
-<li>თუ მისთვის ვიტანჯებით დღეს,</li>
-<li>ვიმეფებთ უფალთან</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ჰე, წამოიმართეთ,"),
-    num: (num = 639),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ჯარისკაცებო ღვთის!</li>
-<li>შეიმოსეთ საჭურველი,</li>
-<li>ღვთის ძალით გამაგრდით.</li>
-<li>ცაბაოთ უფალში,</li>
-<li>მის მძლეველ ძალაში.</li>
-<li>გამარჯვებულზე მეტი ვართ,</li>
-<li>ვისაც გვწამს მის ძეში</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>მაშ, ვიდგეთ უფალში,</li>
-<li>ძალით შემოსილი,</li>
-<li>ავიღოთ ღვთის იარაღი,</li>
-<li>ვიყოთ მზად ბრძოლისთვის.</li>
-<li>ყოველი აღსრულდა,</li>
-<li>ბრძოლა წარსულს დარჩა,</li>
-<li>ბოლომდე ვიდგეთ, ქრისტეთი</li>
-<li>ვპოვოთ გამარჯვება.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ნუ მისცემ სისუსტეს</li>
-<li>ადგილს სამშვინველში</li>
-<li>მიიღე ნიჭები, მადლყ</li>
-<li>სრულად განამტკიცე.</li>
-<li>საბრძოლო ჯავშანმა</li>
-<li>მუდამ რომ იბრწყინოს</li>
-<li>წინამძღოლის გვერდით იდექ</li>
-<li>ლოცვაში იფხიზლე.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>სულ ილოცე, სიტყვას</li>
-<li>წინამძღოლი მოგცემს,</li>
-<li>მის დაძახილს უპასუხე</li>
-<li>მის სახელს მოუხმე,</li>
-<li>მოახსენე შენი</li>
-<li>სათხოვარი უფალს</li>
-<li>ნურც დაიღლები, შენს სულში</li>
-<li>ილოცე მარადჟამს</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ძალიდან ძალაში</li>
-<li>შეუპოვრად ლოცვით,</li>
-<li>სიბნელის ძალა გათელე</li>
-<li>იმ დღემდე იბრძოლე,</li>
-<li>სული რომ შესძახებს</li>
-<li>ჯარისკაცნო "მოდით!"</li>
-<li>დაეშვება ზეცით ქრისტე</li>
-<li>მძლეველთ აიტაცებს</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "მძლეველ ქრისტეს სისხლის მიერ,"),
-    num: (num = 640),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>მტერი გაანადგურე;</li>
-<li>მისი ძალით, ქმედითობით,</li>
-<li>შენ გამარჯვებას პოვებ.</li>
-<li class="chorus chorus-top">მძლეველ ქრისტეს სისხლის მიერ,</li>
-<li class="chorus">მტერი გაანადგურე;</li>
-<li class="chorus">მისი ძალით, ქმედითობით,</li>
-<li class="chorus chorus-bottom">შენ გამარჯვებას პოვებ.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>მძლეველ ქრისტეს სისხლის მიერ,</li>
-<li>უარყვე ბრალმდებელი;</li>
-<li>დამცველ სისხლით უკუაგდე,</li>
-<li>შენ ცილისმწამებელი.</li>
-<li class="chorus chorus-top">მძლეველ ქრისტეს სისხლის მიერ,</li>
-<li class="chorus">მტერი გაანადგურე;</li>
-<li class="chorus">მისი ძალით, ქმედითობით,</li>
-<li class="chorus chorus-bottom">შენ გამარჯვებას პოვებ.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მძლეველ ქრისტეს სისხლის მიერ,</li>
-<li>ღვთის ერთგულების გწამდეს;</li>
-<li>გამომსყიდველის სისხლით შენ</li>
-<li>პატიება მიიღე.</li>
-<li class="chorus chorus-top">მძლეველ ქრისტეს სისხლის მიერ,</li>
-<li class="chorus">მტერი გაანადგურე;</li>
-<li class="chorus">მისი ძალით, ქმედითობით,</li>
-<li class="chorus chorus-bottom">შენ გამარჯვებას პოვებ.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>მძლეველ ქრისტეს სისხლის მიერ,</li>
-<li>მტკიცედ იდექ ბრძოლაში;</li>
-<li>უფლის გამარჯვებით დატკბი,</li>
-<li>მისი მძლეველი სისხლით.</li>
-<li class="chorus chorus-top">მძლეველ ქრისტეს სისხლის მიერ,</li>
-<li class="chorus">მტერი გაანადგურე;</li>
-<li class="chorus">მისი ძალით, ქმედითობით,</li>
-<li class="chorus chorus-bottom">შენ გამარჯვებას პოვებ.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>მძლეველ ქრისტეს სისხლის მიერ</li>
-<li>ხელმწიფება მიიღე;</li>
-<li>იესოს სისხლს ეზიარე,</li>
-<li>და მტერი დაამარცხე.</li>
-<li class="chorus chorus-top">მძლეველ ქრისტეს სისხლის მიერ,</li>
-<li class="chorus">მტერი გაანადგურე;</li>
-<li class="chorus">მისი ძალით, ქმედითობით,</li>
-<li class="chorus chorus-bottom">შენ გამარჯვებას პოვებ.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>მძლეველ ქრისტეს სისხლის მიერ,</li>
-<li>ცის ფარგლებში იდექი;</li>
-<li>ამაღლებულ ქრისტეს ძალით,</li>
-<li>გათელე მთავრობანი.</li>
-<li class="chorus chorus-top">მძლეველ ქრისტეს სისხლის მიერ,</li>
-<li class="chorus">მტერი გაანადგურე;</li>
-<li class="chorus">მისი ძალით, ქმედითობით,</li>
-<li class="chorus chorus-bottom">შენ გამარჯვებას პოვებ.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ქრისტე გამარჯვებულია,"),
-    num: (num = 641),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ვადიდოთ ყველამ,</li>
-<li>ალილუია მხსნელმა სძლია</li>
-<li>სიკვდილს და ცოდვას</li>
-<li class="chorus chorus-top">аллилуйя! ქრისტე მძლეველს,</li>
-<li class="chorus">თქვი, ყოველ ჯერზე</li>
-<li class="chorus">ქრისტე გამარჯვებულია</li>
-<li class="chorus chorus-bottom">ყოველგვარ მტერზე</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>რისტე გამარჯვებულია,</li>
-<li>სისუსტე ქრება</li>
-<li>როცა ვაცხადებთ მის ძლევას</li>
-<li>ჯვარზე რომ ჰპოვა</li>
-<li class="chorus chorus-top">аллилуйя! ქრისტე მძლეველს,</li>
-<li class="chorus">თქვი, ყოველ ჯერზე</li>
-<li class="chorus">ქრისტე გამარჯვებულია</li>
-<li class="chorus chorus-bottom">ყოველგვარ მტერზე</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ქრისტე გამარჯვებულია,</li>
-<li>გაბედე მიდი;</li>
-<li>წადი, სადაც ღმერთი გზავნის,</li>
-<li>მძლეველი ლოცვით.</li>
-<li class="chorus chorus-top">аллилуйя! ქრისტე მძლეველს,</li>
-<li class="chorus">თქვი, ყოველ ჯერზე</li>
-<li class="chorus">ქრისტე გამარჯვებულია</li>
-<li class="chorus chorus-bottom">ყოველგვარ მტერზე</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ქრისტე გამარჯვებულია,</li>
-<li>ნუ დამარცხდები,</li>
-<li>ნურც შეშინდები; შენს ხედვას</li>
-<li>გახდის ნათელს ის.</li>
-<li class="chorus chorus-top">аллилуйя! ქრისტე მძლეველს,</li>
-<li class="chorus">თქვი, ყოველ ჯერზე</li>
-<li class="chorus">ქრისტე გამარჯვებულია</li>
-<li class="chorus chorus-bottom">ყოველგვარ მტერზე</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ქრისტე გამარჯვებულია,</li>
-<li>მალე ხმით დასჭექს,</li>
-<li>"მძლეველნო მაღლა ამოდით</li>
-<li>შეერთვეთ მეფეს."</li>
-<li class="chorus chorus-top">аллилуйя! ქრისტე მძლეველს,</li>
-<li class="chorus">თქვი, ყოველ ჯერზე</li>
-<li class="chorus">ქრისტე გამარჯვებულია</li>
-<li class="chorus chorus-bottom">ყოველგვარ მტერზე</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ქრისტემ მტერზე გამარჯვება მოიპოვა,"),
-    num: (num = 642),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ყოველ მხრივ გამარჯვების ხმა ისმის!</li>
-<li>მისი სისხლი მოქმედია, ჩვენ ვიმარჯვებთ</li>
-<li>და მალე გამოჩნდება მძლეველი</li>
-<li class="top-15-red">მღერიან დები:</li>
-<li class="chorus chorus-top">გამარჯვება ჩვენია, ძმებო,</li>
-<li class="chorus">წამოვიმართოთ, შევძახოთ!</li>
-<li class="chorus">სიონში ვაუწყოთ გამარჯვება,</li>
-<li class="chorus chorus-bottom">მიწა ღვთის ქებით აივსოს!</li>
-<li class="top-15-red">მღერიან ძმები:</li>
-<li class="chorus chorus-top">გამარჯვება ჩვენია დებო!</li>
-<li class="chorus">აღსრულდა საქმე დიადი,</li>
-<li class="chorus">ო, უფალმა ჩვენთვის მოიპოვა,</li>
-<li class="chorus chorus-bottom">საუკუნო სიხარული</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>გამარჯვება ვპოვეთ, გავიმარჯვეთ მტერზე,</li>
-<li>ღმერთის სიტყვას თამამად ვამოწმებთ,</li>
-<li>ღმერთი ლაპარაკობს სიტყვაში სიცოცხლეს,</li>
-<li>ამ სიტყვით ვდგავართ მტრის წინააღმდეგ</li>
-<li class="top-15-red">მღერიან დები:</li>
-<li class="chorus chorus-top">გამარჯვება ჩვენია, ძმებო,</li>
-<li class="chorus">წამოვიმართოთ, შევძახოთ!</li>
-<li class="chorus">სიონში ვაუწყოთ გამარჯვება,</li>
-<li class="chorus chorus-bottom">მიწა ღვთის ქებით აივსოს!</li>
-<li class="top-15-red">მღერიან ძმები:</li>
-<li class="chorus chorus-top">გამარჯვება ჩვენია დებო!</li>
-<li class="chorus">აღსრულდა საქმე დიადი,</li>
-<li class="chorus">ო, უფალმა ჩვენთვის მოიპოვა,</li>
-<li class="chorus chorus-bottom">საუკუნო სიხარული</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>გამარჯვება გვაქვს, ჩვენ ფეხ ქვეშ არის მტერი,</li>
-<li>არ გვიყვარს ჩვენი მშვინვა-სიცოცხლე,</li>
-<li>ვამბობთ: "უფალო, ხარ ჩვენი გამარჯვება!"</li>
-<li>ღმერთს ჩვენი სულით მარად ვადიდებთ.</li>
-<li class="top-15-red">მღერიან დები:</li>
-<li class="chorus chorus-top">გამარჯვება ჩვენია, ძმებო,</li>
-<li class="chorus">წამოვიმართოთ, შევძახოთ!</li>
-<li class="chorus">სიონში ვაუწყოთ გამარჯვება,</li>
-<li class="chorus chorus-bottom">მიწა ღვთის ქებით აივსოს!</li>
-<li class="top-15-red">მღერიან ძმები:</li>
-<li class="chorus chorus-top">გამარჯვება ჩვენია დებო!</li>
-<li class="chorus">აღსრულდა საქმე დიადი,</li>
-<li class="chorus">ო, უფალმა ჩვენთვის მოიპოვა,</li>
-<li class="chorus chorus-bottom">საუკუნო სიხარული</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ძალაუფლება ცად, მიწად"),
-    num: (num = 643),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>აღმდგარ უფალს მიენიჭა,</li>
-<li>თუ ვუერთდებით, ღმერთს ვცხოვრობთ</li>
-<li>მტერი დაგვემორჩილება.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>უნდა განვაცხადოთ, რომ ვძლევთ</li>
-<li>იესოს სახელში ჩვენს მტერს,</li>
-<li>ღვთის ძალაუფლებას ვიღებთ,</li>
-<li>რომ თავი გავუჭეჭყოთ მტერს.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მთის სიმაღლეს აზრი არ აქვს</li>
-<li>მას მივწვდებით ყოველ ფასად,</li>
-<li>იესოს სახელში, მთაო,</li>
-<li>გიბრძანებთ მოწყდე, მოშორდე!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>რწმენა გიბრძანებს "მოშორდე!"</li>
-<li>მთაო, ზღვაში რომ ჩავარდე,</li>
-<li>ჩვენ უნდა, ჩვენ შეგვიძლია,</li>
-<li>შევასრულოთ ღვთის განზრახვა</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "კონფლიქტი მძვინვარებს,"),
-    num: (num = 644),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>მტერი ძალას იკრებს;</li>
-<li>ბრძოლის ხმა ახლა მოგვიხმობს,</li>
-<li>მეტად ვიდრე ადრე.</li>
-<li>მოჯანყე გეენა</li>
-<li>ხმას უფრო იმაღლებს;</li>
-<li>შუაღამისას უფლის ხმა</li>
-<li>ჰქუხს "მე მოვალ მალე"!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>დიდ განსაცდელებში,</li>
-<li>ბრძოლა ძლიერდება;</li>
-<li>მთელ თავის ძალ-ღონეს იკრეფს</li>
-<li>ჯოჯოხეთის მხარე.</li>
-<li>ჩვენ ვიცდით და ვფხიზლობთ,</li>
-<li>ომის სიმკაცრეს ვგრძნობთ,</li>
-<li>გვესმის მხიარული ჰანგი,</li>
-<li>უფალი ახლოა!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>სულ უფრო ძნელდება</li>
-<li>სიტყვის დამოწმება,</li>
-<li>მთელი ძალით მტერი ცდილობს</li>
-<li>მოწმობის დარღვევას.</li>
-<li>სიმტკიცე გვჭირდება,</li>
-<li>მტრების დასაძლევად;</li>
-<li>ვიხილავთ უფალს, ვიხარებთ,</li>
-<li>წუხილი გაქრება.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>მაშ, ვინ წავა უფლის</li>
-<li>მძლეველი ძალით წინ?</li>
-<li>ვინ მიენდობა მტკიცედ მას</li>
-<li>გამარჯვების დრომდე;</li>
-<li>სანამ მძლეველებთან</li>
-<li>ტრიუმფს არ იგემებს?</li>
-<li>ასეთი ხარობს ესმის რა</li>
-<li>"აჰა! მოვალ მალე'!</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>მაშ, ვინ აირჩევს ღმერთს,</li>
-<li>გაყვება ვიწრო გზით,</li>
-<li>თუმც გაივლის ძლიერ შტორმში</li>
-<li>უკან არ დაიხევს?</li>
-<li>ვინ გააგრძელებს გზას,</li>
-<li>დაითმენს შიშს, ტკივილს?</li>
-<li>ასეთი იხარებს ხილვით</li>
-<li>უფალი ახლოა!</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>თუმც ღრმა სიბნელეა</li>
-<li>მაინც წინ მივიწევთ,</li>
-<li>სანამ ატაცების დიდ დღეს</li>
-<li>დიდებით ვიბრწყინებთ.</li>
-<li>ვიხილავთ ჩვენს უფალს,</li>
-<li>ვიმძლავრეთ რა მტერზე;</li>
-<li>გამარჯვებულნი ვიხარებთ,</li>
-<li>უფალი დაბრუნდა!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "იქნები გამარჯვებული?"),
-    num: (num = 645),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>დღეს ქრისტე გიხმობს,</li>
-<li>მიმდევარი გახდე, თუმცა</li>
-<li>არ იცი როგორ</li>
-<li class="chorus chorus-top">იქნები გამარჯვებული</li>
-<li class="chorus">აირჩევ ამ გზას?</li>
-<li class="chorus">ქრისტე გიხმობს, ქრისტე გიხმობს,</li>
-<li class="chorus chorus-bottom">უსმინე მის ხმას!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>იქნები გამარჯვებული</li>
-<li>მიეკრობი ღმერთს?</li>
-<li>დაიცავ პირველ სიყვარულს</li>
-<li>განთიადამდე</li>
-<li class="chorus chorus-top">იქნები გამარჯვებული</li>
-<li class="chorus">აირჩევ ამ გზას?</li>
-<li class="chorus">ქრისტე გიხმობს, ქრისტე გიხმობს,</li>
-<li class="chorus chorus-bottom">უსმინე მის ხმას!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>სიცოცხლეზე დაყრდნობილი</li>
-<li>იქნები შენ დღეს?</li>
-<li>დაითმენ დევნას ბოლომდე</li>
-<li>უერთგულებ ღმერთს?</li>
-<li class="chorus chorus-top">იქნები გამარჯვებული</li>
-<li class="chorus">აირჩევ ამ გზას?</li>
-<li class="chorus">ქრისტე გიხმობს, ქრისტე გიხმობს,</li>
-<li class="chorus chorus-bottom">უსმინე მის ხმას!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>იქნები გამარჯვებული</li>
-<li>ღმერთის მოწმობა?</li>
-<li>რელიგიას მიატოვებ,</li>
-<li>შეჭამ მანანას?</li>
-<li class="chorus chorus-top">იქნები გამარჯვებული</li>
-<li class="chorus">აირჩევ ამ გზას?</li>
-<li class="chorus">ქრისტე გიხმობს, ქრისტე გიხმობს,</li>
-<li class="chorus chorus-bottom">უსმინე მის ხმას!</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>იქნები გამარჯვებული</li>
-<li>წმიდა, ნამდვილი,</li>
-<li>ბოროტ მინარევებისგან</li>
-<li>სრულად დახსნილი</li>
-<li class="chorus chorus-top">იქნები გამარჯვებული</li>
-<li class="chorus">აირჩევ ამ გზას?</li>
-<li class="chorus">ქრისტე გიხმობს, ქრისტე გიხმობს,</li>
-<li class="chorus chorus-bottom">უსმინე მის ხმას!</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>გაიმარჯვებ? მიენდობი</li>
-<li>ცოცხალ უფალს დღეს?</li>
-<li>დაიცავ სამოსელს წმიდად?</li>
-<li>ჯილდოს მიიღებ</li>
-<li class="chorus chorus-top">იქნები გამარჯვებული</li>
-<li class="chorus">აირჩევ ამ გზას?</li>
-<li class="chorus">ქრისტე გიხმობს, ქრისტე გიხმობს,</li>
-<li class="chorus chorus-bottom">უსმინე მის ხმას!</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>გაიმარჯვებ? არასდროს</li>
-<li>იქნები ნელთბილი?</li>
-<li>მიღწეულს არ მიეკრობი,</li>
-<li>მუდამ წინ ივლი?</li>
-<li class="chorus chorus-top">იქნები გამარჯვებული</li>
-<li class="chorus">აირჩევ ამ გზას?</li>
-<li class="chorus">ქრისტე გიხმობს, ქრისტე გიხმობს,</li>
-<li class="chorus chorus-bottom">უსმინე მის ხმას!</li>
-</ul>
-</section>
-<section>
-<span class="number">8.</span>
-<ul>
-<li>იქნები გამარჯვებული?</li>
-<li>ქრისტე გიხმობს კვლავ,</li>
-<li>შეასრულებ მის მოთხოვნას,</li>
-<li>უერთგულებ მას?</li>
-<li class="chorus chorus-top">იქნები გამარჯვებული</li>
-<li class="chorus">აირჩევ ამ გზას?</li>
-<li class="chorus">ქრისტე გიხმობს, ქრისტე გიხმობს,</li>
-<li class="chorus chorus-bottom">უსმინე მის ხმას!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "იბრძოლეთ!"),
-    num: (num = 646),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<ul>
-<li>${title}</li>
-<li>иисус - Господь!</li>
-<li>მიიღეთ, სიცოცხლეა,</li>
-<li>ნუ შეუშინდებით მტერს,</li>
-<li>თავი მისი გათელეთ!</li>
-<li>წმიდებისთვის ილოცეთ,</li>
-<li>მეტად სულში ისწრაფეთ,</li>
-<li>ახალ კაცში იბრძოლეთ,</li>
-<li>ღვთის გეგმა შეასრულეთ!</li>
-<li>(аллилуйя!)</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "რწმენა, რომელიც მიეცათ"),
-    num: (num = 647),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ძველი დროის წმიდებს,</li>
-<li>გადმოგვეცა, რომ დავიცვათ,</li>
-<li>ჩავეჭიდოთ იმედს</li>
-<li class="chorus chorus-top">რადგან ვიცით, ვისაც ვერწმუნეთ,</li>
-<li class="chorus">გვაქვს დაჯერება ძალუძს დაიცვას</li>
-<li class="chorus">სულის მეშვეობით ჩვენი</li>
-<li class="chorus chorus-bottom">საწინდარი იმ დღემე.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>საწინდარია ნიშანი</li>
-<li>ღვთის სახლმშენებლობის,</li>
-<li>რომ მის გარეშე არ ავცდეთ</li>
-<li>მიზანს ღვთის აღდგენის.</li>
-<li class="chorus chorus-top">რადგან ვიცით, ვისაც ვერწმუნეთ,</li>
-<li class="chorus">გვაქვს დაჯერება ძალუძს დაიცვას</li>
-<li class="chorus">სულის მეშვეობით ჩვენი</li>
-<li class="chorus chorus-bottom">საწინდარი იმ დღემე.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>რწმენის საიდუმლოება</li>
-<li>სუფთა სინდისს ითხოვს,</li>
-<li>წმიდად და გამოყოფილად</li>
-<li>უფალს სურს ვიცხოვროთ</li>
-<li class="chorus chorus-top">რადგან ვიცით, ვისაც ვერწმუნეთ,</li>
-<li class="chorus">გვაქვს დაჯერება ძალუძს დაიცვას</li>
-<li class="chorus">სულის მეშვეობით ჩვენი</li>
-<li class="chorus chorus-bottom">საწინდარი იმ დღემე.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ჩავეჭიდოთ ჯანსაღ სიტყვებს</li>
-<li>რწმენით, სიყვარულით,</li>
-<li>ვუარყოთ ძლიერი სულით</li>
-<li>სწავლების ქარები.</li>
-<li class="chorus chorus-top">რადგან ვიცით, ვისაც ვერწმუნეთ,</li>
-<li class="chorus">გვაქვს დაჯერება ძალუძს დაიცვას</li>
-<li class="chorus">სულის მეშვეობით ჩვენი</li>
-<li class="chorus chorus-bottom">საწინდარი იმ დღემე.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>სწავლება, ჭეშმარიტება</li>
-<li>ღვთისმოსაობისა,</li>
-<li>კარგი საწინდარი, რწმენა</li>
-<li>და სიცოცხლე წმიდა</li>
-<li class="chorus chorus-top">რადგან ვიცით, ვისაც ვერწმუნეთ,</li>
-<li class="chorus">გვაქვს დაჯერება ძალუძს დაიცვას</li>
-<li class="chorus">სულის მეშვეობით ჩვენი</li>
-<li class="chorus chorus-bottom">საწინდარი იმ დღემე.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>გადავცეთ, რაც მოვისმინეთ,</li>
-<li>გაგვხადე ერთგულნი,</li>
-<li>უფალო, სამაგალითო</li>
-<li>სულით, რწმენით,სიტყვით.</li>
-<li class="chorus chorus-top">რადგან ვიცით, ვისაც ვერწმუნეთ,</li>
-<li class="chorus">გვაქვს დაჯერება ძალუძს დაიცვას</li>
-<li class="chorus">სულის მეშვეობით ჩვენი</li>
-<li class="chorus chorus-bottom">საწინდარი იმ დღემე.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "დავეუფლოთ იმ მიწას რაც მოგვცა ღმერთმა!"),
-    num: (num = 648),
-    page: `
-<h2 class="hNum">${num}</h2>
-<h3>სულიერი ომი</h3>
-<h4>მიწის დაუფლება</h4>
-<span>(ინგ. 1287)</span>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ქრისტე გაუხვდეს ჩვენს ცხოვრებაში.</li>
-<li>გვაქვს მიწის ასაღებად აღჭურვილობა -</li>
-<li>სისხლი, სიტყვა, სული, ეკლესია.</li>
-<li class="top-15-red">მღერიან დები:</li>
-<li class="chorus chorus-top">ქრისტიანო ძმებო ავიღოთ</li>
-<li class="chorus">მიწა ღვთისგან ბოძებული.</li>
-<li class="chorus">იყავით ძლიერნი რადგან ძალგვიძს</li>
-<li class="chorus chorus-bottom">აღება დიადი მიწის.</li>
-<li class="top-15-red">მღერიან ძმები:</li>
-<li class="chorus chorus-top">დებო ავიღოთ მიწა და</li>
-<li class="chorus">ყური ვუგდოთ ღმერთის სიტყვებს.</li>
-<li class="chorus">უფალი მიგვიძღვება და მოგვცა</li>
-<li class="chorus chorus-bottom">ყველაფერი რაც გვჭირდება.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ქრისტე უნაკლო შესაწირავი გახდა</li>
-<li>ჩვენთვის. ო ახლა გვაქვს მისი სისხლი.</li>
-<li>მადლის ტახტს თამამად მივეახლოთ და ეს</li>
-<li>სისხლი გამოვიყენოთ მთელიდღე.</li>
-<li class="top-15-red">მღერიან დები:</li>
-<li class="chorus chorus-top">ქრისტიანო ძმებო ავიღოთ</li>
-<li class="chorus">მიწა ღვთისგან ბოძებული.</li>
-<li class="chorus">იყავით ძლიერნი რადგან ძალგვიძს</li>
-<li class="chorus chorus-bottom">აღება დიადი მიწის.</li>
-<li class="top-15-red">მღერიან ძმები:</li>
-<li class="chorus chorus-top">დებო ავიღოთ მიწა და</li>
-<li class="chorus">ყური ვუგდოთ ღმერთის სიტყვებს.</li>
-<li class="chorus">უფალი მიგვიძღვება და მოგვცა</li>
-<li class="chorus chorus-bottom">ყველაფერი რაც გვჭირდება.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>გვაქვს დაწერილი სიტყვა - ყოველდღიური</li>
-<li>საკვები. ვაზავებთ მას რწმენასთან</li>
-<li>და ვამბობთ ამინ! დაგველაპარაკება</li>
-<li>ეს სიტყვა და დაგვარეგულირებს.</li>
-<li class="top-15-red">მღერიან დები:</li>
-<li class="chorus chorus-top">ქრისტიანო ძმებო ავიღოთ</li>
-<li class="chorus">მიწა ღვთისგან ბოძებული.</li>
-<li class="chorus">იყავით ძლიერნი რადგან ძალგვიძს</li>
-<li class="chorus chorus-bottom">აღება დიადი მიწის.</li>
-<li class="top-15-red">მღერიან ძმები:</li>
-<li class="chorus chorus-top">დებო ავიღოთ მიწა და</li>
-<li class="chorus">ყური ვუგდოთ ღმერთის სიტყვებს.</li>
-<li class="chorus">უფალი მიგვიძღვება და მოგვცა</li>
-<li class="chorus chorus-bottom">ყველაფერი რაც გვჭირდება.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>გვაქვს სული! ო, სინამდვილის სული. მასზე</li>
-<li>ჩვენი გრძნობები ვერ იმოქმედებს!</li>
-<li>ჩვენშია და გვასწავლის მასში დავმკვიდრდეთ,</li>
-<li>მიგვიძღვება სინამდვილისაკენ.</li>
-<li class="top-15-red">მღერიან დები:</li>
-<li class="chorus chorus-top">ქრისტიანო ძმებო ავიღოთ</li>
-<li class="chorus">მიწა ღვთისგან ბოძებული.</li>
-<li class="chorus">იყავით ძლიერნი რადგან ძალგვიძს</li>
-<li class="chorus chorus-bottom">აღება დიადი მიწის.</li>
-<li class="top-15-red">მღერიან ძმები:</li>
-<li class="chorus chorus-top">დებო ავიღოთ მიწა და</li>
-<li class="chorus">ყური ვუგდოთ ღმერთის სიტყვებს.</li>
-<li class="chorus">უფალი მიგვიძღვება და მოგვცა</li>
-<li class="chorus chorus-bottom">ყველაფერი რაც გვჭირდება.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>გვაქვს ეკლესია. ყველანი ვართ საჭირო,</li>
-<li>რომ ვრცელი სინამდვილის სისავსეს</li>
-<li>დავეუფლოთ. მოვიპოვებთ ყოვლისმომცველ</li>
-<li>ქრისტეს! ის ჩვენთვის ყველაფერია.</li>
-<li class="top-15-red">მღერიან დები:</li>
-<li class="chorus chorus-top">ქრისტიანო ძმებო ავიღოთ</li>
-<li class="chorus">მიწა ღვთისგან ბოძებული.</li>
-<li class="chorus">იყავით ძლიერნი რადგან ძალგვიძს</li>
-<li class="chorus chorus-bottom">აღება დიადი მიწის.</li>
-<li class="top-15-red">მღერიან ძმები:</li>
-<li class="chorus chorus-top">დებო ავიღოთ მიწა და</li>
-<li class="chorus">ყური ვუგდოთ ღმერთის სიტყვებს.</li>
-<li class="chorus">უფალი მიგვიძღვება და მოგვცა</li>
-<li class="chorus chorus-bottom">ყველაფერი რაც გვჭირდება.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ჩვენ გვყავს დიდებული მეფე"),
-    num: (num = 649),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ამბობს, ცა მისი ტახტია</li>
-<li>მთელი სამყაროს მფლობელი</li>
-<li>ყველა სამეფოს მეფეა.</li>
-<li>თავის ხალხთან მკვიდრობს ქვემოთ,</li>
-<li>იზიარებს მათ განსაცდელს,</li>
-<li>ჩვენ ვცხოვრობთ მისი საქმისთვის</li>
-<li>მის ზრუნავს ნებით ვატარებთ.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>მეფე იესოსთან ვმკვიდრობ,</li>
-<li>ვიპოვე, სადაც ის ცხოვრობს,</li>
-<li>გულის კარი გავუღე მას,</li>
-<li>აქცია მის ტაძრად, ტახტად</li>
-<li>მარიამივით მის ფეხთან,</li>
-<li>ვით იოანე მის მკერდთან</li>
-<li>ვარ, მის ტკბილ თანდასწრებაში</li>
-<li>მაქვს უწყვეტი მოსვენება.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ვცხოვრობ მისი საქმისათვის</li>
-<li>ღმერთის გეგმაში წილი მაქვს,</li>
-<li>ღვთის სამეფო რომ მოვიდეს</li>
-<li>კაცთ ვახარო გადარჩენა.</li>
-<li>წუთისოფლის შრომას, ჯილდოს</li>
-<li>ამაოდ, დანაკარგად ვთვლი</li>
-<li>ჩემი საქმე - მისი შრომა,</li>
-<li>გზავნილია მისი ჯვარი</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ვხოვრობ მისი საქმისათვის</li>
-<li>ღვთის შრომაა, არა - ჩემი.</li>
-<li>ის გეგმავს, ამზადებს ჩემთვის</li>
-<li>მავსებს ღვთაებრივი ძალით.</li>
-<li>მსახურება ტკბობა ხდება,</li>
-<li>ლოცვა იცვლება დიდებით,</li>
-<li>იესო მეფესთან ვმკვიდრობ</li>
-<li>და ვშრომობ მე მისი ძალით.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>მისი საქმისთვის ვიცხოვრებ</li>
-<li>და წლის ყოველ დღეს ვიშრომებ.</li>
-<li>ალბათ თავის დიდებაში</li>
-<li>მალე გამოჩნდება მეფე.</li>
-<li>ო, იქნება გულში ჩაკვრა</li>
-<li>და საპატიო ტიტული,</li>
-<li>დავმკვიდრდები ჩემს მეფესთან</li>
-<li>გამოუთქმელ სიხარულში.</li>
+<li>с Царём мы в работе Его,</li>
+<li>в трудах целый день каждый год.</li>
+<li>быть может, уж скоро совсем</li>
+<li>наш Царь к нам во славе придёт.</li>
+<li>и будет тесней наш союз,</li>
+<li>почётнее труд для Него,</li>
+<li>мы в радости будем одно</li>
+<li>с Царём для работы Его!</li>
 </ul>
 </section>
 </main>
