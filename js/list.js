@@ -10185,7 +10185,7 @@ const pages = [
 <li>искуплен и счастлив в Иисусе,</li>
 <li>и слов это выразить нет.</li>
 <li>я знаю: Иисус мой со мною,</li>
-<li>всегда Он мне дарит свой свет.</li>
+<li>всегда Он мне дарит Свой свет.</li>
 <li class="chorus chorus-top">искуплен я!</li>
 <li class="chorus">искуплен я кровью Его!</li>
 <li class="chorus">искуплен я! Искуплен!</li>
@@ -10232,7 +10232,7 @@ const pages = [
 <ul>
 <li>${title}</li>
 <li>ведь был искуплен я,</li>
-<li>она, спаситель, о Тебе,</li>
+<li>она, Спаситель, о Тебе,</li>
 <li>ведь был искуплен я.</li>
 <li class="chorus chorus-top">ведь был искуплен я,</li>
 <li class="chorus">ведь был искуплен я,</li>
@@ -10260,7 +10260,7 @@ const pages = [
 <ul>
 <li>свидетельство несу в себе,</li>
 <li>ведь был искуплен я,</li>
-<li>оно разгонит страхи все,,</li>
+<li>оно разгонит страхи все,</li>
 <li>ведь был искуплен я.</li>
 <li class="chorus chorus-top">ведь был искуплен я,</li>
 <li class="chorus">ведь был искуплен я,</li>
@@ -24110,1880 +24110,315 @@ const pages = [
 `,
   },
   {
-    title: (title = "ღვთის სამეფო ახლოვდება:"),
-    num: (num = 704),
+    title: (title = "грядёт тот день, Иисус вернётся скоро."),
+    num: (num = 376),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ხუთ ბრძენ ქალწულს ხელთ უპყრია</li>
-<li>ანთებული ჩირაღდანი,</li>
-<li>უფლის, ნეფის შესახვედრად</li>
-<li>გონიერთ აქვთ ზეთი უხვად,</li>
-<li>უგუნურებს არა აქვთ ის,</li>
-<li>ბრძენთ დროში იყიდეს ზეთი,</li>
-<li>უგუნრთ დაკარგეს შანსი.</li>
+<li>нельзя терять мгновений дорогих.</li>
+<li>господь, используй каждую минуту</li>
+<li>и приготовь нас к крику: «Вот Жених!»</li>
+<li class="chorus chorus-top">где будем мы, когда Иисус вернётся?</li>
+<li class="chorus">войдём ли мы к Нему, забыв себя?</li>
+<li class="chorus">придёт Он скоро, чтоб к Себе взять мудрых.</li>
+<li class="chorus chorus-bottom">нам упустить тот славный пир нельзя!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>უფალო, ნათლად გვამცნე შენ</li>
-<li>გონიერთათვის ბრუნდები,</li>
-<li>მათთვის, ვინც დღეს ყიდულობს ზეთს,</li>
-<li>უმკლავდება ბარიერებს.</li>
-<li>ქალწულნი გარდასახულნი,</li>
-<li>რომლებიც აგროვებენ ზეთს</li>
-<li>არ უყვართ მშვინვა სიცოცხლე,</li>
-<li>სამეფოში იმეფებენ.</li>
+<li>господь, дай сил, чтоб время выкупать нам,</li>
+<li>сосуды наши маслом наполняй;</li>
+<li>дай говорить «аминь» всем испытаньям,</li>
+<li>в нас возрастай, любовь в нас умножай.</li>
+<li class="chorus chorus-top">придёт Он скоро, время драгоценно.</li>
+<li class="chorus">пока есть масло, покупай запас.</li>
+<li class="chorus">скажи «аминь» скорбям и испытаньям:</li>
+<li class="chorus chorus-bottom">страданья эти - в царство вход для нас.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ჩვენი ლამპრები ბრწყინავდეს</li>
-<li>შენი მოხმობით ყოველ დღე,</li>
-<li>სული უნდა ვავარჯიშოთ,</li>
-<li>რათა მოგვშორდეს სიძველე,</li>
-<li>ძალზე გვჭირდება ჩვენში, რომ</li>
-<li>სინამდვილე გაიზარდოს,</li>
-<li>მოიწყო სახლი, რომ ზეთმა</li>
-<li>დაუბრკოლებლად იდინოს</li>
+<li>господь, спасай нас от услад душевных,</li>
+<li>дай созерцать любовь в лице Твоём.</li>
+<li>дай нам бежать с терпеньем в состязанье,</li>
+<li>стремясь вперёд для встречи с Женихом.</li>
+<li class="chorus chorus-top">где будем мы, когда Иисус вернётся?</li>
+<li class="chorus">в лицо Ему мы будем ли смотреть?</li>
+<li class="chorus">оставим лень, забудем безрассудство,</li>
+<li class="chorus chorus-bottom">чтоб лишь Его присутствие беречь.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ვხედავთ, რა ბნელ საუკუნეს</li>
-<li>ვიცით, ძალზე ახლოს ხარ შენ,</li>
-<li>ნებისმიერ დროს შენ მოხვალ,</li>
-<li>ღვთიური შიშით აგვავსე</li>
-<li>დაე, დრო გამოვისყიდოთ,</li>
-<li>ლოცვით მივიღოთ ღვთის სიტყვა,</li>
-<li>განვისწავლოთ ყოველ ჯერზე</li>
-<li>ამ დღისათვის მოგვამზადე</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>უფალო, ვიყოთ ისინი</li>
-<li>ვინც, შენს სამეფოს მოიტანს,</li>
-<li>ჩვენით მართო ყოველივე,</li>
-<li>გამოჩნდეს შენი ღირსება</li>
-<li>კურთხეულ დღესასწაულზე</li>
-<li>ხარ შენს პატარძალთან ერთი,</li>
-<li>გაგვხადე ბრძენი ქალწულნი,</li>
-<li>დავრჩეთ შენს თანდასწრებაში</li>
+<li>ему навстречу выйдем как Невеста,</li>
+<li>пусть ярко свет светильников горит</li>
+<li>и пусть полны сосуды наши будут,</li>
+<li>чтоб в славе с Ним блаженство обрести.</li>
+<li class="chorus chorus-top">христос с Невестой - полное блаженство!</li>
+<li class="chorus">блаженство то охватит вечность всю.</li>
+<li class="chorus">что за покой, любовь, и честь, и радость -</li>
+<li class="chorus chorus-bottom">быть для Него Невестой на пиру!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ქრისტე ნადიმზე მოდის,"),
-    num: (num = 705),
+    title: (title = "скоро Господь грядёт,"),
+    num: (num = 377),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ბრუნდება პატარძლისთვის,</li>
-<li>შეიმოსე ბისონით,</li>
-<li>ჩაიცვი!</li>
-<li>ქრისტეა კაბა მისი,</li>
-<li>შეკერილი ტანჯვებით,</li>
-<li>მართალი საქმეებით,</li>
-<li>ჩაიცვი!</li>
-<li class="chorus chorus-top">დროულად! დროულად</li>
-<li class="chorus">მოემზადე ნადიმისთვის,</li>
-<li class="chorus">დროულად!</li>
-<li class="chorus">თუ უარყოფ მშვინვას შენ</li>
-<li class="chorus">და სულს გამოიყენებ,</li>
-<li class="chorus">სათანადო გახდები</li>
-<li class="chorus chorus-bottom">დროულად!</li>
+<li>любим Его приход.</li>
+<li>день этот слаще всех дней других.</li>
+<li>только в Тебе, Господь,</li>
+<li>жизнь наша и любовь,</li>
+<li>господь Иисус, Ты - наш Жених!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ქალწულნო, მოვა ქრისტე,</li>
-<li>მათთვის ვინც აგროვებს ზეთს,</li>
-<li>არა - უგუნურთათვის</li>
-<li>იყიდე!</li>
-<li>ზეთში საფასურს ვიხდით</li>
-<li>და ჩვენ "მეს" ვუმკლავდებით,</li>
-<li>ჩვენ ვავსებთ ჭურჭლებს ზეთით,</li>
-<li>იყიდე!</li>
-<li class="chorus chorus-top">დროულად! დროულად</li>
-<li class="chorus">მოემზადე ნადიმისთვის,</li>
-<li class="chorus">დროულად!</li>
-<li class="chorus">თუ უარყოფ მშვინვას შენ</li>
-<li class="chorus">და სულს გამოიყენებ,</li>
-<li class="chorus">სათანადო გახდები</li>
-<li class="chorus chorus-bottom">დროულად!</li>
+<li>близок свиданья час,</li>
+<li>твой мы услышим глас,</li>
+<li>и в облаках мы Тебя узрим.</li>
+<li>как бесконечно</li>
+<li>сладостна встреча</li>
+<li>невесты с женихом своим!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ერთგულ მსახურებს ქრისტე</li>
-<li>მოვა დააჯილდოვებს,</li>
-<li>ზარმაცი - დაისჯება</li>
-<li>ემსახურე!</li>
-<li>ნიჭები დაითვალე,</li>
-<li>"მეს" პრობლემები სძლიე,</li>
-<li>ცოცხალ ღმერთს ემსახურე</li>
-<li>იჩქარე!</li>
-<li class="chorus chorus-top">დროულად! დროულად</li>
-<li class="chorus">მოემზადე ნადიმისთვის,</li>
-<li class="chorus">დროულად!</li>
-<li class="chorus">თუ უარყოფ მშვინვას შენ</li>
-<li class="chorus">და სულს გამოიყენებ,</li>
-<li class="chorus">სათანადო გახდები</li>
-<li class="chorus chorus-bottom">დროულად!</li>
+<li>так быстротечны дни,</li>
+<li>скоро пройдут они.</li>
+<li>аминь, Господь Иисус! Гряди!</li>
+<li>жаждем с Тобою быть,</li>
+<li>в вечном единстве жить,</li>
+<li>ты сердце наше покорил.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>მარცვლისთვის მოვა ქრისტე</li>
-<li>პირველნაყოფებს მოჰკრეფს,</li>
-<li>ნაყოფს მყიფეს დატოვებს</li>
-<li>დამწიფდი!</li>
-<li>მიწიერი წყლისაგან</li>
-<li>მარცვალი უნდა გაშრეს,</li>
-<li>ზრდისთვის "მე" უნდა მოკვდეს</li>
-<li>დამწიფდი!</li>
-<li class="chorus chorus-top">დროულად! დროულად</li>
-<li class="chorus">მოემზადე ნადიმისთვის,</li>
-<li class="chorus">დროულად!</li>
-<li class="chorus">თუ უარყოფ მშვინვას შენ</li>
-<li class="chorus">და სულს გამოიყენებ,</li>
-<li class="chorus">სათანადო გახდები</li>
-<li class="chorus chorus-bottom">დროულად!</li>
+<li>близок желанный миг,</li>
+<li>скоро, Господь-Жених,</li>
+<li>ты за Невестой Своей придёшь.</li>
+<li>о, аллилуйя!</li>
+<li>как того жду я!</li>
+<li>и Ты в ней радость обретёшь.</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "в день весенний у дороги,"),
+    num: (num = 378),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>где колодец древний был,</li>
+<li>элиэзер караван остановил.</li>
+<li>исааку он невесту этим вечером нашёл,</li>
+<li>не напрасно трудный путь он совершил.</li>
+<li class="chorus chorus-top">о, готовьтесь, вечер настаёт.</li>
+<li class="chorus">элиэзер, слышите, зовёт?</li>
+<li class="chorus">начнётся скоро свадьба,</li>
+<li class="chorus">всем нам радость принесёт</li>
+<li class="chorus chorus-bottom">в час, когда тот караван сюда придёт.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>и прекрасную Ревекку</li>
+<li>в украшеньях дорогих</li>
+<li>он увёз туда, где ждал её жених.</li>
+<li>исаак с Ревеккой стали парой славною в любви;</li>
+<li>о, какой была счастливой свадьба их!</li>
+<li class="chorus chorus-top">о, готовьтесь, вечер настаёт.</li>
+<li class="chorus">элиэзер, слышите, зовёт?</li>
+<li class="chorus">начнётся скоро свадьба,</li>
+<li class="chorus">всем нам радость принесёт</li>
+<li class="chorus chorus-bottom">в час, когда тот караван сюда придёт.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>дух Святой сошёл на землю</li>
+<li>от небесного Отца,</li>
+<li>чтоб достойную Невесту здесь найти.</li>
+<li>ведь шатёр любви раскинул у Себя наш Исаак,</li>
+<li>чтоб туда Свою Ревекку привести.</li>
+<li class="chorus chorus-top">о, готовьтесь, вечер настаёт.</li>
+<li class="chorus">элиэзер, слышите, зовёт?</li>
+<li class="chorus">начнётся скоро свадьба,</li>
+<li class="chorus">всем нам радость принесёт</li>
+<li class="chorus chorus-bottom">в час, когда тот караван сюда придёт.</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>он призвал нас - мы простились</li>
+<li>с этим миром навсегда,</li>
+<li>чтоб Его Невестой чистою нам стать.</li>
+<li>скоро в вечности мы будем Иисуса созерцать,</li>
+<li>о, какой счастливой будет свадьба та!</li>
+<li class="chorus chorus-top">о, готовьтесь, вечер настаёт.</li>
+<li class="chorus">элиэзер, слышите, зовёт?</li>
+<li class="chorus">начнётся скоро свадьба,</li>
+<li class="chorus">всем нам радость принесёт</li>
+<li class="chorus chorus-bottom">в час, когда тот караван сюда придёт.</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "о, когда я бег закончу и победу обрету,"),
+    num: (num = 379),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>в славу Господа восхищен буду я;</li>
+<li>если веру я хранил, то город новый и святой</li>
+<li>мне в награду будет дан.</li>
+<li class="chorus chorus-top">буду я восхищен в славу,</li>
+<li class="chorus">буду там я обитать -</li>
+<li class="chorus">новый и святой Иерусалим!</li>
+<li class="chorus">будут вместе победители</li>
+<li class="chorus">в хвале там восклицать -</li>
+<li class="chorus chorus-bottom">новый Иерусалим!</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>по земле брожу как странник; хоть страдаю я, но рад:</li>
+<li>в землю лучшую надеюсь я войти;</li>
+<li>пусть другой земного ищет, но стремление моё -</li>
+<li>славный город обрести.</li>
+<li class="chorus chorus-top">буду я восхищен в славу,</li>
+<li class="chorus">буду там я обитать -</li>
+<li class="chorus">новый и святой Иерусалим!</li>
+<li class="chorus">будут вместе победители</li>
+<li class="chorus">в хвале там восклицать -</li>
+<li class="chorus chorus-bottom">новый иерусалим!</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>хоть устали мои ноги от нелёгкого пути,</li>
+<li>только вспомню Город тот - и я силён.</li>
+<li>и хоть слёз полны глаза, но в Город тот - награду мне -</li>
+<li>я всем сердцем устремлён.</li>
+<li class="chorus chorus-top">буду я восхищен в славу,</li>
+<li class="chorus">буду там я обитать -</li>
+<li class="chorus">новый и святой Иерусалим!</li>
+<li class="chorus">будут вместе победители</li>
+<li class="chorus">в хвале там восклицать -</li>
+<li class="chorus chorus-bottom">новый иерусалим!</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>чтобы высшую награду мне от Бога получить,</li>
+<li>я борюсь и устремляюсь к цели той.</li>
+<li>забывая о прошедшем, я спешу вперёд и так</li>
+<li>обретаю Град святой.</li>
+<li class="chorus chorus-top">благодать Его с любовью</li>
+<li class="chorus">обитать мне здесь дадут -</li>
+<li class="chorus">новый и святой Иерусалим!</li>
+<li class="chorus">все святые здесь ликуют,</li>
+<li class="chorus">славят Господа, поют -</li>
+<li class="chorus chorus-bottom">новый Иерусалим!</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "в тот день, Господь мой, будешь"),
+    num: (num = 380),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>ты чрез меня сиять,</li>
+<li>не будет больше глина</li>
+<li>сокровище скрывать.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>чрез золотой сосуд тот</li>
+<li>льёт Божьей славы свет -</li>
+<li>сам Бог сиять там будет,</li>
+<li>нужды там в солнце нет.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>христос как яспис будет</li>
+<li>град Божий украшать;</li>
+<li>безоблачною славой</li>
+<li>там будет Он сиять.</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>не скрыта слава света</li>
+<li>большим сосудом тем</li>
+<li>и озаряет землю</li>
+<li>сияньем в полноте.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>მძლეველნი სურს იესოს,</li>
-<li>ისინი, ვინც  ყოველს თმობს</li>
-<li>პირველ სიყვარულს, ვინც ფლობს</li>
-<li>იმარჯვე!</li>
-<li>ყოველგვარ სიკვდილს სძლიე</li>
-<li>ერთი გახდი მასთან დღეს,</li>
-<li>მიზნისკენ წინ ისწრაფე,</li>
-<li>იჩქარე!</li>
-<li class="chorus chorus-top">დროულად! დროულად</li>
-<li class="chorus">მოემზადე ნადიმისთვის,</li>
-<li class="chorus">დროულად!</li>
-<li class="chorus">თუ უარყოფ მშვინვას შენ</li>
-<li class="chorus">და სულს გამოიყენებ,</li>
-<li class="chorus">სათანადო გახდები</li>
-<li class="chorus chorus-bottom">დროულად!</li>
+<li>в творенье новом явит</li>
+<li>свою Бог славу всем;</li>
+<li>невеста Агнца будет</li>
+<li>сосудом славы тем.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>ის სამეფოსთვის მოვა,</li>
-<li>ვეძებოთ მმართველობა,</li>
-<li>დაე, მან გვმართოს სრულად</li>
-<li>დავმდაბლდეთ!</li>
-<li>დამთავრდეს "მეს" ამბოხი,</li>
-<li>ვისწავლოთ გაკვეთილი,</li>
-<li>დავემორჩილოთ ქრისტეს</li>
-<li>დავმდაბლდეთ!</li>
-<li class="chorus chorus-top">დროულად! დროულად</li>
-<li class="chorus">მოემზადე ნადიმისთვის,</li>
-<li class="chorus">დროულად!</li>
-<li class="chorus">თუ უარყოფ მშვინვას შენ</li>
-<li class="chorus">და სულს გამოიყენებ,</li>
-<li class="chorus">სათანადო გახდები</li>
-<li class="chorus chorus-bottom">დროულად!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ჩვენი რწმენა ღვთის მიმართ უნდა გავრცელდეს,"),
-    num: (num = 706),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ყველამ ნახოს, ცოცხალი ღვთისკენ მოვბრუნდეთ,</li>
-<li>მის სიტყვას ვურევთ რწმენას და ვამბობთ ამინ!</li>
-<li>ქრისტესთან სიტყვაში კვლავ და კვლავ ვბრუნდებით</li>
-<li class="chorus chorus-top">დაე, ჩვენი რწმენის საქმე გაფართოვდეს,</li>
-<li class="chorus">სიყვარულის შრომა გაიზარდოს ძალზე,</li>
-<li class="chorus">ჩვენში  ღმერთის გაწმიდანება გაგრძელდეს</li>
-<li class="chorus chorus-bottom">იმედის მოთმინებით უფლის მოსვლამდე.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>თუმც ძმებთან მიმართებით სიყვარული გვაქვს,</li>
-<li>გაუხვდეს ეს სიყვარული, რათა ღმერთმა</li>
-<li>წარმართოს ჩვენი გულები სიყვარულში,</li>
-<li>სრულად გაგვამზადოს თავისი მოსვლისთვის</li>
-<li class="chorus chorus-top">დაე, ჩვენი რწმენის საქმე გაფართოვდეს,</li>
-<li class="chorus">სიყვარულის შრომა გაიზარდოს ძალზე,</li>
-<li class="chorus">ჩვენში  ღმერთის გაწმიდანება გაგრძელდეს</li>
-<li class="chorus chorus-bottom">იმედის მოთმინებით უფლის მოსვლამდე.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>სულს, სამშვინველს, სხეულს გააწმიდანებს ის,</li>
-<li>ერთგული უფალი პატარძალს ამზადებს,</li>
-<li>"ამინს!" ვეუბნებით მის ხმას ყველაფერში,</li>
-<li>რათა მზად ვიყოთ მისი დაძახებისთვის</li>
-<li class="chorus chorus-top">დაე, ჩვენი რწმენის საქმე გაფართოვდეს,</li>
-<li class="chorus">სიყვარულის შრომა გაიზარდოს ძალზე,</li>
-<li class="chorus">ჩვენში  ღმერთის გაწმიდანება გაგრძელდეს</li>
-<li class="chorus chorus-bottom">იმედის მოთმინებით უფლის მოსვლამდე.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>უფალი მოვა, მასთან ერთად ვიქნებით,</li>
-<li>დიდების იმედო, მალე მოდი, ამინ!</li>
-<li>მუდამ ვიფხიზლებთ, რათა შეგხვდეთ ჰაერში,</li>
-<li>შეხვედრისთვის ვემზადებით დღის შვილები.</li>
-<li class="chorus chorus-top">დაე, ჩვენი რწმენის საქმე გაფართოვდეს,</li>
-<li class="chorus">სიყვარულის შრომა გაიზარდოს ძალზე,</li>
-<li class="chorus">ჩვენში  ღმერთის გაწმიდანება გაგრძელდეს</li>
-<li class="chorus chorus-bottom">იმედის მოთმინებით უფლის მოსვლამდე.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "დღე ახლოვდება -  იესო ბრუნდება;"),
-    num: (num = 707),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>გამოისყიდე დრო, არ გაფლანგო.</li>
-<li>მოგვამზადე ყიჟინისთვის "აჰა ის"</li>
-<li>დროის შენთვის მოცემით, უფალო.</li>
-<li class="chorus chorus-top">ჩვენი თავებისგან თავისუფლები,</li>
-<li class="chorus">დავხვდებით, იესოს როცა მოვა?</li>
-<li class="chorus">მალე მოვა რომ წაიყვანოს ბრძენნი,</li>
-<li class="chorus chorus-bottom">ო, დაე არ დავრჩეთ ნადიმს მიღმა</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>დაგვეხმარე, რომ გამოვისყიდოთ დრო,</li>
-<li>აავსე ზეთით ჩვენი ჭურჭლები,</li>
-<li>ჩვენში განდიდდი რომ დავფუძნდეთ შენში,</li>
-<li>ყველა განსაცდელს ვუთხრათ ამინი.</li>
-<li class="chorus chorus-top">ძვირფასია იესოს მოსვლის წამი,</li>
-<li class="chorus">ზეთი აქ არის, ვიყიდოთ მეტი.</li>
-<li class="chorus">ამინი ვუთხრათ განსაცდელებს, ტკივილს,</li>
-<li class="chorus chorus-bottom">ო, მათ გამოა სამეფო ჩვენი.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>მოგვაბრუნე ბუნებრივისგან, რომ შენს</li>
-<li>მოსიყვარულე სახეს ვუმზიროთ,</li>
-<li>განვაგრძოთ სირბილი, რომ შევხვდეთ ნეფეს</li>
-<li>და სარბიელი თმენით გავლიოთ.</li>
-<li class="chorus chorus-top">იესო რომ მოვა ვნახავთ მის სახეს?</li>
-<li class="chorus">ვიქნებით კი მის თანდასწრებაში?</li>
-<li class="chorus">დაე არ დავუბრუნდეთ სიზარმაცეს</li>
-<li class="chorus chorus-bottom">და ჩავეჭიდოთ თანდასწრებას მისს.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>როგორც მისი ძვირფასი საპატარძლო</li>
-<li>შევხვდეთ, დამწვარ ფითილებ მოჭრილნი,</li>
-<li>ჭურჭლებ სავსენი. ცეცხლმა იკაშკაშოს.</li>
-<li>მის დიდებას მივაპყროთ თვალები.</li>
-<li class="chorus chorus-top">კი, სამარადჟამო კმაყოფილება</li>
-<li class="chorus">- ქრისტე თავის პატარძალთან ერთად.</li>
-<li class="chorus">ჩვენ რომ ვიყოთ მისი დაბრუნებისას</li>
-<li class="chorus chorus-bottom">პატარძალი, რა სიხარულია!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ზეთით გვაქვს ლამპრები სავსე - ვიწვით!"),
-    num: (num = 708),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ზეთით გვაქვს ლამპრები ჩვენ დღეს!</li>
-<li>უფალო, ამ გზაზე ყველაფერში</li>
-<li>მუდამ სულისკენ მოგვაბრუნე!</li>
-<li class="chorus chorus-top">ო ამინ, ო аллилуйя!</li>
-<li class="chorus">უფალო, ჩვენ ვიწვით ყოველდღე!</li>
-<li class="chorus">ო ამინ! ო аллилуйя!</li>
-<li class="chorus chorus-bottom">სულისკენ მოგვაბრუნე!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ჩვენს ლამპრებს სათადარიგო ზეთი</li>
-<li>სჭირდებათ შენი მოსვლისთვის.</li>
-<li>შენ გაძლევთ ჩვენს ჭურჭლებს ავსებისთვის,</li>
-<li>რომ სულ ენთოს ჩვენი ლამპრები.</li>
-<li class="chorus chorus-top">იესო, შენით აგვავსე!</li>
-<li class="chorus">ყოველთვის მეტად დაგვემატე!</li>
-<li class="chorus">იესო, შენით აგვავსე!</li>
-<li class="chorus chorus-bottom">სინამდვილით აგვავსე!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ვენთებით უფლის დაბრუნებამდე,</li>
-<li>და მის ჩვენთან შეხვედრამდე.</li>
-<li>შემდეგ ქორწილში ერთად მივალთ ჩვენ,</li>
-<li>და მუდამ, მუდამ ვიკაშკაშებთ.</li>
-<li class="chorus chorus-top">მოდი, უფალო იესო,</li>
-<li class="chorus">და გვპოვე ჩვენ მოკაშკაშენი!</li>
-<li class="chorus">მოდი, უფალო იესო,</li>
-<li class="chorus chorus-bottom">დატკბი შენი პატარძლით!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "უფლის გულს პატარძალი სურს"),
-    num: (num = 709),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ღვთის დიდებით სავსე, </li>
-<li>დაკმაყოფილდება, როცა</li>
-<li>შესაფერისს ჰპოვებს.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>სიტყვით შექმნა церковь Христа,</li>
-<li>წმიდაა მასავით,</li>
-<li>აშორებს მას ნაოჭს, ლაქას</li>
-<li>თავის პატარძლად ხდის.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>გამოვისყიდოთ დღეები,</li>
-<li>ვჭამოთ სიტყვა ლოცვით,</li>
-<li>ყოველ ხაზს ვუთხრათ ამინი,</li>
-<li>ასე ვემზადებით</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ო, რა ღრმად აღწევს ეს სიტყვა,</li>
-<li>სულს და სამშვინველს ჰყოფს,</li>
-<li>ამხელს გულში ყოველ ცოდვას,</li>
-<li>რათა მოგვაშოროს</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>როგორ გმადლობთ, გვაქვს ღვთის სიტყვა</li>
-<li>ცოცხალი, ქმედითი,</li>
-<li>შენი მოსვლისთვის კვლავ აღგვძრავს,</li>
-<li>ვიცოცხლოთ ამ სიტყვით</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>უფალო, გვსურს დაგაბრუნოთ,</li>
-<li>დაგაკმაყოფილოთ,</li>
-<li>რომ შენი სიტყვით აგვავსო,</li>
-<li>მეწყვილე გაგვხადო</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ჩვენი ძვირფასი ნეფე ბრუნდება, ემზადება"),
-    num: (num = 710),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ყველა церковь поместная -ი ღვთის церковь Христа,</li>
-<li>მოდის პატარძლისთვის, რომელიც მის გულს წყურია,</li>
-<li>მასთან ერთად ვიქნებით მარადიულად</li>
-<li class="chorus chorus-top">ქრისტე, ის, ვინც ასე გვიყვარს</li>
-<li class="chorus">როგორც ნეფე მალე მოვა,</li>
-<li class="chorus">ველით, ვფხიზლობთ, ვლოცულობთ ჩვენ</li>
-<li class="chorus chorus-bottom">- შესაძლოა დღეს, შესაძლოა დღეს!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>როგორ მივცეთ მას გული, კერპებისგან მოვბრუნდეთ?</li>
-<li>სხვას ვის შეუძლია ასე სიყვარული?</li>
-<li>უფალო იესო, მხოლოდ შენ ანთებ ჩვენს გულებს,</li>
-<li>ნუ დააყოვნებ! მოდი თუნდაც დღეს!</li>
-<li class="chorus chorus-top">ქრისტე, ის, ვინც ასე გვიყვარს</li>
-<li class="chorus">როგორც ნეფე მალე მოვა,</li>
-<li class="chorus">ველით, ვფხიზლობთ, ვლოცულობთ ჩვენ</li>
-<li class="chorus chorus-bottom">- შესაძლოა დღეს, შესაძლოა დღეს!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>დიდებულ პატარძალს ამზადებს ქორწილისათვის,</li>
-<li>წმიდა ბისონით იქნება შემოსილი,</li>
-<li>ღმერთო, გზად გვაქვს მხოლოდ შენი სამართლიანობა,</li>
-<li>ო, რა კურთხევაა, ამ ნადიმზე ყოფნა</li>
-<li class="chorus chorus-top">ქრისტე, ის, ვინც ასე გვიყვარს</li>
-<li class="chorus">როგორც ნეფე მალე მოვა,</li>
-<li class="chorus">ველით, ვფხიზლობთ, ვლოცულობთ ჩვენ</li>
-<li class="chorus chorus-bottom">- შესაძლოა დღეს, შესაძლოა დღეს!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "უფალო, მოგელით,"),
-    num: (num = 711),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>მალე გამოჩნდები.</li>
-<li>გვიყვარს შენი მოსვლა ძლიერ!</li>
-<li>არ გვყავს სხვა უფალი,</li>
-<li>სიცოცხლე, მიჯნური,</li>
-<li>он для меня, ჩვენო ნეფევ!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ჟამი ახლოვდება,</li>
-<li>გავიგონებთ შენს ხმას,</li>
-<li>ვიქნებით ერთად ღრუბლებზე.</li>
-<li>რა ტკბილი იქნება</li>
-<li>ნეფე სასძლოს როცა</li>
-<li>თავის სიყვარულს გაუმხელს.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-	<ul>
-	<li>დრო სწრაფად მიფრინავს,</li>
-	<li>შენს სახეს ვიხილავთ!</li>
-	<li>ო, ამინ, უფალო, მოდი!</li>
-	<li>პირისპირ შეხვედრა</li>
-	<li>რა ძლიერ გვწყურია,</li>
-	<li>ეს გული შენ დაიპყარი.</li>
-	</ul>
-	</section>
-	<section>
-	<span class="number">4.</span>
-	<ul>
-	<li>ახლა დგება ეს დრო,</li>
-	<li>ნეფევ და უფალო,</li>
-	<li>მალე მოხვალ პატარძლისთვის.</li>
-	<li>ო, аллилуйя!</li>
-	<li>რა, საამურია,</li>
-	<li>რომ შენც დაკმაყოფილდები.</li>
-	</ul>
-	</section>
-</main>
-`,
-  },
-  {
-    title: (title = "იხარეთ! ჩვენი საქმრო მოდის,"),
-    num: (num = 712),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ეს დრო იქნება მალე</li>
-<li>როცა შევძახებთ ქორწილის დღეს,</li>
-<li>სიხარულით ვიმღერებთ</li>
-<li class="chorus chorus-top">დიადი დღე იქნება, მოვა,</li>
-<li class="chorus">ვინც ასე  ძლიერ გვიყვარს</li>
-<li class="chorus">ზეთით სავსე, მწველი ლამპრებით</li>
-<li class="chorus">შევხვდეთ მის დაბრუნებას.</li>
-<li class="chorus">იხარეთ! ჩვენი საქმრო მოდის,</li>
-<li class="chorus">ეს დრო იქნება მალე</li>
-<li class="chorus">როცა ქორწილის დღეს შევძახებთ,</li>
-<li class="chorus chorus-bottom">სიხარულით ვიმღერებთ.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ო, სიბრძნით დრო გამოვისყიდოთ,</li>
-<li>ზეთი ვიყიდოთ მისგან,</li>
-<li>სავსე გვქონდეს ჭურჭლები,</li>
-<li>სანამ გაისმება ღამით ხმა</li>
-<li class="chorus chorus-top">დიადი დღე იქნება, მოვა,</li>
-<li class="chorus">ვინც ასე  ძლიერ გვიყვარს</li>
-<li class="chorus">ზეთით სავსე, მწველი ლამპრებით</li>
-<li class="chorus">შევხვდეთ მის დაბრუნებას.</li>
-<li class="chorus">იხარეთ! ჩვენი საქმრო მოდის,</li>
-<li class="chorus">ეს დრო იქნება მალე</li>
-<li class="chorus">როცა ქორწილის დღეს შევძახებთ,</li>
-<li class="chorus chorus-bottom">სიხარულით ვიმღერებთ.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ო, ქორწინების დღე უფალთან</li>
-<li>დიდი ნეტარებაა,</li>
-<li>დღეს ზიარება მის ტანჯვებში</li>
-<li>ჯილდოსთვის, კურთხევაა</li>
-<li class="chorus chorus-top">დიადი დღე იქნება, მოვა,</li>
-<li class="chorus">ვინც ასე  ძლიერ გვიყვარს</li>
-<li class="chorus">ზეთით სავსე, მწველი ლამპრებით</li>
-<li class="chorus">შევხვდეთ მის დაბრუნებას.</li>
-<li class="chorus">იხარეთ! ჩვენი საქმრო მოდის,</li>
-<li class="chorus">ეს დრო იქნება მალე</li>
-<li class="chorus">როცა ქორწილის დღეს შევძახებთ,</li>
-<li class="chorus chorus-bottom">სიხარულით ვიმღერებთ.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ო, ატაცების სიხარულით</li>
-<li>დაიწყება ნადიმი,</li>
-<li>გავიხარებთ ქორწილით მასთან</li>
-<li>ერთად ათასი წელი.</li>
-<li class="chorus chorus-top">დიადი დღე იქნება, მოვა,</li>
-<li class="chorus">ვინც ასე  ძლიერ გვიყვარს</li>
-<li class="chorus">ზეთით სავსე, მწველი ლამპრებით</li>
-<li class="chorus">შევხვდეთ მის დაბრუნებას.</li>
-<li class="chorus">იხარეთ! ჩვენი საქმრო მოდის,</li>
-<li class="chorus">ეს დრო იქნება მალე</li>
-<li class="chorus">როცა ქორწილის დღეს შევძახებთ,</li>
-<li class="chorus chorus-bottom">სიხარულით ვიმღერებთ.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "გაზაფხულის ერთ საღამოს,"),
-    num: (num = 713),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>სადაც ძველი ჭა იყო,</li>
-<li>დატვირთული ქარავანი გაჩერდა.</li>
-<li>ეს გზა ამაო არ იყო, ელიეზერმა იმ დღეს,</li>
-<li>ისააკს პატარძალი მოუძებნა.</li>
-<li class="chorus chorus-top">მოემზადეთ უკვე ბინდდება</li>
-<li class="chorus">ელიეზერი ჩვენ გვეძახის</li>
-<li class="chorus">მალე ქორწინის დღე მოვა</li>
-<li class="chorus">და ყველას გაგვახარებს</li>
-<li class="chorus chorus-bottom">შეხედეთ, ქარავანი უკვე მოდის</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>მან მშვენიერი რებეკა</li>
-<li>ოქროს სამკაულებში</li>
-<li>მისი ნეფის კარვებში შეიყვანა.</li>
-<li>სიყვარულმა შეაერთა, ორი გახადა ერთი</li>
-<li>და მხიარული იყო ის ქორწილი.</li>
-<li class="chorus chorus-top">მოემზადეთ უკვე ბინდდება</li>
-<li class="chorus">ელიეზერი ჩვენ გვეძახის</li>
-<li class="chorus">მალე ქორწინის დღე მოვა</li>
-<li class="chorus">და ყველას გაგვახარებს</li>
-<li class="chorus chorus-bottom">შეხედეთ, ქარავანი უკვე მოდის</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>წმიდა სული ჩამოვიდა</li>
-<li>მამისაგან მიწაზე</li>
-<li>სათანადო პატარძლის მოსაძებნად.</li>
-<li>ზეცაში ღმერთმა კარავი მოამზადა და მას სურს</li>
-<li>იქ შეიყვანოს თავისი რებეკა.</li>
-<li class="chorus chorus-top">მოემზადეთ უკვე ბინდდება</li>
-<li class="chorus">ელიეზერი ჩვენ გვეძახის</li>
-<li class="chorus">მალე ქორწინის დღე მოვა</li>
-<li class="chorus">და ყველას გაგვახარებს</li>
-<li class="chorus chorus-bottom">შეხედეთ, ქარავანი უკვე მოდის</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>დავტოვეთ წუთისოფელი,</li>
-<li>ჩვენი ნებით უფლისთვის,</li>
-<li>რომ გავხდეთ მისი წმინდა პატარძალი.</li>
-<li>მომავალი საუკუნის კურთხევით დღესაც ვტკბებით,</li>
-<li>და მხიარული გვექნება ქორწილი.</li>
-<li class="chorus chorus-top">მოემზადეთ უკვე ბინდდება</li>
-<li class="chorus">ელიეზერი ჩვენ გვეძახის</li>
-<li class="chorus">მალე ქორწინის დღე მოვა</li>
-<li class="chorus">და ყველას გაგვახარებს</li>
-<li class="chorus chorus-bottom">შეხედეთ, ქარავანი უკვე მოდის</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "რასაც, იკვლევდნენ, ეძებდნენ"),
-    num: (num = 714),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>წინასწარმეტყველნი,</li>
-<li>ბოლო დღეებში გამოჩნდა</li>
-<li>მის სინამდვილეში.</li>
-<li class="chorus chorus-top">ახლა ბოლო ეტაპზე ვართ,</li>
-<li class="chorus">ხანების  დასასრულს ვიმყოფებით,</li>
-<li class="chorus">ვისაც სწამდა დაპირება</li>
-<li class="chorus chorus-bottom">გასრულდა ახლა ჩვენში.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ო, ნეტარია, ვინც ხედავს</li>
-<li>და ვისაც ეს ესმის,</li>
-<li>ანგელოზნი მას ვერ ჩაწვდნენ,</li>
-<li>ნათელია ჩვენთვის.</li>
-<li class="chorus chorus-top">ახლა ბოლო ეტაპზე ვართ,</li>
-<li class="chorus">ხანების  დასასრულს ვიმყოფებით,</li>
-<li class="chorus">ვისაც სწამდა დაპირება</li>
-<li class="chorus chorus-bottom">გასრულდა ახლა ჩვენში.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>დღეს ერთობლივი გრძნობა გვაქვს,</li>
-<li>მადლით ძლიერ ვტკბებით,</li>
-<li>წინსვლაში ერთურთს ვამხნევებთ</li>
-<li>სამეფოს გულისთვის.</li>
-<li class="chorus chorus-top">ახლა ბოლო ეტაპზე ვართ,</li>
-<li class="chorus">ხანების  დასასრულს ვიმყოფებით,</li>
-<li class="chorus">ვისაც სწამდა დაპირება</li>
-<li class="chorus chorus-bottom">გასრულდა ახლა ჩვენში.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>არ ვიღლებით ამ რბოლაში,</li>
-<li>ჩვენს სიხარულს სრულს ხდის</li>
-<li>ერთი ვიცით, მოსახვევში</li>
-<li>ჩვენს უფალს შევხვდებით.</li>
-<li class="chorus chorus-top">ახლა ბოლო ეტაპზე ვართ,</li>
-<li class="chorus">ხანების  დასასრულს ვიმყოფებით,</li>
-<li class="chorus">ვისაც სწამდა დაპირება</li>
-<li class="chorus chorus-bottom">გასრულდა ახლა ჩვენში.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "უფალი ეკლესიითვის"),
-    num: (num = 715),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>მოდის, ვისთვისაც მოკვდა</li>
-<li>ვართ საუკუნეში, სადაც</li>
-<li>მას პატარძალი მიყავს</li>
-<li class="chorus chorus-top">ო, რა დიდებული საუკუნეა,</li>
-<li class="chorus">ჩვენს დროში ქრისტე მოვა,</li>
-<li class="chorus">მოვემზადოთ ყველა, церковь Христа და</li>
-<li class="chorus chorus-bottom">ქრისტე ერთი იქნება.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>დიდება ღმერთს, ახლა ვცხოვრობთ,</li>
-<li>ღმერთის აღდგენის დროში,</li>
-<li>церковь Христаში, სადაც დღეს</li>
-<li>მზადდება პატარძალი</li>
-<li class="chorus chorus-top">ო, რა დიდებული საუკუნეა,</li>
-<li class="chorus">ჩვენს დროში ქრისტე მოვა,</li>
-<li class="chorus">მოვემზადოთ ყველა, церковь Христа და</li>
-<li class="chorus chorus-bottom">ქრისტე ერთი იქნება.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>უპირობოდ ვუძღვნით უფალს</li>
-<li>თავს, რომ დაკმაყოფილდეს;</li>
-<li>წმიდა საპატარძლოსთვის, რომ</li>
-<li>სიცოცხლეში ავშენდეთ.</li>
-<li class="chorus chorus-top">ო, რა დიდებული საუკუნეა,</li>
-<li class="chorus">ჩვენს დროში ქრისტე მოვა,</li>
-<li class="chorus">ვემზადებით  ყველა, церковь Христа და</li>
-<li class="chorus chorus-bottom">ქრისტე ერთი იქნება.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ღმერთის განზრახვაა,"),
-    num: (num = 716),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>რომ შეერწყას კაცს,</li>
-<li>ერთი გახდეს მასთან</li>
-<li>და ხელახლა შვას.</li>
-<li>კაცი ჭურჭლად შექმნას</li>
-<li>- თვისით აავსოს,</li>
-<li>მასთან ერთი მისით</li>
-<li>- გამოიხატოს.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ღმერთმა კაცი შექმნა</li>
-<li>თავის სახებად,</li>
-<li>თავის ჩანაფიქრის</li>
-<li>- შესასრულებლად.</li>
-<li>კაცმა რომ  მიიღოს</li>
-<li>- ის სიცოცხლის ხედ,</li>
-<li>ვით ცოლი ქმრის - ის ღვთის</li>
-<li>გახდეს სისავსე.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ღმერთის სიცოცხლით კაცს,</li>
-<li>სახე ეცვლება;</li>
-<li>ძვირფასი ქვა ხდება,</li>
-<li>ღმერთს ემსგავსება.</li>
-<li>მეორე ნახევრად,</li>
-<li>ღვთის წყვილად, სახლად</li>
-<li>- შენდება და ღმერთიც</li>
-<li>- კმაყოფილდება.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>იერუსალიმი,</li>
-<li>წმიდა ქალაქი.</li>
-<li>თავის წმიდებს ერწყმის</li>
-<li>და სახლს იწყობს მათში.</li>
-<li>მას ავლენენ, ის კი</li>
-<li>- არსია მათი,</li>
-<li>და არიან ღმერთთან</li>
-<li>- მარადჟამ ერთნი.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>მეფობს ტახტიდან და</li>
-<li>ის არის ცენტრი.</li>
-<li>დიდების სინათლით,</li>
-<li>სიცოცხლის ძალით -</li>
-<li>წმინდანთ ინახავს ის</li>
-<li>ნეტარებაში,</li>
-<li>ატკბობს მათ მარადჟამ</li>
-<li>- ზე ჰარმონიით.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>ის - ცოცხალი წყალი,</li>
-<li>უხვი საკვები,</li>
-<li>აკმაყოფილებს მათს -</li>
-<li>შიმშილს და წყურვილს.</li>
-<li>მასში - ვით ტაძარში,</li>
-<li>მას თაყვანს სცემენ,</li>
-<li>მისით ნაყრდებიან,</li>
-<li>მასში ცხოვრობენ.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ღმერთის სამუდამო გეგმა,"),
-    num: (num = 717),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>წარსულში წარმოიშვა,</li>
-<li>აღსრულდება მომავალში,</li>
-<li>მათ შორის დრო წამია,</li>
-<li>ეს დრო არის პროცესისთვის,</li>
-<li>რომ მიიღოს რაც უნდა,</li>
-<li>ჩვენ მწირები ვართ მიწაზე,</li>
-<li>გვერგო მარადისობა.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ღმერთს უნდა, რომ ღმერთის ხალხი,</li>
-<li>იყვნენ ერთნი მუდმივად,</li>
-<li>როგორც ერთობლივი კაცი,</li>
-<li>ერთ დიდებულ სხეულად;</li>
-<li>შევიდეს რა მის ჭურჭელში,</li>
-<li>ღვთაებრივი სიცოცხლით;</li>
-<li>შეერწყას სული ჩვენს სულთან,</li>
-<li>სიხარულისთვის ქებით.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ღმერთი შრომობს სამი განხრით,</li>
-<li>გეგმის შესასრულებლად;</li>
-<li>როგორც მამა ძე და სული,</li>
-<li>ჩვენში ჩასაშენებლად;</li>
-<li>სამნაწილოვანი კაცი</li>
-<li>- ადამიანი შექმნა,</li>
-<li>ცა და მიწა - გეგმისათვის,</li>
-<li>დანარჩენი ფონია.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>მის გეგმაში ჩვენი სული,</li>
-<li>არის ცენტრი და ბირთვი;</li>
-<li>და როცა ვუხმობთ იესოს,</li>
-<li>ჩვენი სულები ერწყმის.</li>
-<li>ცენტრიდან ნაპირებისკენ,</li>
-<li>ყველაფერი გაჟღინთოს,</li>
-<li>განაახლოს სამშვინველი,</li>
-<li>ჩვენს გულში დაივანოს.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ვშენდებით რა სიცოცხლეში,</li>
-<li>ვმაგრდებით სიყვარულში,</li>
-<li>აღასრულებს დიად გეგმას,</li>
-<li>არსებულს, თავის გულში.</li>
-<li>ო უფალო, დიდ ჭურჭელში,</li>
-<li>ერთში, შენით სავსეში,</li>
-<li>რომ შევძლოთ ჩვენ ჩაშენება,</li>
-<li>გაიზარდე შენ ჩვენში.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>церковь Христа დიდებაში -</li>
-<li>ჯამი! და შესრულება!</li>
-<li>ეს ერთობლივი ჭურჭელი</li>
-<li>დაიტევს მის დიდებას,</li>
-<li>რათა აღსრულდეს დღეს მისი</li>
-<li>ჩანაფიქრი მარადი,</li>
-<li>ჩვენ ვართ შენი მიზნისათვის,</li>
-<li>ერთი ახალი კაცი!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ღმერთის ფიქრი ისაა,"),
-    num: (num = 718),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>რომ იყოს ერთი კაცთან,</li>
-<li>იყოს მისთვის ყოველი,</li>
-<li>რომ შესრულდეს ღვთის გეგმა.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>კაცი - თიხის ჭურჭელი,</li>
-<li>სულით, მშვინვით სხეულით</li>
-<li>- შეიქმნა, რომ მიეღო</li>
-<li>თავის სიცოცხლედ ღმერთი.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ღვთის სიცოცხლის დინებით,</li>
-<li>კაცი ძვირფას ქვად ხდება,</li>
-<li>ღვთის სავანედ იქცევა,</li>
-<li>რომ აჩვენოს დიდება.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ეს ქალაქი აშენდა</li>
-<li>ღმერთით, მისი მოთხოვნით,</li>
-<li>მის გულს ატკბობს ახალი</li>
-<li>ეს იერუსალიმი.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ეს სახლია წმიდების,</li>
-<li>შერწყმა ღმერთის და კაცის</li>
-<li>- ნაფიქრი მამის ნებით,</li>
-<li>შექმნამდე წუთისოფლის.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>მის ცენტრში არის ტახტი</li>
-<li>ღმერთისა და ქრისტესი;</li>
-<li>იქიდან მდინარედ ჩქეფს</li>
-<li>როგორც სიცოცხლე სული.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>ქრისტე სიცოცხლის ხეა</li>
-<li>ნაკადის დინებაში,</li>
-<li>ღვთის ნაყოფი მოაქვს ვით</li>
-<li>უმაღლესი საკვები.</li>
-</ul>
-</section>
-<section>
-<span class="number">8.</span>
-<ul>
-<li>ღმერთი ქრისტეში ლამპრად</li>
-<li>ანათებს მთელ ქალაქში,</li>
-<li>ფანტავს სიკვდილის უკუნს</li>
-<li>ღვთაებრივი სინათლით.</li>
-</ul>
-</section>
-<section>
-<span class="number">9.</span>
-<ul>
-<li>აწ ღმერთი არის კაცში,</li>
-<li>კაცი კი არის ღმერთში;</li>
-<li>კაცი ღმერთს გამოხატავს</li>
-<li>და ის სავსეა ღმერთით.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ის ეძებდა ქალაქს, იყო კარავში,"),
-    num: (num = 719),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>იყო ხიზანი, დიდების ლოდინში;</li>
-<li>მისი ნუგეში იყო ღმერთის აღთქმა,</li>
-<li>ის არ ეძებდა მიწიერ დიდებას.</li>
-<li class="chorus chorus-top">დიად არს ქალაქი!</li>
-<li class="chorus chorus-bottom">აქ ღმერთი კაცთან საუკუნოდ ცხოვრობს.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ის ეძებდა ქალაქს, ღვთის მომზადებულს;</li>
-<li>მიწის სასახლეში ყოფნა ას არ სურს,</li>
-<li>ის უყურებდა სამეფო სამყოფელს,</li>
-<li>რომელსაც ღმერთი დაჰპირდა თვის ხიზნებს.</li>
-<li class="chorus chorus-top">დიად არს ქალაქი!</li>
-<li class="chorus chorus-bottom">აქ ღმერთი კაცთან საუკუნოდ ცხოვრობს.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ის ეძებდა ქალაქს, უკუაგდებდა</li>
-<li>მიწის დიდებას, ოხრავდა ხშირად გზას,</li>
-<li>მაგრამ ქალაქის ფიქრით კვლავ მღეროდა,</li>
-<li>უხეში გზა მოკლედ ეჩვენებოდა.</li>
-<li class="chorus chorus-top">დიად არს ქალაქი!</li>
-<li class="chorus chorus-bottom">აქ ღმერთი კაცთან საუკუნოდ ცხოვრობს.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ის ეძებდა ქალაქს, და ჩვენც მასსავით ვართ;</li>
-<li>უფალო, გვწამს, შენ ამზადებ ამ ქალაქს,</li>
-<li>როგორც მარადიულ ხვედრს იმათთვის, ვინც</li>
-<li>ხიზნად ცხოვრობს იესოსთან კარავში.</li>
-<li class="chorus chorus-top">დიად არს ქალაქი!</li>
-<li class="chorus chorus-bottom">აქ ღმერთი კაცთან საუკუნოდ ცხოვრობს.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "როცა გავივლი სარბიელს"),
-    num: (num = 720),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn top-30">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>და ვპოვებ გამარჯვებას,</li>
-<li>უფლის დიდებაში ამიტაცებენ;</li>
-<li>თუ რწმენას შევინარჩუნებ</li>
-<li>ბოლომდე, წმიდა ქალაქს</li>
-<li>ვიცი, ჯილდოდ მივიღებ.</li>
-<li class="chorus chorus-top">დიდებულ წმიდა ქალაქში</li>
-<li class="chorus">მალე ამიტაცებენ -</li>
-<li class="chorus">წმიდა ახალ იერუსალიმში!</li>
-<li class="chorus">გამარჯვებულებთან ერთად</li>
-<li class="chorus"მოსჩქეფს ქების ნაკადი</li>
-<li class="chorus chorus-bottom">- ახალ წმიდა ქალაქში!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>მიწაზე ვით მწირი ვდივარ</li>
-<li>ვხარობ, თუმც ვარ ტანჯული,</li>
-<li>უკეთეს მიწაზე მოველი შესვლას;</li>
-<li>თუმცა სხვებს სურთ მიწიერი</li>
-<li>სიმდიდრეთა მოხვეჭა,</li>
-<li>მე წმიდა ქალაქს ველი.</li>
-<li class="chorus chorus-top">დიდებულ წმიდა ქალაქში</li>
-<li class="chorus">მალე ამიტაცებენ -</li>
-<li class="chorus">წმიდა ახალ იერუსალიმში!</li>
-<li class="chorus">გამარჯვებულებთან ერთად</li>
-<li class="chorus"მოსჩქეფს ქების ნაკადი</li>
-<li class="chorus chorus-bottom">- ახალ წმიდა ქალაქში!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>თუმც გადამეღალა ფერხნი</li>
-<li>რთულ გზაზე სიარულით,</li>
-<li>იმ ქალაქის გახსენებით ვმხნევდები;</li>
-<li>თუმც თვალთ ცრემლი ხშირად მომდის,</li>
-<li>ჯილდოსკენ ჩემი გული</li>
-<li>- ქალაქისკენ ისწრაფის.</li>
-<li class="chorus chorus-top">დიდებულ წმიდა ქალაქში</li>
-<li class="chorus">მალე ამიტაცებენ -</li>
-<li class="chorus">წმიდა ახალ იერუსალიმში!</li>
-<li class="chorus">გამარჯვებულებთან ერთად</li>
-<li class="chorus"მოსჩქეფს ქების ნაკადი</li>
-<li class="chorus chorus-bottom">- ახალ წმიდა ქალაქში!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>მტკიცედ ვისწრაფვი მიზნისკენ,</li>
-<li>შეუჩერებლად ვიბრძვი,</li>
-<li>რომ ვინძლო მოვიპოვე ღმერთის ჯილდო;</li>
-<li>ვივიწყებ რაც წარსულშია</li>
-<li>და გავრბივარ მიზნისკენ,</li>
-<li>წმიდა ქალაქისაკენ.</li>
-<li class="chorus chorus-top">წმიდა ქალაქში ვიცხოვრებ</li>
-<li class="chorus">ღვთის მადლში, სიყვარულში</li>
-<li class="chorus">- წმიდა ახალ იერუსალიმში!</li>
-<li class="chorus">აქ ხარობს ყველა წმიდანი</li>
-<li class="chorus">დიდება ისმის უფლის</li>
-<li class="chorus chorus-bottom">- ახალ წმიდა ქალაქში!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "დასაწყისში იყო მხოლოდ ბაღი,"),
-    num: (num = 721),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ბოლოს კი - კვადრატული ქალაქი;</li>
-<li>ამ ბაღში იყო ქმნილების ცენტრი,</li>
-<li>ღვთის შენობა მთავრდება ქალაქით.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ქალაქშიც და ბაღშიც - ორივეგან</li>
-<li>მოჩანს მდინარე და ხე სიცოცხლის,</li>
-<li>მათში ვხედავთ ქრისტეს ვით შეწევნას</li>
-<li>და სულს, როგორც დინებას სიცოცხლის.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ქალაქშიც და ბაღშიც - ორივეგან</li>
-<li>ჩანს სამი ძვირფასი სუბსტანცია</li>
-<li>- ოქროს, მარგალიტს, ძვირფას ქვებს ვხედავთ,</li>
-<li>ღვთის შენობისთვის ბევრი რამ ჩანს აქ.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>თუმც ბაღში ეს სამი ძვირფასი რამ</li>
-<li>ვით მასალა ძევს მხოლოდ მიწაში,</li>
-<li>დიად ქალაქში კი ყველაფერი</li>
-<li>არის ერთურთში აშენებული.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ბაღში კაცი თიხისგან შეიქმნა,</li>
-<li>ასე ქმნა უფალმა ის ბუნებით;</li>
-<li>სიცოცხლის ხეს იყო კაცის მიღმა,</li>
-<li>ჯერ არ იყო სიცოცხლედ მის შიგნით.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>ქალაქში კი დიდებული ხეა,</li>
-<li>ერთობლივ "კაცში" ის იზრდება და</li>
-<li>ავლენს თვით ქრისტეს როგორც სიცოცხლეს,</li>
-<li>როგორც კაცის შინაგან შეწევნას.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>სწორედ ქალაქისთვის იყო კაცი</li>
-<li>ახლად შობილი, გარდასახული</li>
-<li>წმინდა ოქროდ, მარგალიტად, ქვებად,</li>
-<li>ქრისტეს სხეულად, მასზე ნამსგავსი.</li>
-</ul>
-</section>
-<section>
-<span class="number">8.</span>
-<ul>
-<li>ბაღის შიგნიც იყო პატარძალი,</li>
-<li>და ის იყო დამხმარე ადამის;</li>
-<li>ქალაქშიდაც მოჩანს პატარძალი,</li>
-<li>ქრისტეს სისავსე და სიხარული.</li>
-</ul>
-</section>
-<section>
-<span class="number">9.</span>
-<ul>
-<li>ქალაქი ღვთის შრომის გვირგვინია,</li>
-<li>ერთობლიობა გამართლებულნის;</li>
-<li>აწ მასში ღმერთს აქვს სამკვიდრებელი,</li>
-<li>ის ქრისტეს ძვირფასი სასძლო არის.</li>
-</ul>
-</section>
-<section>
-<span class="number">10.</span>
-<ul>
-<li>ის ღმერთს სისრულეში გამოხატავს,</li>
-<li>ერთობლივად, სამყაროსეულად;</li>
-<li>ქრისტეს დიადი სასძლო ის არის,</li>
-<li>ღმერთის დიდებას ის ავლენს სრულად.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "უფალო, გამოსყიდულნი"),
-    num: (num = 722),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>არიან სასძლო შენი,</li>
-<li>შენი სისავსე - სხეული,</li>
-<li>სრულად დიდდები მასში.</li>
-<li>მასში შენ ხარ ყველაფერი,</li>
-<li>შენს სიმდიდრეს ავლენს ის;</li>
-<li>შენს დიდებას უნაწილებ,</li>
-<li>და შენ მას მთლიანად ჟღენთ.</li>
-<li class="chorus chorus-top">ჰე, წმიდა ქალაქი,</li>
-<li class="chorus">სავსე ღვთის დიდებით!</li>
-<li class="chorus">ღმერთია გამოხატული</li>
-<li class="chorus chorus-bottom">ადამიანში!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>შეზავდნენ ღმერთი და კაცი</li>
-<li>- ღვთისმოსაობა დიდი.</li>
-<li>დიდებით დამკვიდრდა ღმერთი</li>
-<li>კაცში - სამკვიდრებელში.</li>
-<li>ეს დიდებული ჭურჭელი,</li>
-<li>ავლენს სისავსეს ღმერთის;</li>
-<li>სილამაზე მოჩანს მასში</li>
-<li>და სიწმიდე ჩვენი ღვთის.</li>
-<li class="chorus chorus-top">ჰე, წმიდა ქალაქი,</li>
-<li class="chorus">სავსე ღვთის დიდებით!</li>
-<li class="chorus">ღმერთია გამოხატული</li>
-<li class="chorus chorus-bottom">ადამიანში!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ცოცხალი შემადგენლობა</li>
-<li>გარდასახულ წმიდების;</li>
-<li>მისი სახების მსგავსები,</li>
-<li>ქვები - მარგალიტები:</li>
-<li>ცენტრიდან ტახტისა ღმერთის</li>
-<li>მოდის ცოცხალი წყალი;</li>
-<li>ქრისტე ყვავის ვით სიცოცხლის</li>
-<li>ხე და მოაქვს ნაყოფი.</li>
-<li class="chorus chorus-top">ჰე, წმიდა ქალაქი,</li>
-<li class="chorus">სავსე ღვთის დიდებით!</li>
-<li class="chorus">ღმერთია გამოხატული</li>
-<li class="chorus chorus-bottom">ადამიანში!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>მარადი ოქროს სასანთლე,</li>
-<li>იკავებს ქრისტეს ნათელს;</li>
-<li>ღმერთი ქრისტეში დიდებით</li>
-<li>როგორც სული ანათებს!</li>
-<li>გამოხატულება სრული -</li>
-<li>ღმერთ-კაცი ერთმანეთში;</li>
-<li>ურთიერთსავანე მათი -</li>
-<li>საუკუნო გეგმა ღვთის.</li>
-<li class="chorus chorus-top">ჰე, წმიდა ქალაქი,</li>
-<li class="chorus">სავსე ღვთის დიდებით!</li>
-<li class="chorus">ღმერთია გამოხატული</li>
-<li class="chorus chorus-bottom">ადამიანში!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ახალ იერუსალიმს"),
-    num: (num = 723),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ღმერთის ბრწყინვალებით,</li>
-<li>ახალ ცა და მიწაზე</li>
-<li>ვხედავთ ღვთის დიდებით.</li>
-<li class="chorus chorus-top">მას აქვს ღმერთის სახება,</li>
-<li class="chorus">მას აქვს ღმერთის დიდება!</li>
-<li class="chorus">მასში თვით უფალია,</li>
-<li class="chorus chorus-bottom">ღვთის ამ ქალაქში.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>მარგალიტით შედგება</li>
-<li>მისი კარიბჭენი,</li>
-<li>ქუჩა წმინდა ოქროა,</li>
-<li>თორმეტი საფუძვლით.</li>
-<li class="chorus chorus-top">მას აქვს ღმერთის სახება,</li>
-<li class="chorus">მას აქვს ღმერთის დიდება!</li>
-<li class="chorus">მასში თვით უფალია,</li>
-<li class="chorus chorus-bottom">ღვთის ამ ქალაქში.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>იქ ჩქეფს ბროლის მდინარე,</li>
-<li>უხვი შეწევნებით,</li>
-<li>სიცოცხლის ხეც იზრდება,</li>
-<li>გვაკმაყოფილებს ის.</li>
-<li class="chorus chorus-top">მას აქვს ღმერთის სახება,</li>
-<li class="chorus">მას აქვს ღმერთის დიდება!</li>
-<li class="chorus">მასში თვით უფალია,</li>
-<li class="chorus chorus-bottom">ღვთის ამ ქალაქში.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>იქ ღმერთი არის "მე ვარ",</li>
-<li>სინათლის ქალაქში;</li>
-<li>ღმერთი კრავში ანათებს,</li>
-<li>იქ არ არის ბნელი.</li>
-<li class="chorus chorus-top">მას აქვს ღმერთის სახება,</li>
-<li class="chorus">მას აქვს ღმერთის დიდება!</li>
-<li class="chorus">მასში თვით უფალია,</li>
-<li class="chorus chorus-bottom">ღვთის ამ ქალაქში.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "რა დიდებულად კაშკაშებს,"),
-    num: (num = 724),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>წმიდა იერუსალიმი;</li>
-<li>ღმერთის და კაცის სამკვიდრო,</li>
-<li>ქრისტე-კრავის პატარძალი.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ყველა დროის წმიდანები,</li>
-<li>ღმერთის აღთქმის მემკვიდრენი</li>
-<li>შეადგენენ ამ დიდ ქალაქს</li>
-<li>შენდებიან სავანედ ღვთის.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ქალაქი კვადრატულია,</li>
-<li>ერთი ზომის - ყველა მხარე;</li>
-<li>თანასწორი ყოველიმხრივ,</li>
-<li>არდახრილი, სწორმდგომარე.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ქალაქის ქუჩა ოქროა,</li>
-<li>შუშასავით გამჭვირვალე,</li>
-<li>ეს ნიშნავს, რომ მის ბუნებას,</li>
-<li>ხარისხს ადგენს ღვთის სიცოცხლე.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>მარგალიტის კარიბჭეში</li>
-<li>ვხედავთ გამოსყიდვას კაცის,</li>
-<li>გარდასახულს მარგალიტად</li>
-<li>და მიმავალს ღვთის სფეროში.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>თორმეტნაირ ძვირფასი ქვის</li>
-<li>მის კედელს აქვს საძირკველი;</li>
-<li>ცეცხლით და წნევით ნაწრთობი,</li>
-<li>საუკუნო აქვს მას ფასი.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>კედელი აქვს იასპისის,</li>
-<li>ღვთის დიდებას სრულად ავლენს;</li>
-<li>ღმერთი თავად ჰგავს იასპისს,</li>
-<li>კედლიდან ჩანს ღვთის სინათლე.</li>
-</ul>
-</section>
-<section>
-<span class="number">8.</span>
-<ul>
-<li>ყველა უწმინდურებისგან</li>
-<li>ქალაქს კედელი გამოჰყოფს;</li>
-<li>მასში ყოფნა ძალუძს მხოლოდ</li>
-<li>მარგალიტს, ძვირფას ქვებს, ოქროს.</li>
-</ul>
-</section>
-<section>
-<span class="number">9.</span>
-<ul>
-<li>ღმერთ-კრავი იქ ტაძარია!</li>
-<li>მის დიად სახეს ვიხილავთ;</li>
-<li>და ჩვენ მის თანდასწრებაში</li>
-<li>ვიცხოვრებთ მარადიულად.</li>
-</ul>
-</section>
-<section>
-<span class="number">10.</span>
-<ul>
-<li>ქალაქს არ აქვს მზე და მთვარე,</li>
-<li>იქ ღვთის დიდება ანათებს;</li>
-<li>კრავი მისი ლამპადაა,</li>
-<li>და ის ყოველმხრივ კაშკაშებს.</li>
-</ul>
-</section>
-<section>
-<span class="number">11.</span>
-<ul>
-<li>ღვთისა და კრავის ტახტიდან</li>
-<li>ცოცხალი ნაკადი მოსჩქეფს,</li>
-<li>და მის ორივე ნაპირზე</li>
-<li>მოჩანს, ყვავის სიცოცხლის ხე.</li>
-</ul>
-</section>
-<section>
-<span class="number">12.</span>
-<ul>
-<li>ეს ნიშავს, რომ ღვთის სიცოცხლე</li>
-<li>არ არის მხოლოდ საკვები,</li>
-<li>მას სდევს ღვთის ძალაუფლება</li>
-<li>ქალაქის ყველა ადგილში.</li>
-</ul>
-</section>
-<section>
-<span class="number">13.</span>
-<ul>
-<li>მისი წმინდა ოქროს ქუჩა</li>
-<li>ღვთის ბუნებას გზად აჩვენებს;</li>
-<li>სიცოცხლის უხვი ნაყოფით</li>
-<li>მოედინება მდინარე.</li>
-</ul>
-</section>
-<section>
-<span class="number">14.</span>
-<ul>
-<li>რიცხვი თორმეტი აღნიშნავს</li>
-<li>საუკუნო ხელმწიფებას;</li>
-<li>სამჯერ ოთხი კი აღნიშნავს</li>
-<li>ღმერთის კაცთან შეზავებას.</li>
-</ul>
-</section>
-<section>
-<span class="number">15.</span>
-<ul>
-<li>მასში სიბნელე, სიკვდილი,</li>
-<li>სევდა და ტკივილი წავა,</li>
-<li>ძველს ახალი ჩაანაცვლებს</li>
-<li>ღმერთი კაცთან დამკვიდრდება.</li>
-</ul>
-</section>
-<section>
-<span class="number">16.</span>
-<ul>
-<li>ქალაქს ღმერთის აქვს სახება,</li>
-<li>მმართველობს მეფის მაგივრად,</li>
-<li>მის გეგმას ახორციელებს,</li>
-<li>ჰგვრის მას დაკმაყოფილებას.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "წმიდანების წინასახეს"),
-    num: (num = 725),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>მთელ წმიდა წერილში ვხედავთ:</li>
-<li>სასძლოს - ღმერთის გასახარად,</li>
-<li>შენობას - მოსასვენებლად.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ეკლესიის წინასახედ</li>
-<li>ძველ აღთქმაში ნათლად ვხედავთ:</li>
-<li>სახლს - ცხოვრებისთვის, მართვისთვის,</li>
-<li>პატარძალს - კაცის მშვენებას.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ღმერთმა ძველ დროში უწოდა</li>
-<li>თავის ხალხს თავისი ცოლი;</li>
-<li>მათ შორის და მათთან ერთად</li>
-<li>იყო ღვთის სახლი, ქალაქი.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ღმერთი ქრისტეში მოვიდა</li>
-<li>როგორც სასძლოსათვის ქმარი;</li>
-<li>მეწყვილის მოსაპოვებლად</li>
-<li>მას მისცა სიცოცხლე თვისი.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>აღდგომაში ქრისტე აგებს</li>
-<li>ღვთის ტაძარს ვით დავითის ძე,</li>
-<li>რომ იქ ღმერთმა მოისვენოს</li>
-<li>და მისი ნება აღსრულდეს.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>ქრისტეს სიამოვნებაა</li>
-<li>церковь Христа როგორც სასძლო;</li>
-<li>ღმერთის სამკვიდრებელია,</li>
-<li>რათა მან მასში იცხოვროს.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>წმიდა ქალაქი იქნება</li>
-<li>საბოლოო დასრულება</li>
-<li>სახლის, სასძლოს წინასახის</li>
-<li>- დიად გეგმის აღსრულება.</li>
-</ul>
-</section>
-<section>
-<span class="number">8.</span>
-<ul>
-<li>ეს სასძლო შეჰფერის ქრისტეს,</li>
-<li>მისით ის თავს გამოტახავს;</li>
-<li>ის ღმერთის სავანეცაა,</li>
-<li>რომ იმეფოს, ჰპოვოს შვება.</li>
-</ul>
-</section>
-<section>
-<span class="number">9.</span>
-<ul>
-<li>ის დასრულებაა შრომის,</li>
-<li>რომელიც ღმერთმა კაცში ქმნა;</li>
-<li>გამოსყიდულებში თავს ის</li>
-<li>დიდებაში გამოხატავს.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ღმერთმა მოუყაროს თავი"),
-    num: (num = 726),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ყოველივეს ქრისტეში;</li>
-<li>ქრისტე იყოს თავი, ცენტრი,</li>
-<li>მის სახლმშენებლობაში.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ქრისტე თავი არის ცენტრი,</li>
-<li>ღმერთი მასში - სინათლე;</li>
-<li>ქრისტე ტახტზე, ღმერთთან ერთად</li>
-<li>მის სურვილს შეასრულებს.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ქრისტე, როგორც თვით სიცოცხლე</li>
-<li>თავს მოუყრის ყველაფერს;</li>
-<li>ყველა წმიდა - ღვთის ჭურჭელი</li>
-<li>მის დიდებას წარადგენს.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>სატანის შხამი შევიდა</li>
-<li>კაცში, რათა გაეხრწნა;</li>
-<li>სიბნელე მოიტანა, რომ</li>
-<li>ღვთის გეგმა ჩაეშალა.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ქრისტე მოვიდა, ჩანერგა</li>
-<li>თავი კაცში სიცოცხლედ;</li>
-<li>რათა აღარ დავემონოთ</li>
-<li>სიკვდილსა და სიბნელეს.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>ეკლესიის მეშვეობით</li>
-<li>თავს მოუყრის ყველაფერს;</li>
-<li>შეანაწევრებს დიდს, მცირეს,</li>
-<li>შეამტკიცებს ერთმანეთს.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>ქრისტეს სრული თავობის ქვეშ</li>
-<li>ჰარმონია ივანებს;</li>
-<li>церковь Христа სინათლეში</li>
-<li>ქრისტეს ერთობას ავლენს.</li>
-</ul>
-</section>
-<section>
-<span class="number">8.</span>
-<ul>
-<li>სადაც ქრისტე არის თავი</li>
-<li>თანხმობაშია ყველა;</li>
-<li>ეკლესიის სინათლეში</li>
-<li>თავისუფლებით ტკბება.</li>
-</ul>
-</section>
-<section>
-<span class="number">9.</span>
-<ul>
-<li>გარდახდა ბნელი, სიკვდილი,</li>
-<li>მათი ხვედრი - გაქრობა;</li>
-<li>მარწუხისგან დახსნილია</li>
-<li>საუკუნოდ ქმნილება.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ცოცხალი წყლის მდინარეა"),
-    num: (num = 727),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ტახტიდან მომდინარე,</li>
-<li>ღვთის ძალაუფლებას ავლენს,</li>
-<li>ურთიერთობას გვაძლევს.</li>
-<li class="chorus chorus-top">ეს ცოცხალი წყლის მდინარე</li>
-<li class="chorus">გვაძლევს ურთიერთობას;</li>
-<li class="chorus">მას თან სდევს ძალაუფლება</li>
-<li class="chorus chorus-bottom">ყველგან, სადაც ის წავა.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>სული სიცოცხლის წყალია,</li>
-<li>იქ ღმერთი სიცოცხლედ ჩქეფს;</li>
-<li>მის დინებას ღვთის უფლობა,</li>
-<li>ყველა ადგილას თან სდევს.</li>
-<li class="chorus chorus-top">ეს ცოცხალი წყლის მდინარე</li>
-<li class="chorus">გვაძლევს ურთიერთობას;</li>
-<li class="chorus">მას თან სდევს ძალაუფლება</li>
-<li class="chorus chorus-bottom">ყველგან, სადაც ის წავა.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ის მოდის ოქროს ქუჩაზე,</li>
-<li>და ასე გზას გვიჩვენებს;</li>
-<li>ის ღვთის ბუნებაში მოჩქეფს,</li>
-<li>ჩვენც ამ გზაზე რომ დავრჩეთ.</li>
-<li class="chorus chorus-top">ეს ცოცხალი წყლის მდინარე</li>
-<li class="chorus">გვაძლევს ურთიერთობას;</li>
-<li class="chorus">მას თან სდევს ძალაუფლება</li>
-<li class="chorus chorus-bottom">ყველგან, სადაც ის წავა.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>მასთან სიცოცხლის ხეც არის,</li>
-<li>ღმერთს ვით საკვებს გადმოგვცემს;</li>
-<li>მდინარის დინების მიერ,</li>
-<li>ვღებულობთ ხის სიუხვეს.</li>
-<li class="chorus chorus-top">ეს ცოცხალი წყლის მდინარე</li>
-<li class="chorus">გვაძლევს ურთიერთობას;</li>
-<li class="chorus">მას თან სდევს ძალაუფლება</li>
-<li class="chorus chorus-bottom">ყველგან, სადაც ის წავა.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "იმ დღეს შენ, ო უფალო,"),
-    num: (num = 728),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>გაანათებ ჩემგან;</li>
-<li>აღარ დაფარავს თიხის</li>
-<li>ჭურჭელი ღმერთის განძს.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>იმ ოქროს ჭურჭელიდან</li>
-<li>ნათობს დიდება ღვთის;</li>
-<li>მზე საჭირო არ არის,</li>
-<li>იქ ანათებს ღმერთი.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ქრისტე, როგორც ძვირი ქვა</li>
-<li>მორთავს ქალაქს ღმერთის;</li>
-<li>იასპისებრ ანათებს,</li>
-<li>ნათელ დიდებაში.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>იმ დიად ჭურჭელში ჩანს</li>
-<li>დიდების სინათლე,</li>
-<li>თავისი სისავსით ის</li>
-<li>მიწასაც ანათებს.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ღმერთი დიდებას ავლენს</li>
-<li>ახალ ქმნილებაში;</li>
-<li>ამ დიდების ჭურჭელი</li>
-<li>კრავის ცოლი არის.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>ოქროს ჭურჭლით ტკბებიან</li>
-<li>მისი მხილველები;</li>
-<li>ღმერთი გამოიხატა</li>
-<li>და განდიდდა კრავში.</li>
+<li>все склонятся пред Богом,</li>
+<li>cосуд увидев сей, -</li>
+<li>бог в Агнце здесь вовеки</li>
+<li>во славе явлен всей.</li>
 </ul>
 </section>
 </main>
