@@ -24758,718 +24758,266 @@ const pages = [
 `,
   },
   {
-    title: (title = "შენ შენი ცოდვის ტვირთს თავს დააღწევ?"),
-    num: (num = 746),
+    title: (title = "хочешь ли бремя грехов своих снять?"),
+    num: (num = 386),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>სწორედ სისხლშია ამის ძალა;</li>
-<li>ჰპოვებ კი გამარჯვებას ბოროტზე?</li>
-<li>სისხლში დიადი ძალაა.</li>
-<li class="chorus chorus-top">ძალა სასწაულმოქმედია -</li>
-<li class="chorus">კრავის სისხლის ძალა;</li>
-<li class="chorus">ძალა სასწაულმოქმედია -</li>
-<li class="chorus chorus-bottom">ქრისტეს ძვირფასი სისხლისა.</li>
+<li>о, кровь так сильна, кровь так сильна!</li>
+<li>хочешь победу над злом одержать?</li>
+<li>кровь силы чудесной полна.</li>
+<li class="chorus chorus-top">эта сила, сила дивная -</li>
+<li class="chorus">в крови Агнца она.</li>
+<li class="chorus">эта сила, сила дивная -</li>
+<li class="chorus chorus-bottom">в драгоценной крови Христа.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>თავს დააღწევ ვნებას, სიამაყეს?</li>
-<li>სწორედ სისხლშია ამის ძალა;</li>
-<li>გაწმენდისთვის მიდი გოლგოთაზე,</li>
-<li>სისხლში დიდი ძალაა.</li>
-<li class="chorus chorus-top">ძალა სასწაულმოქმედია -</li>
-<li class="chorus">კრავის სისხლის ძალა;</li>
-<li class="chorus">ძალა სასწაულმოქმედია -</li>
-<li class="chorus chorus-bottom">ქრისტეს ძვირფასი სისხლისა.</li>
+<li>хочешь гордыню и страсть усмирить?</li>
+<li>о, кровь так сильна, кровь так сильна!</li>
+<li>чистым чтоб стать, ты к Голгофе приди,</li>
+<li>кровь силы чудесной полна.</li>
+<li class="chorus chorus-top">эта сила, сила дивная -</li>
+<li class="chorus">в крови Агнца она.</li>
+<li class="chorus">эта сила, сила дивная -</li>
+<li class="chorus chorus-bottom">в драгоценной крови Христа.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>გათეთრდები თოვლზე უფრო მეტად?</li>
-<li>სწორედ სისხლშია ამის ძალა;</li>
-<li>სისხლის დინებაში ქრება ცოდვა,</li>
-<li>სისხლში დიადი ძალაა.</li>
-<li class="chorus chorus-top">ძალა სასწაულმოქმედია -</li>
-<li class="chorus">კრავის სისხლის ძალა;</li>
-<li class="chorus">ძალა სასწაულმოქმედია -</li>
-<li class="chorus chorus-bottom">ქრისტეს ძვირფასი სისხლისა.</li>
+<li>хочешь белей снега белого быть?</li>
+<li>о, кровь так сильна, кровь так сильна!</li>
+<li>пятна греха эта кровь может смыть,</li>
+<li>кровь силы чудесной полна.</li>
+<li class="chorus chorus-top">эта сила, сила дивная -</li>
+<li class="chorus">в крови Агнца она.</li>
+<li class="chorus">эта сила, сила дивная -</li>
+<li class="chorus chorus-bottom">в драгоценной крови Христа.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ემსახურები იესოს, მეფეს?</li>
-<li>სწორედ სისხლშია ამის ძალა;</li>
-<li>ყოველდღე მას დიდებას უმღერებ?</li>
-<li>სისხლში დიდი ძალაა.</li>
-<li class="chorus chorus-top">ძალა სასწაულმოქმედია -</li>
-<li class="chorus">კრავის სისხლის ძალა;</li>
-<li class="chorus">ძალა სასწაულმოქმედია -</li>
-<li class="chorus chorus-bottom">ქრისტეს ძვირფასი სისხლისა.</li>
+<li>царь твой Иисус. Ему хочешь служить?</li>
+<li>о, кровь так сильна, кровь так сильна!</li>
+<li>хочешь, хвалу вознося Ему, жить?</li>
+<li>кровь силы чудесной полна.</li>
+<li class="chorus chorus-top">эта сила, сила дивная -</li>
+<li class="chorus">в крови Агнца она.</li>
+<li class="chorus">эта сила, сила дивная -</li>
+<li class="chorus chorus-bottom">в драгоценной крови Христа.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "მე ვხედავ ტალღას გამწმენდელს!"),
-    num: (num = 747),
+    title: (title = "вот очищающий поток,!"),
+    num: (num = 387),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>შადრევანს, ღრმას და ვრცელს;</li>
-<li>ჩემი უფალი მაჩვენებს,</li>
-<li>თავის განგმირულ ფერდს.</li>
-<li class="chorus chorus-top">გამწმენდ ნაკადს ვხედავ, ვხედავ;</li>
-<li class="chorus">მასში ვეფლობი, ის მწმინდავს!</li>
-<li class="chorus">ქება უფალს, ის მე მწმინდავს!</li>
-<li class="chorus chorus-bottom">ის მე მწმინდავს, ო, მე მწმინდავს.</li>
+<li>широк он и глубок:</li>
+<li>иисус указывает мне</li>
+<li>на Свой пронзённый бок.</li>
+<li class="chorus chorus-top">я вижу, вижу тот поток,</li>
+<li class="chorus">и в нём так рад омыться я!</li>
+<li class="chorus">о, слава Господу за кровь,</li>
+<li class="chorus chorus-bottom">что очищает так меня!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ვხედავ აღმდგარ გამომსყიდველს,</li>
-<li>და სისხლის სხურებას;</li>
-<li>სულს მიოცებს და მიცოცხლებს</li>
-<li>სისხლის მეტყველება.</li>
-<li class="chorus chorus-top">გამწმენდ ნაკადს ვხედავ, ვხედავ;</li>
-<li class="chorus">მასში ვეფლობი, ის მწმინდავს!</li>
-<li class="chorus">ქება უფალს, ის მე მწმინდავს!</li>
-<li class="chorus chorus-bottom">ის მე მწმინდავს, ო, მე მწმინდავს.</li>
+<li>мой Искупитель воскрешён,</li>
+<li>его кровь говорит.</li>
+<li>о, дух мой этим восхищён,</li>
+<li>и кровь Его живит.</li>
+<li class="chorus chorus-top">я вижу, вижу тот поток,</li>
+<li class="chorus">и в нём так рад омыться я!</li>
+<li class="chorus">о, слава Господу за кровь,</li>
+<li class="chorus chorus-bottom">что очищает так меня!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ღმერთის ნათელში სვლით დავშთე</li>
-<li>ცდოვა და სოფელი,</li>
-<li>განვახლდი, თეთრით ვიმოსე,</li>
-<li>ქრისტე მეფობს ჩემში.</li>
-<li class="chorus chorus-top">გამწმენდ ნაკადს ვხედავ, ვხედავ;</li>
-<li class="chorus">მასში ვეფლობი, ის მწმინდავს!</li>
-<li class="chorus">ქება უფალს, ის მე მწმინდავს!</li>
-<li class="chorus chorus-bottom">ის მე მწმინდავს, ო, მე მწმინდავს.</li>
+<li>и в свете Божьем я хожу,</li>
+<li>оставив грех и мир,</li>
+<li>в одежде белой, в новизне,</li>
+<li>с Христом-Царём внутри.</li>
+<li class="chorus chorus-top">я вижу, вижу тот поток,</li>
+<li class="chorus">и в нём так рад омыться я!</li>
+<li class="chorus">о, слава Господу за кровь,</li>
+<li class="chorus chorus-bottom">что очищает так меня!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ხეტიალისგან მოხეტიალეთ რა იცავს?"),
-    num: (num = 748),
+    title: (title = "от блужданий странников что может защитить?"),
+    num: (num = 388),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>სიყვარული იესოსი!</li>
-<li>დაცემულ ხალხს რა დააბრუნებს ცოდვის გზიდან?</li>
-<li>სიყვარული იესოსი!</li>
-<li class="chorus chorus-top">მხოლოდ იესოს სიყვარული ზღუდავს!</li>
-<li class="chorus">მხოლოდ იესოს სიყვარული ზრუნავს!</li>
-<li class="chorus">ცოდვილებს ყველაზე მეტად ის ხიბლავს,</li>
-<li class="chorus chorus-bottom">სიყვარული იესოსი!</li>
+<li>лишь одна любовь Иисуса!</li>
+<li>от пути греха людей что может отвратить?</li>
+<li>лишь одна любовь Иисуса!</li>
+<li class="chorus chorus-top">лишь любовь Иисуса может нас теснить!</li>
+<li class="chorus">лишь любовь Иисуса может укрепить!</li>
+<li class="chorus">грешников ничто не может так пленить,</li>
+<li class="chorus chorus-bottom">лишь одна любовь Иисуса!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>რა გაუქრობს ყველა სიმწარეს დატანჯულებს?</li>
-<li>სიყვარული იესოსი!</li>
-<li>რა გაუმშრალებს ცრემლებს მოტირალთა თვალებს?</li>
-<li>სიყვარული იესოსი!</li>
-<li class="chorus chorus-top">მხოლოდ იესოს სიყვარული ზღუდავს!</li>
-<li class="chorus">მხოლოდ იესოს სიყვარული ზრუნავს!</li>
-<li class="chorus">ცოდვილებს ყველაზე მეტად ის ხიბლავს,</li>
-<li class="chorus chorus-bottom">სიყვარული იესოსი!</li>
+<li>горечь от страдающих что может удалить?</li>
+<li>лишь одна любовь Иисуса!</li>
+<li>слёзы всех рыдающих что может осушить?</li>
+<li>лишь одна любовь Иисуса!</li>
+<li class="chorus chorus-top">лишь любовь Иисуса может нас теснить!</li>
+<li class="chorus">лишь любовь Иисуса может укрепить!</li>
+<li class="chorus">грешников ничто не может так пленить,</li>
+<li class="chorus chorus-bottom">лишь одна любовь Иисуса!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>დაჭრილ გულებს მალამოდ რა მოევლინება?</li>
-<li>სიყვარული იესოსი!</li>
-<li>გულს რა გაახარებს ისე, ვით გვალვას წვიმა?</li>
-<li>სიყვარული იესოსი!</li>
-<li class="chorus chorus-top">მხოლოდ იესოს სიყვარული ზღუდავს!</li>
-<li class="chorus">მხოლოდ იესოს სიყვარული ზრუნავს!</li>
-<li class="chorus">ცოდვილებს ყველაზე მეტად ის ხიბლავს,</li>
-<li class="chorus chorus-bottom">სიყვარული იესოსი!</li>
+<li>раненое сердце что бальзамом исцелит?</li>
+<li>лишь одна любовь Иисуса!</li>
+<li>что, как ливни в засуху, сердца приободрит?</li>
+<li>лишь одна любовь Иисуса!</li>
+<li class="chorus chorus-top">лишь любовь Иисуса может нас теснить!</li>
+<li class="chorus">лишь любовь Иисуса может укрепить!</li>
+<li class="chorus">грешников ничто не может так пленить,</li>
+<li class="chorus chorus-bottom">лишь одна любовь Иисуса!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>რა დააკმაყოფილებს ამაო სიცოცხლეს?</li>
-<li>სიყვარული იესოსი!</li>
-<li>რა შთანთქავს ყოველგვარი სიკვდილის შეგრძნებებს?</li>
-<li>სიყვარული იესოსი!</li>
-<li class="chorus chorus-top">მხოლოდ იესოს სიყვარული ზღუდავს!</li>
-<li class="chorus">მხოლოდ იესოს სიყვარული ზრუნავს!</li>
-<li class="chorus">ცოდვილებს ყველაზე მეტად ის ხიბლავს,</li>
-<li class="chorus chorus-bottom">სიყვარული იესოსი!</li>
+<li>cуетную жизнь что может удовлетворить?</li>
+<li>лишь одна любовь Иисуса!</li>
+<li>привкус всякой смертности что может поглотить?</li>
+<li>лишь одна любовь Иисуса!</li>
+<li class="chorus chorus-top">лишь любовь Иисуса может нас теснить!</li>
+<li class="chorus">лишь любовь Иисуса может укрепить!</li>
+<li class="chorus">грешников ничто не может так пленить,</li>
+<li class="chorus chorus-bottom">лишь одна любовь Иисуса!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ქება, ქება, რა სიცოცხლე,"),
-    num: (num = 749),
+    title: (title = "слушай: Иисус призывает домой;"),
+    num: (num = 389),
     page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<ul>
-<li>${title}</li>
-<li>ო, მივიღე მე დღეს!</li>
-<li>სიბნელე, ცოდვა, სიკვდილი</li>
-<li>- ერთად უკუიქცნენ!</li>
-<li>ერთად უკუიქცნენ!</li>
-<li>ახლა ერთად უკუიქცნენ!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ღმერთი იესოში განკაცდა გახდა ჩემი მსგავსი."),
-    num: (num = 750),
-    page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ჯვარზე გაეკრა და მოკვდა, ადამისგან დამიხსნა.</li>
-<li>აღდგა, გახდა სული, მოვიდა, რომ ჩემში იცხოვროს.</li>
-<li>ჩემი სიცოცხლეა!</li>
-<li class="chorus chorus-top">დიდება მას! аллилуйя! დიდება მას! аллилуйя!</li>
-<li class="chorus chorus-bottom">დიდება მას! аллилуйя! ქრისტე სიცოცხლეა!</li>
+<li>да, Он сейчас нежно зовёт!</li>
+<li>что же тебя от сиянья любви</li>
+<li>дальше и дальше влечёт?</li>
+<li class="chorus chorus-top">да, Он зовёт нежно сейчас!</li>
+<li class="chorus chorus-bottom">слышишь, тебя Иисус призывает сейчас!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ღმერთი იესოში განკაცდა გახდა ჩემი მსგავსი.</li>
-<li>ჯვარზე გაეკრა და მოკვდა, ადამისგან დამიხსნა.</li>
-<li>აღდგა, გახდა სული, მოვიდა, რომ ჩემში იცხოვროს.</li>
-<li>ჩემი სიცოცხლეა!</li>
-<li class="chorus chorus-top">გამარჯვება! аллилуйя! გამარჯვება! аллилуйя! </li>
-<li class="chorus chorus-bottom">გამარჯვება! аллилуйя! ის ყველაფერია!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "მოძღვარი ღამით იესოს ესტუმრა,"),
-    num: (num = 751),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ჰკითხა მან მას ხსნისა და სინათლის გზა;</li>
-<li>უფალმა მას გარკვევით უპასუხა:</li>
-<li>"ახლად უნდა იშვა!"</li>
-<li class="chorus chorus-top">"ახლად უნდა იშვა!"</li>
-<li class="chorus">"ახლად უნდა იშვა!"</li>
-<li class="chorus">"მე შენ ჭეშმარიტებას გეუბნები,</li>
-<li class="chorus chorus-bottom">ახლად უნდა იშვა!"</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ყური უგდეთ ამ სიტყვას, კაცთა ძენო,</li>
-<li>რომელიც წარმოთქვა უფალმა თვითონ,</li>
-<li>და ნუ უგულებელყოფთ თქვენთვის ნათქვამს:</li>
-<li>"ახლად უნდა იშვა!"</li>
-<li class="chorus chorus-top">"ახლად უნდა იშვა!"</li>
-<li class="chorus">"ახლად უნდა იშვა!"</li>
-<li class="chorus">"მე შენ ჭეშმარიტებას გეუბნები,</li>
-<li class="chorus chorus-bottom">ახლად უნდა იშვა!"</li>
+<li>слушай: Иисус обещает покой;</li>
+<li>вот Он зовёт тех, кто устал;</li>
+<li>бремя своё возложи на Него -</li>
+<li>он не отвергнет тебя.</li>
+<li class="chorus chorus-top">да, Он зовёт нежно сейчас!</li>
+<li class="chorus chorus-bottom">слышишь, тебя Иисус призывает сейчас!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>თქვენ, მსურველნო, ჰპოვოთ დიადი შვება,</li>
-<li>იმღეროთ გამოსყიდულთა სიმღერა;</li>
-<li>გსურთ საუკუნო სიცოცხლის მიღება?</li>
-<li>"ახლად უნდა იშვა!"</li>
-<li class="chorus chorus-top">"ახლად უნდა იშვა!"</li>
-<li class="chorus">"ახლად უნდა იშვა!"</li>
-<li class="chorus">"მე შენ ჭეშმარიტებას გეუბნები,</li>
-<li class="chorus chorus-bottom">ახლად უნდა იშვა!"</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ვინ დაგვიხსნის ცოდვისგან?"),
-    num: (num = 752),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<ul>
-<li>${title}</li>
-<li>მხოლოდ ერთი ქრისტე!</li>
-<li>ჩვენი სიცოცხლე ვინ არს?</li>
-<li>ო, ქრისტე!</li>
-<li>მხოლოდ ერთი ქრისტე!</li>
-<li>ქრისტეს ძალუძს, დაგვიხსნას,</li>
-<li>ო, ქრისტეს!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ცოდვილნი ცოდვას მონობენ,"),
-    num: (num = 753),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<ul>
-<li>${title}</li>
-<li>ცოდვის შხამი აქვთ მათ;</li>
-<li>ცოდვისგან და სიკვდილისგან</li>
-<li>ქრისტეს ძალუძს, იხსნას.</li>
-<li>ის არის მარადიული,</li>
-<li>ჩვენ გვათავისუფლებს;</li>
-<li>ტანჯვებში დავიღუპებით</li>
-<li>თუ მას არ ვირწმუნებთ.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "შენ გჭირდება მხოლოდ ქრისტე მხსნელი"),
-    num: (num = 754),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ის არის ღმერთი, განკაცებული;</li>
-<li>სხეულში მან ტკივილი იწვნია,</li>
-<li>ის მოკვდა შენ განსაწმენდად,</li>
-<li>შენ გჭირდება ის!</li>
-<li class="chorus chorus-top">იესოა, ვინც გჭირდება!</li>
-<li class="chorus">ყველა ხალხს ის სჭირდება!</li>
-<li class="chorus">რომ გამოგისყიდოს მან,</li>
-<li class="chorus">მისგან შველა გჭირდება!</li>
-<li class="chorus">მარადის რომ იცოცხლო,</li>
-<li class="chorus chorus-bottom">შენ გჭირდება ის!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ის აღდგა და ამაღლდა ზეცაში,</li>
-<li>რომ მოეცა სიცოცხლე მარადი;</li>
-<li>მიიღე ის და გულით ირწმუნე,</li>
-<li>ის მოგცემს, რაც გჭირდება შენ,</li>
-<li>შენ გჭირდება ის!</li>
-<li class="chorus chorus-top">იესოა, ვინც გჭირდება!</li>
-<li class="chorus">ყველა ხალხს ის სჭირდება!</li>
-<li class="chorus">რომ გამოგისყიდოს მან,</li>
-<li class="chorus">მისგან შველა გჭირდება!</li>
-<li class="chorus">მარადის რომ იცოცხლო,</li>
-<li class="chorus chorus-bottom">შენ გჭირდება ის!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ის შენს ბნელ გულს შუქით გაანათებს,</li>
-<li>გიშველის და ცოდვებს გაპატიებს;</li>
-<li>ლაქებს ის მოგწმენდს თავისი სისხლით,</li>
-<li>ღვთის სიცოცხლეს მოგცემს შენ ის,</li>
-<li>შენ გჭირდება ის!</li>
-<li class="chorus chorus-top">იესოა, ვინც გჭირდება!</li>
-<li class="chorus">ყველა ხალხს ის სჭირდება!</li>
-<li class="chorus">რომ გამოგისყიდოს მან,</li>
-<li class="chorus">მისგან შველა გჭირდება!</li>
-<li class="chorus">მარადის რომ იცოცხლო,</li>
-<li class="chorus chorus-bottom">შენ გჭირდება ის!</li>
+<li>слушай: Иисус ожидает тебя;</li>
+<li>ждёт Он сейчас, ждёт Он сейчас.</li>
+<li>у ног Его поспеши положить</li>
+<li>грех свой, пред Ним преклонясь.</li>
+<li class="chorus chorus-top">да, Он зовёт нежно сейчас!</li>
+<li class="chorus chorus-bottom">слышишь, тебя Иисус призывает сейчас!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>შენს ცხოვრებას აქვს უკმარისობა,</li>
-<li>და ის ყოველ წელს უფრო იზრდება;</li>
-<li>იესოა ის, ვინც კლავს ამ წყურვილს;</li>
-<li>ამაოებას ის წაშლის,</li>
-<li>შენ გჭირდება ის!</li>
-<li class="chorus chorus-top">იესოა, ვინც გჭირდება!</li>
-<li class="chorus">ყველა ხალხს ის სჭირდება!</li>
-<li class="chorus">ამაოება დაშთე,</li>
-<li class="chorus">და სინამდვილე ჰპოვე,</li>
-<li class="chorus">სიცოცხლეს აზრი მიეც,</li>
-<li class="chorus chorus-bottom">შემ გჭირდება ის!</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ოხრავს ქვეყანა ტკივილით, შრომით,</li>
-<li>და არ არის შველა გასაჭირში;</li>
-<li>არაფერში არ არის საყრდენი,</li>
-<li>ერთ რამეს მოწმობს ყოველი:</li>
-<li>შენ გჭირდება ის!</li>
-<li class="chorus chorus-top">იესოა, ვინც გჭირდება!</li>
-<li class="chorus">ყველა ხალხს ის სჭირდება!</li>
-<li class="chorus">ამაოება დაშთე,</li>
-<li class="chorus">და სინამდვილე ჰპოვე,</li>
-<li class="chorus">სიცოცხლეს აზრი მიეც,</li>
-<li class="chorus chorus-bottom">შემ გჭირდება ის!</li>
+<li>слушай: Иисус умоляет сейчас;</li>
+<li>голос Его сердцем услышь!</li>
+<li>радость получишь, поверив в Него,</li>
+<li>если к Нему поспешишь!</li>
+<li class="chorus chorus-top">да, Он зовёт нежно сейчас!</li>
+<li class="chorus chorus-bottom">слышишь, тебя Иисус призывает сейчас!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "დატოვე წუთისოფელი,"),
-    num: (num = 755),
+    title: (title = "в двери сердца - слушай, слушай! -"),
+    num: (num = 390),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ქრისტე მიიღე გულში;</li>
-<li>სხვა რა გსურს, რისკენ ისწრაფვი?</li>
-<li>ამაოა ყოველი.</li>
-<li class="chorus chorus-top">ის არის სავსე, მდიდარი,</li>
-<li class="chorus">ის დაგაკმაყოფილებს!</li>
-<li class="chorus">ის ტკბილია და კეთილი,</li>
-<li class="chorus chorus-bottom">ჭარბობს ის შენს სურვილებს!</li>
+<li>иисус стучит.</li>
+<li>если будешь жёстким, жёстким,</li>
+<li>может Он уйти.</li>
+<li>встань, скорее дверь открой</li>
+<li>и Его впусти.</li>
+<li>одарит Он жизнью, жизнью</li>
+<li>и твой грех простит.</li>
+<li class="chorus chorus-top">о, впусти! О, впусти!</li>
+<li class="chorus">стучится в сердце Он.</li>
+<li class="chorus">о, впусти Его, впусти!</li>
+<li class="chorus chorus-bottom">ожидает Он.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>წუთისოფელი დატოვე,</li>
-<li>მხოლოდ ის გჭირდება შენ;</li>
-<li>როდესაც მიიღებ ქრისტეს,</li>
-<li>სხვას არაფერს ისურვებ.</li>
-<li class="chorus chorus-top">ის არის სავსე, მდიდარი,</li>
-<li class="chorus">ის დაგაკმაყოფილებს!</li>
-<li class="chorus">ის ტკბილია და კეთილი,</li>
-<li class="chorus chorus-bottom">ჭარბობს ის შენს სურვილებს!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>თუმცა დიდია სოფელი,</li>
-<li>და შენი გული მცირე,</li>
-<li>სოფელი სიმდიდრეებით</li>
-<li>შენს გულს ვერ ამოავსებს.</li>
-<li class="chorus chorus-top">ის არის სავსე, მდიდარი,</li>
-<li class="chorus">ის დაგაკმაყოფილებს!</li>
-<li class="chorus">ის ტკბილია და კეთილი,</li>
-<li class="chorus chorus-bottom">ჭარბობს ის შენს სურვილებს!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>იხარებ, თუ შენ გყავს ქრისტე;</li>
-<li>ტანჯვაა მის გარეშე;</li>
-<li>ქრისტესთან სულ დილა სუფევს;</li>
-<li>უიმისოდ - სიბნელე.</li>
-<li class="chorus chorus-top">ის არის სავსე, მდიდარი,</li>
-<li class="chorus">ის დაგაკმაყოფილებს!</li>
-<li class="chorus">ის ტკბილია და კეთილი,</li>
-<li class="chorus chorus-bottom">ჭარბობს ის შენს სურვილებს!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "იესო ნაზად, ფაქიზად გვეძახის"),
-    num: (num = 756),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>- ის გვეძახის შენც და მეც;</li>
-<li>ის მოთმინებით გვიყურებს და გველის</li>
-<li>- ის გვიყურებს შენც და მეც.</li>
-<li class="chorus chorus-top">მოდი სახლში!</li>
-<li class="chorus">დაღლილნო, მოდით სახლში!</li>
-<li class="chorus">ის გულწრფელად და ფაქიზად გვეძახის</li>
-<li class="chorus chorus-bottom">- ცოდვილნო, მოდით სახლში!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>რად შევყოვნდეთ? იესო მოგვიწოდებს</li>
-<li>- მოგვიწოდებს შენც და მეც;</li>
-<li>ნუთუ უარი ვთქვათ მის წყალობებზე,</li>
-<li>რომლებიც არის ჩვენზე?</li>
-<li class="chorus chorus-top">მოდი სახლში!</li>
-<li class="chorus">დაღლილნო, მოდით სახლში!</li>
-<li class="chorus">ის გულწრფელად და ფაქიზად გვეძახის</li>
-<li class="chorus chorus-bottom">- ცოდვილნო, მოდით სახლში!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>დრო არ იცდის, მომენტს მოსდევს მომენტი</li>
-<li>- ის გვერდს გვივლის შენც და მეც;</li>
-<li>ჩრდილები თავს იყრის, სიკვდილი მოდის</li>
-<li>სიკვდილი გველის შენც, მეც.</li>
-<li class="chorus chorus-top">მოდი სახლში!</li>
-<li class="chorus">დაღლილნო, მოდით სახლში!</li>
-<li class="chorus">ის გულწრფელად და ფაქიზად გვეძახის</li>
-<li class="chorus chorus-bottom">- ცოდვილნო, მოდით სახლში!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ო, ის საოცარ სიყვარულს დაგვპირდა</li>
-<li>- დაგვპირდა შენცა და მეც!</li>
-<li>თუმც ვცოდეთ, მან წყალობით გვაპატია</li>
-<li>- მოგვიტევა შენც და მეც!</li>
-<li class="chorus chorus-top">მოდი სახლში!</li>
-<li class="chorus">დაღლილნო, მოდით სახლში!</li>
-<li class="chorus">ის გულწრფელად და ფაქიზად გვეძახის</li>
-<li class="chorus chorus-bottom">- ცოდვილნო, მოდით სახლში!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "იესო ნაზად გეძახის სახლში"),
-    num: (num = 757),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>- გეძახის დღეს, გეძახის დღეს!</li>
-<li>ნუთუ სინათლეს ამ სიყვარულის</li>
-<li>კიდევ უფრო დატოვებ?</li>
-<li class="chorus chorus-top">გეძახის დღეს! გეძახის დღეს!</li>
-<li class="chorus chorus-bottom">იესო გეძახის, ის ნაზად გეძახის დღეს!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>იესო მოგასვენებთ დამაშვრალთ,</li>
-<li>გეძახის დღეს! გეძახის დღეს!</li>
-<li>შენი საზრუნავი მიანდე მას,</li>
-<li>ის შენ არ მიგატოვებს!</li>
-<li class="chorus chorus-top">გეძახის დღეს! გეძახის დღეს!</li>
-<li class="chorus chorus-bottom">იესო გეძახის, ის ნაზად გეძახის დღეს!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>იესო გელის თავისთან ახლა!</li>
-<li>გელის ის დღეს! გელის ის დღეს!</li>
-<li>ცოდვებითურთ მიდი მის ფეხებთან;</li>
-<li>ო, ნუღარ დააყოვნებ.</li>
-<li class="chorus chorus-top">გეძახის დღეს! გეძახის დღეს!</li>
-<li class="chorus chorus-bottom">იესო გეძახის, ის ნაზად გეძახის დღეს!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ყური დაუგდე იესოს ძახილს!</li>
-<li>მას უსმინე! მას უსმინე!</li>
-<li>სიხარულს პოვებს მორწმუნე მისი</li>
-<li>- ჰე, წამოდექი მალე!</li>
-<li class="chorus chorus-top">გეძახის დღეს! გეძახის დღეს!</li>
-<li class="chorus chorus-bottom">იესო გეძახის, ის ნაზად გეძახის დღეს!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = '"მეწამული ცოდვები'),
-    num: (num = 758),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>თქვენი გასპეტაკდება;</li>
-<li>მეწამული ოდვები</li>
-<li>თქვენი გასპეტაკდება;</li>
-<li>რაგინდ წითელი იყოს,</li>
-<li>მატყლივით იქნება;"</li>
-<li>"მეწამული ცოდვები,</li>
-<li>მეწამული ცოდვები,</li>
-<li>თქვენი გასპეტაკდება,</li>
-<li>თქვენი გასპეტაკდება".</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ისმინეთ ვედრების ხმა,</li>
-<li>ო, თქვენ დაბრუნდით ღმერთთან!</li>
-<li>ისმინეთ ვედრების ხმა,</li>
-<li>ო, თქვენ დაბრუნდით ღმერთთან!</li>
-<li>ო, მისი სიყვარული</li>
-<li>და თანაგრძნობა;</li>
-<li>ისმინეთ ვედრების ხმა,</li>
-<li>ისმინეთ ვედრების ხმა,</li>
-<li>ო, თქვენ დაბრუნდით ღმერთთან!</li>
-<li>ო, თქვენ დაბრუნდით ღმერთთან!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ის მოგიტევებთ ცოდვებს,</li>
-<li>მათ აღარ გაიხსენებს;</li>
-<li>ის მოგიტევებთ ცოდვებს,</li>
-<li>მათ აღარ გაიხსენებს;</li>
-<li>"შემომხედეთ, ხალხებო"</li>
-<li>- ღმერთი ღაღადებს!</li>
-<li>ის მოგიტევებთ ცოდვებს,</li>
-<li>ის მოგიტევებთ ცოდვებს,</li>
-<li>მათ აღარ გაიხსენებს,</li>
-<li>მათ აღარ გაიხსენებს.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "თუ დაგღალა შენი ცოდვის ტვირთმა,"),
-    num: (num = 759),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>შეუშვი იესო გულში;</li>
-<li>გსურს ახალი ცხოვრების დაწყება?</li>
-<li>შეუშვი იესო გულში.</li>
-<li class="chorus chorus-top">დათმე შენი ეჭვები,</li>
-<li class="chorus">არ უარყო უფალი;</li>
-<li class="chorus">ახლავ გახსენი კარი;</li>
-<li class="chorus chorus-bottom">ის გულში შემოუშვი.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>თუკი შენ სიწმინდისათვის ოხრავ</li>
-<li>შეუშვი ისეო გულში;</li>
-<li>გამწმენდი შადრევანი ახლოა,</li>
-<li>შეუშვი იესო გულში.</li>
-<li class="chorus chorus-top">დათმე შენი ეჭვები,</li>
-<li class="chorus">არ უარყო უფალი;</li>
-<li class="chorus">ახლავ გახსენი კარი;</li>
-<li class="chorus chorus-bottom">ის გულში შემოუშვი.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>თუკი გრიგალს ვერაფრით ვერ ახშობ,</li>
-<li>შეუშვი იესო გულში;</li>
-<li>თუ სოფელს არ ძალუძს, შენ აგავსოს,</li>
-<li>შეუშვი იესო გულში.</li>
-<li class="chorus chorus-top">დათმე შენი ეჭვები,</li>
-<li class="chorus">არ უარყო უფალი;</li>
-<li class="chorus">ახლავ გახსენი კარი;</li>
-<li class="chorus chorus-bottom">ის გულში შემოუშვი.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ყური უგდე, აკაკუნებს"),
-    num: (num = 760),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>მხსნელი შენს გულზე!</li>
-<li>ო, ნუღარ გასასტიკდები,</li>
-<li>ის არ წავიდეს.</li>
-<li>ადე, გული გაუღე,</li>
-<li>ის შემოუშვი;</li>
-<li>ცოდვას გაპატიებს, მოგცემს</li>
-<li>სიცოცხლეს ღმერთის.</li>
-<li class="chorus chorus-top">შეუშვი! შეუშვი!</li>
-<li class="chorus">ის გულში შეუშვი;</li>
-<li class="chorus">შეუშვი! ის შეუშვი!</li>
-<li class="chorus chorus-bottom">შეუშვი გულში.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>რაღას უცდი, რად აყოვნებ</li>
-<li>უფალს კარს მიღმა?</li>
-<li>ის კარგია, ძვირფასია,</li>
-<li>და მოწყალეა.</li>
-<li>უსმინე მის ფაქიზ ხმას,</li>
-<li>მას გულს ნუ დაწყვეტ,</li>
-<li>გაეხსენი, შემოუშვი,</li>
-<li>მადლი მიიღე.</li>
-<li class="chorus chorus-top">შეუშვი! შეუშვი!</li>
-<li class="chorus">ის გულში შეუშვი;</li>
-<li class="chorus">შეუშვი! ის შეუშვი!</li>
-<li class="chorus chorus-bottom">შეუშვი გულში.</li>
+<li>о зачем ты медлишь, медлишь?</li>
+<li>господа впусти.</li>
+<li>добр Господь и благ Он, благ Он,</li>
+<li>щедр Он в милости.</li>
+<li>как же горек для Него</li>
+<li>будет твой отказ!</li>
+<li>благодатью в сердце, в сердце</li>
+<li>пусть войдёт сейчас.</li>
+<li class="chorus chorus-top">о, впусти! О, впусти!</li>
+<li class="chorus">стучится в сердце Он.</li>
+<li class="chorus">о, впусти Его, впусти!</li>
+<li class="chorus chorus-bottom">ожидает Он.</li>
 </ul>
 </section>
 </main>
