@@ -25024,510 +25024,374 @@ const pages = [
 `,
   },
   {
-    title: (title = "სიცოცხლე მოკლე არის,"),
-    num: (num = 761),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ვით ჩამოვარდნა ფოთლის,</li>
-<li>ვით შეკვრა პატარა ძნის,</li>
-<li>იჩქარე!</li>
-<li>სწრაფი დღენი ამბობენ,</li>
-<li>რომ სიკვდილი მოიწევს,</li>
-<li>რომ დგება შავბნელი დღე,</li>
-<li>იჩქარე!</li>
-<li class="chorus chorus-top">იჩქარე! იჩქარე!</li>
-<li class="chorus">სანამ იესო კვლავ გიხმობს,</li>
-<li class="chorus">იჩქარე!</li>
-<li class="chorus">თუ ცოდვას არ დატოვებ,</li>
-<li class="chorus">გახსნილ კარს ვეღარ პოვებ,</li>
-<li class="chorus">ტირილს დაიგვიანებ -</li>
-<li class="chorus chorus-bottom">იჩქარე!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ყვავილები დაჭკნება,</li>
-<li>ახალგაზრდობა წავა;</li>
-<li>არც შენ იქნები დიდხანს,</li>
-<li>იჩქარე!</li>
-<li>სანამ ღვთის სული გიხმობს,</li>
-<li>ცოდვილო, ნუ კარგავ დროს;</li>
-<li>მსჯავრი რომ აირიდო,</li>
-<li>იჩქარე!</li>
-<li class="chorus chorus-top">იჩქარე! იჩქარე!</li>
-<li class="chorus">სანამ იესო კვლავ გიხმობს,</li>
-<li class="chorus">იჩქარე!</li>
-<li class="chorus">თუ ცოდვას არ დატოვებ,</li>
-<li class="chorus">გახსნილ კარს ვეღარ პოვებ,</li>
-<li class="chorus">ტირილს დაიგვიანებ -</li>
-<li class="chorus chorus-bottom">იჩქარე!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>დრო მიქრის, სიკვდილი და</li>
-<li>მსჯავრი გვიახლოვდება,</li>
-<li>ისწრაფე იესოსთან</li>
-<li>იჩქარე!</li>
-<li>ვლოცულობ, ფასი კარგად</li>
-<li>დათვალო; სიკვდილისას</li>
-<li>არ დაიღუპო მშვინვა,</li>
-<li>იჩქარე!</li>
-<li class="chorus chorus-top">იჩქარე! იჩქარე!</li>
-<li class="chorus">სანამ იესო კვლავ გიხმობს,</li>
-<li class="chorus">იჩქარე!</li>
-<li class="chorus">თუ ცოდვას არ დატოვებ,</li>
-<li class="chorus">გახსნილ კარს ვეღარ პოვებ,</li>
-<li class="chorus">ტირილს დაიგვიანებ -</li>
-<li class="chorus chorus-bottom">იჩქარე!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ცოდვილო, ყური უგდე,</li>
-<li>უფალი აირჩიე,</li>
-<li>ზეცა აჟრიამულე,</li>
-<li>იჩქარე!</li>
-<li>ბნელიდან სინათლეში</li>
-<li>მოდი, უფლით გამართლდი;</li>
-<li>სიცოცხლე პოვე მისი,</li>
-<li>იჩქარე!</li>
-<li class="chorus chorus-top">იჩქარე! იჩქარე!</li>
-<li class="chorus">სანამ იესო კვლავ გიხმობს,</li>
-<li class="chorus">იჩქარე!</li>
-<li class="chorus">თუ ცოდვას არ დატოვებ,</li>
-<li class="chorus">გახსნილ კარს ვეღარ პოვებ,</li>
-<li class="chorus">ტირილს დაიგვიანებ -</li>
-<li class="chorus chorus-bottom">იჩქარე!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "შენ მზად ხარ, ღმერთს რომ შეხვდე?"),
-    num: (num = 762),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<ul>
-<li>${title}</li>
-<li>შენ მზად ხარ, ღმერთს რომ შეხვდე?</li>
-<li>შენ მზად ხარ, ღმერთს რომ შეხვდე?</li>
-<li>ო, ღმერთს რომ შეხვდე?</li>
-<li>ო, შენ მზად ხარ, ო შენ მზად ხარ,</li>
-<li>ო, ღმერთს რომ შეხვდე?</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ო, ზურგს ნუ შეაქცევს სიტყვას,"),
-    num: (num = 763),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ნათლისთვის ნუ დახუჭავ თვალს,</li>
-<li>ცოდვილო, გულს ნუ დაკეტავ,</li>
-<li>გადარჩი დღესვე!</li>
-<li class="chorus chorus-top">რატომ არა დღესვე?</li>
-<li class="chorus">რატომ არა დღესვე?</li>
-<li class="chorus">გსურს გადარჩენა?</li>
-<li class="chorus chorus-bottom">მაშ რად არა დღესვე?</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ხვალ იქნებ არც კი გათენდეს,</li>
-<li>და შუქი აღარ მოგეცეს;</li>
-<li>ბრძენი იყავ, დრო იხელთე,</li>
-<li>გადარჩი დღესვე.</li>
-<li class="chorus chorus-top">რატომ არა დღესვე?</li>
-<li class="chorus">რატომ არა დღესვე?</li>
-<li class="chorus">გსურს გადარჩენა?</li>
-<li class="chorus chorus-bottom">მაშ რად არა დღესვე?</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>უფალი ხომ სიბრალულით</li>
-<li>გელის. ხედავ სიყვარულს მისს?</li>
-<li>უარყავ ნება ჯიუტი,</li>
-<li>გადარჩი დღესვე.</li>
-<li class="chorus chorus-top">რატომ არა დღესვე?</li>
-<li class="chorus">რატომ არა დღესვე?</li>
-<li class="chorus">გსურს გადარჩენა?</li>
-<li class="chorus chorus-bottom">მაშ რად არა დღესვე?</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>კურთხეული უფალი არ</li>
-<li>უარყოფს მათ, ვინც მისია;</li>
-<li>ირწმუნე ის, საქმე მორჩა.</li>
-<li>გადარჩი დღესვე.</li>
-<li class="chorus chorus-top">რატომ არა დღესვე?</li>
-<li class="chorus">რატომ არა დღესვე?</li>
-<li class="chorus">გსურს გადარჩენა?</li>
-<li class="chorus chorus-bottom">მაშ რად არა დღესვე?</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "როდესაც მარადისობა"),
-    num: (num = 764),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>მოვა, ნეტავ შენ რას იზამ?</li>
-<li>ჩვენ ორივეს გვაქვს ეს კითხვა!</li>
-<li>ნეტავ შენ მაშინ რას იზამ?</li>
-<li>რა პასუხს გასცემ ამ კითხვას</li>
-<li>- ნეტავ შენ მაშინ რას იზამ?</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>როდესაც მარადისობა</li>
-<li>მოვა, ნეტავ შენ რას იზამ?</li>
-<li>მათ, ვინც ქრისტესთან მივიდა,</li>
-<li>მიატოვეს ყველა ცოდვა;</li>
-<li>მათი ხვედრი თვით ქრისტეა,</li>
-<li>ნეტავ შენ მაშინ რას იზამ?</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>როდესაც მარადისობა</li>
-<li>მოვა, ნეტავ შენ რას იზამ?</li>
-<li>დატოვებ სწორ და ვიწრო გზას,</li>
-<li>გაუყვები დაღმართის გზას;</li>
-<li>და გზის ბოლოს რა იქნება</li>
-<li>- ნეტავ შენ მაშინ რას იზამ?</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>როდესაც მარადისობა</li>
-<li>მოვა, ნეტავ შენ რას იზამ?</li>
-<li>მობრუნდი, იწამე ამ წამს,</li>
-<li>ენდე მხსნელის მადლს და ძალას;</li>
-<li>რომ ბოლოს სიხარულით თქვა:</li>
-<li>საუკუნოდ დახსნილი ვარ!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "შენ წინ თავს ვერ გავიმართლებ,"),
-    num: (num = 765),
+    title: (title = "наша жизнь так коротка,"),
+    num: (num = 391),
     page: `
 <h2 class="hNum">${num}</h2>
-<h3>სახარება</h3>
-<h4>უფალთან მისვლა</h4>
-<span>(ინგ. 1048)</span>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>შენ ჩემთვის სისხლი დაღვარე;</li>
-<li>ვიცი, მომიხმობ შენთან მე,</li>
-<li>ღვთის კრავო, მოვდივარ შენთან!</li>
+<li>как падение листка,</li>
+<li>как вязание снопа, -</li>
+<li>поспеши!</li>
+<li>дни мелькают чередой,</li>
+<li>будет брошен жребий твой,</li>
+<li>нет возврата за чертой -</li>
+<li>поспеши!</li>
+<li class="chorus chorus-top">поспеши! Поспеши!</li>
+<li class="chorus">иисус ещё взывает -</li>
+<li class="chorus">поспеши!</li>
+<li class="chorus">если будешь, грешник, ждать,</li>
+<li class="chorus">на вратах найдёшь печать,</li>
+<li class="chorus">поздно будет восклицать.</li>
+<li class="chorus chorus-bottom">поспеши!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>მოვდივარ როგორიცა ვარ,</li>
-<li>არ ვუცდი მშვინვის გაწმენდას;</li>
-<li>შენს სისხლში ლაქებს მოვიბან,</li>
-<li>ღვთის კრავო, მოვდივარ შენთან!</li>
+<li>вянут лучшие цветы,</li>
+<li>не сберечь нам красоты,</li>
+<li>здесь недолго будешь ты -</li>
+<li>поспеши!</li>
+<li>божий Дух зовёт прийти,</li>
+<li>грешник, тщетно не броди,</li>
+<li>приговора избеги,</li>
+<li>поспеши!</li>
+<li class="chorus chorus-top">поспеши! поспеши!</li>
+<li class="chorus">иисус ещё взывает -</li>
+<li class="chorus">поспеши!</li>
+<li class="chorus">если будешь, грешник, ждать,</li>
+<li class="chorus">на вратах найдёшь печать,</li>
+<li class="chorus">поздно будет восклицать.</li>
+<li class="chorus chorus-bottom">поспеши!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>მოვდივარ გზა არეული,</li>
-<li>ჩემი ბრძოლებით, ეჭვებით;</li>
-<li>გარეთ შიშით, ბრძოლით შიგნით,</li>
-<li>ღვთის კრავო, მოვდივარ შენთან!</li>
+<li>время мчится с быстротой,</li>
+<li>смерть и суд не за горой,</li>
+<li>ко Христу лети стрелой,</li>
+<li>поспеши!</li>
+<li>цену ты сочти, молю,</li>
+<li>чтобы, перейдя черту,</li>
+<li>душу не сгубить свою,</li>
+<li>поспеши!</li>
+<li class="chorus chorus-top">поспеши! поспеши!</li>
+<li class="chorus">иисус ещё взывает -</li>
+<li class="chorus">поспеши!</li>
+<li class="chorus">если будешь, грешник, ждать,</li>
+<li class="chorus">на вратах найдёшь печать,</li>
+<li class="chorus">поздно будет восклицать.</li>
+<li class="chorus chorus-bottom">поспеши!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ღარიბ-ღატაკი მოვდივარ,</li>
-<li>განკურნებასთან, ნათელთან;</li>
-<li>შენში ვპოვებ რაც მჭირდება,</li>
-<li>ღვთის კრავო, მოვდივარ შენთან!</li>
+<li>грешник, зову ты внемли,</li>
+<li>выбрать Господа реши,</li>
+<li>радость небу принеси,</li>
+<li>поспеши!</li>
+<li>перейди во свет из тьмы,</li>
+<li>вверь себя Иисусу ты,</li>
+<li>жизнь Его сейчас прими,</li>
+<li>поспеши!</li>
+<li class="chorus chorus-top">поспеши! поспеши!</li>
+<li class="chorus">иисус ещё взывает -</li>
+<li class="chorus">поспеши!</li>
+<li class="chorus">если будешь, грешник, ждать,</li>
+<li class="chorus">на вратах найдёшь печать,</li>
+<li class="chorus">поздно будет восклицать.</li>
+<li class="chorus chorus-bottom">поспеши!</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "нет оправданий у меня,"),
+    num: (num = 392),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>лишь кровь пролитая Твоя.</li>
+<li>я знаю, что зовёшь к Себе,</li>
+<li>о Агнец, я иду к Тебе.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>иду как есть, не буду ждать,</li>
+<li>пытаясь душу очищать;</li>
+<li>омоюсь кровью я Твоей.</li>
+<li>о Агнец, я иду к Тебе.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>иду как есть, в смятенье я,</li>
+<li>в тревогах и сомнениях;</li>
+<li>внутри борьба, и страх вовне;</li>
+<li>о Агнец, я иду к Тебе.</li>
+</ul>
+</section>
+<section>
+<span class="number">4.</span>
+<ul>
+<li>иду как есть: нищ, жалок, слеп;</li>
+<li>богатство, здравый ум и свет -</li>
+<li>что нужно мне, в Тебе найду;</li>
+<li>о Агнец, я иду к Тебе.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ვიცი, მიმიღებ, მოვდივარ,</li>
-<li>მომიტევებ, ბრალს ჩამომბან;</li>
-<li>მე მწამს შენი დაპირება,</li>
-<li>ღვთის კავო, მოვდივარ შენთან!</li>
+<li>иду как есть: ведь примешь Ты,</li>
+<li>простишь, очистишь от вины;</li>
+<li>всем сердцем веря в Твой обет,</li>
+<li>о Агнец, я иду к Тебе.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>დაამსხვრია სიყვარულმა</li>
-<li>შენმა ბარიერი ყველა;</li>
-<li>ო, ვიყო შენი სრულიად,</li>
-<li>ღვთის კრავო, მოვდივარ შენთან!</li>
+<li>иду как есть - любовь Твоя</li>
+<li>преграды предо мной смела;</li>
+<li>теперь я Твой, да, только Твой,</li>
+<li>иду к Тебе, о Агнец мой!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "მონობიდან და სიბნელიდან"),
-    num: (num = 766),
+    title: (title = "из моих уз, печали и тьмы,"),
+    num: (num = 393),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>он для меня, მე მოვდივარ!</li>
-<li>თავისუფლების სინათლეში</li>
-<li>იესო, მოვდივარ!</li>
-<li>უძლურებიდან შენს ძალაში,</li>
-<li>გაჭირვებიდან სიუხვეში</li>
-<li>და ცოდვიდან - შენს არსებაში,</li>
-<li>იესო, მოვდივარ!</li>
+<li>о Иисус, я прихожу!</li>
+<li>в свет Твой, свободу, радость Твои</li>
+<li>я прихожу к Тебе!</li>
+<li>и из болезней, и из нужды</li>
+<li>в крепость Твою, богатства Твои,</li>
+<li>и из греха в Тебя дай уйти.</li>
+<li>я прихожу к Тебе!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>დაცემიდან, დანაკარგიდან</li>
-<li>он для меня, მე მოვდივარ!</li>
-<li>ჯვარზე შენს დიად შენაძენში,</li>
-<li>იესო, მოვდივარ!</li>
-<li>ქვეყნიურ დარდიდან ნუგეშში,</li>
-<li>მშვინვის ღელვიდან სიმშვიდეში,</li>
-<li>წუხილიდან შენს სადიდებლად,</li>
-<li>იესო, მოვდივარ!</li>
+<li>из неудач моих и потерь,</li>
+<li>о Иисус, я прихожу!</li>
+<li>в славу, что Ты обрёл на кресте,</li>
+<li>я прихожу к Тебе!</li>
+<li>о, в Твой бальзам из боли земной</li>
+<li>и из житейских бурь в Твой покой,</li>
+<li>из скорби к песне светлой, живой</li>
+<li>я прихожу к Тебе!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>სიამაყიდან და შფოთვიდან</li>
-<li>он для меня, მე მოვდივარ!</li>
-<li>ვიყო შენს კურთხეულ ნებაში,</li>
-<li>იესო, მოვდივარ!</li>
-<li>სიყვარულში სამშვინველიდან</li>
-<li>და უიმედობის სიღრმიდან</li>
-<li>მტრედივით ცაში ავფრინდები</li>
-<li>он для меня, შენთან!</li>
+<li>из мятежа, гордыни моей,</li>
+<li>о Иисус, я прихожу!</li>
+<li>чтоб покориться воле Твоей,</li>
+<li>я прихожу к Тебе!</li>
+<li>и из себя в любви полноту</li>
+<li>и из тоски в небес высоту,</li>
+<li>в вечность на крыльях птицей лечу.</li>
+<li>я прихожу к Тебе!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>სიკვდილის წინაშე შიშიდან,</li>
-<li>он для меня, მე მოვდივარ!</li>
-<li>დავტკბე სიყვარულით - შენ რომ ხარ,</li>
-<li>იესო, მოვდივარ!</li>
-<li>უბედურების დღეებიდგან,</li>
-<li>თავს შევაფარებ მე შენს ფარას,</li>
-<li>შენს დიდებულ სახეს ვუცქირო,</li>
-<li>იესო, მოვდივარ!</li>
+<li>от страха смерти в сердце моём,</li>
+<li>о Иисус, я прихожу!</li>
+<li>в радость Твою, блаженство Твоё,</li>
+<li>я прихожу к Тебе!</li>
+<li>из глубины падений моих</li>
+<li>в стадо Твоё, что полно любви,</li>
+<li>чтобы взирать на славный Твой лик,</li>
+<li>я прихожу к Тебе!</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ჩამესმის ხმა შენი,"),
-    num: (num = 767),
+    title: (title = "я слышу: голос Твой"),
+    num: (num = 394),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>ის მიხმობს შენთან მე,</li>
-<li>რომ გავიწმინდო მე სისხლით</li>
-<li>ჯვარზე რომ დაღვარე.</li>
-<li class="chorus chorus-top">უფალო, შენთან</li>
-<li class="chorus">მოვდივარ ახლა.</li>
-<li class="chorus">გამწმინდე შენი სისხლით</li>
-<li class="chorus chorus-bottom">ჯვრიდან რომ იღვრება.</li>
+<li>зовёт меня к Тебе</li>
+<li>очиститься в крови святой,</li>
+<li>пролитой на кресте.</li>
+<li class="chorus chorus-top">прихожу, Господь,</li>
+<li class="chorus">прихожу к Тебе.</li>
+<li class="chorus">о, омой меня в крови,</li>
+<li class="chorus chorus-bottom">пролитой на кресте.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>სუსტი ვარ, ცოდვილი,</li>
-<li>შენ მაძლევ მე ძალას.</li>
-<li>ყველა ცოდვას მაშორებ მე</li>
-<li>და სიწმინდე მოგაქვს.</li>
-<li class="chorus chorus-top">უფალო, შენთან</li>
-<li class="chorus">მოვდივარ ახლა.</li>
-<li class="chorus">გამწმინდე შენი სისხლით</li>
-<li class="chorus chorus-bottom">ჯვრიდან რომ იღვრება.</li>
+<li>хоть слаб и грешен я,</li>
+<li>ты силу мне даёшь.</li>
+<li>смываешь всякий грех с меня</li>
+<li>и чистоту несёшь.</li>
+<li class="chorus chorus-top">прихожу, Господь,</li>
+<li class="chorus">прихожу к Тебе.</li>
+<li class="chorus">о, омой меня в крови,</li>
+<li class="chorus chorus-bottom">пролитой на кресте.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>იესო ასრულებს</li>
-<li>ჩემში ნეტარ საქმეს,</li>
-<li>უხვად მჩუქნის მადლს, რომელიც</li>
-<li>ცოდვას განმაშორებს.</li>
-<li class="chorus chorus-top">უფალო, შენთან</li>
-<li class="chorus">მოვდივარ ახლა.</li>
-<li class="chorus">გამწმინდე შენი სისხლით</li>
-<li class="chorus chorus-bottom">ჯვრიდან რომ იღვრება.</li>
+<li>и верно Сам Иисус</li>
+<li>свой труд вершит во мне,</li>
+<li>даря обильно благодать,</li>
+<li>что вытесняет грех.</li>
+<li class="chorus chorus-top">прихожу, Господь,</li>
+<li class="chorus">прихожу к Тебе.</li>
+<li class="chorus">о, омой меня в крови,</li>
+<li class="chorus chorus-bottom">пролитой на кресте.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ის ემოწმება მათ,</li>
-<li>ვინც  სუფთაა გულით,</li>
-<li>აღთქმულს შეასრულებს მათთვის,</li>
-<li>ვინც სავსეა რწმენით.</li>
-<li class="chorus chorus-top">უფალო, შენთან</li>
-<li class="chorus">მოვდივარ ახლა.</li>
-<li class="chorus">გამწმინდე შენი სისხლით</li>
-<li class="chorus chorus-bottom">ჯვრიდან რომ იღვრება.</li>
+<li>и всем, кто сердцем чист,</li>
+<li>свидетельствует Он:</li>
+<li>исполнит Он, что обещал,</li>
+<li>для тех, кто верой полн.</li>
+<li class="chorus chorus-top">прихожу, Господь,</li>
+<li class="chorus">прихожу к Тебе.</li>
+<li class="chorus">о, омой меня в крови,</li>
+<li class="chorus chorus-bottom">пролитой на кресте.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>გამოსყიდვის სისხლი!</li>
-<li>ო, ცოცხალი მადლი!</li>
-<li>ნიჭი ქრისტესი, ვინც ძალა,</li>
-<li>სიმართლეა ჩვენთვის.</li>
-<li class="chorus chorus-top">უფალო, შენთან</li>
-<li class="chorus">მოვდივარ ახლა.</li>
-<li class="chorus">გამწმინდე შენი სისხლით</li>
-<li class="chorus chorus-bottom">ჯვრიდან რომ იღვრება.</li>
+<li>о, искупленья кровь!</li>
+<li>живая благодать!</li>
+<li>о, дар Христа, в ком сила нам</li>
+<li>и праведность для нас!</li>
+<li class="chorus chorus-top">прихожу, Господь,</li>
+<li class="chorus">прихожу к Тебе.</li>
+<li class="chorus">о, омой меня в крови,</li>
+<li class="chorus chorus-bottom">пролитой на кресте.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ღმერთისგან შორს ვიყავი,"),
-    num: (num = 768),
+    title: (title = "я был от Бога вдалеке,"),
+    num: (num = 395),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>სახლში მოვდივარ;</li>
-<li>ცოდვის ბილიკს ვტკეპნიდი,</li>
-<li>სახლში მოვდივარ.</li>
-<li class="chorus chorus-top">სახლისკენ მოვდივარ,</li>
-<li class="chorus">და ვწყვეტ ხეტიალს;</li>
-<li class="chorus">უფალო, შემეგებე;</li>
-<li class="chorus chorus-bottom">სახლში მოვდივარ.</li>
+<li>но иду домой.</li>
+<li>как долго я блуждал в грехе!</li>
+<li>я иду домой.</li>
+<li class="chorus chorus-top">о Господь, я иду,</li>
+<li class="chorus">я иду домой!</li>
+<li class="chorus">о Господь, встречай меня!</li>
+<li class="chorus chorus-bottom">я иду домой.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>მრავალი წელი დავკარგე,</li>
-<li>სახლში მოვდივარ;</li>
-<li>ცრემლიანი ვინანიებ,</li>
-<li>სახლში მოვდივარ.</li>
-<li class="chorus chorus-top">სახლისკენ მოვდივარ,</li>
-<li class="chorus">და ვწყვეტ ხეტიალს;</li>
-<li class="chorus">უფალო, შემეგებე;</li>
-<li class="chorus chorus-bottom">სახლში მოვდივარ.</li>
+<li>впустую много лет прошло,</li>
+<li>но иду домой.</li>
+<li>в слезах раскаянье пришло.</li>
+<li>я иду домой.</li>
+<li class="chorus chorus-top">о Господь, я иду,</li>
+<li class="chorus">я иду домой!</li>
+<li class="chorus">о Господь, встречай меня!</li>
+<li class="chorus chorus-bottom">я иду домой.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ცოდვით, წანწალით დაღლილი</li>
-<li>სახლში მოვდივარ;</li>
-<li>მწამს, სიყვარულით მეძახი,</li>
-<li>სახლში მოვდივარ.</li>
-<li class="chorus chorus-top">სახლისკენ მოვდივარ,</li>
-<li class="chorus">და ვწყვეტ ხეტიალს;</li>
-<li class="chorus">უფალო, შემეგებე;</li>
-<li class="chorus chorus-bottom">სახლში მოვდივარ.</li>
+<li>устал блуждать я и грешить,</li>
+<li>я иду домой.</li>
+<li>я верю: Ты зовёшь в любви,</li>
+<li>я иду домой.</li>
+<li class="chorus chorus-top">о Господь, я иду,</li>
+<li class="chorus">я иду домой!</li>
+<li class="chorus">о Господь, встречай меня!</li>
+<li class="chorus chorus-bottom">я иду домой.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>მშვინვა მიწუხს, გული მტკივა,</li>
-<li>სახლში მოვდივარ;</li>
-<li>იმედი და ძალა მომეც,</li>
-<li>სახლში მოვდივარ.</li>
-<li class="chorus chorus-top">სახლისკენ მოვდივარ,</li>
-<li class="chorus">და ვწყვეტ ხეტიალს;</li>
-<li class="chorus">უფალო, შემეგებე;</li>
-<li class="chorus chorus-bottom">სახლში მოვდივარ.</li>
+<li>болит душа, и в сердце боль.</li>
+<li>я иду домой.</li>
+<li>дай сил, надеяться позволь!</li>
+<li>я иду домой.</li>
+<li class="chorus chorus-top">о Господь, я иду,</li>
+<li class="chorus">я иду домой!</li>
+<li class="chorus">о Господь, встречай меня!</li>
+<li class="chorus chorus-bottom">я иду домой.</li>
 </ul>
 </section>
 <section>
 <span class="number">5.</span>
 <ul>
-<li>ერთადერთო გამართლებავ,</li>
-<li>სახლში მოვდივარ;</li>
-<li>იესო ხომ ჩემთვის მოკვდა,</li>
-<li>სახლში მოვდივარ.</li>
-<li class="chorus chorus-top">სახლისკენ მოვდივარ,</li>
-<li class="chorus">და ვწყვეტ ხეტიალს;</li>
-<li class="chorus">უფალო, შემეგებე;</li>
-<li class="chorus chorus-bottom">სახლში მოვდივარ.</li>
+<li>я упованьем тем держусь,</li>
+<li>я иду домой,</li>
+<li>что умер за меня Иисус.</li>
+<li>я иду домой.</li>
+<li class="chorus chorus-top">о Господь, я иду,</li>
+<li class="chorus">я иду домой!</li>
+<li class="chorus">о Господь, встречай меня!</li>
+<li class="chorus chorus-bottom">я иду домой.</li>
 </ul>
 </section>
 <section>
 <span class="number">6.</span>
 <ul>
-<li>იესო, შენი სისხლი მწმენდს,</li>
-<li>სახლში მოვდივარ;</li>
-<li>თოვლზე მეტად გამათეთრე,</li>
-<li>სახლში მოვდივარ.</li>
-<li class="chorus chorus-top">სახლისკენ მოვდივარ,</li>
-<li class="chorus">და ვწყვეტ ხეტიალს;</li>
-<li class="chorus">უფალო, შემეგებე;</li>
-<li class="chorus chorus-bottom">სახლში მოვდივარ.</li>
+<li>очищусь в крови я Твоей.</li>
+<li>я иду домой.</li>
+<li>омой, чтоб снега стал белей.</li>
+<li>я иду домой.</li>
+<li class="chorus chorus-top">о Господь, я иду,</li>
+<li class="chorus">я иду домой!</li>
+<li class="chorus">о Господь, встречай меня!</li>
+<li class="chorus chorus-bottom">я иду домой.</li>
 </ul>
 </section>
 </main>
