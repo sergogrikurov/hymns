@@ -25398,366 +25398,284 @@ const pages = [
 `,
   },
   {
-    title: (title = "გვერდს ნუ ამივლი, ო მხსნელო,"),
-    num: (num = 769),
+    title: (title = "иисус, в Твоей любви"),
+    num: (num = 396),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>მომისმინე, გთხოვ;</li>
-<li>გვერდს ნუ ჩამივლი, როდესაც</li>
-<li>შენ სხვებს მოუხმობ.</li>
-<li class="chorus chorus-top">მხსნელო, მხსნელო,</li>
-<li class="chorus">მომიხმინე, გთხოვ;</li>
-<li class="chorus">გვერდს ნუ ჩამივლი, როდესაც</li>
-<li class="chorus chorus-bottom">შენ სხვებს მოუხმობ.</li>
+<li>скрой, молю, скорей меня</li>
+<li>в час, когда бушует шторм</li>
+<li>и всё ближе бьёт волна.</li>
+<li>спрячь меня, Спаситель мой,</li>
+<li>в буре жизни сохрани,</li>
+<li>в гавань тихую направь</li>
+<li>и к Себе меня прими.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>დე, შენი წყალობის ტახტთან</li>
-<li>ვპოვო მშვიდობა;</li>
-<li>მუხლდაჩოქილმა შეგთხოვო,</li>
-<li>რომ მომცე რწმენა.</li>
-<li class="chorus chorus-top">მხსნელო, მხსნელო,</li>
-<li class="chorus">მომიხმინე, გთხოვ;</li>
-<li class="chorus">გვერდს ნუ ჩამივლი, როდესაც</li>
-<li class="chorus chorus-bottom">შენ სხვებს მოუხმობ.</li>
+<li>ты единственный приют -</li>
+<li>льнёт к Тебе душа моя;</li>
+<li>не оставь меня, прошу,</li>
+<li>поддержи, утешь меня.</li>
+<li>лишь Тебе вверяюсь я,</li>
+<li>ты один помощник мой,</li>
+<li>беззащитного, меня</li>
+<li>сенью крыл Своих укрой.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>მე ვენდობი შენს ღირსებას,</li>
-<li>ვეძებ შენს სახეს;</li>
-<li>განმიმრთელე ჩემი სული,</li>
-<li>მადლით მიშველე.</li>
-<li class="chorus chorus-top">მხსნელო, მხსნელო,</li>
-<li class="chorus">მომიხმინე, გთხოვ;</li>
-<li class="chorus">გვერდს ნუ ჩამივლი, როდესაც</li>
-<li class="chorus chorus-bottom">შენ სხვებს მოუხმობ.</li>
+<li>о Христос, что нужно мне,</li>
+<li>только Ты один даёшь.</li>
+<li>поднимаешь Ты, бодришь,</li>
+<li>ты целишь, слепых ведёшь.</li>
+<li>праведный Ты и святой,</li>
+<li>я - неправедность сама;</li>
+<li>низок, грешен я, а Ты -</li>
+<li>благодать и истина.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>წყაროვ ჩემი ნუგეშისა,</li>
-<li>მჯობო სიცოცხლის;</li>
-<li>მიწაზე შენ გარდა ვინ მყავს?</li>
-<li>ანდა ზეცაში?</li>
-<li class="chorus chorus-top">მხსნელო, მხსნელო,</li>
-<li class="chorus">მომიხმინე, გთხოვ;</li>
-<li class="chorus">გვერდს ნუ ჩამივლი, როდესაც</li>
-<li class="chorus chorus-bottom">შენ სხვებს მოუხმობ.</li>
+<li>покрывает весь мой грех</li>
+<li>благодать, Господь, Твоя.</li>
+<li>пусть целительный поток</li>
+<li>чистым делает меня.</li>
+<li>о, источник жизни Ты,</li>
+<li>даром пить дай от Тебя,</li>
+<li>поднимись и к вечности</li>
+<li>бей ключом внутри меня.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ვარ ცოდვილი და უმწეო,"),
-    num: (num = 770),
+    title: (title = "для меня рассечена,"),
+    num: (num = 397),
     page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<ul>
-<li>${title}</li>
-<li>შენს ფერხთით მუხლს ვიდრიკავ;</li>
-<li>ვარ პრობლემა, უიმედო,</li>
-<li>მხსნელო, გთხოვ, რომ დამიხსნა!</li>
-<li>გთხოვ შველას, გთხოვ შველას!</li>
-<li>ო მხსნელო, შეგთხოვ შველას!</li>
-<li>სირთულეებში მიშველო -</li>
-<li>მხსნელო, მე შეგთხოვ ამას.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "იესო, ჩემო მხსნელო,"),
-    num: (num = 771),
-    page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>შენს წიაღში ვიფრინო,</li>
-<li>ვიდრე ჩაივლის წყლები,</li>
-<li>ქარი ძლიერ ბობოქრობს.</li>
-<li>დამფარე, ჩემო მხსნელო,</li>
-<li>დაფარე ჩემი მშვინვა</li>
-<li>სანამ ცხოვრების შტორმი</li>
-<li>წარსულში არ დარჩება.</li>
+<li>о Скала, сокрой меня.</li>
+<li>пусть та кровь и та вода,</li>
+<li>что излил Твой бок тогда,</li>
+<li>исцелят вдвойне, спасут -</li>
+<li>власть греха, вину сметут.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>თავშესაფარი ხარ შენ,</li>
-<li>ჩემი უმწეო მშვინვის,</li>
-<li>ნუგეშისმცემელი და</li>
-<li>მეგობარი ერთგული,</li>
-<li>ჩემი იმედი შენ ხარ,</li>
-<li>ერთადერთი დამხმარე</li>
-<li>მთელი ჩემი არსება</li>
-<li>შენი ფრთის ქვეშ დაფარე,</li>
+<li>пусть усерден труд мой - он</li>
+<li>не исполнит Твой закон.</li>
+<li>слёз раскаянья поток</li>
+<li>смыть весь грех с меня б не смог.</li>
+<li>должен Ты спасти скорей</li>
+<li>благодатью лишь Своей!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>სნეულთა მკურნალი ხარ,</li>
-<li>ბრმათათვის ხარ სინათლე</li>
-<li>სიხარულის გამცემი,</li>
-<li>შენ ხარ ის, რაც ვინატრე.</li>
-<li>მართალი და წმიდა ხარ,</li>
-<li>მადლით, დიდებით სავსე,</li>
-<li>მე - უწმიდურებით და</li>
-<li>უსამართლობით სავსე.</li>
+<li>в нищете я прихожу,</li>
+<li>к Твоему кресту я льну;</li>
+<li>наг - прошу покров мне дать;</li>
+<li>слаб я - дай мне благодать!</li>
+<li>грязен я - прошу, омой</li>
+<li>иль умру, Спаситель мой!</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ო, შენ უხვი მადლი ხარ,</li>
-<li>მკურნალი ხარ მდინარე,</li>
-<li>სიცოცხლის სათავე ხარ</li>
-<li>ჩემს სულში მომდინარე.</li>
-<li>ო, სიცოცხლის წყალი ხარ</li>
-<li>გსვამთ და შენით ვივსებით</li>
-<li>სიცოცხლეში შერწყმულნი</li>
-<li>ერთ დინებად ვიქნებით.</li>
+<li>и всегда: пока живой,</li>
+<li>или в час последний мой,</li>
+<li>иль когда перед Тобой</li>
+<li>я на суд предстану Твой, -</li>
+<li>для меня рассечена,</li>
+<li>о Скала, скрывай меня.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "ჩემთვის გაპობილო კლდევ,"),
-    num: (num = 772),
+    title: (title = "у креста, Иисус, дай быть"),
+    num: (num = 398),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>გთხოვ, შენში დამიფარე;</li>
-<li>დაე, წყალმა და სისხლმა,</li>
-<li>შენს ფერდიდან დაღვრილმა,</li>
-<li>განმკურნოს მე ცოდვისგან,</li>
-<li>მისი ხელმწიფებისგან.</li>
+<li>каждое мгновенье,</li>
+<li>где источник крови Твой</li>
+<li>дарит исцеленье.</li>
+<li class="chorus chorus-top">о, Твой крест! О, Твой крест!</li>
+<li class="chorus">буду им хвалиться!</li>
+<li class="chorus">с ним искупленной душе</li>
+<li class="chorus chorus-bottom">ввек не разделиться.</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>ჩემს შრომას არ ძალუძს, რომ</li>
-<li>კანონი შეასრულოს;</li>
-<li>განა ჩემი ცრემლები</li>
-<li>ცოდვას სრულად ამომშლის?</li>
-<li>მე მჭირდება, რომ შენმა</li>
-<li>მადლმა სრულად დამიხსნას.</li>
+<li>у креста исчез мой страх -</li>
+<li>здесь любовь и милость;</li>
+<li>утра Яркая Звезда</li>
+<li>мне Свой свет явила.</li>
+<li class="chorus chorus-top">о, Твой крест! О, Твой крест!</li>
+<li class="chorus">буду им хвалиться!</li>
+<li class="chorus">с ним искупленной душе</li>
+<li class="chorus chorus-bottom">ввек не разделиться.</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ცარიელი ხელებით,</li>
-<li>მე შენს ჯვარს ვეტმასნები;</li>
-<li>შიშველს, ვიცი, შემმოსავ,</li>
-<li>უმწეოს მიბოძებ მადლს;</li>
-<li>გთხოვ, უღირსი, განმბანე</li>
-<li>მხსნელო, რომ აღარ მოვკვდე.</li>
+<li>агнец! Пусть мои глаза</li>
+<li>крест Твой созерцают;</li>
+<li>сень его всегда меня</li>
+<li>пусть сопровождает.</li>
+<li class="chorus chorus-top">о, Твой крест! О, Твой крест!</li>
+<li class="chorus">буду им хвалиться!</li>
+<li class="chorus">с ним искупленной душе</li>
+<li class="chorus chorus-bottom">ввек не разделиться.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>სიკვდილის სარეცელზე,</li>
-<li>როცა დავხუჭავ თვალებს,</li>
-<li>გავფრინდები სხვაქვეყნად,</li>
-<li>ვნახავ შენს სამსჯავრო ტახტს,</li>
-<li>ჩემთვის გაპობილო კლდევ,</li>
-<li>გთხოვ შენში დამიფარე.</li>
+<li>у креста в надежде я</li>
+<li>ждать и верить буду,</li>
+<li>и придёт Спаситель мой -</li>
+<li>вечно с Ним пребуду.</li>
+<li class="chorus chorus-top">о, Твой крест! О, Твой крест!</li>
+<li class="chorus">буду им хвалиться!</li>
+<li class="chorus">с ним искупленной душе</li>
+<li class="chorus chorus-bottom">ввек не разделиться.</li>
 </ul>
 </section>
 </main>
 `,
   },
   {
-    title: (title = "იესო, გთხოვ მამყოფე"),
-    num: (num = 773),
+    title: (title = "войди, о Господь, в моё сердце,"),
+    num: (num = 399),
     page: `
-<h2 class="hNum">${num}</h2>>
+<h2 class="hNum">${num}</h2>
 <main class="full-hymn">
 <section>
 <span class="number">1.</span>
 <ul>
 <li>${title}</li>
-<li>შენი ჯვრის წყაროსთან;</li>
-<li>ეს მკურნალი ნაკადი</li>
-<li>ჩქეფს გოლგოთის მთიდან.</li>
-<li class="chorus chorus-top">შენი ჯვრით! შენი ჯვრით!</li>
-<li class="chorus">მუდამ დავიკვეხნი;</li>
-<li class="chorus">ჩემო გამომსყიდველო,</li>
-<li class="chorus chorus-bottom">აღარ დაგშორდები.</li>
+<li>войди в моё сердце, молюсь;</li>
+<li>душа так устала бороться,</li>
+<li>сегодня войди, Иисус!</li>
+<li class="chorus chorus-top">в сердце моё, в сердце моё,</li>
+<li class="chorus">войди, Иисус, Господь мой!</li>
+<li class="chorus">сейчас войди и в нём живи,</li>
+<li class="chorus chorus-bottom">войди, Иисус, Господь мой!</li>
 </ul>
 </section>
 <section>
 <span class="number">2.</span>
 <ul>
-<li>სიყვარული, წყალობა</li>
-<li>მე ვპოვე ჯვრის გვერდით;</li>
-<li>იქ მომაღწია სხივმა</li>
-<li>კაშკაშა ვარსკვლავის.</li>
-<li class="chorus chorus-top">შენი ჯვრით! შენი ჯვრით!</li>
-<li class="chorus">მუდამ დავიკვეხნი;</li>
-<li class="chorus">ჩემო გამომსყიდველო,</li>
-<li class="chorus chorus-bottom">აღარ დაგშორდები.</li>
+<li>войди, о Господь, в моё сердце,</li>
+<li>ты нужен мне, труден мой путь;</li>
+<li>мне бремя греха непосильно,</li>
+<li>вовеки во мне пребудь.</li>
+<li class="chorus chorus-top">в сердце моё, в сердце моё,</li>
+<li class="chorus">войди, Иисус, Господь мой!</li>
+<li class="chorus">сейчас войди и в нём живи,</li>
+<li class="chorus chorus-bottom">войди, Иисус, Господь мой!</li>
 </ul>
 </section>
 <section>
 <span class="number">3.</span>
 <ul>
-<li>ღვთის კრავი! - ჯვართან ახლოს</li>
-<li>მის განვლილს გზას ვხედავ;</li>
-<li>მისი ჩრდილი დღითი დღე,</li>
-<li>დამხმარედ დამყვება.</li>
-<li class="chorus chorus-top">შენი ჯვრით! შენი ჯვრით!</li>
-<li class="chorus">მუდამ დავიკვეხნი;</li>
-<li class="chorus">ჩემო გამომსყიდველო,</li>
-<li class="chorus chorus-bottom">აღარ დაგშორდები.</li>
+<li>войди, о Господь, в моё сердце</li>
+<li>и свет Свой мне в душу пролей,</li>
+<li>наполни меня Своим Духом,</li>
+<li>мной полностью завладей.</li>
+<li class="chorus chorus-top">в сердце моё, в сердце моё,</li>
+<li class="chorus">войди, Иисус, Господь мой!</li>
+<li class="chorus">сейчас войди и в нём живи,</li>
+<li class="chorus chorus-bottom">войди, Иисус, Господь мой!</li>
+</ul>
+</section>
+</main>
+`,
+  },
+  {
+    title: (title = "нищий, слабый и слепой,"),
+    num: (num = 400),
+    page: `
+<h2 class="hNum">${num}</h2>
+<main class="full-hymn">
+<section>
+<span class="number">1.</span>
+<ul>
+<li>${title}</li>
+<li>прихожу, Господь, к кресту;</li>
+<li>всё считаю я тщетой;</li>
+<li>здесь спасенье обрету.</li>
+<li class="chorus chorus-top">о Голгофский Агнец мой,</li>
+<li class="chorus">с упованьем и мольбой</li>
+<li class="chorus">пред крестом склоняюсь я:</li>
+<li class="chorus chorus-bottom">о Иисус, спаси меня.</li>
+</ul>
+</section>
+<section>
+<span class="number">2.</span>
+<ul>
+<li>о Тебе давно вздыхал,</li>
+<li>жило долго зло во мне;</li>
+<li>нежно мне Иисус сказал:</li>
+<li>«от грехов очищу всех».</li>
+<li class="chorus chorus-top">о Голгофский Агнец мой,</li>
+<li class="chorus">с упованьем и мольбой</li>
+<li class="chorus">пред крестом склоняюсь я:</li>
+<li class="chorus chorus-bottom">о Иисус, спаси меня.</li>
+</ul>
+</section>
+<section>
+<span class="number">3.</span>
+<ul>
+<li>здесь Тебе всё отдаю:</li>
+<li>жизнь, богатство и друзей;</li>
+<li>я теперь навеки Твой</li>
+<li>телом и душой моей.</li>
+<li class="chorus chorus-top">о Голгофский Агнец мой,</li>
+<li class="chorus">с упованьем и мольбой</li>
+<li class="chorus">пред крестом склоняюсь я:</li>
+<li class="chorus chorus-bottom">о Иисус, спаси меня.</li>
 </ul>
 </section>
 <section>
 <span class="number">4.</span>
 <ul>
-<li>ჯვართან მოვიცდი და იქ</li>
-<li>იმედით ვიქნები,</li>
-<li>მხსნელის სახეს ვიხილავ</li>
-<li>მასთან დავმკვიდრდები.</li>
-<li class="chorus chorus-top">შენი ჯვრით! შენი ჯვრით!</li>
-<li class="chorus">მუდამ დავიკვეხნი;</li>
-<li class="chorus">ჩემო გამომსყიდველო,</li>
-<li class="chorus chorus-bottom">აღარ დაგშორდები.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ჩემს გულში შემოდი, უფალო,"),
-    num: (num = 774),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ჩემს გულში, ო ვლოცულობ;</li>
-<li>დაქანცულია მშვინვა ჩემი,</li>
-<li>დღეს შემოდი ჩემს გულლში.</li>
-<li class="chorus chorus-top">ამ ჩემს გულში, ამ ჩემს გულში,</li>
-<li class="chorus">ჩემო უფალო, შემოდი;</li>
-<li class="chorus">დღეს შემოდი და დამკვიდრდი,</li>
-<li class="chorus chorus-bottom">ჩემო უფალო, შემოდი.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ჩემს გულში შემოდი, უფალო,</li>
-<li>მჭირდები ჩემს რთულ გზაზე;</li>
-<li>ცოდვის ტვირთი დიდია ძალზე,</li>
-<li>ჩემს გულში დამკვიდრდი შენ.</li>
-<li class="chorus chorus-top">ამ ჩემს გულში, ამ ჩემს გულში,</li>
-<li class="chorus">ჩემო უფალო, შემოდი;</li>
-<li class="chorus">დღეს შემოდი და დამკვიდრდი,</li>
-<li class="chorus chorus-bottom">ჩემო უფალო, შემოდი.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ჩემს გულში შემოდი, უფალო,</li>
-<li>გაბრწყინდი ჩემს მშვინვაში;</li>
-<li>მოდი ჩემს გულში, დამეუფლე,</li>
-<li>ამავსე შენი სულით.</li>
-<li class="chorus chorus-top">ამ ჩემს გულში, ამ ჩემს გულში,</li>
-<li class="chorus">ჩემო უფალო, შემოდი;</li>
-<li class="chorus">დღეს შემოდი და დამკვიდრდი,</li>
-<li class="chorus chorus-bottom">ჩემო უფალო, შემოდი.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "ბრმა, სუსტი და ღარიბი"),
-    num: (num = 775),
-    page: `
-<h2 class="hNum">${num}</h2>>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>მივემართები ჯვართან;</li>
-<li>ყოველივეს ნაგვად ვთვლი,</li>
-<li>რომ სრული ვპოვო მე ხსნა.</li>
-<li class="chorus chorus-top">უფალო, მე მწამს შენი,</li>
-<li class="chorus">ჯვრის კურთხეულო კრავო;</li>
-<li class="chorus">შენ წინაშე ქედს ვიხრი,</li>
-<li class="chorus chorus-bottom">ახლა მიხსენ, იესო.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ჩემში დიდხანს მკვიდრობდა</li>
-<li>ბოროტი; გეძახდი შენ;</li>
-<li>იესომ ტკბილად მითხრა:</li>
-<li>"ყველა ცოდვისგან გაგწმენდ".</li>
-<li class="chorus chorus-top">უფალო, მე მწამს შენი,</li>
-<li class="chorus">ჯვრის კურთხეულო კრავო;</li>
-<li class="chorus">შენ წინაშე ქედს ვიხრი,</li>
-<li class="chorus chorus-bottom">ახლა მიხსენ, იესო.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ყოველივეს შენ გაძლევ -</li>
-<li>მეგობრებს, დროს, ქონებას;</li>
-<li>მშვინვას და სხეულს გაძლევ,</li>
-<li>რომ შენი ვიყო მუდამ.</li>
-<li class="chorus chorus-top">უფალო, მე მწამს შენი,</li>
-<li class="chorus">ჯვრის კურთხეულო კრავო;</li>
-<li class="chorus">შენ წინაშე ქედს ვიხრი,</li>
-<li class="chorus chorus-bottom">ახლა მიხსენ, იესო.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>მე მწამს შენი აღთქმების,</li>
-<li>ვგრძნობ სისხლის მოქმედებას;</li>
-<li>მტვერში ვარ ქვე განრთხმული,</li>
-<li>ჯვარცმული ვარ ქრისტესთან.</li>
-<li class="chorus chorus-top">უფალო, მე მწამს შენი,</li>
-<li class="chorus">ჯვრის კურთხეულო კრავო;</li>
-<li class="chorus">შენ წინაშე ქედს ვიხრი,</li>
-<li class="chorus chorus-bottom">ახლა მიხსენ, იესო.</li>
+<li>обещаньям верю всем;</li>
+<li>кровь так действенна Твоя!</li>
+<li>я повержен в прах и тлен;</li>
+<li>со Христом распят и я.</li>
+<li class="chorus chorus-top">о Голгофский Агнец мой,</li>
+<li class="chorus">с упованьем и мольбой</li>
+<li class="chorus">пред крестом склоняюсь я:</li>
+<li class="chorus chorus-bottom">о Иисус, спаси меня.</li>
 </ul>
 </section>
 </main>
