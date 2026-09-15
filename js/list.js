@@ -16598,7 +16598,7 @@ const pages = [
 <li>всё то, что Отцово, - Твоё,</li>
 <li>всё, что Ты есть, в Духе моё;</li>
 <li>ты в Духе мне так близок стал,</li>
-<li>чтоб я Твоимебя переживал.</li>
+<li>чтоб я Тебя переживал.</li>
 <li class="chorus chorus-top">о! Христос, в ком явлен Великий Бог,</li>
 <li class="chorus">бесконечно богат и свеж!</li>
 <li class="chorus">бог, слитый с человечеством,</li>
@@ -16611,7 +16611,7 @@ const pages = [
 <li>дух жизни мне передаёт</li>
 <li>тебя через Слово Твоё.</li>
 <li>лишь Духа в Слове принял я,</li>
-<li>во мне родилась жизнь Твоимебявоя.</li>
+<li>во мне родилась жизнь Твоя.</li>
 <li class="chorus chorus-top">о! Христос, в ком явлен Великий Бог,</li>
 <li class="chorus">бесконечно богат и свеж!</li>
 <li class="chorus">бог, слитый с человечеством,</li>
@@ -16861,9 +16861,9 @@ const pages = [
 <li>${title}</li>
 <li>я мёртвым был в грехе.</li>
 <li>но в Слове Божьем свет обрёл -</li>
-<li>а Ты, Христос, во мне!</li>
+<li>Христос живёт во мне!</li>
 <li class="chorus chorus-top">христос живёт во мне,</li>
-<li class="chorus">а Ты, Христос, во мне!</li>
+<li class="chorus">Христос живёт во мне!</li>
 <li class="chorus">о, что за спасение -</li>
 <li class="chorus chorus-bottom">христос живёт во мне!</li>
 </ul>
@@ -16876,7 +16876,7 @@ const pages = [
 <li>так жизнь, любовь и свет даёт</li>
 <li>христос, живя во мне.</li>
 <li class="chorus chorus-top">христос живёт во мне,</li>
-<li class="chorus">а Ты, Христос, во мне!</li>
+<li class="chorus">Христос живёт во мне!</li>
 <li class="chorus">о, что за спасение -</li>
 <li class="chorus chorus-bottom">христос живёт во мне!</li>
 </ul>
@@ -16889,7 +16889,7 @@ const pages = [
 <li>так, Господу Христу хвала,</li>
 <li>его Дух во мне.</li>
 <li class="chorus chorus-top">христос живёт во мне,</li>
-<li class="chorus">а Ты, Христос, во мне!</li>
+<li class="chorus">Христос живёт во мне!</li>
 <li class="chorus">о, что за спасение -</li>
 <li class="chorus chorus-bottom">христос живёт во мне!</li>
 </ul>
@@ -16900,9 +16900,9 @@ const pages = [
 <li>желаю стать таким, как Он,</li>
 <li>я в сердца глубине,</li>
 <li>пленённый чудной мыслью той:</li>
-<li>а Ты, Христос, во мне!</li>
+<li>Христос живёт во мне!</li>
 <li class="chorus chorus-top">христос живёт во мне,</li>
-<li class="chorus">а Ты, Христос, во мне!</li>
+<li class="chorus">Христос живёт во мне!</li>
 <li class="chorus">о, что за спасение -</li>
 <li class="chorus chorus-bottom">христос живёт во мне!</li>
 </ul>
