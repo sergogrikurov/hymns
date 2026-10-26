@@ -24329,7 +24329,7 @@ const pages = [
 <li class="chorus">новый и святой Иерусалим!</li>
 <li class="chorus">будут вместе победители</li>
 <li class="chorus">в хвале там восклицать -</li>
-<li class="chorus chorus-bottom">новый иерусалим!</li>
+<li class="chorus chorus-bottom">новый Иерусалим!</li>
 </ul>
 </section>
 <section>
@@ -24344,7 +24344,7 @@ const pages = [
 <li class="chorus">новый и святой Иерусалим!</li>
 <li class="chorus">будут вместе победители</li>
 <li class="chorus">в хвале там восклицать -</li>
-<li class="chorus chorus-bottom">новый иерусалим!</li>
+<li class="chorus chorus-bottom">новый Иерусалим!</li>
 </ul>
 </section>
 <section>
