@@ -24823,7 +24823,7 @@ const pages = [
 `,
   },
   {
-    title: (title = "вот очищающий поток,!"),
+    title: (title = "вот очищающий поток,"),
     num: (num = 387),
     page: `
 <h2 class="hNum">${num}</h2>
