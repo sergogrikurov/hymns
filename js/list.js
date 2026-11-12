@@ -111,44 +111,8 @@ const pages = [
 	`,
   },
   {
-    title: (title = "Святый, Святый, Святый, Бог наш Всемогущий!"),
-    num: (num = 3),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>вечно будет возноситься наша песнь Тебе;</li>
-<li>Святый, Святый, Святый, Милостивый, Сильный!</li>
-<li>бог триединый, будь благословен!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>Святый, Святый, Святый! чтут Тебя святые,</li>
-<li>бросят пред Тобой старейшины небес венцы;</li>
-<li>херувим и серафим пред Тобой склонились:</li>
-<li>ты был и есть, и вечно будешь Ты.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>Святый, Святый, Святый! хоть и скрыт Ты тьмою</li>
-<li>и не может грешник видеть славы всей Твоей,</li>
-<li>только Ты есть Святый, нет Тебе подобных</li>
-<li>в силе Твоей, любви и чистоте.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "Славу воздаём Отцу мы!"),
-    num: (num = 4),
+    num: (num = 3),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -183,7 +147,7 @@ const pages = [
   },
   {
     title: (title = "Славь Бога - Он дарует всё"),
-    num: (num = 5),
+    num: (num = 4),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -210,7 +174,7 @@ const pages = [
   },
   {
     title: (title = "О, истинный Ты Дух, Отец"),
-    num: (num = 6),
+    num: (num = 5),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -290,180 +254,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "Источник жизни Ты, о Бог"),
-    num: (num = 7),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>поток живой воды;</li>
-<li>божествен и богат, течёшь</li>
-<li>свободно в вечность Ты.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>в Своей любви Ты в Сыне тёк</li>
-<li>среди людей земли;</li>
-<li>как Дух чрез благодать теперь</li>
-<li>ты в нас течёшь, внутри.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>хоть мы, в грехе Тебя забыв,</li>
-<li>ушли вдали блуждать,</li>
-<li>но Ты нас в Сыне искупил,</li>
-<li>дал жизнь и благодать.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>хоть отвергали мы Тебя,</li>
-<li>твой Дух отринут был,</li>
-<li>чтоб нам как жизнь Тебя принять,</li>
-<li>как Дух приходишь Ты.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>как Дух Ты в Сыне с нами Сам</li>
-<li>сливаешься сейчас,</li>
-<li>в общенье чрез помазанье</li>
-<li>растёшь всё больше в нас.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>навеки Божия любовь,</li>
-<li>христова благодать</li>
-<li>и Дух текущий нам дают</li>
-<li>всё Божье разделять.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>отец, и Сын, и Дух - одно,</li>
-<li>заботятся о нас.</li>
-<li>твоей любви в единстве мы</li>
-<li>хвалы возносим глас.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "Ты - любовь и свет, Господь наш"),
-    num: (num = 8),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>в Сыне Ты есть жизнь для нас;</li>
-<li>нам любовь и свет являя,</li>
-<li>жизнь ты вкладываешь в нас.</li>
-<li class="chorus chorus-top">ты - любовь, Ты и свет!</li>
-<li class="chorus">в Сыне Ты есть жизнь для нас;</li>
-<li class="chorus">нам любовь и свет являя,</li>
-<li class="chorus chorus-bottom">жизнь Ты вкладываешь в нас.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>чрез любовь Ты Сам нам явлен,</li>
-<li>через свет - Твои дела.</li>
-<li>внешний свет сопровождает</li>
-<li>изнутри любовь Твоя.</li>
-<li class="chorus chorus-top">ты - любовь, Ты и свет!</li>
-<li class="chorus">в Сыне Ты есть жизнь для нас;</li>
-<li class="chorus">нам любовь и свет являя,</li>
-<li class="chorus chorus-bottom">жизнь Ты вкладываешь в нас.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>благодать любовь являет,</li>
-<li>свет нам истина несёт;</li>
-<li>чрез любовь Ты - наслажденье,</li>
-<li>свет познать Тебя даёт.</li>
-<li class="chorus chorus-top">ты - любовь, Ты и свет!</li>
-<li class="chorus">в Сыне Ты есть жизнь для нас;</li>
-<li class="chorus">нам любовь и свет являя,</li>
-<li class="chorus chorus-bottom">жизнь Ты вкладываешь в нас.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>по любви, крестом открытой,</li>
-<li>божью жизнь Ты смог нам дать;</li>
-<li>свет приносит пониманье,</li>
-<li>чтобы кровь нам применять.</li>
-<li class="chorus chorus-top">ты - любовь, Ты и свет!</li>
-<li class="chorus">в Сыне Ты есть жизнь для нас;</li>
-<li class="chorus">нам любовь и свет являя,</li>
-<li class="chorus chorus-bottom">жизнь Ты вкладываешь в нас.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>чрез любовь как жизнь Ты входишь,</li>
-<li>чтоб с Тобой общенье дать;</li>
-<li>очищаемся чрез свет мы,</li>
-<li>чтоб в общенье пребывать.</li>
-<li class="chorus chorus-top">ты - любовь, Ты и свет!</li>
-<li class="chorus">в Сыне Ты есть жизнь для нас;</li>
-<li class="chorus">нам любовь и свет являя,</li>
-<li class="chorus chorus-bottom">жизнь Ты вкладываешь в нас.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>свет осветит, кровь очистит -</li>
-<li>и помазанье придёт;</li>
-<li>жизнь любви - Твоей природы -</li>
-<li>в нас обильней потечёт.</li>
-<li class="chorus chorus-top">ты - любовь, Ты и свет!</li>
-<li class="chorus">в Сыне Ты есть жизнь для нас;</li>
-<li class="chorus">нам любовь и свет являя,</li>
-<li class="chorus chorus-bottom">жизнь Ты вкладываешь в нас.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>по любви Твои мы дети.</li>
-<li>«авва, Отче!» - мы зовём.</li>
-<li>наша тьма исчезнет в свете -</li>
-<li>мы, как Сын, увидим всё.</li>
-<li class="chorus chorus-top">в благодати - любовь,</li>
-<li class="chorus">свет нам в истине открыт,</li>
-<li class="chorus">чрез любовь и свет ты явлен!</li>
-<li class="chorus chorus-bottom">мы поём тебе хвалы!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "Бог мудрый, бессмертный, незримый для нас,"),
-    num: (num = 9),
+    num: (num = 6),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -517,7 +309,7 @@ const pages = [
   },
   {
     title: (title = "Ты - всё превосходящий"),
-    num: (num = 10),
+    num: (num = 7),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -591,7 +383,7 @@ const pages = [
   },
   {
     title: (title = "Отец, неувядаем Ты"),
-    num: (num = 11),
+    num: (num = 8),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -678,7 +470,7 @@ const pages = [
   },
   {
     title: (title = "Мой Бог Отец, когда я созерцаю"),
-    num: (num = 12),
+    num: (num = 9),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -739,7 +531,7 @@ const pages = [
   },
   {
     title: (title = "Как верен и надёжен Ты"),
-    num: (num = 13),
+    num: (num = 10),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -852,7 +644,7 @@ const pages = [
   },
   {
     title: (title = "Верность Твоя велика, Бог Отец мой!"),
-    num: (num = 14),
+    num: (num = 11),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -900,7 +692,7 @@ const pages = [
   },
   {
     title: (title = "Ради праведности, Отче"),
-    num: (num = 15),
+    num: (num = 12),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -960,275 +752,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "Отец, за праведность Твою"),
-    num: (num = 16),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>мы воздаём Тебе хвалу,</li>
-<li>свидетельство неся:</li>
-<li>ты совершенно справедлив,</li>
-<li>лишь Ты судьёй достоин быть</li>
-<li>для человечества.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ты праведен, Отец святой;</li>
-<li>престол на праведности Твой</li>
-<li>незыблемо стоит.</li>
-<li>и через праведность всегда</li>
-<li>царит Христова благодать,</li>
-<li>так мы имеем мир.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>по праведности той, Отец,</li>
-<li>твой Сын за нас пошёл на смерть,</li>
-<li>так нас Ты искупил.</li>
-<li>когда мы приняли Христа,</li>
-<li>ты праведно нас оправдал,</li>
-<li>спасенье совершил.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ты праведность Свою являл:</li>
-<li>грехи людей Ты покрывал</li>
-<li>в минувшие года.</li>
-<li>ты ныне праведность явил:</li>
-<li>все беззакония простил</li>
-<li>ты грешным навсегда.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>когда Ты будешь всех судить,</li>
-<li>чтоб праведность Свою явить</li>
-<li>чрез Господа Христа,</li>
-<li>мы твёрдо сможем устоять,</li>
-<li>чрез праведность провозглашать</li>
-<li>христову благодать.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>на правосудье в царстве Ты</li>
-<li>незыблемый построишь мир,</li>
-<li>в согласье будет всё.</li>
-<li>и в новых небе и земле</li>
-<li>пребудет праведность везде,</li>
-<li>как обещал Ты, Бог.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "О Святой Отец великий"),
-    num: (num = 17),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>поклоняемся Тебе,</li>
-<li>и Твоё святое Имя</li>
-<li>превозносим мы в хвале.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>отче, сердце Твоё любит,</li>
-<li>путь Твой праведен всегда,</li>
-<li>но Твоя природа - святость,</li>
-<li>и её Христос нам дал.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>кровью Господа Христа нас</li>
-<li>ты навеки освятил</li>
-<li>и чрез истину, что в Слове,</li>
-<li>ты нас, грешных, отделил.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>для Себя Святым Ты Духом</li>
-<li>сделал нас святыми всех;</li>
-<li>наши дух, душа и тело</li>
-<li>освятятся в полноте.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>о! Святая жизнь Иисуса</li>
-<li>нам дана чрез благодать;</li>
-<li>даже святость Твою, Отче,</li>
-<li>все мы будем разделять.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>в городе святом разделим</li>
-<li>твою святость в полноте.</li>
-<li>«ты Святой!» - вовеки будем</li>
-<li>возвещать тогда мы все.</li >
-</ul >
-</section >
-</main >
-	`,
-  },
-  {
-    title: (title = "Твоя вся мудрость, Бог Отец"),
-    num: (num = 18),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>стремление Твоё,</li>
-<li>чтоб в вечном замысле Твоём</li>
-<li>твой Сын наполнил всё.</li>
-<li class="chorus chorus-top">кто мудрость изъяснит Твою?</li>
-<li class="chorus">как глубока она!</li>
-<li class="chorus">но благодать и милость в ней</li>
-<li class="chorus chorus-bottom">нам, Бог Отец, дана!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>как дивно Ты соделал всё!</li>
-<li>кто ум Твой изъяснил?</li>
-<li>всё из Тебя, Тобой, к Тебе-</li>
-<li>ты мудрость в том явил.</li>
-<li class="chorus chorus-top">кто мудрость изъяснит Твою?</li>
-<li class="chorus">как глубока она!</li>
-<li class="chorus">но благодать и милость в ней</li>
-<li class="chorus chorus-bottom">нам, Бог Отец, дана!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>всех мудро в грех Ты заключил,</li>
-<li>чтоб милость нам явить;</li>
-<li>чтоб не хвалиться нам ничем,</li>
-<li>но лишь Тебя хвалить.</li>
-<li class="chorus chorus-top">кто мудрость изъяснит Твою?</li>
-<li class="chorus">как глубока она!</li>
-<li class="chorus">но благодать и милость в ней</li>
-<li class="chorus chorus-bottom">нам, Бог Отец, дана!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ты мудро искупление</li>
-<li>крестом для нас свершил,</li>
-<li>чтоб как сокровище Тебя</li>
-<li>наш дух теперь хранил.</li>
-<li class="chorus chorus-top">кто мудрость изъяснит Твою?</li>
-<li class="chorus">как глубока она!</li>
-<li class="chorus">но благодать и милость в ней</li>
-<li class="chorus chorus-bottom">нам, Бог Отец, дана!</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>начальствам мудрость Ты Свою</li>
-<li>чрез церковь дал узнать,</li>
-<li>богатство мудрости Твоей</li>
-<li>чрез нас смог показать.</li>
-<li class="chorus chorus-top">кто мудрость изъяснит Твою?</li>
-<li class="chorus">как глубока она!</li>
-<li class="chorus">но благодать и милость в ней</li>
-<li class="chorus chorus-bottom">нам, Бог Отец, дана!</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>за милость в Городе Святом</li>
-<li>восхвалим мы Тебя;</li>
-<li>твоя вся мудрость в полноте</li>
-<li>раскроется тогда.</li>
-<li class="chorus chorus-top">кто мудрость изъяснит Твою?</li>
-<li class="chorus">как глубока она!</li>
-<li class="chorus">но благодать и милость в ней</li>
-<li class="chorus chorus-bottom">нам, Бог Отец, дана!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "Отец, Ты милость к нам Свою явил"),
-    num: (num = 19),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>в путях Твоих;</li>
-<li>из нас, из грешных, сделать Ты решил</li>
-<li>сынов Своих.</li>
-<li>сосуды милости - Ты создал нас,</li>
-<li>в сосудах чести явлен Ты сейчас.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>«не жертвы Я, а милости хочу», -</li>
-<li>ты объявил;</li>
-<li>ко всем нам благосклонность так Свою</li>
-<li>ты проявил.</li>
-<li>не от того, кто хочет, кто бежит,</li>
-<li>а от Тебя, кто милость нам дарит.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>ты дал нам с милостью Свою любовь</li>
-<li>и благодать,</li>
-<li>чтоб вечно в милости перед Тобой</li>
-<li>нам пребывать.</li>
-<li>отец, мы ныне и в веках Тебе</li>
-<li>за милость будем поклоняться все.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "О Отец, за милость славим"),
-    num: (num = 20),
+    num: (num = 13),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -1309,7 +834,7 @@ const pages = [
   },
   {
     title: (title = "Давайте вместе восхвалять"),
-    num: (num = 21),
+    num: (num = 14),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -1357,7 +882,7 @@ const pages = [
   },
   {
     title: (title = "Огромна Божия любовь"),
-    num: (num = 22),
+    num: (num = 15),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -1417,7 +942,7 @@ const pages = [
   },
   {
     title: (title = "Что двигало Тобой"),
-    num: (num = 23),
+    num: (num = 16),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -1474,7 +999,7 @@ const pages = [
   },
   {
     title: (title = "Какую Ты нам дал любовь!"),
-    num: (num = 24),
+    num: (num = 17),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -1555,7 +1080,7 @@ const pages = [
   },
   {
     title: (title = "О Отец, до сотворенья"),
-    num: (num = 25),
+    num: (num = 18),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -1612,7 +1137,7 @@ const pages = [
   },
   {
     title: (title = "О Отец, Твоя любовь нас"),
-    num: (num = 26),
+    num: (num = 19),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -1656,69 +1181,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "Отец, хвалу поём мы"),
-    num: (num = 27),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>тебе за благодать.</li>
-<li>твоё желанье сердца -</li>
-<li>нам пред Тобой стоять.</li>
-<li>ты к славе предназначил</li>
-<li>от вечности сынов</li>
-<li>с Христом, кто всех превыше,</li>
-<li>в ком вся Твоя любовь.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>ты в вечности замыслил</li>
-<li>нас к святости избрать</li>
-<li>и предопределил нас</li>
-<li>твоим наследьем стать.</li>
-<li>ты нас отметил прежде,</li>
-<li>чтоб все мы возросли</li>
-<li>и так благословенье</li>
-<li>сыновства обрели.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>по предопределенью</li>
-<li>ты нас, Отец, призвал,</li>
-<li>чтоб жизнь Твою иметь нам</li>
-<li>и чтоб Ты грех с нас снял.</li>
-<li>нам дух святой - снабженье,</li>
-<li>залог Твой и печать,</li>
-<li>тобой чтоб наслаждаясь,</li>
-<li>тебе принадлежать.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>кто, как не Ты, Отец наш,</li>
-<li>смог в Сыне нас избрать,</li>
-<li>благословить нас Духом,</li>
-<li>чтоб нам Твоими стать?</li>
-<li>вовеки будем скоро</li>
-<li>с Христом во славе мы</li>
-<li>и явим Его образ</li>
-<li>сияющий. аминь!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "Бог славы соделал великое нам"),
-    num: (num = 28),
+    num: (num = 20),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -1771,69 +1235,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "За Сына любви"),
-    num: (num = 29),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>славим, Боже, Тебя.</li>
-<li>вознесён наш Спаситель,</li>
-<li>за нас смерть приняв.</li>
-<li class="chorus chorus-top">аллилуйя! Богу слава!</li>
-<li class="chorus">аллилуйя! Аминь!</li>
-<li class="chorus">аллилуйя! Богу слава!</li>
-<li class="chorus chorus-bottom">тебя хвалим мы.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>будь славен, о Бог:</li>
-<li>духа света Ты дал,</li>
-<li>что явил нам Христа</li>
-<li>и ночной мрак прогнал.</li>
-<li class="chorus chorus-top">аллилуйя! Богу слава!</li>
-<li class="chorus">аллилуйя! Аминь!</li>
-<li class="chorus">аллилуйя! Богу слава!</li>
-<li class="chorus chorus-bottom">тебя хвалим мы.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>вся слава Отцу,</li>
-<li>кто нас так возлюбил,</li>
-<li>искупленьем Иисуса</li>
-<li>любовь к нам явил.</li>
-<li class="chorus chorus-top">аллилуйя! Богу слава!</li>
-<li class="chorus">аллилуйя! Аминь!</li>
-<li class="chorus">аллилуйя! Богу слава!</li>
-<li class="chorus chorus-bottom">тебя хвалим мы.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>любовь в нас Твоя,</li>
-<li>мы хвалою полны,</li>
-<li>и огнём новым свыше</li>
-<li>сердца зажжены.</li>
-<li class="chorus chorus-top">аллилуйя! Богу слава!</li>
-<li class="chorus">аллилуйя! Аминь!</li>
-<li class="chorus">аллилуйя! Богу слава!</li>
-<li class="chorus chorus-bottom">тебя хвалим мы.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "Никогда мы не устанем это повторять"),
-    num: (num = 30),
+    num: (num = 21),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -1894,7 +1297,7 @@ const pages = [
   },
   {
     title: (title = "О Боже, Ты призвал нас -"),
-    num: (num = 31),
+    num: (num = 22),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -1955,7 +1358,7 @@ const pages = [
   },
   {
     title: (title = "«Авва, Отче», мы приходим"),
-    num: (num = 32),
+    num: (num = 23),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2016,7 +1419,7 @@ const pages = [
   },
   {
     title: (title = "Авва, Отче! Мы смиренно"),
-    num: (num = 33),
+    num: (num = 24),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2077,7 +1480,7 @@ const pages = [
   },
   {
     title: (title = "Тебя, Отца и Бога,"),
-    num: (num = 34),
+    num: (num = 25),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2125,7 +1528,7 @@ const pages = [
   },
   {
     title: (title = "Отче, Твой Сын средь нас ведёт хвалу"),
-    num: (num = 35),
+    num: (num = 26),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2170,7 +1573,7 @@ const pages = [
   },
   {
     title: (title = "Наш Бог Отец, Тебе мы здесь поём,"),
-    num: (num = 36),
+    num: (num = 27),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2212,7 +1615,7 @@ const pages = [
   },
   {
     title: (title = "Отец, Тебе песнь радости поём"),
-    num: (num = 37),
+    num: (num = 28),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2254,7 +1657,7 @@ const pages = [
   },
   {
     title: (title = "Наш Бог Отец, Твоё мы славим Имя,"),
-    num: (num = 38),
+    num: (num = 29),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2299,7 +1702,7 @@ const pages = [
   },
   {
     title: (title = "Бог Отец, источник жизни - Ты."),
-    num: (num = 39),
+    num: (num = 30),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2347,7 +1750,7 @@ const pages = [
   },
   {
     title: (title = "Любим мы имя то"),
-    num: (num = 40),
+    num: (num = 31),
     page: `
 	<h2 class="hNum">${num}</h2>
 	<main class="full-hymn">
@@ -2408,7 +1811,7 @@ const pages = [
   },
   {
     title: (title = "Как сладко Имя «Иисус»"),
-    num: (num = 41),
+    num: (num = 32),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2471,7 +1874,7 @@ const pages = [
   },
   {
     title: (title = "Иисуса имя я люблю,"),
-    num: (num = 42),
+    num: (num = 33),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2532,7 +1935,7 @@ const pages = [
   },
   {
     title: (title = "Ты, Господь, Иисусом назван,"),
-    num: (num = 43),
+    num: (num = 34),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2593,7 +1996,7 @@ const pages = [
   },
   {
     title: (title = "Есть имя - так люблю его"),
-    num: (num = 44),
+    num: (num = 35),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2654,7 +2057,7 @@ const pages = [
   },
   {
     title: (title = "Иисус! Нам в имени Твоём"),
-    num: (num = 45),
+    num: (num = 36),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2708,7 +2111,7 @@ const pages = [
   },
   {
     title: (title = "Нет выше имени «Иисус»"),
-    num: (num = 46),
+    num: (num = 37),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2771,7 +2174,7 @@ const pages = [
   },
   {
     title: (title = "Славно имя Иисуса,"),
-    num: (num = 47),
+    num: (num = 38),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2816,7 +2219,7 @@ const pages = [
   },
   {
     title: (title = "Превознесите Имя то!"),
-    num: (num = 48),
+    num: (num = 39),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -2870,7 +2273,7 @@ const pages = [
   },
   {
     title: (title = "Как надёжно, как обильно,"),
-    num: (num = 49),
+    num: (num = 40),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3005,7 +2408,7 @@ const pages = [
   },
   {
     title: (title = "Хвала Ему, на небесах"),
-    num: (num = 50),
+    num: (num = 41),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3074,7 +2477,7 @@ const pages = [
   },
   {
     title: (title = "О, Господь так близок к призывающим Его!"),
-    num: (num = 51),
+    num: (num = 42),
     page: `
 	<h2 class="hNum">${num}</h2>
 	<main class="full-hymn">
@@ -3168,7 +2571,7 @@ const pages = [
   },
   {
     title: (title = "Как миро нам имя Твоё,"),
-    num: (num = 52),
+    num: (num = 43),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3258,7 +2661,7 @@ const pages = [
   },
   {
     title: (title = "Имя Его поём:"),
-    num: (num = 53),
+    num: (num = 44),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3292,7 +2695,7 @@ const pages = [
   },
   {
     title: (title = "Что за имя «Иисус»!"),
-    num: (num = 54),
+    num: (num = 45),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3323,7 +2726,7 @@ const pages = [
   },
   {
     title: (title = "Господь, как древен днями Ты!"),
-    num: (num = 55),
+    num: (num = 46),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3386,7 +2789,7 @@ const pages = [
   },
   {
     title: (title = "Оставив славу,"),
-    num: (num = 56),
+    num: (num = 47),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3443,7 +2846,7 @@ const pages = [
   },
   {
     title: (title = "Слушай! Ангелы поют:"),
-    num: (num = 57),
+    num: (num = 48),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3512,7 +2915,7 @@ const pages = [
   },
   {
     title: (title = "Господь, Ты Бог, Ты так велик,"),
-    num: (num = 58),
+    num: (num = 49),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3593,7 +2996,7 @@ const pages = [
   },
   {
     title: (title = "Господь, вот путь Твой на земле:"),
-    num: (num = 59),
+    num: (num = 50),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3656,7 +3059,7 @@ const pages = [
   },
   {
     title: (title = "О Господь, хвалу прими!"),
-    num: (num = 60),
+    num: (num = 51),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3728,7 +3131,7 @@ const pages = [
   },
   {
     title: (title = "Мы, Господь, с любовью ценим"),
-    num: (num = 61),
+    num: (num = 52),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3789,7 +3192,7 @@ const pages = [
   },
   {
     title: (title = "Христос, Ты голову склонил,"),
-    num: (num = 62),
+    num: (num = 53),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3864,7 +3267,7 @@ const pages = [
   },
   {
     title: (title = "О наш Глава, Ты много"),
-    num: (num = 63),
+    num: (num = 54),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3912,7 +3315,7 @@ const pages = [
   },
   {
     title: (title = "Спасителя любовь"),
-    num: (num = 64),
+    num: (num = 55),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -3999,7 +3402,7 @@ const pages = [
   },
   {
     title: (title = "Творец всего, как человек,"),
-    num: (num = 65),
+    num: (num = 56),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4062,7 +3465,7 @@ const pages = [
   },
   {
     title: (title = "Человеком Бог родился"),
-    num: (num = 66),
+    num: (num = 57),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4123,7 +3526,7 @@ const pages = [
   },
   {
     title: (title = "Агнец Божий, безупречный,"),
-    num: (num = 67),
+    num: (num = 58),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4180,7 +3583,7 @@ const pages = [
   },
   {
     title: (title = "О, неужели пролил кровь"),
-    num: (num = 68),
+    num: (num = 59),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4234,7 +3637,7 @@ const pages = [
   },
   {
     title: (title = "Себя Он не спасал,"),
-    num: (num = 69),
+    num: (num = 60),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4291,7 +3694,7 @@ const pages = [
   },
   {
     title: (title = "Божий Сын как «Муж скорбей»"),
-    num: (num = 70),
+    num: (num = 61),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4345,7 +3748,7 @@ const pages = [
   },
   {
     title: (title = "Как сладостна весть: нас Христос возлюбил"),
-    num: (num = 71),
+    num: (num = 62),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4399,7 +3802,7 @@ const pages = [
   },
   {
     title: (title = "Как чудно искупление,"),
-    num: (num = 72),
+    num: (num = 63),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4473,7 +3876,7 @@ const pages = [
   },
   {
     title: (title = "Как кровь Твоя ценна, Господь, -"),
-    num: (num = 73),
+    num: (num = 64),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4545,7 +3948,7 @@ const pages = [
   },
   {
     title: (title = "Наш Господь Христос воскрес,"),
-    num: (num = 74),
+    num: (num = 65),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4606,7 +4009,7 @@ const pages = [
   },
   {
     title: (title = "Аллилуйя, «воскрешён Он!»"),
-    num: (num = 75),
+    num: (num = 66),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4654,7 +4057,7 @@ const pages = [
   },
   {
     title: (title = "Господь воскрес и нас от смерти спас,"),
-    num: (num = 76),
+    num: (num = 67),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4699,7 +4102,7 @@ const pages = [
   },
   {
     title: (title = "В смерть Ты сошёл, Господь,"),
-    num: (num = 77),
+    num: (num = 68),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4760,7 +4163,7 @@ const pages = [
   },
   {
     title: (title = "Тихо в гробу лежал -"),
-    num: (num = 78),
+    num: (num = 69),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4814,7 +4217,7 @@ const pages = [
   },
   {
     title: (title = "Славь Христа! Ведь Он победу"),
-    num: (num = 79),
+    num: (num = 70),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -4866,69 +4269,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "Аллилуйя! Пой Иисусу!"),
-    num: (num = 80),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>власть - Его, престол - Его.</li>
-<li>аллилуйя! Его слава</li>
-<li>и победы торжество.</li>
-<li>песни тех, кто Им искуплен,</li>
-<li>льются мощною рекой:</li>
-<li>нас из каждого народа</li>
-<li>кровью Он купил святой.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>аллилуйя! Не оставил</li>
-<li>в скорби нас Он как сирот.</li>
-<li>аллилуйя! Здесь Он с нами -</li>
-<li>верой ныне в нас живёт.</li>
-<li>и хоть скрылся в облаках Он,</li>
-<li>когда срок тому настал,</li>
-<li>сердцу не забыть обета:</li>
-<li>«вечно с вами», - Он сказал.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>аллилуйя! Неба манна,</li>
-<li>хлеб насущный и оплот.</li>
-<li>аллилуйя! Непрестанно</li>
-<li>алчущий к Тебе идёт.</li>
-<li>мой Защитник и Ходатай</li>
-<li>за меня всегда стоит,</li>
-<li>искупитель мой пред Богом</li>
-<li>у престола говорит.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>Аллилуйя! Пой Иисусу!</li>
-<li>власть - Его, престол - Его.</li>
-<li>аллилуйя! Его слава</li>
-<li>и победы торжество.</li>
-<li>песни тех, кто Им искуплен,</li>
-<li>льются мощною рекой:</li>
-<li>нас из каждого народа</li>
-<li>кровью Он купил святой.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "«Агнец Божий!» - восклицает"),
-    num: (num = 81),
+    num: (num = 71),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5000,7 +4342,7 @@ const pages = [
   },
   {
     title: (title = "Выше всего наш Спаситель воссел,"),
-    num: (num = 82),
+    num: (num = 72),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5061,7 +4403,7 @@ const pages = [
   },
   {
     title: (title = "На Агнца в славе посмотри -"),
-    num: (num = 83),
+    num: (num = 73),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5115,7 +4457,7 @@ const pages = [
   },
   {
     title: (title = "Вот Иисус Христос на небе,"),
-    num: (num = 84),
+    num: (num = 74),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5187,7 +4529,7 @@ const pages = [
   },
   {
     title: (title = "Чтоб был Господь прославлен,"),
-    num: (num = 85),
+    num: (num = 75),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5248,7 +4590,7 @@ const pages = [
   },
   {
     title: (title = "В церкви местной возглашают:"),
-    num: (num = 86),
+    num: (num = 76),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5309,7 +4651,7 @@ const pages = [
   },
   {
     title: (title = "Как имя велико Твоё,"),
-    num: (num = 87),
+    num: (num = 77),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5383,7 +4725,7 @@ const pages = [
   },
   {
     title: (title = "Как полно наше сердце!"),
-    num: (num = 88),
+    num: (num = 78),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5457,7 +4799,7 @@ const pages = [
   },
   {
     title: (title = "Пусть поднимется Бог в силе,"),
-    num: (num = 89),
+    num: (num = 79),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5583,7 +4925,7 @@ const pages = [
   },
   {
     title: (title = "Господь Иисус, Ты всех Господь,"),
-    num: (num = 90),
+    num: (num = 80),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5646,7 +4988,7 @@ const pages = [
   },
   {
     title: (title = "Видя Господа во славе,"),
-    num: (num = 91),
+    num: (num = 81),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5709,7 +5051,7 @@ const pages = [
   },
   {
     title: (title = "Иисус, Ты тёрном венчан был,"),
-    num: (num = 92),
+    num: (num = 82),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5763,7 +5105,7 @@ const pages = [
   },
   {
     title: (title = "Агнца венчайте все -"),
-    num: (num = 93),
+    num: (num = 83),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5837,7 +5179,7 @@ const pages = [
   },
   {
     title: (title = "На престоле сел Отцовом"),
-    num: (num = 94),
+    num: (num = 84),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5890,7 +5232,7 @@ const pages = [
   },
   {
     title: (title = "О Господь, Ты - Царь царей!"),
-    num: (num = 95),
+    num: (num = 85),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -5943,7 +5285,7 @@ const pages = [
   },
   {
     title: (title = "Песнь о грядущем Царе воспоём,"),
-    num: (num = 96),
+    num: (num = 86),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6017,7 +5359,7 @@ const pages = [
   },
   {
     title: (title = "Велика непостижимо,"),
-    num: (num = 97),
+    num: (num = 87),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6078,7 +5420,7 @@ const pages = [
   },
   {
     title: (title = "Превыше знания любовь Твоя,"),
-    num: (num = 98),
+    num: (num = 88),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6150,7 +5492,7 @@ const pages = [
   },
   {
     title: (title = "Ты, Господь, Своей любовью"),
-    num: (num = 99),
+    num: (num = 89),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6236,7 +5578,7 @@ const pages = [
   },
   {
     title: (title = "Царь мой, венчаю я Тебя,"),
-    num: (num = 100),
+    num: (num = 90),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6310,7 +5652,7 @@ const pages = [
   },
   {
     title: (title = "Пред ликом Иисуса несметной толпой"),
-    num: (num = 101),
+    num: (num = 91),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6364,7 +5706,7 @@ const pages = [
   },
   {
     title: (title = "Пусть сотни тысяч языков"),
-    num: (num = 102),
+    num: (num = 92),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6427,7 +5769,7 @@ const pages = [
   },
   {
     title: (title = "Петь буду об Иисусе -"),
-    num: (num = 103),
+    num: (num = 93),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6475,7 +5817,7 @@ const pages = [
   },
   {
     title: (title = "Господь, Ты дорог Богу,"),
-    num: (num = 104),
+    num: (num = 94),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6588,7 +5930,7 @@ const pages = [
   },
   {
     title: (title = "О Господь, Жених любимый,"),
-    num: (num = 105),
+    num: (num = 95),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6660,7 +6002,7 @@ const pages = [
   },
   {
     title: (title = "Господь, как сладостно сердцам"),
-    num: (num = 106),
+    num: (num = 96),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6721,7 +6063,7 @@ const pages = [
   },
   {
     title: (title = "Не надышаться мне Тобой,"),
-    num: (num = 107),
+    num: (num = 97),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6785,7 +6127,7 @@ const pages = [
   },
   {
     title: (title = "Дивный наш Иисус!"),
-    num: (num = 108),
+    num: (num = 98),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6838,7 +6180,7 @@ const pages = [
   },
   {
     title: (title = "Спасителя прекрасный лик"),
-    num: (num = 109),
+    num: (num = 99),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6897,7 +6239,7 @@ const pages = [
   },
   {
     title: (title = "Сердца у нас полны Христом,"),
-    num: (num = 110),
+    num: (num = 100),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6928,7 +6270,7 @@ const pages = [
   },
   {
     title: (title = "Слава вовек Христу!"),
-    num: (num = 111),
+    num: (num = 101),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -6985,7 +6327,7 @@ const pages = [
   },
   {
     title: (title = "Господь Иисус, Ты сейчас на престоле;"),
-    num: (num = 112),
+    num: (num = 102),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -7046,7 +6388,7 @@ const pages = [
   },
   {
     title: (title = "Церковь Агнца прославляет:"),
-    num: (num = 113),
+    num: (num = 103),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -7107,7 +6449,7 @@ const pages = [
   },
   {
     title: (title = "Давайте с песней вместе все"),
-    num: (num = 114),
+    num: (num = 104),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -7161,7 +6503,7 @@ const pages = [
   },
   {
     title: (title = "О Господь, сейчас возносим"),
-    num: (num = 115),
+    num: (num = 105),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -7222,7 +6564,7 @@ const pages = [
   },
   {
     title: (title = "Господь, Ты - образ Бога,"),
-    num: (num = 116),
+    num: (num = 106),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -7309,7 +6651,7 @@ const pages = [
   },
   {
     title: (title = "Господь, здесь пред Твоим лицом"),
-    num: (num = 117),
+    num: (num = 107),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -7396,7 +6738,7 @@ const pages = [
   },
   {
     title: (title = "«Семя женщины», Господь, Ты,"),
-    num: (num = 118),
+    num: (num = 108),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -7456,121 +6798,8 @@ const pages = [
 	`,
   },
   {
-    title: (title = "Как всеобъемлющ Ты, Господь!"),
-    num: (num = 119),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ты наше всё во всём;</li>
-<li>ты всё, что нужно, нам даёшь</li>
-<li>и в малом, и в большом.</li>
-<li>тебя так ценим сердцем мы,</li>
-<li>тебя мы в духе чтим;</li>
-<li>твоё богатство видя, мы</li>
-<li>тебя благодарим.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>пророком Бог Тебя воздвиг,</li>
-<li>и Ты, как Моисей,</li>
-<li>чтоб Божьей воли нам искать,</li>
-<li>раскрыл план Божий всем.</li>
-<li>ты, как Иона, Богом дан,</li>
-<li>чтоб жить, чрез смерть пройдя,</li>
-<li>чтоб, в том знаменье получив,</li>
-<li>мы верили в Тебя.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>чтоб с силой, светом говорить,</li>
-<li>пророк Ты от людей;</li>
-<li>ты полон действенных чудес,</li>
-<li>любви, как Елисей.</li>
-<li>являешь, как Исайя, Ты</li>
-<li>христа чрез благодать,</li>
-<li>чтоб изобильного Христа</li>
-<li>как жизнь нам разделять.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>священник Богу Ты от нас,</li>
-<li>за нас священник Ты,</li>
-<li>как Аарон, что из людей</li>
-<li>в служенье призван был.</li>
-<li>первосвященник, Ты в любви</li>
-<li>нас к Богу всех несёшь;</li>
-<li>ходатайствуешь Ты в любви,</li>
-<li>нас силой бережёшь.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>священник Ты от Бога нам,</li>
-<li>священник Божий ввек;</li>
-<li>как царь Салима служишь Ты,</li>
-<li>как сам Мелхиседек.</li>
-<li>с вином и хлебом Ты пришёл</li>
-<li>от Бога в час нужды;</li>
-<li>пришёл к нам с Богом, чтобы в Нём</li>
-<li>участвовали мы.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>царь, как Давид, лишь Божьего</li>
-<li>желанья ищешь Ты;</li>
-<li>врага сразил и сердце Ты</li>
-<li>нам Божье возвестил.</li>
-<li>не человек, а Бог Тебе</li>
-<li>дал на престоле власть,</li>
-<li>чтоб Божьим жезлом правил Ты</li>
-<li>за Бога и за нас.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>в Своём правленье мирном Ты</li>
-<li>как мудрый Соломон;</li>
-<li>ты в силе царствуешь сейчас</li>
-<li>и строишь Божий дом.</li>
-<li>сегодня Ты незримый Царь</li>
-<li>среди Своих святых,</li>
-<li>но вместе с нами царствовать</li>
-<li>однажды будешь Ты.</li>
-</ul>
-</section>
-<section>
-<span class="number">8.</span>
-<ul>
-<li>как Царь, Священник и Пророк,</li>
-<li>господь, как дорог Ты!</li>
-<li>для Бога ценен и для нас -</li>
-<li>тебя так любим мы!</li>
-<li>всё, что Ты есть, так ценим мы!</li>
-<li>сердца в Твоём плену.</li>
-<li>мы будем воздавать всегда</li>
-<li>тебе Свою хвалу.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "Ты Солнце праведности нам,"),
-    num: (num = 120),
+    num: (num = 109),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -7642,7 +6871,7 @@ const pages = [
   },
   {
     title: (title = "О наш Господь, Ты - Альфа,"),
-    num: (num = 121),
+    num: (num = 110),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -7716,7 +6945,7 @@ const pages = [
   },
   {
     title: (title = "Кто Он есть? Он Отец."),
-    num: (num = 122),
+    num: (num = 111),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -7797,7 +7026,7 @@ const pages = [
   },
   {
     title: (title = "В лоне у Отца предвечно,"),
-    num: (num = 123),
+    num: (num = 112),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -7857,182 +7086,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "В имени Твоём, Господь, мы"),
-    num: (num = 124),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>отвернули взор к Тебе,</li>
-<li>здесь мы рады быть с Тобою!</li>
-<li>ты сердца влечёшь к Себе.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>к нам любовь Твоя безмерна,</li>
-<li>как к Тебе - любовь Отца;</li>
-<li>всё, что мыслит о Тебе Он,</li>
-<li>ценим мы в своих сердцах.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>весь Его покой, и радость,</li>
-<li>и отрада вся - в Тебе.</li>
-<li>о Господь, один Ты знаешь,</li>
-<li>что нашёл Отец в Тебе.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>сын возлюбленный Его Ты,</li>
-<li>вся любовь Его в Тебе,</li>
-<li>но за нас Тебя Он отдал,</li>
-<li>жизнь нам смертью дал Твоей.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>и, Тебя как есть увидев,</li>
-<li>мы в восторге воспоём!</li>
-<li>о Господь Иисус, как сладко</li>
-<li>имя для Отца Твоё!</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>звуки радости и гимны</li>
-<li>нескончаемой хвалы,</li>
-<li>песни славы и веселье</li>
-<li>будут в вечности слышны.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "Господь, Ты - наша жертва,"),
-    num: (num = 125),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ты - жертва мирная.</li>
-<li>в знак единенья руки</li>
-<li>возложим на Тебя.</li>
-<li>тебя в собранье сладко</li>
-<li>как пищу нам вкушать.</li>
-<li>тебя приносим Богу,</li>
-<li>с Отцом чтоб пировать.</li>
-<li class="chorus chorus-top">христос - наш мир! Христос - наш мир!</li>
-<li class="chorus">тебя восславим мы!</li>
-<li class="chorus">навеки восстановлен мир</li>
-<li class="chorus chorus-bottom">и с Богом, и с людьми.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>кропленье крови видим,</li>
-<li>и это мир даёт.</li>
-<li>кровь нашей мирной жертвы</li>
-<li>мир с Богом нам несёт.</li>
-<li>провозглашаем смело -</li>
-<li>враг, слушай нас сейчас:</li>
-<li>«мир кровью Иисуса!»</li>
-<li>победа в том для нас.</li>
-<li class="chorus chorus-top">христос - наш мир! Христос - наш мир!</li>
-<li class="chorus">тебя восславим мы!</li>
-<li class="chorus">навеки восстановлен мир</li>
-<li class="chorus chorus-bottom">и с Богом, и с людьми.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>за жертвой всесожженья</li>
-<li>мы хлебный дар несём,</li>
-<li>приносим в мирной жертве</li>
-<li>иисуса мы потом.</li>
-<li>иисуса-человека</li>
-<li>чем больше мы вкусим,</li>
-<li>тем больше наслаждаться,</li>
-<li>пируя, будем Им.</li>
-<li class="chorus chorus-top">общенье разделяем здесь</li>
-<li class="chorus">и с Богом, и с людьми!</li>
-<li class="chorus">о, что за радость, что за пир -</li>
-<li class="chorus chorus-bottom">с народом Божьим мы!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>сладка и сокровенна,</li>
-<li>у Бога часть Своя,</li>
-<li>и ест грудь потрясанья</li>
-<li>священника семья.</li>
-<li>а он из приношенья</li>
-<li>часть лучшую обрёл:</li>
-<li>плечо ест возношенья</li>
-<li>с лепёшкой пресной он.</li>
-<li class="chorus chorus-top">христос - наш мир! Христос - наш мир!</li>
-<li class="chorus">тебя восславим мы!</li>
-<li class="chorus">навеки восстановлен мир</li>
-<li class="chorus chorus-bottom">и с Богом, и с людьми.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>сладка грудь потрясанья!</li>
-<li>о, наш Христос воскрес!</li>
-<li>его любовь, объяв нас,</li>
-<li>возносит до небес.</li>
-<li>плечо даёт нам силу</li>
-<li>того, кто вознесён,</li>
-<li>лепёшка насыщает,</li>
-<li>чтоб нам ходить, как Он.</li>
-<li class="chorus chorus-top">христос - наш мир! Христос - наш мир!</li>
-<li class="chorus">тебя восславим мы!</li>
-<li class="chorus">навеки восстановлен мир</li>
-<li class="chorus chorus-bottom">и с Богом, и с людьми.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>со всеми, кто очищен,</li>
-<li>христом пируем мы!</li>
-<li>о, лишь в таком общенье</li>
-<li>встречаться мы должны!</li>
-<li>о, как мы благодарны,</li>
-<li>и вот обет от нас:</li>
-<li>мы для восстановленья,</li>
-<li>как Он для нас сейчас.</li>
-<li class="chorus chorus-top">христос - наш мир! Христос - наш мир!</li>
-<li class="chorus">тебя восславим мы!</li>
-<li class="chorus">навеки восстановлен мир</li>
-<li class="chorus chorus-bottom">и с Богом, и с людьми.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "Христос – источник жизни,"),
-    num: (num = 126),
+    num: (num = 113),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8080,7 +7135,7 @@ const pages = [
   },
   {
     title: (title = "Иисус, Господь мой дорогой!"),
-    num: (num = 127),
+    num: (num = 114),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8167,7 +7222,7 @@ const pages = [
   },
   {
     title: (title = "Как сладка даже мысль одна,"),
-    num: (num = 128),
+    num: (num = 115),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8239,7 +7294,7 @@ const pages = [
   },
   {
     title: (title = "Господь, той самой ночью,"),
-    num: (num = 129),
+    num: (num = 116),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8313,7 +7368,7 @@ const pages = [
   },
   {
     title: (title = "Господь, чтоб слову Твоему"),
-    num: (num = 130),
+    num: (num = 117),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8376,7 +7431,7 @@ const pages = [
   },
   {
     title: (title = "Славьте, славьте! О, Иисус - Искупитель!"),
-    num: (num = 131),
+    num: (num = 118),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8424,7 +7479,7 @@ const pages = [
   },
   {
     title: (title = "Благословенье, и слава, и честь,"),
-    num: (num = 132),
+    num: (num = 119),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8458,7 +7513,7 @@ const pages = [
   },
   {
     title: (title = "Триединый Бог сегодня в нас живёт:"),
-    num: (num = 133),
+    num: (num = 120),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8532,7 +7587,7 @@ const pages = [
   },
   {
     title: (title = "За Духа Христа"),
-    num: (num = 134),
+    num: (num = 121),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8593,7 +7648,7 @@ const pages = [
   },
   {
     title: (title = "Повсюду на земле, где б человек ни жил,"),
-    num: (num = 135),
+    num: (num = 122),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8666,7 +7721,7 @@ const pages = [
   },
   {
     title: (title = "Теки, Господь, через меня, сосуд Свой,"),
-    num: (num = 136),
+    num: (num = 123),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8729,7 +7784,7 @@ const pages = [
   },
   {
     title: (title = "Хлынь водой, источник;"),
-    num: (num = 137),
+    num: (num = 124),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8801,7 +7856,7 @@ const pages = [
   },
   {
     title: (title = "Реки с водою живою,"),
-    num: (num = 138),
+    num: (num = 125),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8875,7 +7930,7 @@ const pages = [
   },
   {
     title: (title = "Мы пришли, мы пришли в дом, где Бог живёт,"),
-    num: (num = 139),
+    num: (num = 126),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -8929,7 +7984,7 @@ const pages = [
   },
   {
     title: (title = "О Господь, Тебя как Духа"),
-    num: (num = 140),
+    num: (num = 127),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9029,7 +8084,7 @@ const pages = [
   },
   {
     title: (title = "О, дуй на нас, Господь, пока мы ждём Тебя;"),
-    num: (num = 141),
+    num: (num = 128),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9077,7 +8132,7 @@ const pages = [
   },
   {
     title: (title = "Господь, подуй на нас с небес"),
-    num: (num = 142),
+    num: (num = 129),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9125,7 +8180,7 @@ const pages = [
   },
   {
     title: (title = "Иисус, могучую любовь"),
-    num: (num = 143),
+    num: (num = 130),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9184,7 +8239,7 @@ const pages = [
   },
   {
     title: (title = "Славен Бог, кто прикрепляет"),
-    num: (num = 144),
+    num: (num = 131),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9265,7 +8320,7 @@ const pages = [
   },
   {
     title: (title = "Благодатным Своим Духом"),
-    num: (num = 145),
+    num: (num = 132),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9326,7 +8381,7 @@ const pages = [
   },
   {
     title: (title = "Я хвалю Тебя, Спаситель,"),
-    num: (num = 146),
+    num: (num = 133),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9400,7 +8455,7 @@ const pages = [
   },
   {
     title: (title = "До краёв, Господь, меня"),
-    num: (num = 147),
+    num: (num = 134),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9453,7 +8508,7 @@ const pages = [
   },
   {
     title: (title = "О, как славно и чудесно!"),
-    num: (num = 148),
+    num: (num = 135),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9514,7 +8569,7 @@ const pages = [
   },
   {
     title: (title = "Господь, мои грехи все"),
-    num: (num = 149),
+    num: (num = 136),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9591,7 +8646,7 @@ const pages = [
   },
   {
     title: (title = "Бесконечную любовь"),
-    num: (num = 150),
+    num: (num = 137),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9660,7 +8715,7 @@ const pages = [
   },
   {
     title: (title = "Радуйтесь все со мной!"),
-    num: (num = 151),
+    num: (num = 138),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9732,7 +8787,7 @@ const pages = [
   },
   {
     title: (title = "Иисус Своей любовью"),
-    num: (num = 152),
+    num: (num = 139),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9777,7 +8832,7 @@ const pages = [
   },
   {
     title: (title = "Нашёл я друга, что за Друг!"),
-    num: (num = 153),
+    num: (num = 140),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9825,7 +8880,7 @@ const pages = [
   },
   {
     title: (title = "Христос, Ты - праведность моя,"),
-    num: (num = 154),
+    num: (num = 141),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9888,7 +8943,7 @@ const pages = [
   },
   {
     title: (title = "Как может быть, что за меня"),
-    num: (num = 155),
+    num: (num = 142),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -9962,7 +9017,7 @@ const pages = [
   },
   {
     title: (title = "Надеюсь только на Христа,"),
-    num: (num = 156),
+    num: (num = 143),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10019,7 +9074,7 @@ const pages = [
   },
   {
     title: (title = "Мир с Богом в разуме моём."),
-    num: (num = 157),
+    num: (num = 144),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10073,7 +9128,7 @@ const pages = [
   },
   {
     title: (title = "Мы без надежды жили средь тьмы,"),
-    num: (num = 158),
+    num: (num = 145),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10126,43 +9181,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "Бог все грехи мои простил"),
-    num: (num = 159),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>и бросил за спину Себе.</li>
-<li>он никогда не вспомнит их,</li>
-<li>он в прошлом все их устранил.</li>
-<li class="chorus chorus-top">бог все грехи мои простил;</li>
-<li class="chorus">как тучи ветер разогнал,</li>
-<li class="chorus">так и они исчезли все,</li>
-<li class="chorus chorus-bottom">чтоб мне забыть их навсегда.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>как камень, груз моих грехов</li>
-<li>бог, бросив в бездну, утопил,</li>
-<li>и как от запада восток</li>
-<li>он от меня их удалил.</li>
-<li class="chorus chorus-top">бог все грехи мои простил;</li>
-<li class="chorus">как тучи ветер разогнал,</li>
-<li class="chorus">так и они исчезли все,</li>
-<li class="chorus chorus-bottom">чтоб мне забыть их навсегда.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "Искуплен я был кровью Агнца"),
-    num: (num = 160),
+    num: (num = 146),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10223,7 +9243,7 @@ const pages = [
   },
   {
     title: (title = "Есть песня, что люблю я петь,"),
-    num: (num = 161),
+    num: (num = 147),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10302,7 +9322,7 @@ const pages = [
   },
   {
     title: (title = "Искуплен я не серебром и не златом -"),
-    num: (num = 162),
+    num: (num = 148),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10363,7 +9383,7 @@ const pages = [
   },
   {
     title: (title = "Крест, где распят мой Спаситель был,"),
-    num: (num = 163),
+    num: (num = 149),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10424,7 +9444,7 @@ const pages = [
   },
   {
     title: (title = "Господь Иисус, приходим мы"),
-    num: (num = 164),
+    num: (num = 150),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10485,7 +9505,7 @@ const pages = [
   },
   {
     title: (title = "Твёрдо я верю: Мой Иисус!"),
-    num: (num = 165),
+    num: (num = 151),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10533,7 +9553,7 @@ const pages = [
   },
   {
     title: (title = "Как чудесно вся жизнь изменилась моя -"),
-    num: (num = 166),
+    num: (num = 152),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10607,7 +9627,7 @@ const pages = [
   },
   {
     title: (title = "О, радость наполнила сердце моё!"),
-    num: (num = 167),
+    num: (num = 153),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10636,7 +9656,7 @@ const pages = [
   },
   {
     title: (title = "Я был греха цепями опутан,"),
-    num: (num = 168),
+    num: (num = 154),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10697,7 +9717,7 @@ const pages = [
   },
   {
     title: (title = "Сам ничего я себе не добыл,"),
-    num: (num = 169),
+    num: (num = 155),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10758,7 +9778,7 @@ const pages = [
   },
   {
     title: (title = "О, благодать! Она"),
-    num: (num = 170),
+    num: (num = 156),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10845,7 +9865,7 @@ const pages = [
   },
   {
     title: (title = "О, чудо! Благодать спасла"),
-    num: (num = 171),
+    num: (num = 157),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10890,7 +9910,7 @@ const pages = [
   },
   {
     title: (title = "Спаситель дорогой,"),
-    num: (num = 172),
+    num: (num = 158),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10951,7 +9971,7 @@ const pages = [
   },
   {
     title: (title = "О Родник благословений,"),
-    num: (num = 173),
+    num: (num = 159),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -10999,7 +10019,7 @@ const pages = [
   },
   {
     title: (title = "Что за полное спасенье!"),
-    num: (num = 174),
+    num: (num = 160),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11068,7 +10088,7 @@ const pages = [
   },
   {
     title: (title = "Вот, вытесняя грех,"),
-    num: (num = 175),
+    num: (num = 161),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11116,7 +10136,7 @@ const pages = [
   },
   {
     title: (title = "Тщетно много лет источник я искал,"),
-    num: (num = 176),
+    num: (num = 162),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11181,7 +10201,7 @@ const pages = [
   },
   {
     title: (title = "Услышал я: Иисус сказал:"),
-    num: (num = 177),
+    num: (num = 163),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11228,82 +10248,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "Хвалою полно моё сердце,"),
-    num: (num = 178),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>эта песнь, Господь, Тебе.</li>
-<li>и нет той песни превосходнее,</li>
-<li>радость неба дарит мне.</li>
-<li class="chorus chorus-top">в сердце бьёт мелодия ключом,</li>
-<li class="chorus">о, бьёт с небес ключом и сладостно течёт.</li>
-<li class="chorus">в сердце бьёт мелодия ключом,</li>
-<li class="chorus chorus-bottom">мелодия любви во мне.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>любовью я спасён господней,</li>
-<li>новой жизнью одарён.</li>
-<li>о, благодать! Господь живёт во мне,</li>
-<li>наслаждением я полн.</li>
-<li class="chorus chorus-top">в сердце бьёт мелодия ключом,</li>
-<li class="chorus">о, бьёт с небес ключом и сладостно течёт.</li>
-<li class="chorus">в сердце бьёт мелодия ключом,</li>
-<li class="chorus chorus-bottom">мелодия любви во мне.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>мне жизни свет Господь дарует,</li>
-<li>шаг за шагом Он ведёт.</li>
-<li>о, совершенный мир! Теперь во мне</li>
-<li>пребывает мой Христос.</li>
-<li class="chorus chorus-top">в сердце бьёт мелодия ключом,</li>
-<li class="chorus">о, бьёт с небес ключом и сладостно течёт.</li>
-<li class="chorus">в сердце бьёт мелодия ключом,</li>
-<li class="chorus chorus-bottom">мелодия любви во мне.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>к престолу буду я восхищен</li>
-<li>и, свободный, буду петь.</li>
-<li>о, что за честь для победителя -</li>
-<li>миром с Господом владеть!</li>
-<li class="chorus chorus-top">в сердце бьёт мелодия ключом,</li>
-<li class="chorus">о, бьёт с небес ключом и сладостно течёт.</li>
-<li class="chorus">в сердце бьёт мелодия ключом,</li>
-<li class="chorus chorus-bottom">мелодия любви во мне.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>благословеньем наивысшим</li>
-<li>будет божий град святой</li>
-<li>с водой живой и древом жизни</li>
-<li>там, где всё во всём - Христос.</li>
-<li class="chorus chorus-top">в сердце бьёт мелодия ключом,</li>
-<li class="chorus">о, бьёт с небес ключом и сладостно течёт.</li>
-<li class="chorus">в сердце бьёт мелодия ключом,</li>
-<li class="chorus chorus-bottom">мелодия любви во мне.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "Я всю жизнь воды холодной"),
-    num: (num = 179),
+    num: (num = 164),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11363,71 +10309,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "Перед престолом Божьим есть"),
-    num: (num = 180),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>первосвященник для меня.</li>
-<li>он Тот, чьё имя есть Любовь,</li>
-<li>он жив, Защита Он моя.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>моё Он имя написал</li>
-<li>на сердце и руках Своих,</li>
-<li>пока стоит пред Богом Он,</li>
-<li>никто уйти мне не велит.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>когда во тьму толкает враг,</li>
-<li>меня преследуя виной,</li>
-<li>то ввысь смотрю я на Того,</li>
-<li>кто на Себе понёс грех мой.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>безгрешный умер за меня -</li>
-<li>грехи не числятся за мной;</li>
-<li>доволен Бог, и Он меня</li>
-<li>прощает, глядя на Него.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>воскресший Агнец - вот Он там!</li>
-<li>он праведность моя во всём,</li>
-<li>неизменяемый Я Есть,</li>
-<li>царь славы, благодати Он.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>я не умру - я с Ним одно,</li>
-<li>я кровью выкуплен Его,</li>
-<li>с Христом сокрыта жизнь моя,</li>
-<li>он мой Спаситель и мой Бог.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "Не знаю, почему Сам Бог"),
-    num: (num = 181),
+    num: (num = 165),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11501,7 +10384,7 @@ const pages = [
   },
   {
     title: (title = "О, твёрже основы той нет ничего,"),
-    num: (num = 182),
+    num: (num = 166),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11570,7 +10453,7 @@ const pages = [
   },
   {
     title: (title = "В Христе я! Что за радость! Всё во мне Он обновил!"),
-    num: (num = 183),
+    num: (num = 167),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11587,7 +10470,7 @@ const pages = [
   },
   {
     title: (title = "Христос мне радость подарил:"),
-    num: (num = 184),
+    num: (num = 168),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11635,7 +10518,7 @@ const pages = [
   },
   {
     title: (title = "Как ищет жаждущий олень"),
-    num: (num = 185),
+    num: (num = 169),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11689,7 +10572,7 @@ const pages = [
   },
   {
     title: (title = "Бог - цель моя; не радость и не мир,"),
-    num: (num = 186),
+    num: (num = 170),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11734,7 +10617,7 @@ const pages = [
   },
   {
     title: (title = "О, кустом в пустыне быть"),
-    num: (num = 187),
+    num: (num = 171),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11779,7 +10662,7 @@ const pages = [
   },
   {
     title: (title = "Магнит души моей!"),
-    num: (num = 188),
+    num: (num = 172),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11833,7 +10716,7 @@ const pages = [
   },
   {
     title: (title = "О Любовь, что всех превыше,"),
-    num: (num = 189),
+    num: (num = 173),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11894,7 +10777,7 @@ const pages = [
   },
   {
     title: (title = "Свет света, о, войди"),
-    num: (num = 190),
+    num: (num = 174),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -11981,7 +10864,7 @@ const pages = [
   },
   {
     title: (title = "Будь высшим, Иисус Христос."),
-    num: (num = 191),
+    num: (num = 175),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12035,7 +10918,7 @@ const pages = [
   },
   {
     title: (title = "Больше любви к Тебе,"),
-    num: (num = 192),
+    num: (num = 176),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12096,7 +10979,7 @@ const pages = [
   },
   {
     title: (title = "Пребудь со мной! Уж свет сменился мглой,"),
-    num: (num = 193),
+    num: (num = 177),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12150,7 +11033,7 @@ const pages = [
   },
   {
     title: (title = "Ты нужен мне всегда,"),
-    num: (num = 194),
+    num: (num = 178),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12224,7 +11107,7 @@ const pages = [
   },
   {
     title: (title = "Пусть не стоит между нами ничто."),
-    num: (num = 195),
+    num: (num = 179),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12303,7 +11186,7 @@ const pages = [
   },
   {
     title: (title = "Если путь мой только"),
-    num: (num = 196),
+    num: (num = 180),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12351,7 +11234,7 @@ const pages = [
   },
   {
     title: (title = "Возведи меня на гору,"),
-    num: (num = 197),
+    num: (num = 181),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12399,7 +11282,7 @@ const pages = [
   },
   {
     title: (title = "О Пища для скитальцев,"),
-    num: (num = 198),
+    num: (num = 182),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12447,7 +11330,7 @@ const pages = [
   },
   {
     title: (title = "Дай в полноте мне видеть Тебя,"),
-    num: (num = 199),
+    num: (num = 183),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12495,7 +11378,7 @@ const pages = [
   },
   {
     title: (title = "Больше хочу Иисуса знать,"),
-    num: (num = 200),
+    num: (num = 184),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12556,7 +11439,7 @@ const pages = [
   },
   {
     title: (title = "О Господь, я Твой; о Твоей любви"),
-    num: (num = 201),
+    num: (num = 185),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12617,7 +11500,7 @@ const pages = [
   },
   {
     title: (title = "Господь, дай в присутствии жить мне Твоём,"),
-    num: (num = 202),
+    num: (num = 186),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12678,7 +11561,7 @@ const pages = [
   },
   {
     title: (title = "О Господь, прошу Тебя,"),
-    num: (num = 203),
+    num: (num = 187),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12726,7 +11609,7 @@ const pages = [
   },
   {
     title: (title = "Кто имеет, тот получит"),
-    num: (num = 204),
+    num: (num = 188),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12790,7 +11673,7 @@ const pages = [
   },
   {
     title: (title = "Иисус Христос, расти во мне,"),
-    num: (num = 205),
+    num: (num = 189),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12864,7 +11747,7 @@ const pages = [
   },
   {
     title: (title = "Я каждый день стремлюсь вперёд;"),
-    num: (num = 206),
+    num: (num = 190),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12925,7 +11808,7 @@ const pages = [
   },
   {
     title: (title = "Дай святости больше"),
-    num: (num = 207),
+    num: (num = 191),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -12985,7 +11868,7 @@ const pages = [
   },
   {
     title: (title = "О, быть таким, как Ты, Искупитель!"),
-    num: (num = 208),
+    num: (num = 192),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -13059,7 +11942,7 @@ const pages = [
   },
   {
     title: (title = "Стать Ему подобным"),
-    num: (num = 209),
+    num: (num = 193),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -13131,7 +12014,7 @@ const pages = [
   },
   {
     title: (title = "Чрез меня, Господь, живи Ты;"),
-    num: (num = 210),
+    num: (num = 194),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -13192,7 +12075,7 @@ const pages = [
   },
   {
     title: (title = "О Бог, Отец славы, даруй мне сейчас"),
-    num: (num = 211),
+    num: (num = 195),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -13245,82 +12128,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "Красоту узрев земную,"),
-    num: (num = 212),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>вновь слепым готов я стать;</li>
-<li>лишь бы счастья быть с Тобою</li>
-<li>мне, Господь, не потерять.</li>
-<li class="chorus chorus-top">красоту узрев земную,</li>
-<li class="chorus">вновь слепым готов я стать;</li>
-<li class="chorus">лишь бы счастья быть с Тобою</li>
-<li class="chorus chorus-bottom">мне, Господь, не потерять.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>я рассвет, закат и звёзды</li>
-<li>созерцать смогу в раю;</li>
-<li>на земле слепцу довольноს</li>
-<li>только милость знать Твою.</li>
-<li class="chorus chorus-top">красоту узрев земную,</li>
-<li class="chorus">вновь слепым готов я стать;</li>
-<li class="chorus">лишь бы счастья быть с Тобою</li>
-<li class="chorus chorus-bottom">мне, Господь, не потерять.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>не от жала избавленье -</li>
-<li>благодать искал бы я,</li>
-<li>видя славу за завесой,</li>
-<li>что сияет на меня.</li>
-<li class="chorus chorus-top">красоту узрев земную,</li>
-<li class="chorus">вновь слепым готов я стать;</li>
-<li class="chorus">лишь бы счастья быть с Тобою</li>
-<li class="chorus chorus-bottom">мне, Господь, не потерять.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>верой видеть Иисуса</li>
-<li>я могу в кромешной тьме;</li>
-<li>тот, кто был всю жизнь в презренье,</li>
-<li>славный лик являет мне.</li>
-<li class="chorus chorus-top">красоту узрев земную,</li>
-<li class="chorus">вновь слепым готов я стать;</li>
-<li class="chorus">лишь бы счастья быть с Тобою</li>
-<li class="chorus chorus-bottom">мне, Господь, не потерять.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>мне сияет ярче солнца,</li>
-<li>звёзд, луны и всех планет</li>
-<li>от главы в венке терновом</li>
-<li>превосходной славы свет.</li>
-<li class="chorus chorus-top">красоту узрев земную,</li>
-<li class="chorus">вновь слепым готов я стать;</li>
-<li class="chorus">лишь бы счастья быть с Тобою</li>
-<li class="chorus chorus-bottom">мне, Господь, не потерять.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "Дай знать Твой путь, Господь,"),
-    num: (num = 213),
+    num: (num = 196),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -13367,172 +12176,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "Господь, безупречным желаю я стать,"),
-    num: (num = 214),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>да будешь Ты вечно во мне пребывать!</li>
-<li>всех идолов свергни, врагов всех разбей;</li>
-<li>омой меня - стану я снега белей!</li>
-<li class="chorus chorus-top">снега белей, да, снега белей.</li>
-<li class="chorus chorus-bottom">омой меня - стану я снега белей!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>господь, что не свято, Ты прочь изгони</li>
-<li>и кровью Своею все пятна сотри.</li>
-<li>оставлю я всё, чтоб стать чистым скорей;</li>
-<li>омой меня - стану я снега белей!</li>
-<li class="chorus chorus-top">снега белей, да, снега белей.</li>
-<li class="chorus chorus-bottom">омой меня - стану я снега белей!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>господь, умоляю, с небес посмотри</li>
-<li>и жертву Тебе принести помоги.</li>
-<li>что есть я, что знаю - отдам Тебе в ней.</li>
-<li>омой меня - стану я снега белей!.</li>
-<li class="chorus chorus-top">снега белей, да, снега белей.</li>
-<li class="chorus chorus-bottom">омой меня - стану я снега белей!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>господь Иисус, я об этом молю,</li>
-<li>у ног я Твоих пригвождённых стою.</li>
-<li>очищен чрез веру я кровью Твоей.</li>
-<li>омой меня - стану я снега белей!.</li>
-<li class="chorus chorus-top">снега белей, да, снега белей.</li>
-<li class="chorus chorus-bottom">омой меня - стану я снега белей!</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>господь Иисус, жду Тебя - посмотри!</li>
-<li>и новое сердце во мне сотвори.</li>
-<li>пред ищущим Ты не закроешь дверей.</li>
-<li>омой меня - стану я снега белей!</li>
-<li class="chorus chorus-top">снега белей, да, снега белей.</li>
-<li class="chorus chorus-bottom">омой меня - стану я снега белей!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "О Господь, откройся мне,"),
-    num: (num = 215),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>чтоб я плоть свою познал.</li>
-<li>благодатью так трудись,</li>
-<li>чтоб я в прах смиренно пал.</li>
-<li>как победы жажду я!</li>
-<li>но как слаб всю жизнь мою!</li>
-<li>зла оставить не могу</li>
-<li>и добра я не творю.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>жажду Господа внутри,</li>
-<li>но так зло себя веду!</li>
-<li>что за узы! Хоть хочу,</li>
-<li>измениться не могу.</li>
-<li>бог законом грех мой вскрыл,</li>
-<li>но закон греха - как сеть.</li>
-<li>хоть к свободе я и рвусь,</li>
-<li>избавления мне нет.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>часто падал и вставал,</li>
-<li>начинал - и крах терпел,</li>
-<li>в пораженье отступал,</li>
-<li>хоть победы я хотел.</li>
-<li>верно, продан я греху,</li>
-<li>полностью бессилен я.</li>
-<li>в плоти вовсе нет добра,</li>
-<li>лишь греховность в ней и тьма.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>я беспомощность свою</li>
-<li>признаю, узнав себя;</li>
-<li>и характер странен мой,</li>
-<li>и растленна жизнь моя.</li>
-<li>ни на душу, ни на плоть</li>
-<li>у меня надежды нет.</li>
-<li>иисус Христос, мой Царь, -</li>
-<li>вера и надежда мне.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>чтоб довериться Христу,</li>
-<li>пусть чрез крест я в смерть войду.</li>
-<li>чтоб Его я применял,</li>
-<li>пусть меня наполнит Дух.</li>
-<li>пусть сильнее смерть Его</li>
-<li>сокрушает моё «я»,</li>
-<li>чтобы жизнь Его могла</li>
-<li>изливаться чрез меня.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>о, как горек мой удел!</li>
-<li>кто от смерти может сей</li>
-<li>жалкого раба спасти</li>
-<li>к жизни побеждающей?</li>
-<li>кровь Свою Иисус излил,</li>
-<li>святостью Христос мне стал.</li>
-<li>он Себя как жизнь мою</li>
-<li>мне безмерной долей дал.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>о, теперь я освящён,</li>
-<li>подчиняюсь я ему;</li>
-<li>пред лицом Его всегда</li>
-<li>без стыда я предстаю.</li>
-<li>превосходна эта жизнь!</li>
-<li>он даёт мне благодать!</li>
-<li>вопль Господь услышал мой,</li>
-<li>и свободу мне Он дал!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "На меня взгляни, Иисус,"),
-    num: (num = 216),
+    num: (num = 197),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -13595,7 +12240,7 @@ const pages = [
   },
   {
     title: (title = "Не дай молиться и просить"),
-    num: (num = 217),
+    num: (num = 198),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -13637,7 +12282,7 @@ const pages = [
   },
   {
     title: (title = "Ты, Божья скрытая любовь,"),
-    num: (num = 218),
+    num: (num = 199),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -13723,7 +12368,7 @@ const pages = [
   },
   {
     title: (title = "Господь, сними покров,"),
-    num: (num = 219),
+    num: (num = 200),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -13836,7 +12481,7 @@ const pages = [
   },
   {
     title: (title = "Когда в себе я нахожусь,"),
-    num: (num = 220),
+    num: (num = 201),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -13926,7 +12571,7 @@ const pages = [
   },
   {
     title: (title = "Нас научи, Господь,"),
-    num: (num = 221),
+    num: (num = 202),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14016,7 +12661,7 @@ const pages = [
   },
   {
     title: (title = "Господь, укрепи меня в духе,"),
-    num: (num = 222),
+    num: (num = 203),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14077,7 +12722,7 @@ const pages = [
   },
   {
     title: (title = "Нас освящай, Господь, Себя в нас добавляй,"),
-    num: (num = 223),
+    num: (num = 204),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14156,7 +12801,7 @@ const pages = [
   },
   {
     title: (title = "Лицо Его ангелы видят, но им"),
-    num: (num = 224),
+    num: (num = 205),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14235,7 +12880,7 @@ const pages = [
   },
   {
     title: (title = "Бог мой, Твоя любовь меня теснит;"),
-    num: (num = 225),
+    num: (num = 206),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14280,7 +12925,7 @@ const pages = [
   },
   {
     title: (title = "О неотступная Любовь,"),
-    num: (num = 226),
+    num: (num = 207),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14329,7 +12974,7 @@ const pages = [
   },
   {
     title: (title = "Твой я, Господь! - Час радости безбрежной,"),
-    num: (num = 227),
+    num: (num = 208),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14374,7 +13019,7 @@ const pages = [
   },
   {
     title: (title = "Горько, стыдно вспоминать мне"),
-    num: (num = 228),
+    num: (num = 209),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14427,7 +13072,7 @@ const pages = [
   },
   {
     title: (title = "Господь, Ты отдал жизнь"),
-    num: (num = 229),
+    num: (num = 210),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14513,313 +13158,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "Слышал, видел ты Иисуса?"),
-    num: (num = 230),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>сердце Он твоё пленил?</li>
-<li>о, признай, что Он всех лучше,</li>
-<li>часть благую избери.</li>
-<li class="chorus chorus-top">красотой Его пленённый,</li>
-<li class="chorus">честь воздай Ему скорей.</li>
-<li class="chorus">пусть влечёт тебя достойный,</li>
-<li class="chorus chorus-bottom">несравненный Царь царей.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>прежде идолы прельщали,</li>
-<li>мишурой влекли тебя;</li>
-<li>грех тебя обезоружил,</li>
-<li>позолотою слепя.</li>
-<li class="chorus chorus-top">красотой Его пленённый,</li>
-<li class="chorus">честь воздай Ему скорей.</li>
-<li class="chorus">пусть влечёт тебя достойный,</li>
-<li class="chorus chorus-bottom">несравненный Царь царей.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>что же идолов лишило</li>
-<li>их фальшивой красоты?</li>
-<li>нет, не долг, а лик прекрасный,</li>
-<li>что теперь увидел ты.</li>
-<li class="chorus chorus-top">красотой Его пленённый,</li>
-<li class="chorus">честь воздай Ему скорей.</li>
-<li class="chorus">пусть влечёт тебя достойный,</li>
-<li class="chorus chorus-bottom">несравненный Царь царей.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>и не идолов крушенье</li>
-<li>с болью, с горькой пустотой,</li>
-<li>а что Он открылся сердцем,</li>
-<li>воссиял Своей красой.</li>
-<li class="chorus chorus-top">красотой Его пленённый,</li>
-<li class="chorus">честь воздай Ему скорей.</li>
-<li class="chorus">пусть влечёт тебя достойный,</li>
-<li class="chorus chorus-bottom">несравненный Царь царей.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>кто погасит свой светильник,</li>
-<li>прежде чем рассвет придёт,</li>
-<li>снимет зимнюю одежду,</li>
-<li>прежде чем растает лёд?</li>
-<li class="chorus chorus-top">красотой Его пленённый,</li>
-<li class="chorus">честь воздай Ему скорей.</li>
-<li class="chorus">пусть влечёт тебя достойный,</li>
-<li class="chorus chorus-bottom">несравненный Царь царей.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>только взгляд, Петра пленивший,</li>
-<li>явленный Стефану лик,</li>
-<li>сердце, чуткое к Марии,</li>
-<li>свергнет идолов всех вмиг.</li>
-<li class="chorus chorus-top">красотой Его пленённый,</li>
-<li class="chorus">честь воздай Ему скорей.</li>
-<li class="chorus">пусть влечёт тебя достойный,</li>
-<li class="chorus chorus-bottom">несравненный Царь царей.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>захвати и наполняй нас,</li>
-<li>чтоб чрез край поток бежал.</li>
-<li>что нам идолы земные -</li>
-<li>тем, кому Он другом стал?</li>
-<li class="chorus chorus-top">красотой Его пленённый,</li>
-<li class="chorus">честь воздай Ему скорей.</li>
-<li class="chorus">пусть влечёт тебя достойный,</li>
-<li class="chorus chorus-bottom">несравненный Царь царей.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "От мира отвернулся я -"),
-    num: (num = 231),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>чужды его соблазны,</li>
-<li>тщеславный блеск и мишура</li>
-<li>слепят меня напрасно.</li>
-<li>дары богаче и святей</li>
-<li>я сердцу предоставил;</li>
-<li>я за порог переступил</li>
-<li>и мир навек оставил.</li>
-<li class="chorus chorus-top">навек оставил!</li>
-<li class="chorus">навек оставил!</li>
-<li class="chorus">я за порог переступил</li>
-<li class="chorus chorus-bottom">и мир навек оставил.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>я жизнь пустую во грехе</li>
-<li>оставил в мире этом;</li>
-<li>мой дом - Христос, и верен я</li>
-<li>святым Его обетам.</li>
-<li>пусть мир кичится - я себе</li>
-<li>крест знаменем поставил;</li>
-<li>прошёл в Христе из смерти в жизнь</li>
-<li>и мир навек оставил.</li>
-<li class="chorus chorus-top">навек оставил!</li>
-<li class="chorus">навек оставил!</li>
-<li class="chorus">прошёл в Христе из смерти в жизнь</li>
-<li class="chorus chorus-bottom">и мир навек оставил.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>назад не возвратится вновь</li>
-<li>душа моя отныне -</li>
-<li>ведь только здесь царит покой</li>
-<li>и нет вины в помине;</li>
-<li>себя обетом славы я</li>
-<li>от прежних уз избавил</li>
-<li>и навсегда отринул мир,</li>
-<li>да, мир навек оставил.</li>
-<li class="chorus chorus-top">навек оставил!</li>
-<li class="chorus">навек оставил!</li>
-<li class="chorus">и навсегда отринул мир,</li>
-<li class="chorus chorus-bottom">да, мир навек оставил.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>мой выбор сделан - не ищу</li>
-<li>спасителя иного,</li>
-<li>нет выше счастья, чем любовь</li>
-<li>и благодать Христова;</li>
-<li>мир не слепит меня с тех пор,,</li>
-<li>как я Христа восславил,,</li>
-<li>с Ним в Красном море смерть прошёл</li>
-<li>и мир навек оставил.</li>
-<li class="chorus chorus-top">навек оставил!</li>
-<li class="chorus">навек оставил!</li>
-<li class="chorus">с Ним в Красном море смерть прошёл</li>
-<li class="chorus chorus-bottom">и мир навек оставил.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "Я Святому Духу"),
-    num: (num = 232),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>отдан целиком!</li>
-<li>всё отдам я ради</li>
-<li>полноты Его.</li>
-<li>покидаю берег,</li>
-<li>погружаюсь я</li>
-<li>в глубь той силы Духа,</li>
-<li>что хранит меня.</li>
-<li class="chorus chorus-top">целиком я отдан</li>
-<li class="chorus">господу всего.</li>
-<li class="chorus">он зовёт - стремлюсь я</li>
-<li class="chorus chorus-bottom">к полноте Его.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>я Святому Духу</li>
-<li>отдан целиком!</li>
-<li>я себя теряю,</li>
-<li>утопая в Нём.</li>
-<li>жду, когда разбитый</li>
-<li>и пустой сосуд</li>
-<li>он Собой наполнит,</li>
-<li>завершит Свой труд.</li>
-<li class="chorus chorus-top">целиком я отдан</li>
-<li class="chorus">господу всего.</li>
-<li class="chorus">он зовёт - стремлюсь я</li>
-<li class="chorus chorus-bottom">к полноте Его.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>воле Божьей отдан</li>
-<li>целиком, во всём.</li>
-<li>где прошёл Господь мой,</li>
-<li>тем иду путём.</li>
-<li>вместо удовольствий</li>
-<li>выбор мой - Господь.</li>
-<li>слушаю Его я -</li>
-<li>пусть меня ведёт.</li>
-<li class="chorus chorus-top">целиком я отдан</li>
-<li class="chorus">господу всего.</li>
-<li class="chorus">он зовёт - стремлюсь я</li>
-<li class="chorus chorus-bottom">к полноте Его.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>полностью я отдан,</li>
-<li>навсегда Ему!</li>
-<li>выбираю волю</li>
-<li>божью, не свою.</li>
-<li>все свои стремленья</li>
-<li>в ней я потерял;</li>
-<li>нищий я, но всем в Нём</li>
-<li>обладаю я.</li>
-<li class="chorus chorus-top">целиком я отдан</li>
-<li class="chorus">господу всего.</li>
-<li class="chorus">он зовёт - стремлюсь я</li>
-<li class="chorus chorus-bottom">к полноте Его.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>полностью я отдан!</li>
-<li>он пленил меня,</li>
-<li>но в любовных узах</li>
-<li>так свободен я!</li>
-<li>от греха свободен,</li>
-<li>страха и невзгод,</li>
-<li>от тревог, сомнений,</li>
-<li>горя и забот.</li>
-<li class="chorus chorus-top">целиком я отдан</li>
-<li class="chorus">господу всего.</li>
-<li class="chorus">он зовёт - стремлюсь я</li>
-<li class="chorus chorus-bottom">к полноте Его.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>полностью я отдан!</li>
-<li>весь я для Него!</li>
-<li>в сладостном покое</li>
-<li>жду у ног Его.</li>
-<li>жду, когда наполнит</li>
-<li>мой Господь меня</li>
-<li>и внутри очищен</li>
-<li>весь Им буду я.</li>
-<li class="chorus chorus-top">целиком я отдан</li>
-<li class="chorus">господу всего.</li>
-<li class="chorus">он зовёт - стремлюсь я</li>
-<li class="chorus chorus-bottom">к полноте Его.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>о, Господь так близок</li>
-<li>в Духе для меня!</li>
-<li>в Нём я совершенен!</li>
-<li>и блажен в Нём я!</li>
-<li>впредь не потускнеет</li>
-<li>свет внутри меня.</li>
-<li>для Него лишь буду</li>
-<li>жить отныне я!</li>
-<li class="chorus chorus-top">целиком я отдан</li>
-<li class="chorus">господу всего.</li>
-<li class="chorus">он зовёт - стремлюсь я</li>
-<li class="chorus chorus-bottom">к полноте Его.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "Всё Иисусу отдаю я,"),
-    num: (num = 233),
+    num: (num = 211),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14893,7 +13233,7 @@ const pages = [
   },
   {
     title: (title = "Всё отдам я Иисусу!"),
-    num: (num = 234),
+    num: (num = 212),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -14967,7 +13307,7 @@ const pages = [
   },
   {
     title: (title = "Жизнь возьми, Господь! Дай мне"),
-    num: (num = 235),
+    num: (num = 213),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -15036,7 +13376,7 @@ const pages = [
   },
   {
     title: (title = "Что Тебе дам, Владыка?"),
-    num: (num = 236),
+    num: (num = 214),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -15096,7 +13436,7 @@ const pages = [
   },
   {
     title: (title = "Жизнь возьми, Господь! Дай мне"),
-    num: (num = 237),
+    num: (num = 215),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -15170,7 +13510,7 @@ const pages = [
   },
   {
     title: (title = "Делай, Господь мой,"),
-    num: (num = 238),
+    num: (num = 216),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -15231,7 +13571,7 @@ const pages = [
   },
   {
     title: (title = "Не мани земной усладой"),
-    num: (num = 239),
+    num: (num = 217),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -15291,7 +13631,7 @@ const pages = [
   },
   {
     title: (title = "Жить для Иисуса и преданным быть,"),
-    num: (num = 240),
+    num: (num = 218),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -15368,7 +13708,7 @@ const pages = [
   },
   {
     title: (title = "за тобой, Иисус, иду я,"),
-    num: (num = 241),
+    num: (num = 219),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -15428,62 +13768,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "его люблю, Ему служу."),
-    num: (num = 242),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>как по стопам Его идти</li>
-<li>к престолу вышнему Его</li>
-<li>и не свернуть с того пути?</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>печаль, презренье и нужда,</li>
-<li>и бедный дом, и тяжкий труд,</li>
-<li>иудин поцелуй и тёрн -</li>
-<li>не в том ли посвященья путь?</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>господь, в страданиях моих</li>
-<li>дай никогда мне не роптать</li>
-<li>и, помня на кресте Тебя,</li>
-<li>своих скорбей не замечать.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>дай помнить мне, как Ты тогда</li>
-<li>радостей жизни не искал;</li>
-<li>бездомный ночью, днём в трудах,</li>
-<li>не ел, скорбел, изнемогал.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>и Ты Себе не угождал -</li>
-<li>страдал и умер за меня;</li>
-<li>так буду ли покой земной</li>
-<li>любить я больше, чем Тебя?</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "мне дорог Господин мой,"),
-    num: (num = 243),
+    num: (num = 220),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -15530,102 +13816,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "кто сейчас Господень,"),
-    num: (num = 244),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>чтоб Царю служить,</li>
-<li>чтоб другие души</li>
-<li>к Богу приводить?</li>
-<li>кто сей мир оставит,</li>
-<li>встанет за Него?</li>
-<li>кто на поле брани</li>
-<li>встретится с врагом?</li>
-<li class="chorus chorus-top">искупив Себе нас,</li>
-<li class="chorus">дал Ты благодать -</li>
-<li class="chorus">будем мы, Спаситель,</li>
-<li class="chorus chorus-bottom">за Тебя стоять!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>не награды жажда</li>
-<li>в войско нас зовёт -</li>
-<li>нас любовь Иисуса</li>
-<li>жизнь отдать влечёт:</li>
-<li>за кого Он умер</li>
-<li>и призвал кого,</li>
-<li>тот стоять отныне</li>
-<li>должен за Него.</li>
-<li class="chorus chorus-top">искупив Себе нас,</li>
-<li class="chorus">дал Ты благодать -</li>
-<li class="chorus">будем мы, Спаситель,</li>
-<li class="chorus chorus-bottom">за Тебя стоять!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>нас не златом тленным</li>
-<li>ты, Иисус, купил -</li>
-<li>кровь пролил, чтоб сделать</li>
-<li>нас венцом Твоим.</li>
-<li>и благословеньем,</li>
-<li>что Ты даровал,</li>
-<li>нам сердца зажёг Ты</li>
-<li>и свободу дал.</li>
-<li class="chorus chorus-top">искупив Себе нас,</li>
-<li class="chorus">дал Ты благодать -</li>
-<li class="chorus">будем мы, Спаситель,</li>
-<li class="chorus chorus-bottom">за Тебя стоять!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>пусть свирепа схватка,</li>
-<li>и силён пусть враг,</li>
-<li>но непобедимо</li>
-<li>воинство Царя.</li>
-<li>верная победа</li>
-<li>в знамени Его,</li>
-<li>ибо неизменна</li>
-<li>истина Его.</li>
-<li class="chorus chorus-top">искупив Себе нас,</li>
-<li class="chorus">дал Ты благодать -</li>
-<li class="chorus">будем мы, Спаситель,</li>
-<li class="chorus chorus-bottom">за Тебя стоять!</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>воины мы ныне</li>
-<li>на чужой земле:</li>
-<li>вождь призвал нас в войско,</li>
-<li>нас избрав Себе.</li>
-<li>пусть в служенье царском</li>
-<li>не остынем мы;</li>
-<li>будем непорочны,</li>
-<li>смелы и верны!</li>
-<li class="chorus chorus-top">искупив Себе нас,</li>
-<li class="chorus">дал Ты благодать -</li>
-<li class="chorus">будем мы, Спаситель,</li>
-<li class="chorus chorus-bottom">за Тебя стоять!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "могу ли в стороне стоять"),
-    num: (num = 245),
+    num: (num = 221),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -15678,7 +13870,7 @@ const pages = [
   },
   {
     title: (title = "не может никакой язык"),
-    num: (num = 246),
+    num: (num = 222),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -15726,7 +13918,7 @@ const pages = [
   },
   {
     title: (title = "я един с Тобой, Господь мой,"),
-    num: (num = 247),
+    num: (num = 223),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -15813,7 +14005,7 @@ const pages = [
   },
   {
     title: (title = "мы одно с Тобой, Сын Вечный,"),
-    num: (num = 248),
+    num: (num = 224),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -15874,7 +14066,7 @@ const pages = [
   },
   {
     title: (title = "пусть бы Христос родился"),
-    num: (num = 249),
+    num: (num = 225),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -15933,74 +14125,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "правом чудесным Иисус"),
-    num: (num = 250),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>дал мне теперь обладать:</li>
-<li>точно как Он быть могу</li>
-<li>через Его благодать.</li>
-<li>знаю - когда Он придёт,</li>
-<li>буду подобен Ему,</li>
-<li>но, по земле с Ним ходя,</li>
-<li>точно как Он быть могу.</li>
-<li class="chorus chorus-top">точно как Он,</li>
-<li class="chorus">точно как Он.</li>
-<li class="chorus">о, спасены чрез благодать,</li>
-<li class="chorus">с Ним мы едиными можем стать,</li>
-<li class="chorus">да, как Спаситель,</li>
-<li class="chorus chorus-bottom">точно как Он.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>с Ним в Его смерти един</li>
-<li>и в воскресенье Его,</li>
-<li>я от проклятия чист</li>
-<li>вместе со славным Главой.</li>
-<li>с Ним на престоле одно,</li>
-<li>в Божьем сыновстве я с Ним;</li>
-<li>он мне как ветви - лоза</li>
-<li>и как невесте - жених.</li>
-<li class="chorus chorus-top">точно как Он,</li>
-<li class="chorus">точно как Он.</li>
-<li class="chorus">о, спасены чрез благодать,</li>
-<li class="chorus">с Ним мы едиными можем стать,</li>
-<li class="chorus">да, как Спаситель,</li>
-<li class="chorus chorus-bottom">точно как Он.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>с Ним я в свершеньях Его;</li>
-<li>с Ним я в молитве одно;</li>
-<li>требовать смело могу</li>
-<li>всё, что Иисусу дано.</li>
-<li>в вере Его и любви,,</li>
-<li>в жизни един с Ним во всём;</li>
-<li>духа печать мне дана -</li>
-<li>свят я могу быть, как Он.</li>
-<li class="chorus chorus-top">точно как Он,</li>
-<li class="chorus">точно как Он.</li>
-<li class="chorus">о, спасены чрез благодать,</li>
-<li class="chorus">с Ним мы едиными можем стать,</li>
-<li class="chorus">да, как Спаситель,</li>
-<li class="chorus chorus-bottom">точно как Он.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "со Христом распят для мира,"),
-    num: (num = 251),
+    num: (num = 226),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16060,7 +14186,7 @@ const pages = [
   },
   {
     title: (title = "на кресте распят с Христом я,"),
-    num: (num = 252),
+    num: (num = 227),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16147,7 +14273,7 @@ const pages = [
   },
   {
     title: (title = "умер с Христом и с Ним воскрешён -"),
-    num: (num = 253),
+    num: (num = 228),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16206,7 +14332,7 @@ const pages = [
   },
   {
     title: (title = "что за чудный факт: я со Христом распят,"),
-    num: (num = 254),
+    num: (num = 229),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16227,7 +14353,7 @@ const pages = [
   },
   {
     title: (title = "тайну, Господь, открыл Ты мне:"),
-    num: (num = 255),
+    num: (num = 230),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16308,7 +14434,7 @@ const pages = [
   },
   {
     title: (title = "будем Господу петь в нашем духе,"),
-    num: (num = 256),
+    num: (num = 231),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16353,7 +14479,7 @@ const pages = [
   },
   {
     title: (title = "иисус Господь - Дух жизни,"),
-    num: (num = 257),
+    num: (num = 232),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16426,82 +14552,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "вот моя чудная повесть -"),
-    num: (num = 258),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>в сердце Христос моём;</li>
-<li>сам Иисус, Царь славы,</li>
-<li>дом обретает в нём.</li>
-<li class="chorus chorus-top">сам Христос, Сам Христос,</li>
-<li class="chorus">сам Христос во мне обитает;</li>
-<li class="chorus">он во мне, Он во мне,</li>
-<li class="chorus chorus-bottom">сам Христос, надежда славы.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>был ли когда-нибудь кто-то,</li>
-<li>кто б так, любя, страдал?</li>
-<li>был ли Жених, столь желанный,</li>
-<li>кто бы нас так искал?</li>
-<li class="chorus chorus-top">сам Христос, Сам Христос,</li>
-<li class="chorus">сам Христос во мне обитает;</li>
-<li class="chorus">он во мне, Он во мне,</li>
-<li class="chorus chorus-bottom">сам Христос, надежда славы.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>счастлив, что принял Его я,</li>
-<li>царь мой теперь Иисус;</li>
-<li>прежде Его огорчавший,</li>
-<li>всё отдаю Ему.</li>
-<li class="chorus chorus-top">сам Христос, Сам Христос,</li>
-<li class="chorus">сам Христос во мне обитает;</li>
-<li class="chorus">он во мне, Он во мне,</li>
-<li class="chorus chorus-bottom">сам Христос, надежда славы.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>разве останусь один я?</li>
-<li>разве могу упасть?</li>
-<li>ведь мой Христос - всё во всём мне,</li>
-<li>есть ли блаженней часть?</li>
-<li class="chorus chorus-top">сам Христос, Сам Христос,</li>
-<li class="chorus">сам Христос во мне обитает;</li>
-<li class="chorus">он во мне, Он во мне,</li>
-<li class="chorus chorus-bottom">сам Христос, надежда славы.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ныне сокрыт в Его лоне,</li>
-<li>сердце моё поёт;</li>
-<li>я во Христе пребываю,</li>
-<li>и Он во мне живёт.</li>
-<li class="chorus chorus-top">сам Христос, Сам Христос,</li>
-<li class="chorus">сам Христос во мне обитает;</li>
-<li class="chorus">он во мне, Он во мне,</li>
-<li class="chorus chorus-bottom">сам Христос, надежда славы.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "о, что за жизнь! О, что за мир!"),
-    num: (num = 259),
+    num: (num = 233),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16562,7 +14614,7 @@ const pages = [
   },
   {
     title: (title = "мой славный Спаситель Христос,"),
-    num: (num = 260),
+    num: (num = 234),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16662,7 +14714,7 @@ const pages = [
   },
   {
     title: (title = "я мёртвым был в грехе,"),
-    num: (num = 261),
+    num: (num = 235),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16710,7 +14762,7 @@ const pages = [
   },
   {
     title: (title = "спасителю служу я,"),
-    num: (num = 262),
+    num: (num = 236),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16782,7 +14834,7 @@ const pages = [
   },
   {
     title: (title = "человек есть во славе,"),
-    num: (num = 263),
+    num: (num = 237),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16851,7 +14903,7 @@ const pages = [
   },
   {
     title: (title = "вдали от Бога, в темноте,"),
-    num: (num = 264),
+    num: (num = 238),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16912,7 +14964,7 @@ const pages = [
   },
   {
     title: (title = "о, ты свободен, пленник!"),
-    num: (num = 265),
+    num: (num = 239),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -16973,7 +15025,7 @@ const pages = [
   },
   {
     title: (title = "слава! Слава! Верно, жизнь - Христос!"),
-    num: (num = 266),
+    num: (num = 240),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17000,7 +15052,7 @@ const pages = [
   },
   {
     title: (title = "на сад Эдемский посмотри:"),
-    num: (num = 267),
+    num: (num = 241),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17074,7 +15126,7 @@ const pages = [
   },
   {
     title: (title = "как сладок древа жизни плод!"),
-    num: (num = 268),
+    num: (num = 242),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17119,7 +15171,7 @@ const pages = [
   },
   {
     title: (title = "«ешь и пей, - Господь зовёт нас, -"),
-    num: (num = 269),
+    num: (num = 243),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17152,7 +15204,7 @@ const pages = [
   },
   {
     title: (title = "он - благодать и истина."),
-    num: (num = 270),
+    num: (num = 244),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17205,7 +15257,7 @@ const pages = [
   },
   {
     title: (title = "пей! Исходит от престола чистая река."),
-    num: (num = 271),
+    num: (num = 245),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17266,7 +15318,7 @@ const pages = [
   },
   {
     title: (title = "я счастлив, ибо я обрёл"),
-    num: (num = 272),
+    num: (num = 246),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17410,7 +15462,7 @@ const pages = [
   },
   {
     title: (title = "говорим лишь об Иисусе,"),
-    num: (num = 273),
+    num: (num = 247),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17497,7 +15549,7 @@ const pages = [
   },
   {
     title: (title = "дар, благословенье"),
-    num: (num = 274),
+    num: (num = 248),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17591,7 +15643,7 @@ const pages = [
   },
   {
     title: (title = "всё изменчиво, но «Он есть»,"),
-    num: (num = 275),
+    num: (num = 249),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17680,7 +15732,7 @@ const pages = [
   },
   {
     title: (title = "мой Иисус для меня - всё во всём."),
-    num: (num = 276),
+    num: (num = 250),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17754,7 +15806,7 @@ const pages = [
   },
   {
     title: (title = "кто, о Господь, на небе мне?"),
-    num: (num = 277),
+    num: (num = 251),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17828,7 +15880,7 @@ const pages = [
   },
   {
     title: (title = "христос, в Тебе моя душа,"),
-    num: (num = 278),
+    num: (num = 252),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17892,7 +15944,7 @@ const pages = [
   },
   {
     title: (title = "я к Источнику Жизни пришёл;"),
-    num: (num = 279),
+    num: (num = 253),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -17969,7 +16021,7 @@ const pages = [
   },
   {
     title: (title = "как скучны, унылы часы,"),
-    num: (num = 280),
+    num: (num = 254),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18030,7 +16082,7 @@ const pages = [
   },
   {
     title: (title = "всё для меня мой Иисус!"),
-    num: (num = 281),
+    num: (num = 255),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18091,7 +16143,7 @@ const pages = [
   },
   {
     title: (title = "пусть меркнет блеск земной -"),
-    num: (num = 282),
+    num: (num = 256),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18152,7 +16204,7 @@ const pages = [
   },
   {
     title: (title = "божья любовь Ты, Иисус,"),
-    num: (num = 283),
+    num: (num = 257),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18193,7 +16245,7 @@ const pages = [
   },
   {
     title: (title = "в имя Иисуса верю я -"),
-    num: (num = 284),
+    num: (num = 258),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18257,7 +16309,7 @@ const pages = [
   },
   {
     title: (title = "что за чудную свободу"),
-    num: (num = 285),
+    num: (num = 259),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18344,7 +16396,7 @@ const pages = [
   },
   {
     title: (title = "господь - добрый Пастырь вовек мне,"),
-    num: (num = 286),
+    num: (num = 260),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18438,7 +16490,7 @@ const pages = [
   },
   {
     title: (title = "господь, знаю - мой Ты, Тебя я люблю,"),
-    num: (num = 287),
+    num: (num = 261),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18483,7 +16535,7 @@ const pages = [
   },
   {
     title: (title = "о мой Господь, я так люблю Тебя,"),
-    num: (num = 288),
+    num: (num = 262),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18514,7 +16566,7 @@ const pages = [
   },
   {
     title: (title = "если любим не Иисуса,"),
-    num: (num = 289),
+    num: (num = 263),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18568,7 +16620,7 @@ const pages = [
   },
   {
     title: (title = "иисус, любимый,"),
-    num: (num = 290),
+    num: (num = 264),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18642,7 +16694,7 @@ const pages = [
   },
   {
     title: (title = "дорогой Господь Иисус мой,"),
-    num: (num = 291),
+    num: (num = 265),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18728,7 +16780,7 @@ const pages = [
   },
   {
     title: (title = "о Иисус, пленён Твоей красою,"),
-    num: (num = 292),
+    num: (num = 266),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18789,7 +16841,7 @@ const pages = [
   },
   {
     title: (title = "о, Христос в сиянье славы"),
-    num: (num = 293),
+    num: (num = 267),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18850,7 +16902,7 @@ const pages = [
   },
   {
     title: (title = "мне в присутствии Иисуса"),
-    num: (num = 294),
+    num: (num = 268),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18915,7 +16967,7 @@ const pages = [
   },
   {
     title: (title = "в присутствие Господа я"),
-    num: (num = 295),
+    num: (num = 269),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -18963,7 +17015,7 @@ const pages = [
   },
   {
     title: (title = "имя Твоё - как масть, что разлита;"),
-    num: (num = 296),
+    num: (num = 270),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19044,7 +17096,7 @@ const pages = [
   },
   {
     title: (title = "я Тебя касаюсь верой,"),
-    num: (num = 297),
+    num: (num = 271),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19105,7 +17157,7 @@ const pages = [
   },
   {
     title: (title = "свет жизни! В нём живи,"),
-    num: (num = 298),
+    num: (num = 272),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19125,7 +17177,7 @@ const pages = [
   },
   {
     title: (title = "ты, Господь, сказал однажды:"),
-    num: (num = 299),
+    num: (num = 273),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19224,7 +17276,7 @@ const pages = [
   },
   {
     title: (title = "в Тебе пребуду! Мой Господь Иисус,"),
-    num: (num = 300),
+    num: (num = 274),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19269,7 +17321,7 @@ const pages = [
   },
   {
     title: (title = "я постиг секрет чудесный"),
-    num: (num = 301),
+    num: (num = 275),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19354,7 +17406,7 @@ const pages = [
   },
   {
     title: (title = "жизни секрет мы постигли,"),
-    num: (num = 302),
+    num: (num = 276),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19423,7 +17475,7 @@ const pages = [
   },
   {
     title: (title = "верю обету Твоему, Господь,"),
-    num: (num = 303),
+    num: (num = 277),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19486,7 +17538,7 @@ const pages = [
   },
   {
     title: (title = "ослабла воля, силы нет;"),
-    num: (num = 304),
+    num: (num = 278),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19531,7 +17583,7 @@ const pages = [
   },
   {
     title: (title = "если с Господом мы"),
-    num: (num = 305),
+    num: (num = 279),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19615,7 +17667,7 @@ const pages = [
   },
   {
     title: (title = "бог сокровищем бесценным"),
-    num: (num = 306),
+    num: (num = 280),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19676,7 +17728,7 @@ const pages = [
   },
   {
     title: (title = "вот из глиняных сосудов"),
-    num: (num = 307),
+    num: (num = 281),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19730,7 +17782,7 @@ const pages = [
   },
   {
     title: (title = "нет, не меня! Христа во мне пусть видят!"),
-    num: (num = 308),
+    num: (num = 282),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19804,7 +17856,7 @@ const pages = [
   },
   {
     title: (title = "иисус к Себе сердца день ото дня влечёт сильней,"),
-    num: (num = 309),
+    num: (num = 283),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19865,7 +17917,7 @@ const pages = [
   },
   {
     title: (title = "что за славная победа!"),
-    num: (num = 310),
+    num: (num = 284),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19929,7 +17981,7 @@ const pages = [
   },
   {
     title: (title = "о мой Господь, я был слепым,"),
-    num: (num = 311),
+    num: (num = 285),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -19983,7 +18035,7 @@ const pages = [
   },
   {
     title: (title = "о Доля и Любовь моя,"),
-    num: (num = 312),
+    num: (num = 286),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20052,7 +18104,7 @@ const pages = [
   },
   {
     title: (title = "в моём духе, внутри, - вечной жизни родник:"),
-    num: (num = 313),
+    num: (num = 287),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20100,7 +18152,7 @@ const pages = [
   },
   {
     title: (title = "жизнь есть удивительная Личность:"),
-    num: (num = 314),
+    num: (num = 288),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20172,7 +18224,7 @@ const pages = [
   },
   {
     title: (title = "без давления маслины"),
-    num: (num = 315),
+    num: (num = 289),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20266,7 +18318,7 @@ const pages = [
   },
   {
     title: (title = "жизнь воскресенья смерти не сдержать,"),
-    num: (num = 316),
+    num: (num = 290),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20329,7 +18381,7 @@ const pages = [
   },
   {
     title: (title = "из смерти - жизнь! Господь, о чём сказал Ты?"),
-    num: (num = 317),
+    num: (num = 291),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20374,7 +18426,7 @@ const pages = [
   },
   {
     title: (title = "душа, от тревог ты устала?"),
-    num: (num = 318),
+    num: (num = 292),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20422,7 +18474,7 @@ const pages = [
   },
   {
     title: (title = "стремись вперёд и принимай"),
-    num: (num = 319),
+    num: (num = 293),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20483,7 +18535,7 @@ const pages = [
   },
   {
     title: (title = "в состязанье мы бежим, - аллилуйя! -"),
-    num: (num = 320),
+    num: (num = 294),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20557,7 +18609,7 @@ const pages = [
   },
   {
     title: (title = "в самых глубинах в имени Твоём,"),
-    num: (num = 321),
+    num: (num = 295),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20593,7 +18645,7 @@ const pages = [
   },
   {
     title: (title = "утомлённый жизнью странник,"),
-    num: (num = 322),
+    num: (num = 296),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20672,7 +18724,7 @@ const pages = [
   },
   {
     title: (title = "средь испытаний на пути,"),
-    num: (num = 323),
+    num: (num = 297),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20720,7 +18772,7 @@ const pages = [
   },
   {
     title: (title = "мой Спаситель - Проводник мой;"),
-    num: (num = 324),
+    num: (num = 298),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20774,7 +18826,7 @@ const pages = [
   },
   {
     title: (title = "от земли идёшь ты к славе"),
-    num: (num = 325),
+    num: (num = 299),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20835,7 +18887,7 @@ const pages = [
   },
   {
     title: (title = "свеж, как роса на рассвете,"),
-    num: (num = 326),
+    num: (num = 300),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20895,7 +18947,7 @@ const pages = [
   },
   {
     title: (title = "хоть могут дни и ночи"),
-    num: (num = 327),
+    num: (num = 301),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -20930,7 +18982,7 @@ const pages = [
   },
   {
     title: (title = "что ждёт меня, не знаю -"),
-    num: (num = 328),
+    num: (num = 302),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21007,7 +19059,7 @@ const pages = [
   },
   {
     title: (title = "о, радуйтесь в Господе нашем всегда!"),
-    num: (num = 329),
+    num: (num = 303),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21055,7 +19107,7 @@ const pages = [
   },
   {
     title: (title = "не обещал Бог солнца без бурь,"),
-    num: (num = 330),
+    num: (num = 304),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21103,7 +19155,7 @@ const pages = [
   },
   {
     title: (title = "мне дал Иисус обещанье;"),
-    num: (num = 331),
+    num: (num = 305),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21197,7 +19249,7 @@ const pages = [
   },
   {
     title: (title = "пусть крест, что Он дал, будет тяжким,"),
-    num: (num = 332),
+    num: (num = 306),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21262,7 +19314,7 @@ const pages = [
   },
   {
     title: (title = "он больше даёт благодати и силы,"),
-    num: (num = 333),
+    num: (num = 307),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21298,7 +19350,7 @@ const pages = [
   },
   {
     title: (title = "тесним безмерно, свыше меры всей,"),
-    num: (num = 334),
+    num: (num = 308),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21340,7 +19392,7 @@ const pages = [
   },
   {
     title: (title = "божье Cлово мне даёт надежду:"),
-    num: (num = 335),
+    num: (num = 309),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21414,7 +19466,7 @@ const pages = [
   },
   {
     title: (title = "есть жизнь внутри у нас, чтоб жить ей каждый час,"),
-    num: (num = 336),
+    num: (num = 310),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21468,7 +19520,7 @@ const pages = [
   },
   {
     title: (title = "я - пред Тобой, Господь, и я молчу,"),
-    num: (num = 337),
+    num: (num = 311),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21540,7 +19592,7 @@ const pages = [
   },
   {
     title: (title = "учи, Господь, молиться меня;"),
-    num: (num = 338),
+    num: (num = 312),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21601,7 +19653,7 @@ const pages = [
   },
   {
     title: (title = "во Святом Святых престола я коснусь -"),
-    num: (num = 339),
+    num: (num = 313),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21649,7 +19701,7 @@ const pages = [
   },
   {
     title: (title = "«просишь - верь!», Иисуса имя -"),
-    num: (num = 340),
+    num: (num = 314),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21694,7 +19746,7 @@ const pages = [
   },
   {
     title: (title = "рано утром направляясь"),
-    num: (num = 341),
+    num: (num = 315),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21755,7 +19807,7 @@ const pages = [
   },
   {
     title: (title = "что за Друг нам дан в Иисусе -"),
-    num: (num = 342),
+    num: (num = 316),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21803,7 +19855,7 @@ const pages = [
   },
   {
     title: (title = "жду я Тебя, Господь, жду Тебя;"),
-    num: (num = 343),
+    num: (num = 317),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21861,80 +19913,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "душа, молчи и Господа дождись!"),
-    num: (num = 344),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>дай говорить Ему, а ты ответь.</li>
-<li>пусть Он начнёт в молитве говорить,</li>
-<li>а ты, канал, - через себя дай течь.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>душа, молчи и Господа дождись!</li>
-<li>учись и мысль, и волю отвергать,</li>
-<li>дай Богу чрез помазанье в тебе</li>
-<li>целей Своих в молитве достигать.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>душа, молчи и Господа дождись!</li>
-<li>молчи о том, что ищешь для себя,</li>
-<li>молчи о бремени земных забот,</li>
-<li>чтоб Свою волю Бог вложил в тебя.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>душа, молчи и Господа дождись!</li>
-<li>в разуме, в сердце духу дай всю власть;</li>
-<li>пусть явит дух, что открывает Бог,</li>
-<li>чтобы тебе слугою духа стать.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>душа, молчи и Господа дождись!</li>
-<li>духу позволь молиться чрез тебя;</li>
-<li>следуй за Духом существом своим -</li>
-<li>бога молитва явит так твоя.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>душа, молчи и Господа дождись!</li>
-<li>пусть станешь в духе с Богом ты одно,</li>
-<li>пусть через дух захватит Бог тебя,</li>
-<li>преобразует в Сына Своего.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>душа, молчи и Господа дождись!</li>
-<li>пусть чрез тебя течёт свободно Бог,</li>
-<li>пусть все слова и все дела твои</li>
-<li>будут лишь волю исполнять Его.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "дай мне прозреть, чтоб видеть мне"),
-    num: (num = 345),
+    num: (num = 318),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -21994,121 +19974,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "голодно сердце, и жаждет мой дух;"),
-    num: (num = 346),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>я прихожу за снабженьем Твоим;</li>
-<li>только в Тебе я нуждаюсь, Господь.</li>
-<li>голод и жажду Ты мне утоли.</li>
-<li class="chorus chorus-top">дай, о Господь мой, есть мне и пить,</li>
-<li class="chorus">голод и жажду мне утоли,</li>
-<li class="chorus">радость мне дай, силой жизни мне стань,</li>
-<li class="chorus chorus-bottom">голод и жажду мне утоли.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>пища, Господь, Ты и жизни вода;</li>
-<li>жизнь мне даёшь и возносишь дух мой.</li>
-<li>жажду вкушать я и пить от Тебя,</li>
-<li>в чтенье, молясь, наслаждаться Тобой.</li>
-<li class="chorus chorus-top">дай, о Господь мой, есть мне и пить,</li>
-<li class="chorus">голод и жажду мне утоли,</li>
-<li class="chorus">радость мне дай, силой жизни мне стань,</li>
-<li class="chorus chorus-bottom">голод и жажду мне утоли.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>слово Ты - Божья в Тебе полнота,</li>
-<li>дух Ты, чтоб жизнью стал Бог для меня;</li>
-<li>в Слове как пищей питаюсь Тобой,</li>
-<li>ты Сам как Дух есть вода для меня.</li>
-<li class="chorus chorus-top">дай, о Господь мой, есть мне и пить,</li>
-<li class="chorus">голод и жажду мне утоли,</li>
-<li class="chorus">радость мне дай, силой жизни мне стань,</li>
-<li class="chorus chorus-bottom">голод и жажду мне утоли.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>ты Сам как пища с небес к нам сошёл,</li>
-<li>чтоб стать питьём, для меня рассечён;</li>
-<li>пищей Ты щедро снабжаешь меня,</li>
-<li>свежей водою ко мне ты течёшь.</li>
-<li class="chorus chorus-top">дай, о Господь мой, есть мне и пить,</li>
-<li class="chorus">голод и жажду мне утоли,</li>
-<li class="chorus">радость мне дай, силой жизни мне стань,</li>
-<li class="chorus chorus-bottom">голод и жажду мне утоли.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>ты Дух и жизнь в Своём Слове, Господь;</li>
-<li>так я чрез Слово вкушаю Тебя;</li>
-<li>в духе моём обитаешь как Дух;</li>
-<li>так в моём духе я пью от Тебя.</li>
-<li class="chorus chorus-top">дай, о Господь мой, есть мне и пить,</li>
-<li class="chorus">голод и жажду мне утоли,</li>
-<li class="chorus">радость мне дай, силой жизни мне стань,</li>
-<li class="chorus chorus-bottom">голод и жажду мне утоли.</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>к Слову Тобой наслаждаться иду,</li>
-<li>ем от Тебя, чтоб исчез голод мой.</li>
-<li>в духе моём обращаюсь к Тебе,</li>
-<li>пью, утоляя всю жажду Тобой.</li>
-<li class="chorus chorus-top">дай, о Господь мой, есть мне и пить,</li>
-<li class="chorus">голод и жажду мне утоли,</li>
-<li class="chorus">радость мне дай, силой жизни мне стань,</li>
-<li class="chorus chorus-bottom">голод и жажду мне утоли.</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>о мой Господь, ем и пью от Тебя:</li>
-<li>чтением ем и молитвою пью;</li>
-<li>ем я и пью я, читая, молясь.</li>
-<li>что за снабженье в Тебе нахожу!</li>
-<li class="chorus chorus-top">дай, о Господь мой, есть мне и пить,</li>
-<li class="chorus">голод и жажду мне утоли,</li>
-<li class="chorus">радость мне дай, силой жизни мне стань,</li>
-<li class="chorus chorus-bottom">голод и жажду мне утоли.</li>
-</ul>
-</section>
-<section>
-<span class="number">8.</span>
-<ul>
-<li>здесь, мой Господь, дай Тобой пировать;</li>
-<li>духом и Словом меня наполняй;</li>
-<li>пиром, какого не знал человек,</li>
-<li>стань, о Господь Иисус, для меня.</li>
-<li class="chorus chorus-top">дай, о Господь мой, есть мне и пить,</li>
-<li class="chorus">голод и жажду мне утоли,</li>
-<li class="chorus">радость мне дай, силой жизни мне стань,</li>
-<li class="chorus chorus-bottom">голод и жажду мне утоли.</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "иду к Тебе, Господь,"),
-    num: (num = 347),
+    num: (num = 319),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -22162,7 +20029,7 @@ const pages = [
   },
   {
     title: (title = "как чудесно меняется вся моя жизнь:"),
-    num: (num = 348),
+    num: (num = 320),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -22249,7 +20116,7 @@ const pages = [
   },
   {
     title: (title = "жизнь моя, Господь, Ты;"),
-    num: (num = 349),
+    num: (num = 321),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -22336,7 +20203,7 @@ const pages = [
   },
   {
     title: (title = "о, на меня дохни,"),
-    num: (num = 350),
+    num: (num = 322),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -22390,7 +20257,7 @@ const pages = [
   },
   {
     title: (title = "о, пусть мой дух течёт,"),
-    num: (num = 351),
+    num: (num = 323),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -22477,7 +20344,7 @@ const pages = [
   },
   {
     title: (title = "славный сад церковной жизни!"),
-    num: (num = 352),
+    num: (num = 324),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -22553,7 +20420,7 @@ const pages = [
   },
   {
     title: (title = "никогда не снилось мне,"),
-    num: (num = 353),
+    num: (num = 325),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -22614,7 +20481,7 @@ const pages = [
   },
   {
     title: (title = "так клялся царь Давид:"),
-    num: (num = 354),
+    num: (num = 326),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -22679,7 +20546,7 @@ const pages = [
   },
   {
     title: (title = "реки переходим - да, евреи мы;"),
-    num: (num = 355),
+    num: (num = 327),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -22753,7 +20620,7 @@ const pages = [
   },
   {
     title: (title = "я ни за что не сдамся,"),
-    num: (num = 356),
+    num: (num = 328),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -22830,7 +20697,7 @@ const pages = [
   },
   {
     title: (title = "постоянно моё слово:"),
-    num: (num = 357),
+    num: (num = 329),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -22878,7 +20745,7 @@ const pages = [
   },
   {
     title: (title = "аллилуйя за победу!"),
-    num: (num = 358),
+    num: (num = 330),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -22951,195 +20818,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "хочешь жить как победитель? -"),
-    num: (num = 359),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>ведь Христос зовёт! -</li>
-<li>вслед за Ним пойти ты хочешь,</li>
-<li>путь не зная тот?</li>
-<li class="chorus chorus-top">хочешь жить как победитель,</li>
-<li class="chorus">сделать шаг сейчас?</li>
-<li class="chorus">сам Христос нас призывает,</li>
-<li class="chorus chorus-bottom">слушай этот глас!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>хочешь жить как победитель?</li>
-<li>к Господу стремись!</li>
-<li>и любви будь верен первой,</li>
-<li>утра с ней дождись.</li>
-<li class="chorus chorus-top">хочешь жить как победитель,</li>
-<li class="chorus">сделать шаг сейчас?</li>
-<li class="chorus">сам Христос нас призывает,</li>
-<li class="chorus chorus-bottom">слушай этот глас!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>хочешь жить как победитель?</li>
-<li>верным пребывай,</li>
-<li>его жизнью все гоненья</li>
-<li>ты претерпевай.</li>
-<li class="chorus chorus-top">хочешь жить как победитель,</li>
-<li class="chorus">сделать шаг сейчас?</li>
-<li class="chorus">сам Христос нас призывает,</li>
-<li class="chorus chorus-bottom">слушай этот глас!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>хочешь жить как победитель?</li>
-<li>ты Христа являй,</li>
-<li>брось религию - лишь манну</li>
-<li>скрытую вкушай.</li>
-<li class="chorus chorus-top">хочешь жить как победитель,</li>
-<li class="chorus">сделать шаг сейчас?</li>
-<li class="chorus">сам Христос нас призывает,</li>
-<li class="chorus chorus-bottom">слушай этот глас!</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>хочешь жить как победитель,</li>
-<li>ясен, чист и прост?</li>
-<li>божью власть приобретай ты,</li>
-<li>примеси отбрось.</li>
-<li class="chorus chorus-top">хочешь жить как победитель,</li>
-<li class="chorus">сделать шаг сейчас?</li>
-<li class="chorus">сам Христос нас призывает,</li>
-<li class="chorus chorus-bottom">слушай этот глас!</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>хочешь жить как победитель?</li>
-<li>верь Тому, кто жив!</li>
-<li>смерть с одежды смыв, получишь</li>
-<li>ты в награду жизнь.</li>
-<li class="chorus chorus-top">хочешь жить как победитель,</li>
-<li class="chorus">сделать шаг сейчас?</li>
-<li class="chorus">сам Христос нас призывает,</li>
-<li class="chorus chorus-bottom">слушай этот глас!</li>
-</ul>
-</section>
-<section>
-<span class="number">7.</span>
-<ul>
-<li>хочешь жить как победитель?</li>
-<li>тепловат не будь!</li>
-<li>о, стремись увидеть больше,</li>
-<li>жаждущим пребудь.</li>
-<li class="chorus chorus-top">хочешь жить как победитель,</li>
-<li class="chorus">сделать шаг сейчас?</li>
-<li class="chorus">сам Христос нас призывает,</li>
-<li class="chorus chorus-bottom">слушай этот глас!</li>
-</ul>
-</section>
-<section>
-<span class="number">8.</span>
-<ul>
-<li>хочешь жить как победитель?</li>
-<li>слышен глас Христов!</li>
-<li>хочешь быть Ему ты верным,</li>
-<li>дать ответ на зов?</li>
-<li class="chorus chorus-top">хочешь жить как победитель,</li>
-<li class="chorus">сделать шаг сейчас?</li>
-<li class="chorus">сам Христос нас призывает,</li>
-<li class="chorus chorus-bottom">слушай этот глас!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
-    title: (title = "как славен наш Царь и велик!"),
-    num: (num = 360),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>престол Его - небо само,</li>
-<li>он правит вселенною всей,</li>
-<li>все царства - под жезлом Его.</li>
-<li>живёт Он с народом Своим,</li>
-<li>в скорбях их всегда с ними Он.</li>
-<li>мы с Ним для работы Его,</li>
-<li>и бремя Его мы несём.</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>живу я с Иисусом, Царём,</li>
-<li>жилище Его я нашёл;</li>
-<li>открыл своё сердце Ему -</li>
-<li>оно Его храм и престол.</li>
-<li>сижу, как Мария, при Нём,</li>
-<li>склонюсь к Нему, как Иоанн;</li>
-<li>в присутствии светлом Его</li>
-<li>покоя Его глубина.</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>я ради труда Его с Ним,</li>
-<li>мне в плане Своём дал Он часть,</li>
-<li>чтоб царство Его принести,</li>
-<li>спасенье Его возвещать.</li>
-<li>есть труд и награды в миру -</li>
-<li>я счёл за утрату их все.</li>
-<li>мой труд - лишь работа Его,</li>
-<li>а слово моё - о кресте.</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>я ради труда Его с Ним,</li>
-<li>не мой это труд, а Его.</li>
-<li>готовит, планирует Он</li>
-<li>и силу мне свыше даёт.</li>
-<li>усладой сменяется долг,</li>
-<li>хвалою - молитва моя;</li>
-<li>с Царём я в работе Его,</li>
-<li>работаю силой Царя.</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>с Царём мы в работе Его,</li>
-<li>в трудах целый день каждый год.</li>
-<li>быть может, уж скоро совсем</li>
-<li>наш Царь к нам во славе придёт.</li>
-<li>и будет тесней наш союз,</li>
-<li>почётнее труд для Него,</li>
-<li>мы в радости будем одно</li>
-<li>с Царём для работы Его!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "не знаю я, зачем людей Он любит, -"),
-    num: (num = 361),
+    num: (num = 331),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -23200,7 +20880,7 @@ const pages = [
   },
   {
     title: (title = "я - человек,"),
-    num: (num = 362),
+    num: (num = 332),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -23263,69 +20943,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "царством Иисус в нас вошёл, чтоб царить,"),
-    num: (num = 363),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>в славе, в сиянии править внутри,</li>
-<li>царь наш Христос к нам как семя пришёл,</li>
-<li>в дух наш посеял Он царство Своё.</li>
-<li class="chorus chorus-top">о, пусть растёт царство внутри!</li>
-<li class="chorus">лишь Его жизнь пусть знаем мы.</li>
-<li class="chorus">царство - Иисус, и посеян Он в нас.</li>
-<li class="chorus chorus-bottom">славно, что царство растёт в нас сейчас!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>каяться нужно, ведь царство вблизи;</li>
-<li>мысли, дела и все чувства свои</li>
-<li>нужно отвергнуть и разум менять,</li>
-<li>мир и стремленья свои оставлять.</li>
-<li class="chorus chorus-top">о, пусть растёт царство внутри!</li>
-<li class="chorus">лишь Его жизнь пусть знаем мы.</li>
-<li class="chorus">царство - Иисус, и посеян Он в нас.</li>
-<li class="chorus chorus-bottom">славно, что царство растёт в нас сейчас!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>слепо блуждает религия вся,</li>
-<li>мненьям людским как ученьям уча;</li>
-<li>царства напрасно религия ждёт</li>
-<li>как устроенья иного приход.</li>
-<li class="chorus chorus-top">о, пусть растёт царство внутри!</li>
-<li class="chorus">лишь Его жизнь пусть знаем мы.</li>
-<li class="chorus">царство - Иисус, и посеян Он в нас.</li>
-<li class="chorus chorus-bottom">славно, что царство растёт в нас сейчас!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>но царство ныне показано нам:</li>
-<li>царство - Иисус замечательный Сам;</li>
-<li>семенем царства внутри Он взойдёт</li>
-<li>в каждом, кто имя Его призовёт.</li>
-<li class="chorus chorus-top">о, пусть растёт царство внутри!</li>
-<li class="chorus">лишь Его жизнь пусть знаем мы.</li>
-<li class="chorus">царство - Иисус, и посеян Он в нас.</li>
-<li class="chorus chorus-bottom">славно, что царство растёт в нас сейчас!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "скрытую веками тайну я познал -"),
-    num: (num = 364),
+    num: (num = 333),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -23373,7 +20992,7 @@ const pages = [
   },
   {
     title: (title = "христос - надежда славы, Он жизнь сама моя;"),
-    num: (num = 365),
+    num: (num = 334),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -23434,7 +21053,7 @@ const pages = [
   },
   {
     title: (title = "над горами свет забрезжил,"),
-    num: (num = 366),
+    num: (num = 335),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -23508,7 +21127,7 @@ const pages = [
   },
   {
     title: (title = "скоро наш Господь придёт, уж близок день,"),
-    num: (num = 367),
+    num: (num = 336),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -23569,7 +21188,7 @@ const pages = [
   },
   {
     title: (title = "мой Царь грядёт! Вернётся Он,"),
-    num: (num = 368),
+    num: (num = 337),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -23682,7 +21301,7 @@ const pages = [
   },
   {
     title: (title = "мой Господь, Тебя так долго ждать!"),
-    num: (num = 369),
+    num: (num = 338),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -23703,7 +21322,7 @@ const pages = [
   },
   {
     title: (title = "о, как жду я дивной встречи"),
-    num: (num = 370),
+    num: (num = 339),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -23764,7 +21383,7 @@ const pages = [
   },
   {
     title: (title = "когда придёт Господь Иисус,"),
-    num: (num = 371),
+    num: (num = 340),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -23845,7 +21464,7 @@ const pages = [
   },
   {
     title: (title = "славы надежда - вернётся Христос!"),
-    num: (num = 372),
+    num: (num = 341),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -23906,7 +21525,7 @@ const pages = [
   },
   {
     title: (title = "ты приходишь, мой Спаситель,"),
-    num: (num = 373),
+    num: (num = 342),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -23971,7 +21590,7 @@ const pages = [
   },
   {
     title: (title = "о, что за звук, божественный, небесный,"),
-    num: (num = 374),
+    num: (num = 343),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24015,107 +21634,8 @@ const pages = [
 `,
   },
   {
-    title: (title = "веку конец настаёт:"),
-    num: (num = 375),
-    page: `
-<h2 class="hNum">${num}</h2>
-<main class="full-hymn">
-<section>
-<span class="number">1.</span>
-<ul>
-<li>${title}</li>
-<li>скоро Христос вновь придёт.</li>
-<li>встретить готовьтесь Его:</li>
-<li>скоро вернётся Иисус!</li>
-<li class="chorus chorus-top">да, Он придёт, скоро придёт;</li>
-<li class="chorus">время быстро пролетит,</li>
-<li class="chorus">и услышим мы в полночь крик!</li>
-<li class="chorus">да, Он придёт, скоро придёт;</li>
-<li class="chorus">мудрые девы, готовьтесь к тому -</li>
-<li class="chorus chorus-bottom">скоро вернётся Иисус!</li>
-</ul>
-</section>
-<section>
-<span class="number">2.</span>
-<ul>
-<li>душу свою отвергай,</li>
-<li>лишь на Иисуса взирай,</li>
-<li>время сейчас выкупай -</li>
-<li>скоро вернётся Иисус!</li>
-<li class="chorus chorus-top">да, Он придёт, скоро придёт;</li>
-<li class="chorus">время быстро пролетит,</li>
-<li class="chorus">и услышим мы в полночь крик!</li>
-<li class="chorus">да, Он придёт, скоро придёт;</li>
-<li class="chorus">мудрые девы, готовьтесь к тому -</li>
-<li class="chorus chorus-bottom">скоро вернётся Иисус!</li>
-</ul>
-</section>
-<section>
-<span class="number">3.</span>
-<ul>
-<li>глупые праздны сейчас -</li>
-<li>станет им ясно в тот час:</li>
-<li>масла нет - свет их погас.</li>
-<li>скоро вернётся Иисус!</li>
-<li class="chorus chorus-top">да, Он придёт, скоро придёт;</li>
-<li class="chorus">время быстро пролетит,</li>
-<li class="chorus">и услышим мы в полночь крик!</li>
-<li class="chorus">да, Он придёт, скоро придёт;</li>
-<li class="chorus">мудрые девы, готовьтесь к тому -</li>
-<li class="chorus chorus-bottom">скоро вернётся Иисус!</li>
-</ul>
-</section>
-<section>
-<span class="number">4.</span>
-<ul>
-<li>мудрым так дороги дни!</li>
-<li>мир отвергают они,</li>
-<li>светятся, в духе полны.</li>
-<li>скоро вернётся Иисус!</li>
-<li class="chorus chorus-top">да, Он придёт, скоро придёт;</li>
-<li class="chorus">время быстро пролетит,</li>
-<li class="chorus">и услышим мы в полночь крик!</li>
-<li class="chorus">да, Он придёт, скоро придёт;</li>
-<li class="chorus">мудрые девы, готовьтесь к тому -</li>
-<li class="chorus chorus-bottom">скоро вернётся Иисус!</li>
-</ul>
-</section>
-<section>
-<span class="number">5.</span>
-<ul>
-<li>выйдем Иисуса встречать!</li>
-<li>масло спеши покупать,</li>
-<li>чтоб мог светильник сиять.</li>
-<li>скоро вернётся Иисус!</li>
-<li class="chorus chorus-top">да, Он придёт, скоро придёт;</li>
-<li class="chorus">время быстро пролетит,</li>
-<li class="chorus">и услышим мы в полночь крик!</li>
-<li class="chorus">да, Он придёт, скоро придёт;</li>
-<li class="chorus">мудрые девы, готовьтесь к тому -</li>
-<li class="chorus chorus-bottom">скоро вернётся Иисус!</li>
-</ul>
-</section>
-<section>
-<span class="number">6.</span>
-<ul>
-<li>близок Иисуса приход;</li>
-<li>бодрствуй, не зная день тот,</li>
-<li>будь каждый миг с Ним одно.</li>
-<li>скоро вернётся Иисус!</li>
-<li class="chorus chorus-top">да, Он придёт, скоро придёт;</li>
-<li class="chorus">время быстро пролетит,</li>
-<li class="chorus">и услышим мы в полночь крик!</li>
-<li class="chorus">да, Он придёт, скоро придёт;</li>
-<li class="chorus">мудрые девы, готовьтесь к тому -</li>
-<li class="chorus chorus-bottom">скоро вернётся Иисус!</li>
-</ul>
-</section>
-</main>
-`,
-  },
-  {
     title: (title = "грядёт тот день, Иисус вернётся скоро."),
-    num: (num = 376),
+    num: (num = 344),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24176,7 +21696,7 @@ const pages = [
   },
   {
     title: (title = "скоро Господь грядёт,"),
-    num: (num = 377),
+    num: (num = 345),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24229,7 +21749,7 @@ const pages = [
   },
   {
     title: (title = "в день весенний у дороги,"),
-    num: (num = 378),
+    num: (num = 346),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24298,7 +21818,7 @@ const pages = [
   },
   {
     title: (title = "о, когда я бег закончу и победу обрету,"),
-    num: (num = 379),
+    num: (num = 347),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24367,7 +21887,7 @@ const pages = [
   },
   {
     title: (title = "в тот день, Господь мой, будешь"),
-    num: (num = 380),
+    num: (num = 348),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24430,7 +21950,7 @@ const pages = [
   },
   {
     title: (title = "христос Собой нас искупил -"),
-    num: (num = 381),
+    num: (num = 349),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24517,7 +22037,7 @@ const pages = [
   },
   {
     title: (title = "в день, когда небо Его восхваляло,"),
-    num: (num = 382),
+    num: (num = 350),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24591,7 +22111,7 @@ const pages = [
   },
   {
     title: (title = "о, какою тьмой мой дух охвачен был!"),
-    num: (num = 383),
+    num: (num = 351),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24639,7 +22159,7 @@ const pages = [
   },
   {
     title: (title = "божий Сын, Спаситель всех,"),
-    num: (num = 384),
+    num: (num = 352),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24702,7 +22222,7 @@ const pages = [
   },
   {
     title: (title = "что весь грех мой может смыть?"),
-    num: (num = 385),
+    num: (num = 353),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24763,7 +22283,7 @@ const pages = [
   },
   {
     title: (title = "хочешь ли бремя грехов своих снять?"),
-    num: (num = 386),
+    num: (num = 354),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24824,7 +22344,7 @@ const pages = [
   },
   {
     title: (title = "вот очищающий поток,"),
-    num: (num = 387),
+    num: (num = 355),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24872,7 +22392,7 @@ const pages = [
   },
   {
     title: (title = "от блужданий странников что может защитить?"),
-    num: (num = 388),
+    num: (num = 356),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24933,7 +22453,7 @@ const pages = [
   },
   {
     title: (title = "слушай: Иисус призывает домой;"),
-    num: (num = 389),
+    num: (num = 357),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -24986,7 +22506,7 @@ const pages = [
   },
   {
     title: (title = "в двери сердца - слушай, слушай! -"),
-    num: (num = 390),
+    num: (num = 358),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25029,7 +22549,7 @@ const pages = [
   },
   {
     title: (title = "наша жизнь так коротка,"),
-    num: (num = 391),
+    num: (num = 359),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25118,7 +22638,7 @@ const pages = [
   },
   {
     title: (title = "нет оправданий у меня,"),
-    num: (num = 392),
+    num: (num = 360),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25181,7 +22701,7 @@ const pages = [
   },
   {
     title: (title = "из моих уз, печали и тьмы,"),
-    num: (num = 393),
+    num: (num = 361),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25242,7 +22762,7 @@ const pages = [
   },
   {
     title: (title = "я слышу: голос Твой"),
-    num: (num = 394),
+    num: (num = 362),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25316,7 +22836,7 @@ const pages = [
   },
   {
     title: (title = "я был от Бога вдалеке,"),
-    num: (num = 395),
+    num: (num = 363),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25403,7 +22923,7 @@ const pages = [
   },
   {
     title: (title = "иисус, в Твоей любви"),
-    num: (num = 396),
+    num: (num = 364),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25464,7 +22984,7 @@ const pages = [
   },
   {
     title: (title = "для меня рассечена,"),
-    num: (num = 397),
+    num: (num = 365),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25517,7 +23037,7 @@ const pages = [
   },
   {
     title: (title = "у креста, Иисус, дай быть"),
-    num: (num = 398),
+    num: (num = 366),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25578,7 +23098,7 @@ const pages = [
   },
   {
     title: (title = "войди, о Господь, в моё сердце,"),
-    num: (num = 399),
+    num: (num = 367),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25626,7 +23146,7 @@ const pages = [
   },
   {
     title: (title = "нищий, слабый и слепой,"),
-    num: (num = 400),
+    num: (num = 368),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25687,7 +23207,7 @@ const pages = [
   },
   {
     title: (title = "крест, где распят мой Спаситель был,"),
-    num: (num = 401),
+    num: (num = 369),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25748,7 +23268,7 @@ const pages = [
   },
   {
     title: (title = "он с нежностью, с любовью"),
-    num: (num = 402),
+    num: (num = 370),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25832,7 +23352,7 @@ const pages = [
   },
   {
     title: (title = "потеряв покой и мир,"),
-    num: (num = 403),
+    num: (num = 371),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25904,7 +23424,7 @@ const pages = [
   },
   {
     title: (title = "примет грешников Иисус -"),
-    num: (num = 404),
+    num: (num = 372),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -25965,7 +23485,7 @@ const pages = [
   },
   {
     title: (title = "если б завладел я целым миром,"),
-    num: (num = 405),
+    num: (num = 373),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -26026,7 +23546,7 @@ const pages = [
   },
   {
     title: (title = "я хотел найти источник,"),
-    num: (num = 406),
+    num: (num = 374),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -26089,7 +23609,7 @@ const pages = [
   },
   {
     title: (title = "ты лишь вкуси, что благ Господь,"),
-    num: (num = 407),
+    num: (num = 375),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -26134,7 +23654,7 @@ const pages = [
   },
   {
     title: (title = "что за день настал,"),
-    num: (num = 408),
+    num: (num = 376),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -26179,7 +23699,7 @@ const pages = [
   },
   {
     title: (title = "с весельем будете черпать воду"),
-    num: (num = 409),
+    num: (num = 377),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
@@ -26205,7 +23725,7 @@ const pages = [
   },
   {
     title: (title = "даю вам новую заповедь Я:"),
-    num: (num = 410),
+    num: (num = 378),
     page: `
 <h2 class="hNum">${num}</h2>
 <main class="full-hymn">
