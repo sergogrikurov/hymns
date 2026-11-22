@@ -1193,9 +1193,9 @@ const pages = [
 <li>так мир возлюбил Он, что Сына отдал;</li>
 <li>нас кровью Своей Искупитель омыл</li>
 <li>и жизни врата перед нами открыл.</li>
-<li class="chorus chorus-top">славен Бог! славен Бог!</li>
+<li class="chorus chorus-top">славен Бог! Славен Бог!</li>
 <li class="chorus">пусть все слышат Тебя!</li>
-<li class="chorus">славен Бог! славен Бог!</li>
+<li class="chorus">славен Бог! Славен Бог!</li>
 <li class="chorus">пусть ликует земля!</li>
 <li class="chorus">придите чрез Сына, прославьте Отца!</li>
 <li class="chorus chorus-bottom">дела велики, что соделал Он нам!</li>
@@ -1208,9 +1208,9 @@ const pages = [
 <li>вот Божий обет всем, лишь вера нужна.</li>
 <li>отъявленный грешник вмиг будет прощён,</li>
 <li>как только в Иисуса уверует он.</li>
-<li class="chorus chorus-top">славен Бог! славен Бог!</li>
+<li class="chorus chorus-top">славен Бог! Славен Бог!</li>
 <li class="chorus">пусть все слышат Тебя!</li>
-<li class="chorus">славен Бог! славен Бог!</li>
+<li class="chorus">славен Бог! Славен Бог!</li>
 <li class="chorus">пусть ликует земля!</li>
 <li class="chorus">придите чрез Сына, прославьте Отца!</li>
 <li class="chorus chorus-bottom">дела велики, что соделал Он нам!</li>
@@ -1223,9 +1223,9 @@ const pages = [
 <li>великая радость нам в Сыне дана,</li>
 <li>но выше и чище наш будет порыв,</li>
 <li>восторг наш, когда мы Иисуса узрим.</li>
-<li class="chorus chorus-top">славен Бог! славен Бог!</li>
+<li class="chorus chorus-top">славен Бог! Славен Бог!</li>
 <li class="chorus">пусть все слышат Тебя!</li>
-<li class="chorus">славен Бог! славен Бог!</li>
+<li class="chorus">славен Бог! Славен Бог!</li>
 <li class="chorus">пусть ликует земля!</li>
 <li class="chorus">придите чрез Сына, прославьте Отца!</li>
 <li class="chorus chorus-bottom">дела велики, что соделал Он нам!</li>
